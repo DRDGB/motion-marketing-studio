@@ -11,3 +11,5 @@
 | D-008 | 2026-11-10 | Fix the website first: correction spec WEBSITE_CORRECTIONS.md handed to the site's developer agent; content phases wait | user | site claims would be found by any buyer doing due diligence | ACTIVE |
 | D-009 | 2026-11-10 | All peptide products (RUO + peptide APIs) were listed in error (belong to another platform); remove entirely from this site; out of scope for content | owner (relayed by user) | owner statement | ACTIVE |
 | D-010 | 2026-11-10 | Owner will apply the website corrections; studio supplies WEBSITE_CORRECTIONS.md | owner (relayed by user) | - | ACTIVE |
+| D-011 | 2026-11-10 | WEBSITE_CORRECTIONS.md issued (387 rows: 262 P0 / 92 P1 / 33 P2; emergency "START HERE" block). Fabricated BV ISO and CDSCO GMP certificates, ~1,000 hidden third-party articles and crypto checkout confirmed live | studio | verified independently 2026-11-10 | ISSUED |
+| D-012 | 2026-11-10 | No content, ads or outreach may link to the site until P0 + P1 are fixed and re-audited | studio | WEBSITE_CORRECTIONS.md §1 | ACTIVE |
