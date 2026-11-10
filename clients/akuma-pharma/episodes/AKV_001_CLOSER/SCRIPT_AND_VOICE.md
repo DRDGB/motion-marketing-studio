@@ -48,13 +48,15 @@ Each shipment carries the manufacturer's batch certificate of analysis. |
 [soft] One thread… India is closer than you think. |
 [reassuring] Message Akuma Pharma on WhatsApp… the message is ready. |
 ```
-(736 characters, counting tags, spaces and ` |`, excluding line breaks; 747 with line breaks · 12 lines · 6 of 12 tagged · est. ~44 s)
+(755 characters, counting tags, spaces and ` |`, excluding line breaks · 12 lines · 6 of 12 tagged · est. ~45 s)
+Provider / model / voice / settings: ElevenLabs (UI, by user) · model: Eleven v3 (verify current name) · Stability ~50 · Similarity ~75 · Style low · voice: TBD (user picks once; same voice for all; commercial-rights plan, designed or library voice, logged; B4)
+YouTube-only extra take (not part of the paste block above; generate it in the same session with the same voice and settings, then QC that the tone matches): `[reassuring] Talk to Akuma Pharma… visit our website. |` (55 characters). It replaces L12 in the YouTube cut, which then reads 740 characters.
 Persona: warm, confident, unhurried business partner; never shouty; slightly slower on L06 and L09. Pronunciation: "Akuma" = ah-KOO-mah. If the take stresses it wrongly ("AK-uma"), replace "Akuma" with "Ah-koo-mah" in L12 only and regenerate the whole take.
 
 ## Claims and sources
 | ID | Claim (as spoken) | Source (publisher, date, URL) | Label | Notes |
 |---|---|---|---|---|
-| C-001 | "Many medicines you stock are made in India." | Pharmexcil, 2025-06-14, https://pharmexcil.com/uploadfile/Hand_Book_14_06_2025_final.pdf | FACT (spoken line = INFERENCE) | Ledger: India's pharma exports to Africa FY2024-25 = USD 3,933.65m. The line infers "many"; no number is spoken. Do not turn it into "most". |
+| C-001 | "Chances are, some of the medicines you need are made in India." (+ on-screen legend "USD 3.93 bn, FY2024-25") | Pharmexcil, 2025-06-14, https://pharmexcil.com/uploadfile/Hand_Book_14_06_2025_final.pdf | FACT (context); spoken line = INFERENCE, hedged | Ledger: India's pharma exports to Africa FY2024-25 = USD 3,933.65m. The legend states the sourced fact; the voice hedges the inference ("chances are… some"). |
 | C-054 | "Between you: time zones…" | IANA tz database, n.d., https://www.iana.org/time-zones | FACT (spoken line = INFERENCE) | India is UTC+5:30; WAT/GMT/EAT/SAST are UTC+0 to +3. |
 | D-051 | "From far away, every promise sounds the same." | Analyst synthesis of D-027…D-034 (ledger), 2026-11-10 | INFERENCE | Trust-gap framing only; no named company, no health fear. |
 | SP-1 | "We find WHO-GMP certified partner manufacturers in India." | 03_STRATEGY §3.4 ← WEBSITE_CORRECTIONS §0.2/§0.4; DECISIONS D-007 | SERVICE PROMISE (client-confirmed) | Not a ledger row; the approved service promise. |
@@ -131,6 +133,8 @@ Illustrative animation · AI-generated narration · Reviewed: DD Mon YYYY · Sou
   - No FR versions for francophone markets until these are answered.
 
 **Notes:** "Akuma Pharma" as the social name follows D-015. An unrelated AKUMA PHARMA PRIVATE LIMITED exists (A-006), so M2 and M3 name the legal entity, and a trademark check is recommended. Changes 1 and 3 alter the character count and timing: the writer should recount.
+
+Changes applied 2026-11-10 by scriptwriter: L02 (new line + sourced legend ≥ 6 s), L12-YT (new YouTube-only take, outside the paste block), L06/L07/L09/L10/L11 labels ("Illustrative example" / "Illustrative example: partner manufacturer's site"), L04/L07 visual guardrails, plus sign black-on-white only (Visual idea), M1 trade line L09→end card, M2 end card, M3 caption, M5 AI-narration line, YouTube description (website only), voice recount 755.
 
 ## Package (when published)
 - **Title:** `Closer Than You Think | Akuma Pharma`
