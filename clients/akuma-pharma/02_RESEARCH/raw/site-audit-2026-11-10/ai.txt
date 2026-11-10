@@ -1,0 +1,17 @@
+# Akuma Enterprise Pharma — AI + LLM Crawler Guidelines
+# Full spec: /llms.txt (llmstxt.org format)
+# Machine-readable catalogue: /products.json
+
+User-Agent: *
+Allow: /
+
+# Priority URLs for AI answer engines
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-index.xml
+Feed: https://www.akumaenterprises-pharma.com/products.rss
+Feed: https://www.akumaenterprises-pharma.com/news.rss
+Feed: https://www.akumaenterprises-pharma.com/dmf-updates.rss
+JSON: https://www.akumaenterprises-pharma.com/products.json
+LLM-Index: https://www.akumaenterprises-pharma.com/llms.txt
+
+# Contact for training-data licensing enquiries: sales@akumaenterprises-pharma.com

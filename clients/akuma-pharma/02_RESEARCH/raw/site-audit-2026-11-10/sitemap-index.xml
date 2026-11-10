@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.akumaenterprises-pharma.com/sitemap-products.xml</loc>
+    <lastmod>2026-11-10</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.akumaenterprises-pharma.com/sitemap-static.xml</loc>
+    <lastmod>2026-11-10</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.akumaenterprises-pharma.com/sitemap-news.xml</loc>
+    <lastmod>2026-11-10</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.akumaenterprises-pharma.com/sitemap-images.xml</loc>
+    <lastmod>2026-11-10</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.akumaenterprises-pharma.com/sitemap-index-i18n.xml</loc>
+    <lastmod>2026-11-10</lastmod>
+  </sitemap>
+</sitemapindex>
