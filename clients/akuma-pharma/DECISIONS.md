@@ -18,3 +18,4 @@
 | D-015 | 2026-11-10 | Brand rules: social name "Akuma Pharma"; two worlds = white (black ink, crimson accent) and red (white type, black accent/illustrations); illustrations always black; site logo mark on white, colour-inverted mark on red; logo + name on every end card | user | brand direction | ACTIVE |
 | D-016 | 2026-11-10 | Video content IDs use AKV-0xx (not AKP-, which are site product codes) | studio | avoid confusion in WhatsApp attribution | ACTIVE |
 | D-017 | 2026-11-10 | Voice mode C: user generates voices in ElevenLabs UI from studio voice cards, uploads; studio tracks by voice code + text hash + audio sha256 (VOICE_MANIFEST.csv) | user | no ElevenLabs API plan yet | ACTIVE |
+| D-018 | 2026-11-10 | Strategy APPROVED ("Closer Than You Think", The Thread, pillars, 3/week). Emphasis: every video ends with a conversion step (website / WhatsApp with per-video code) | user | read 03_STRATEGY.md | DONE |

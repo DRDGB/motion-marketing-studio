@@ -1,0 +1,39 @@
+{
+ "id": "AKV_005_ZONE_IVB",
+ "fps": 30,
+ "total": 12,
+ "voSource": "episodes/AKV_005_ZONE_IVB/source/VO_AKV_005_ZONE_IVB_FULL.mp3",
+ "clips": [
+  {
+   "id": "L01",
+   "src": [
+    0.0,
+    2.0
+   ],
+   "at": 0.3,
+   "text": "Replace with the first spoken line."
+  }
+ ],
+ "music": {
+  "bpm": 96,
+  "transpose": 0,
+  "mech": [
+   3,
+   6
+  ],
+  "drop": [
+   6,
+   6.5
+  ],
+  "resolve": [
+   6.5,
+   8
+  ],
+  "loop": [
+   8,
+   9
+  ],
+  "end": 9
+ },
+ "sfx": []
+}

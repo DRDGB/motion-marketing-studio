@@ -1,5 +1,5 @@
 # AKUMA · "Closer Than You Think": campaign vision, communication playbook and 60-day plan
-_Client: AKUMA PHARMA (slug `akuma-pharma`) · Phase 3 · prepared by the studio 2026-11-10 · **Status: PROPOSED** (approval logged in `DECISIONS.md`)_
+_Client: AKUMA PHARMA (slug `akuma-pharma`) · Phase 3 · prepared by the studio 2026-11-10 · **Status: APPROVED 2026-11-10 (D-018)**: every video ends with a conversion step_
 
 > References: `C-036`, `D-036`, `E-063`, `A-026` are rows in `RESEARCH_LEDGER.csv`. `DECISIONS D-012` is a row in
 > `DECISIONS.md`. `WC §0.4` is `WEBSITE_CORRECTIONS.md`. `SP-n` = the service promise (§2.4), confirmed by the studio owner

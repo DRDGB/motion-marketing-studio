@@ -54,7 +54,7 @@ def write_csv(p, cols, rows):
 
 
 def episode_dir(w, cid):
-    hits = sorted(p for p in (w / "episodes").glob(f"{cid}*") if p.is_dir())
+    hits = sorted({p for pat in (cid, cid.replace("-", "_")) for p in (w / "episodes").glob(f"{pat}*") if p.is_dir()})
     if not hits:
         sys.exit(f"no episode folder episodes/{cid}* in {w}")
     return hits[0]
