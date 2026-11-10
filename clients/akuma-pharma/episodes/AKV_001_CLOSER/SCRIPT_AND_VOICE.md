@@ -1,8 +1,8 @@
 # AKV-001: "Closer Than You Think"
 
-- **Status:** COMPLIANCE_OK (changes applied; human client sign-off pending) · **Pillar:** P3 Closer · **Series:** Standalone launch film (pilots S3 "The Thread") · **Format:** 9:16 master + 1:1 re-layout, ~44 s · **Publish:** Mon 2026-11-23, 08:30 WAT (07:30 GMT · 13:00 IST), PROPOSED; moves to the corrected-website go-live date (DECISIONS D-012)
+- **Status:** COMPLIANCE_OK (review changes + conversion pass applied; human client sign-off pending) · **Pillar:** P3 Closer · **Series:** Standalone launch film (pilots S3 "The Thread") · **Format:** 9:16 master + 1:1 re-layout, ~44 s · **Publish:** Mon 2026-11-23, 08:30 WAT (07:30 GMT · 13:00 IST), PROPOSED; moves to the corrected-website go-live date (DECISIONS D-012)
 - **Hook pattern:** H09 direct address, carried by the H12 thread visual · **Story:** ST01 PAS · **Emotion:** E1 distance shrinking + E9 disarming honesty
-- **The Switch:** L08 "We don't make medicines. We make sourcing them from India simple." (SP-6; starts at ~55% of the read) · **CTA:** L6 "Message Akuma Pharma on WhatsApp… the message is ready." (LinkedIn, Meta, WhatsApp); YouTube cut uses L12-YT "Talk to Akuma Pharma… visit our website." · **Next (teaser):** end card "Next: What is a CoPP?" (AKV-004)
+- **The Switch:** L08 "We don't make medicines. We make sourcing them from India simple." (SP-6; starts at ~55% of the read) · **CTA:** L6 "Send us your product list on WhatsApp… our team in India is ready." (LinkedIn, Meta, WhatsApp); YouTube cut uses L12-YT "Talk to Akuma Pharma… visit our website." · **Next (teaser):** end card "Next: What is Akuma Pharma?" (AKV-002)
 - **Visual idea (distinct from previous videos):** **The folding map, pharmacy to plant.** One sheet of drawn paper holds a clean WHO-GMP partner manufacturing plant in India on the right (flat roof, clean-room windows, no smokestacks; legend "Illustrative example: partner manufacturer's site") and the buyer's pharmacy on the left (storefront with a black plus sign, shelves of unlabelled medicine cartons). As the film runs, the map folds on the beat until plant and pharmacy touch. The crimson Thread stays one unbroken line across every fold: from the plant, through a QC-lab flask and a CoA, onto a cargo plane loaded with medicine cartons, over a drawn sea, to the pharmacy door, where it ties the end-card knot. WHITE world throughout, with a single flip to the RED world on the Switch. No red cross anywhere. The pharmacy plus sign is black on white only: never red on white, and never a solid white cross on a red field, so the pharmacy appears only in WHITE-world shots.
 
 ## Hook options
@@ -26,7 +26,7 @@
 | L09 | Each shipment carries the manufacturer's batch certificate of analysis. | A medicine carton with a generic CoA sheet clipped to it (legend "Illustrative example") | Back to WHITE; the CoA slides out and the Thread stitches it to the carton in three stitches. **M1 trade line starts here** (legend zone y 1380–1500, held through the end card, ≥ 8 s, no competing motion or music swell over it) | SP-4 |
 | L10 | Our team assists you from sourcing in India all the way to your door. | A cargo plane loaded with medicine cartons, riding the Thread over a drawn sea (legend "Illustrative example") | The line draws continuously left→right; the plane hands over to a ship stacked with medicine cartons; a distributor's warehouse appears at the left edge; M1 holds | SP-3 |
 | L11 | One thread… India is closer than you think. | The pharmacy door (black plus sign on white above it; legend "Illustrative example") | The door opens to light on a shelf being restocked with the cartons; the Thread ties a knot on the handle; headline "Closer than you *think*."; M1 holds | SP-3 (payoff) |
-| L12 | Message Akuma Pharma on WhatsApp… the message is ready. | End card: logo mark + "Akuma Pharma" + button "Message us on WhatsApp" | The knot settles under the logo; the button presses in on "WhatsApp"; akumaenterprises-pharma.com fades in under it; teaser "Next: What is a *CoPP*?"; M1 holds; M2 line under the logo | SP-7 (CTA, L6; LinkedIn, Meta, WhatsApp only) |
+| L12 | Send us your product list on WhatsApp… our team in India is ready. | End card: logo mark + "Akuma Pharma" + button "Send your product list" | The knot settles under the logo; the button presses in on "WhatsApp"; akumaenterprises-pharma.com fades in under it; teaser "Next: What is *Akuma Pharma*?"; M1 holds; M2 line under the logo | SP-7 (CTA, L6; LinkedIn, Meta, WhatsApp only) |
 | L12-YT | Talk to Akuma Pharma… visit our website. | End card, YouTube variant: logo mark + "Akuma Pharma" + button "Visit our website" | As L12, but the button presses in on "website"; no WhatsApp word, number or icon anywhere in the YouTube cut | SP-3 (CTA, YouTube only) |
 
 **M1 on-screen trade line (from the start of L09 to the end of the end card, ≥ 8 s):** "For licensed pharmaceutical trade and healthcare professionals. Products are supplied only where registered or authorised by the national regulator."
@@ -46,7 +46,7 @@ We check their licences and documents. |
 Each shipment carries the manufacturer's batch certificate of analysis. |
 [warm] Our team assists you from sourcing in India all the way to your door. |
 [soft] One thread… India is closer than you think. |
-[reassuring] Message Akuma Pharma on WhatsApp… the message is ready. |
+[reassuring] Send us your product list on WhatsApp… our team in India is ready. |
 ```
 (755 characters, counting tags, spaces and ` |`, excluding line breaks · 12 lines · 6 of 12 tagged · est. ~45 s)
 Provider / model / voice / settings: ElevenLabs (UI, by user) · model: Eleven v3 (verify current name) · Stability ~50 · Similarity ~75 · Style low · voice: TBD (user picks once; same voice for all; commercial-rights plan, designed or library voice, logged; B4)
@@ -159,7 +159,9 @@ Illustrative animation · AI-generated narration · Reviewed: DD Mon YYYY · Sou
 Sources
 · India's pharmaceutical exports to Africa, FY2024-25: Pharmexcil, 14 Jun 2025, https://pharmexcil.com/uploadfile/Hand_Book_14_06_2025_final.pdf
 · Time zones: IANA tz database, https://www.iana.org/time-zones
-Service statements describe Akuma Pharma's own service. Next video: What is a CoPP, and why does your regulator ask for it?
+Service statements describe Akuma Pharma's own service. Next video: What is Akuma Pharma?
 ```
 - **Attribution:** UTM `https://akumaenterprises-pharma.com/?utm_source=<platform>&utm_medium=social&utm_campaign=closer&utm_content=akv-001` (platform = linkedin | youtube | instagram | facebook | whatsapp) · WhatsApp prefill `Hi Akuma Pharma, I saw video AKV-001` → `https://wa.me/917986147827?text=Hi%20Akuma%20Pharma%2C%20I%20saw%20video%20AKV-001` (LinkedIn first comment, Meta, WhatsApp only; YouTube carries the website line only, and its pinned comment never contains WhatsApp)
 - **Playlist / series:** "Closer Than You Think" (campaign) · S3 "The Thread" pilot · **Cover frame:** L11 (t ≈ 39 s): the open pharmacy door (black plus sign) with the knotted Thread and "Closer than you *think*."
+
+Conversion pass 2026-11-10 (studio, D-021): final CTA line rewritten as a concrete action (product list / product name / CHECKLIST on WhatsApp; website on YouTube). Studio re-check: PASS (no new factual claim; CTA promises a reply/check, not an outcome).

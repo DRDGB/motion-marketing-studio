@@ -136,7 +136,7 @@ def cmd_card(a):
                          "chars": len(block), "expected_file": fname, "requested_at": NOW(), "status": "REQUESTED"})
         title = re.search(r'^#\s*[^:]+:\s*"?(.*?)"?\s*$', (ep / "SCRIPT_AND_VOICE.md").read_text(encoding="utf-8"), re.M)
         lines += [f"## {code} · {title.group(1) if title else ep.name}",
-                  f"**Save as:** `{fname}` · {len(block)} characters · voice + settings: see the voice brief below",
+                  f"**Save as:** `{fname}` · {len(block)} characters · voice + settings: see the top of this file",
                   "```", block, "```", ""]
     write_csv(w / "VOICE_REQUESTS.csv", REQ_COLS, reqs)
     out = w / "voice_cards" / f"VOICE_CARDS_{datetime.now(timezone.utc).strftime('%Y-%m-%d_%H%M')}.md"
