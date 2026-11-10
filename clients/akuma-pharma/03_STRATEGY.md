@@ -2,7 +2,7 @@
 _Client: AKUMA PHARMA (slug `akuma-pharma`) · Phase 3 · prepared by the studio 2026-11-10 · **Status: APPROVED 2026-11-10 (D-018)**: every video ends with a conversion step_
 
 > References: `C-036`, `D-036`, `E-063`, `A-026` are rows in `RESEARCH_LEDGER.csv`. `DECISIONS D-012` is a row in
-> `DECISIONS.md`. `WC §0.4` is `WEBSITE_CORRECTIONS.md`. `SP-n` = the service promise (§2.4), confirmed by the studio owner
+> `DECISIONS.md`. `WC 0.4` is `WEBSITE_CORRECTIONS.md`. `SP-n` = the service promise (2.4), confirmed by the studio owner
 > on the client's behalf on 2026-11-10. Every factual line carries one of these references.
 
 ---
@@ -12,7 +12,7 @@ _Client: AKUMA PHARMA (slug `akuma-pharma`) · Phase 3 · prepared by the studio
 ### India is far. Your team there isn't.
 Every pharmaceutical importer in Africa knows the gap: the medicines are made in India, the business is run in Lagos, Accra,
 Nairobi or Dakar, and between them sit an ocean, several time zones and a stack of documents. Buyers have learned to be wary of
-promises from far away (D-051, C_AUDIENCE §2).
+promises from far away (D-051, C_AUDIENCE 2).
 
 **The campaign closes that gap on screen, one video at a time.** Akuma is the team in India that sources from WHO-GMP
 certified partner manufacturers, checks the paperwork and stays with the order all the way to the buyer's door (SP-1…SP-6).
@@ -62,20 +62,20 @@ One crimson thread (the brand's single accent, B_BRAND) runs through every film:
 | **Launch** | Mon **2026-11-23** (PROPOSED). The date moves to the day the corrected website goes live (DECISIONS D-012) |
 | **KPIs (hypotheses)** | Day 30: 2–4 qualified enquiries, 150+ social sessions on the site, 100+ LinkedIn followers. Day 60: 6–10 enquiries, 400+ sessions, 250+ followers |
 
-**First 10 titles**
+**First 10 titles** _(re-sequenced 2026-11-10, D-021: AKV-001…003 present the company; education from AKV-004; `CONTENT_CALENDAR.csv` is the source of truth for IDs and dates)_
 
 | # | ID | Date | Pillar · Series | Title | Hook | CTA |
 |---|---|---|---|---|---|---|
 | 1 | AKV-001 | Mon 23 Nov | P3 · launch film | Closer Than You Think | H09 + H12 | Message us on WhatsApp |
-| 2 | AKV-002 | Tue 24 Nov | P1 · S1 Ep1 | What is a CoPP, and why does your regulator ask for it? | H01 | Follow + website |
-| 3 | AKV-003 | Thu 26 Nov | P1 · S1 Ep2 | WHO-GMP is not WHO prequalification | H02 | Share with your RA |
-| 4 | AKV-004 | Mon 30 Nov | P4 · topical | Meeting Indian suppliers this season? 5 documents to ask for | H15 | Get the checklist |
-| 5 | AKV-005 | Tue 1 Dec | P1 · S1 Ep3 | Why 25 °C data is not enough for hot, humid markets | H10 | Follow + website |
-| 6 | AKV-006 | Thu 3 Dec | P1 · S1 Ep4 | 4 things to read on a WHO-GMP certificate | H06 | Talk to our team |
-| 7 | AKV-007 | Mon 7 Dec | P2 · S2 pilot | Find. Check. Document. Deliver. How we work in 40 seconds | H13 | Request a quote |
-| 8 | AKV-008 | Tue 8 Dec | P1 · S1 Ep5 | Who files the registration: you or the manufacturer? | H01 | Follow + website |
-| 9 | AKV-009 | Thu 10 Dec | P1 · S1 Ep6 | True or false: does the African Medicines Agency register medicines now? | H14 | Comment |
-| 10 | AKV-010 | Mon 14 Dec | P3 · S3 pilot | Illustrative example: forty emails or one folder | H08 | Message us on WhatsApp |
+| 2 | AKV-004 | Tue 24 Nov | P1 · S1 Ep1 | What is a CoPP, and why does your regulator ask for it? | H01 | Follow + website |
+| 3 | AKV-006 | Thu 26 Nov | P1 · S1 Ep2 | WHO-GMP is not WHO prequalification | H02 | Share with your RA |
+| 4 | AKV-005 | Mon 30 Nov | P4 · topical | Meeting Indian suppliers this season? 5 documents to ask for | H15 | Get the checklist |
+| 5 | AKV-007 | Tue 1 Dec | P1 · S1 Ep3 | Why 25 °C data is not enough for hot, humid markets | H10 | Follow + website |
+| 6 | AKV-008 | Thu 3 Dec | P1 · S1 Ep4 | 4 things to read on a WHO-GMP certificate | H06 | Talk to our team |
+| 7 | AKV-003 | Mon 7 Dec | P2 · S2 pilot | Find. Check. Document. Deliver. How we work in 40 seconds | H13 | Request a quote |
+| 8 | AKV-009 | Tue 8 Dec | P1 · S1 Ep5 | Who files the registration: you or the manufacturer? | H01 | Follow + website |
+| 9 | AKV-010 | Thu 10 Dec | P1 · S1 Ep6 | True or false: does the African Medicines Agency register medicines now? | H14 | Comment |
+| 10 | AKV-011 | Mon 14 Dec | P3 · S3 pilot | Illustrative example: forty emails or one folder | H08 | Message us on WhatsApp |
 
 ---
 
@@ -83,7 +83,7 @@ One crimson thread (the brand's single accent, B_BRAND) runs through every film:
 
 ### 3.1 Positioning
 For **licensed pharmaceutical importers, distributors, wholesalers, pharmacy chains and hospital procurement teams in
-Africa** (C_AUDIENCE §1) **who need dependable supply from India with documents their regulator accepts** (C-024, C-035,
+Africa** (C_AUDIENCE 1) **who need dependable supply from India with documents their regulator accepts** (C-024, C-035,
 C-036, C-057), **Akuma is their team in India**. Akuma sources finished medicines from WHO-GMP certified partner manufacturers,
 checks their licences and documents, and assists from sourcing all the way to delivery at the buyer's door (SP-1…SP-6).
 **Proof the buyer can check:**
@@ -104,7 +104,7 @@ l'Inde de vous : nous vous accompagnons du sourcing en Inde jusqu'à la livraiso
 
 **The anti-repetition rule:** the full core message appears **at most once every 6 videos** (launch, series finales). Every other
 video expresses **one facet** of it (distance, documents, checks, delivery, honesty, time), each through a different emotion,
-hook and story shape (§6). The message adds up across the feed without being repeated.
+hook and story shape (6). The message adds up across the feed without being repeated.
 
 ### 3.3 Message house
 - **Roof:** Your team in India: from sourcing to your door.
@@ -118,12 +118,12 @@ hook and story shape (§6). The message adds up across the feed without being re
 ### 3.4 What every script can rely on (the service promise)
 | ID | Statement | Source |
 |---|---|---|
-| SP-1 | Akuma sources finished medicines from WHO-GMP certified partner manufacturers in India; office in Kharar, Punjab | WC §0.2, §0.4; A-003, A-004; DECISIONS D-007 |
-| SP-2 | Akuma checks the manufacturers' licences and documents | WC §0.4, S-05 |
+| SP-1 | Akuma sources finished medicines from WHO-GMP certified partner manufacturers in India; office in Kharar, Punjab | WC 0.2, 0.4; A-003, A-004; DECISIONS D-007 |
+| SP-2 | Akuma checks the manufacturers' licences and documents | WC 0.4, S-05 |
 | SP-3 | End-to-end assistance: from sourcing in India to delivery at the buyer's door; "our team handles it" | Studio owner, on the client's behalf, 2026-11-10 |
-| SP-4 | The manufacturer's batch CoA comes with every shipment; CoPP, stability data and dossiers come from the manufacturer where they exist | WC §0.4 |
-| SP-5 | Supplies licensed importers, distributors and institutional buyers in Africa; only where the product is registered or authorised | WC §0.5 |
-| SP-6 | Akuma does not manufacture; certificates are held by and issued to the partner manufacturers | WC §0.2, DECISIONS D-007 |
+| SP-4 | The manufacturer's batch CoA comes with every shipment; CoPP, stability data and dossiers come from the manufacturer where they exist | WC 0.4 |
+| SP-5 | Supplies licensed importers, distributors and institutional buyers in Africa; only where the product is registered or authorised | WC 0.5 |
+| SP-6 | Akuma does not manufacture; certificates are held by and issued to the partner manufacturers | WC 0.2, DECISIONS D-007 |
 | SP-7 | Contact: WhatsApp +91 79861 47827, website quote form (EN/FR) | A-030 |
 
 **Words we use:** your team in India · partner manufacturers · WHO-GMP certified partner manufacturers in India · the
@@ -139,7 +139,7 @@ manufacturer's CoA · to your door · licensed buyers · talk to our team · req
 - order now, prices, in stock;
 - product names.
 
-These are built-in guardrails (§10), not questions for the client.
+These are built-in guardrails (10), not questions for the client.
 
 ---
 
@@ -161,8 +161,8 @@ destination, and whose enquiry arrives with a video code or UTM.
 These are hypotheses tested in the growth loop (`analytics/EXPERIMENTS.csv`), never promises. They are reset at day 30.
 
 **Attribution: every video is traceable**
-1. **WhatsApp prefill per video:** `https://wa.me/917986147827?text=` + "Hi Akuma, I saw your video AKV-005. I'd like to talk
-   to your team about sourcing." FR « Bonjour Akuma, j'ai vu votre vidéo AKV-005. J'aimerais parler à votre équipe. » The word
+1. **WhatsApp prefill per video:** `https://wa.me/917986147827?text=` + "Hi Akuma, I saw your video AKV-007. I'd like to talk
+   to your team about sourcing." FR « Bonjour Akuma, j'ai vu votre vidéo AKV-007. J'aimerais parler à votre équipe. » The word
    "video" keeps these codes apart from the site's product codes. The client's team tags each chat with the code.
 2. **UTM convention:**
    - `utm_source` = linkedin | youtube | instagram | facebook | whatsapp
@@ -211,7 +211,7 @@ These are hypotheses tested in the growth loop (`analytics/EXPERIMENTS.csv`), ne
 
 ### 6.2 Hook patterns (0–3 s; rotate; never the same pattern in 3 consecutive videos)
 Each hook is scored on specificity, truth, visual-verbal match, payoff, originality and muted/9:16 fit; anything under 4 of 5
-is rewritten (04_creative_system §3).
+is rewritten (04_creative_system 3).
 
 | ID | Pattern | EN | FR | Ref |
 |---|---|---|---|---|
@@ -300,7 +300,7 @@ is rewritten (04_creative_system §3).
 - **Never:** unsolicited bulk messages, bought lists, or adding people to groups. No catalogue, cart or prices for medicines,
   because WhatsApp Business commerce is prohibited for drugs (E-063). Status and Channel carry service and education only.
 - **Forwardable files:** light (720p, target under 10 MB) and legible from the first frame, because buyers forward in groups on
-  metered data (C_AUDIENCE §3).
+  metered data (C_AUDIENCE 3).
 
 ### 6.8 Repurposing (one script, eight assets)
 - 9:16 master (Shorts, Reels, WhatsApp Status)
@@ -327,11 +327,11 @@ is rewritten (04_creative_system §3).
 
 ### 6.10 Moments
 - **Pharmexcil buyer-seller meets: Nairobi 30 Nov–1 Dec, Accra 3–4 Dec, Luanda 7–8 Dec 2026** (C-049).
-  - AKV-004 "5 documents to ask any Indian supplier this season" and S1 episodes are timed to those days.
+  - AKV-005 "5 documents to ask any Indian supplier this season" and S1 episodes are timed to those days.
   - We speak to the moment ("many importers meet Indian exporters this season"). We do not place Akuma at the event.
 - **CPHI Middle East, Riyadh, 14–16 Dec** (C-050): parked for an Arabic phase.
 - **2027 regional fairs** (C-052): "before the fair" episodes.
-- **No health awareness days.** A pharma brand's disease message counts as indirect promotion (E_PLATFORMS §2).
+- **No health awareness days.** A pharma brand's disease message counts as indirect promotion (E_PLATFORMS 2).
 - **No posts on 24–25 Dec or 31 Dec–1 Jan.** No Friday-midday posts (E-076).
 
 ### 6.11 Consistency vs novelty
@@ -375,14 +375,14 @@ The 60-day calendar delivers 25 original videos: P1 9 · P2 7 · P3 4 · P4 2 ·
 
 | Ep | ID | Question | Switch (insight) | Refs |
 |---|---|---|---|---|
-| 1 | AKV-002 | What is a CoPP, and why does your regulator ask for it? | It is issued per product, to the manufacturer; Nigeria wants it legalised by its mission | C-013, C-024, SP-4 |
-| 2 | AKV-003 | Is WHO-GMP the same as WHO prequalification? | WHO-GMP is a national certificate under the WHO scheme; PQ is a separate WHO process | C-013, C-014, C-015, C-017 |
-| 3 | AKV-005 | Why is 25 °C stability data not enough for hot, humid markets? | Zone IVb means long-term data at 30 °C / 75% RH | C-036, D-036 |
-| 4 | AKV-006 | How do you read a WHO-GMP certificate? | Check the site and the products covered, not only the number | C-013, C-014, SP-2 |
-| 5 | AKV-008 | Who files the registration: you or the manufacturer? | The local applicant files; the manufacturer supplies the documents | C-024, C-026 |
-| 6 | AKV-009 | Does the AMA replace national registration? | AMA is operating; entry still runs through national regulators (re-verify) | C-019, C-020, D-011 |
-| 7 | AKV-011 | What does NAFDAC pre-shipment inspection mean for goods from India? | Build it into the timeline before shipping | C-030 (re-verify) |
-| 8 | AKV-012 | What should you check on a batch CoA? | The pharmacopoeia line matters (Kenya, C-032) | SP-4, C-032 |
+| 1 | AKV-004 | What is a CoPP, and why does your regulator ask for it? | It is issued per product, to the manufacturer; Nigeria wants it legalised by its mission | C-013, C-024, SP-4 |
+| 2 | AKV-006 | Is WHO-GMP the same as WHO prequalification? | WHO-GMP is a national certificate under the WHO scheme; PQ is a separate WHO process | C-013, C-014, C-015, C-017 |
+| 3 | AKV-007 | Why is 25 °C stability data not enough for hot, humid markets? | Zone IVb means long-term data at 30 °C / 75% RH | C-036, D-036 |
+| 4 | AKV-008 | How do you read a WHO-GMP certificate? | Check the site and the products covered, not only the number | C-013, C-014, SP-2 |
+| 5 | AKV-009 | Who files the registration: you or the manufacturer? | The local applicant files; the manufacturer supplies the documents | C-024, C-026 |
+| 6 | AKV-010 | Does the AMA replace national registration? | AMA is operating; entry still runs through national regulators (re-verify) | C-019, C-020, D-011 |
+| 7 | AKV-012 | What does NAFDAC pre-shipment inspection mean for goods from India? | Build it into the timeline before shipping | C-030 (re-verify) |
+| 8 | AKV-013 | What should you check on a batch CoA? | The pharmacopoeia line matters (Kenya, C-032) | SP-4, C-032 |
 | Recap | AKV-014 | 8 questions in 60 seconds | Tease S2 | all of the above |
 
 ### 8.2 Series #2 (teaser): "From India to Your Door" / « De l'Inde jusqu'à votre porte »
@@ -394,7 +394,7 @@ The 60-day calendar delivers 25 original videos: P1 9 · P2 7 · P3 4 · P4 2 ·
   5. A day in the life of a shipment
   6. Finale: "from request to door in 60 s"
 - **Device:** **the relay**, with four lanes (Partner manufacturer · Akuma team · Freight · Your door). Each episode passes the baton.
-- **Pilot:** AKV-007.
+- **Pilot:** AKV-003.
 
 ### 8.3 Series #3 (teaser): "The Thread" / « Le fil »
 - **Concept:** six 30–40 s illustrative stories. Drawn characters are identified by role (a distributor, a pharmacy-chain
@@ -403,7 +403,7 @@ The 60-day calendar delivers 25 original videos: P1 9 · P2 7 · P3 4 · P4 2 ·
   the first delivery at the door.
 - **Opener:** the thread pulled taut. **Closer:** the knot and "Closer than you think."
 - **Labelling:** always "Illustrative example".
-- **Pilots:** AKV-001, AKV-010, AKV-023.
+- **Pilots:** AKV-001, AKV-011, AKV-025.
 
 ### 8.4 Experiments (proposed for `analytics/EXPERIMENTS.csv`)
 - **X1:** Monday vs Tue/Thu slots (E-076).
@@ -417,7 +417,7 @@ The 60-day calendar delivers 25 original videos: P1 9 · P2 7 · P3 4 · P4 2 ·
 
 | Platform | Role | Format | Length | Notes |
 |---|---|---|---|---|
-| **LinkedIn** | Primary: trust and enquiries | 1:1 or 4:5 (9:16 accepted) | 30–60 s | Native upload, captions + SRT, carousel later (E_PLATFORMS §9) |
+| **LinkedIn** | Primary: trust and enquiries | 1:1 or 4:5 (9:16 accepted) | 30–60 s | Native upload, captions + SRT, carousel later (E_PLATFORMS 9) |
 | **YouTube Shorts** | Search reach | 9:16 1080×1920 | 35–50 s | Website links only (E-058) |
 | **YouTube 16:9** | Reference | 1920×1080 | 4–6 min per series | Chapters, EN/FR subtitles |
 | **Instagram / Facebook Reels** | Reach (NG, KE, C-042, C-043) | 9:16 | 30–45 s | FB Reels 3–90 s |
@@ -445,10 +445,10 @@ The 60-day calendar delivers 25 original videos: P1 9 · P2 7 · P3 4 · P4 2 ·
 **End card:**
 - logo · campaign line · CTA · "Reviewed: <date>";
 - a short regulatory line: "Akuma sources from licensed WHO-GMP certified partner manufacturers in India and supplies licensed
-  buyers only, where authorised." (WC §0.5; the full text goes in the caption).
+  buyers only, where authorised." (WC 0.5; the full text goes in the caption).
 
 **Production:**
-- Batch 1 = AKV-001…AKV-007, scripted together. The queue starts at `SCRIPT_DRAFT` with next action "script".
+- Batch 1 = AKV-001…AKV-003, scripted together. The queue starts at `SCRIPT_DRAFT` with next action "script".
 - Each video then passes the compliance check and the client's sign-off, then voice → build → QC → package.
 - The client publishes; the studio never publishes.
 - The first 1–3 videos are approved individually before the rest of the batch is produced.
@@ -472,7 +472,7 @@ budget in writing.
 procurement, regulatory and pharmacy job functions in Ghana, Kenya and South Africa, with a lead form that delivers the checklist.
 
 **Built-in conditions:** LinkedIn or Meta only; no product names; professional 18+ targeting; country ad rules handled per market
-(E_PLATFORMS §2 cond. 2).
+(E_PLATFORMS 2 cond. 2).
 
 ---
 
@@ -481,12 +481,12 @@ procurement, regulatory and pharmacy job functions in Ghana, Kenya and South Afr
 | Guardrail | How the work applies it | Ref |
 |---|---|---|
 | Nothing goes live before the corrected website | Calendar dates move to the go-live date | DECISIONS D-012 |
-| Service, never medicines | No named products, prices or "order"; drawn, unlabelled packs only | E_PLATFORMS §2 D, §10 |
+| Service, never medicines | No named products, prices or "order"; drawn, unlabelled packs only | E_PLATFORMS 2 D, 10 |
 | Excluded lines | No peptides, sexual wellness, steroids or weight loss, ever | DECISIONS D-005, D-009 |
 | Akuma doesn't manufacture or hold certificates | Always "WHO-GMP certified partner manufacturers in India" | WC R1, R2 |
 | No invented numbers, customers, testimonials or superlatives | Facts carry ledger IDs; illustrative scenes are labelled and role-based | 10_compliance A, WC R7 |
 | No regulator or WHO logos, no real certificates on screen | Generic drawn documents labelled "Illustrative" | WC R6 |
-| No fear-based health messaging | Business pains only; reputational context only constructively, never naming companies | D_MARKET §4 |
+| No fear-based health messaging | Business pains only; reputational context only constructively, never naming companies | D_MARKET 4 |
 | Platform safety | Website-only links on YouTube; opt-in WhatsApp; no commerce for medicines | E-058, E-063 |
 | Name | **"Akuma Pharma"** on screen, on end cards and on social (user decision 2026-11-10, D-015); legal name only where legally required (footers, terms). An unrelated AKUMA PHARMA PRIVATE LIMITED exists (A-006): trademark check recommended | D-015, A-006 |
 | Francophone markets | FR content stays service and education; the compliance check covers country rules | E-034…E-038 |
@@ -499,8 +499,8 @@ procurement, regulatory and pharmacy job functions in Ghana, Kenya and South Afr
   - days 1–30 in detail: 16 rows (14 EN + 2 FR), 23 Nov–22 Dec 2026;
   - days 31–60 as topics: 14 rows plus holiday markers, to 21 Jan 2027;
   - every row is PROPOSED.
-- **`PRODUCTION_QUEUE.csv`:** AKV-001…AKV-007 at `SCRIPT_DRAFT`, next action "script", blocker "strategy approval; website P0+P1".
-- **Research rule:** a topic marked "research needed" (AKV-022 Incoterms) is scheduled only once its ledger row exists.
+- **`PRODUCTION_QUEUE.csv`:** AKV-001…AKV-003 at `SCRIPT_DRAFT`, next action "script", blocker "strategy approval; website P0+P1".
+- **Research rule:** a topic marked "research needed" (AKV-024 Incoterms) is scheduled only once its ledger row exists.
 
 **Buffer: researched topics ready to slot in**
 

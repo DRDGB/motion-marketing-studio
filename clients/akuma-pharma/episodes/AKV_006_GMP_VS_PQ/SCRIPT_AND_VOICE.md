@@ -1,16 +1,16 @@
-# AKV-003: "WHO-GMP is not WHO prequalification"
+# AKV-006: "WHO-GMP is not WHO prequalification"
 
 - **Status:** COMPLIANCE_OK (changes applied; human client sign-off pending) · **Pillar:** P1 Import Answers · **Series:** S1 "The Importer's Questions", Ep 2 (question card Nº 02) · **Format:** 9:16 master + 1:1 re-layout, ~43 s · **Publish:** Thu 2026-11-26, 12:00 WAT (11:00 GMT · 16:30 IST), PROPOSED; moves to the corrected-website go-live date (DECISIONS D-012)
 - **Hook pattern:** H02 myth flip ("Despite the name…") · **Story:** ST04 myth vs fact · **Emotion:** E5 confidence before a regulator
-- **The Switch:** L07 "No. It's a national certificate… prequalification is a separate W-H-O process." (W-002, C-014; starts at ~60% of the read) · **CTA:** "Sourcing from India? Ask Akuma Pharma for a quote… on our website." (L7; website CTA on every platform, YouTube included) · **Next (teaser):** end card "Next question: Why 25 °C data is not enough" (AKV-005)
+- **The Switch:** L07 "No. It's a national certificate… prequalification is a separate W-H-O process." (W-002, C-014; starts at ~60% of the read) · **CTA:** "Sourcing from India? Ask Akuma Pharma for a quote… on our website." (L7; website CTA on every platform, YouTube included) · **Next (teaser):** end card "Next question: Why 25 °C data is not enough" (AKV-007)
 - **Visual idea (distinct from previous videos):** **Two keys, two medicine-store doors.** Two near-identical drawn keys, each with a bow shaped like a capsule, hang on the Thread. The myth is that one key opens every door. Key 1 (the national certificate) turns smoothly in the entrance of a clean partner pharmaceutical plant in India (no smokestacks; legend "Illustrative example: partner manufacturer's site"). Key 2's lock (prequalification) sits on a separate medicine-store door that key 1 does not fit. The myth opens in the RED world as a line of type ("WHO-GMP = WHO-approved?"), gets struck through, and the facts play in the WHITE world. No WHO emblem and no WHO blue anywhere; no Indian State Emblem; names are plain text only; no red cross; no syringes.
 
 ## Hook options
 1. **H02 myth flip:** "Despite the name, a WHO-GMP certificate is issued by a national authority." / Visual: the word "WHO" lifts off a blank drawn certificate and drifts away / Claims: W-002, C-013, C-014
 2. **H14 true or false:** "True or false: a WHO-GMP certificate means WHO prequalified the product." / Visual: a TRUE/FALSE toggle / Claims: C-014
 3. **H05 what nobody tells you:** "What nobody tells you: 'WHO-GMP' on a brochure is a national certificate." / Visual: a blank brochure with a blank badge / Claims: C-014, D-051
-**Chosen:** 1 (H02). It contradicts the most common reading of the label in one sentence, it is sourced (W-002: the certificate is issued by the national authority of the exporting country), and it sets up the episode question (is it prequalification?) without spending the Switch. Option 2 is held for AKV-009 (H14 is booked there); option 3 risks reading as a dig at other suppliers.
-**Hook QA (04 §3, 1–5):** specificity 5 · truth 5 (now W-002 FACT; L04 wording still needs the regulatory reviewer) · visual-verbal match 5 · payoff exists 5 · originality vs last 5 videos 5 · works muted 5 · works at 9:16 5 → PASS.
+**Chosen:** 1 (H02). It contradicts the most common reading of the label in one sentence, it is sourced (W-002: the certificate is issued by the national authority of the exporting country), and it sets up the episode question (is it prequalification?) without spending the Switch. Option 2 is held for AKV-010 (H14 is booked there); option 3 risks reading as a dig at other suppliers.
+**Hook QA (04 3, 1–5):** specificity 5 · truth 5 (now W-002 FACT; L04 wording still needs the regulatory reviewer) · visual-verbal match 5 · payoff exists 5 · originality vs last 5 videos 5 · works muted 5 · works at 9:16 5 → PASS.
 
 ## Lines → visuals
 | Line | Spoken (exactly as it will be voiced) | One subject on screen | Motion | Claims |
@@ -57,13 +57,13 @@ Persona: warm, confident, unhurried business partner; never shouty; slow and lev
 | C-013 | "So who issues it? Indian regulators: CDSCO, with state licensing authorities." | Medical Dialogues, 2025-08-11 (URL as above) | REPORTED | "Zonal office" was dropped because C-013 says those offices process applications; it does not say they issue certificates. |
 | C-015 | "For some medicines, the Global Fund requires prequalification or a listed alternative." | The Global Fund, n.d., https://www.theglobalfund.org/en/sourcing-management/quality-assurance/medicines/ | FACT | Ledger: ARVs, TB and malaria medicines must be WHO-prequalified, SRA- or WLA-authorised, or ERP-recommended. Disease names are kept off screen; no claim of tender eligibility for Akuma. |
 | (inference) | "So can a WHO-GMP certificate stand in for it? No." | C-014 + C-015 | INFERENCE | The national certificate is not on the Global Fund's list of accepted routes. |
-| SP-2, SP-6 | "Our team checks each certificate we receive: who issued it, and to whom." | 03_STRATEGY §3.4 ← WEBSITE_CORRECTIONS §0.2, §0.4 | SERVICE PROMISE | |
-| SP-3, SP-7 | CTA (quote on website) | 03_STRATEGY §3.4 | SERVICE PROMISE | |
+| SP-2, SP-6 | "Our team checks each certificate we receive: who issued it, and to whom." | 03_STRATEGY 3.4 ← WEBSITE_CORRECTIONS 0.2, 0.4 | SERVICE PROMISE | |
+| SP-3, SP-7 | CTA (quote on website) | 03_STRATEGY 3.4 | SERVICE PROMISE | |
 
 ## Compliance
-- **Reviewer:** studio compliance reviewer (AI), 2026-11-10. Checked against `references/10_compliance.md` A, B, D; E_PLATFORMS §2, §7, §8, §10; WEBSITE_CORRECTIONS §0.2–0.5; 03_STRATEGY §3.4; DECISIONS D-012…D-019; RESEARCH_LEDGER. **This is not a legal, medical or regulatory approval.** Human regulatory sign-off by the client's named reviewer is still required before publish (E_PLATFORMS §11, Gate 4). This episode also needs that reviewer's wording check (change 2).
+- **Reviewer:** studio compliance reviewer (AI), 2026-11-10. Checked against `references/10_compliance.md` A, B, D; E_PLATFORMS 2, 7, 8, 10; WEBSITE_CORRECTIONS 0.2–0.5; 03_STRATEGY 3.4; DECISIONS D-012…D-019; RESEARCH_LEDGER. **This is not a legal, medical or regulatory approval.** Human regulatory sign-off by the client's named reviewer is still required before publish (E_PLATFORMS 11, Gate 4). This episode also needs that reviewer's wording check (change 2).
 - **Result: CHANGES REQUIRED.** Before voice: log the ledger rows in change 1, and apply changes 3 and 5 to the lines table and the voice block (change 4 only if the reviewer has not confirmed L04). Publish stays blocked by B1–B5 and by change 2.
-- **Classification (Gate 0/1):** E_PLATFORMS §2 row B (regulatory education), organic only. No product, disease or price, so Gate 1 passes. Gate 3: not applicable. Nothing here contradicts WHO (E-059).
+- **Classification (Gate 0/1):** E_PLATFORMS 2 row B (regulatory education), organic only. No product, disease or price, so Gate 1 passes. Gate 3: not applicable. Nothing here contradicts WHO (E-059).
 
 **Required changes (line ID → new text)**
 1. **Ledger, before voice:** the hook (L01), the Switch (L07) and the payoff (L08) all rest on C-014, which is labelled INFERENCE. An INFERENCE row cannot carry a line voiced as fact. Log one primary-source row from WHO's Certification Scheme pages, which back up C-013:
@@ -72,7 +72,7 @@ Persona: warm, confident, unhurried business partner; never shouty; slow and lev
    - Label REPORTED: both pages were seen only as search excerpts because who.int is blocked in this session. Fetch them and upgrade to FACT once the domain is allowed.
    - With that row in place, L01 "not issued by WHO", L07 "national certificate" and L08 "not a WHO approval" are supported. Without it, these lines must not be voiced.
 2. **Human wording check (C-014 note):** the client's regulatory reviewer confirms L01, L04 and L07 before publish.
-3. **L03** (lines table + voice block) → `So who issues it? Indian regulators: C-D-S-C-O, with state licensing authorities.` On-screen labels → `CDSCO` and `State licensing authority` (drop "zonal office"). Why: C-013 says the certificates are "processed by" the zonal offices, not issued by them. E_PLATFORMS §10 leaves the issuer open as "[State Licensing Authority / CDSCO]".
+3. **L03** (lines table + voice block) → `So who issues it? Indian regulators: C-D-S-C-O, with state licensing authorities.` On-screen labels → `CDSCO` and `State licensing authority` (drop "zonal office"). Why: C-013 says the certificates are "processed by" the zonal offices, not issued by them. E_PLATFORMS 10 leaves the issuer open as "[State Licensing Authority / CDSCO]".
 4. **L04:** keep `They issue it under the W-H-O certification scheme.` only if the reviewer in change 2 confirms that Indian WHO-GMP certificates are issued under the Scheme. Otherwise voice the fallback: `It's their certificate… not W-H-O's.`
 5. **L09** (lines table + voice block) → `Our team checks each certificate we receive: who issued it, and to whom.` Why: "every certificate" is an absolute (WC R7). SP-2 promises checks, not universal coverage.
 6. **Labels:**
@@ -85,7 +85,7 @@ Persona: warm, confident, unhurried business partner; never shouty; slow and lev
 9. **Description, closing paragraph** → M3 text.
 10. **Pinned comment, first source line** → `· WHO-GMP/CoPP applications in India (processed by CDSCO zonal offices with State Licensing Authorities): Medical Dialogues, 11 Aug 2025, https://medicaldialogues.in/news/industry/pharma/cdsco/no-more-physical-who-gmp-certificate-applications-after-august-15-dcgi-alerts-pharma-firms-153274`. Then add `· WHO Certification Scheme (certificates issued by the competent authority of the exporting country): WHO, n.d., https://www.who.int/teams/regulation-prequalification/regulation-and-safety/regulatory-convergence-networks/certification-scheme/glossary`. The current line credits "national certificate, not WHO PQ" to Medical Dialogues, but that is the studio's own inference.
 
-**Required mentions (E_PLATFORMS §10 as drafted)**
+**Required mentions (E_PLATFORMS 10 as drafted)**
 - **M1, on screen:** in the legend zone (y 1380–1500), from the start of L09 to the end of the end card, for ≥ 8 s, with no competing motion: `For licensed pharmaceutical trade and healthcare professionals. Products are supplied only where registered or authorised by the national regulator.`
 - **M2, end card** (≥ 4 s; replaces the current regulatory line, which moves to the caption): `Akuma Pharma · Akuma Enterprises, Kharar, Punjab, India · Reviewed: DD Mon YYYY`
 - **M3, caption on every platform** (replaces the closing paragraph; keep "Send this to your regulatory pharmacist." above it):
@@ -155,5 +155,5 @@ Sources
 · Global Fund quality assurance for medicines: The Global Fund, n.d., https://www.theglobalfund.org/en/sourcing-management/quality-assurance/medicines/
 Next question: Why 25 °C stability data is not enough for hot, humid markets.
 ```
-- **Attribution:** UTM `https://akumaenterprises-pharma.com/?utm_source=<platform>&utm_medium=social&utm_campaign=closer&utm_content=akv-003` (platform = linkedin | youtube | instagram | facebook | whatsapp) · WhatsApp prefill `Hi Akuma Pharma, I saw video AKV-003` → `https://wa.me/917986147827?text=Hi%20Akuma%20Pharma%2C%20I%20saw%20video%20AKV-003` (LinkedIn first comment, Meta, WhatsApp only; never on YouTube: no "WhatsApp", number or wa.me link in the YouTube description, pinned comment or replies). YouTube: website only; put the UTM link in the channel-profile links (Shorts description links are not clickable; re-verify) and tick "Altered or synthetic content" at upload.
+- **Attribution:** UTM `https://akumaenterprises-pharma.com/?utm_source=<platform>&utm_medium=social&utm_campaign=closer&utm_content=akv-006` (platform = linkedin | youtube | instagram | facebook | whatsapp) · WhatsApp prefill `Hi Akuma Pharma, I saw video AKV-006` → `https://wa.me/917986147827?text=Hi%20Akuma%20Pharma%2C%20I%20saw%20video%20AKV-006` (LinkedIn first comment, Meta, WhatsApp only; never on YouTube: no "WhatsApp", number or wa.me link in the YouTube description, pinned comment or replies). YouTube: website only; put the UTM link in the channel-profile links (Shorts description links are not clickable; re-verify) and tick "Altered or synthetic content" at upload.
 - **Playlist / series:** S1 "The Importer's Questions" / « Les questions de l'importateur », Ep 2 · **Cover frame:** L07 (t ≈ 26 s): two keys, "a *national* certificate"

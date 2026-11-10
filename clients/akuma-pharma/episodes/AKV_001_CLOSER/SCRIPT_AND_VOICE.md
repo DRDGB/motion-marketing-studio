@@ -2,7 +2,7 @@
 
 - **Status:** COMPLIANCE_OK (changes applied; human client sign-off pending) · **Pillar:** P3 Closer · **Series:** Standalone launch film (pilots S3 "The Thread") · **Format:** 9:16 master + 1:1 re-layout, ~44 s · **Publish:** Mon 2026-11-23, 08:30 WAT (07:30 GMT · 13:00 IST), PROPOSED; moves to the corrected-website go-live date (DECISIONS D-012)
 - **Hook pattern:** H09 direct address, carried by the H12 thread visual · **Story:** ST01 PAS · **Emotion:** E1 distance shrinking + E9 disarming honesty
-- **The Switch:** L08 "We don't make medicines. We make sourcing them from India simple." (SP-6; starts at ~55% of the read) · **CTA:** L6 "Message Akuma Pharma on WhatsApp… the message is ready." (LinkedIn, Meta, WhatsApp); YouTube cut uses L12-YT "Talk to Akuma Pharma… visit our website." · **Next (teaser):** end card "Next: What is a CoPP?" (AKV-002)
+- **The Switch:** L08 "We don't make medicines. We make sourcing them from India simple." (SP-6; starts at ~55% of the read) · **CTA:** L6 "Message Akuma Pharma on WhatsApp… the message is ready." (LinkedIn, Meta, WhatsApp); YouTube cut uses L12-YT "Talk to Akuma Pharma… visit our website." · **Next (teaser):** end card "Next: What is a CoPP?" (AKV-004)
 - **Visual idea (distinct from previous videos):** **The folding map, pharmacy to plant.** One sheet of drawn paper holds a clean WHO-GMP partner manufacturing plant in India on the right (flat roof, clean-room windows, no smokestacks; legend "Illustrative example: partner manufacturer's site") and the buyer's pharmacy on the left (storefront with a black plus sign, shelves of unlabelled medicine cartons). As the film runs, the map folds on the beat until plant and pharmacy touch. The crimson Thread stays one unbroken line across every fold: from the plant, through a QC-lab flask and a CoA, onto a cargo plane loaded with medicine cartons, over a drawn sea, to the pharmacy door, where it ties the end-card knot. WHITE world throughout, with a single flip to the RED world on the Switch. No red cross anywhere. The pharmacy plus sign is black on white only: never red on white, and never a solid white cross on a red field, so the pharmacy appears only in WHITE-world shots.
 
 ## Hook options
@@ -10,7 +10,7 @@
 2. **H12 impossible object:** "From a factory in India to your door. One thread." / Visual: one crimson thread spanning a folded paper map, from a clean partner plant to a pharmacy door handle / Claims: SP-3
 3. **H07 the clock:** "Eight thirty in Lagos is one in the afternoon in Punjab. Same working day." / Visual: a distributor's warehouse clock and a plant QA-office clock sliding into one / Claims: C-054
 **Chosen:** 1 (H09), with option 2's thread as the picture under it and its words saved for the payoff (L11). The viewer is named in the first five words, the tension ("an ocean away") is one the campaign resolves on screen, and the thread gives a muted viewer the whole idea in one second. Option 3 is kept for a later P3 time-zone film.
-**Hook QA (04 §3, 1–5):** specificity 4 · truth 5 · visual-verbal match 5 · payoff exists 5 · originality vs last 5 videos 5 (first video) · works muted 4 · works at 9:16 5 → PASS (all ≥ 4).
+**Hook QA (04 3, 1–5):** specificity 4 · truth 5 · visual-verbal match 5 · payoff exists 5 · originality vs last 5 videos 5 (first video) · works muted 4 · works at 9:16 5 → PASS (all ≥ 4).
 
 ## Lines → visuals
 | Line | Spoken (exactly as it will be voiced) | One subject on screen | Motion | Claims |
@@ -59,17 +59,17 @@ Persona: warm, confident, unhurried business partner; never shouty; slightly slo
 | C-001 | "Chances are, some of the medicines you need are made in India." (+ on-screen legend "USD 3.93 bn, FY2024-25") | Pharmexcil, 2025-06-14, https://pharmexcil.com/uploadfile/Hand_Book_14_06_2025_final.pdf | FACT (context); spoken line = INFERENCE, hedged | Ledger: India's pharma exports to Africa FY2024-25 = USD 3,933.65m. The legend states the sourced fact; the voice hedges the inference ("chances are… some"). |
 | C-054 | "Between you: time zones…" | IANA tz database, n.d., https://www.iana.org/time-zones | FACT (spoken line = INFERENCE) | India is UTC+5:30; WAT/GMT/EAT/SAST are UTC+0 to +3. |
 | D-051 | "From far away, every promise sounds the same." | Analyst synthesis of D-027…D-034 (ledger), 2026-11-10 | INFERENCE | Trust-gap framing only; no named company, no health fear. |
-| SP-1 | "We find WHO-GMP certified partner manufacturers in India." | 03_STRATEGY §3.4 ← WEBSITE_CORRECTIONS §0.2/§0.4; DECISIONS D-007 | SERVICE PROMISE (client-confirmed) | Not a ledger row; the approved service promise. |
-| SP-2 | "We check their licences and documents." | 03_STRATEGY §3.4 ← WEBSITE_CORRECTIONS §0.4 | SERVICE PROMISE | |
-| SP-6 | "We don't make medicines…" (Switch) | 03_STRATEGY §3.4 ← WEBSITE_CORRECTIONS §0.2; DECISIONS D-007 | SERVICE PROMISE | Certificates belong to the partner manufacturers. |
-| SP-4 | "Each shipment carries the manufacturer's batch certificate of analysis." | 03_STRATEGY §3.4 ← WEBSITE_CORRECTIONS §0.4 | SERVICE PROMISE | |
-| SP-3 | "Our team assists you from sourcing in India all the way to your door." / "One thread…" | 03_STRATEGY §3.4; DECISIONS D-014 (confirmed 2026-11-10) | SERVICE PROMISE | Wording kept close to the confirmed promise. |
-| SP-7 | WhatsApp CTA | 03_STRATEGY §3.4 ← ledger A-030 | SERVICE PROMISE | +91 79861 47827. |
+| SP-1 | "We find WHO-GMP certified partner manufacturers in India." | 03_STRATEGY 3.4 ← WEBSITE_CORRECTIONS 0.2/0.4; DECISIONS D-007 | SERVICE PROMISE (client-confirmed) | Not a ledger row; the approved service promise. |
+| SP-2 | "We check their licences and documents." | 03_STRATEGY 3.4 ← WEBSITE_CORRECTIONS 0.4 | SERVICE PROMISE | |
+| SP-6 | "We don't make medicines…" (Switch) | 03_STRATEGY 3.4 ← WEBSITE_CORRECTIONS 0.2; DECISIONS D-007 | SERVICE PROMISE | Certificates belong to the partner manufacturers. |
+| SP-4 | "Each shipment carries the manufacturer's batch certificate of analysis." | 03_STRATEGY 3.4 ← WEBSITE_CORRECTIONS 0.4 | SERVICE PROMISE | |
+| SP-3 | "Our team assists you from sourcing in India all the way to your door." / "One thread…" | 03_STRATEGY 3.4; DECISIONS D-014 (confirmed 2026-11-10) | SERVICE PROMISE | Wording kept close to the confirmed promise. |
+| SP-7 | WhatsApp CTA | 03_STRATEGY 3.4 ← ledger A-030 | SERVICE PROMISE | +91 79861 47827. |
 
 ## Compliance
-- **Reviewer:** studio compliance reviewer (AI), 2026-11-10. Checked against `references/10_compliance.md` A, B, D; E_PLATFORMS §2, §7, §8, §10; WEBSITE_CORRECTIONS §0.2–0.5; 03_STRATEGY §3.4 (SP-1…SP-7); DECISIONS D-012…D-019; RESEARCH_LEDGER. **This is not a legal, medical or regulatory approval.** Human regulatory sign-off by the client's named reviewer is still required before publish (E_PLATFORMS §11, Gate 4) and recommended before the final voice.
+- **Reviewer:** studio compliance reviewer (AI), 2026-11-10. Checked against `references/10_compliance.md` A, B, D; E_PLATFORMS 2, 7, 8, 10; WEBSITE_CORRECTIONS 0.2–0.5; 03_STRATEGY 3.4 (SP-1…SP-7); DECISIONS D-012…D-019; RESEARCH_LEDGER. **This is not a legal, medical or regulatory approval.** Human regulatory sign-off by the client's named reviewer is still required before publish (E_PLATFORMS 11, Gate 4) and recommended before the final voice.
 - **Result: CHANGES REQUIRED.** Apply changes 1 and 3 to the lines table and the voice block, then the voice may be generated. Publish stays blocked by batch conditions B1–B5.
-- **Classification (Gate 0/1):** E_PLATFORMS §2 row A (corporate brand and capability), organic only. Advertiser = sourcing/trading intermediary, not a manufacturer (D-007, WC §0.2). No product, INN, price or "order", so Gate 1 passes. Gate 3 fair balance: not applicable (no product or benefit claim). Mandatory text must still stay on screen long enough to read at 2.5 words/s.
+- **Classification (Gate 0/1):** E_PLATFORMS 2 row A (corporate brand and capability), organic only. Advertiser = sourcing/trading intermediary, not a manufacturer (D-007, WC 0.2). No product, INN, price or "order", so Gate 1 passes. Gate 3 fair balance: not applicable (no product or benefit claim). Mandatory text must still stay on screen long enough to read at 2.5 words/s.
 
 **Required changes (line ID → new text)**
 1. **L02** (lines table + voice block) → `Chances are, some of the medicines you need are made in India.` Reason: C-001 is India's export value to Africa (FACT). It says nothing about what this viewer stocks, so "Many medicines you stock are made in India" presents an inference as fact.
@@ -82,9 +82,9 @@ Persona: warm, confident, unhurried business partner; never shouty; slightly slo
 8. **YouTube description:** `Message our team on WhatsApp, or visit akumaenterprises-pharma.com` → `Talk to our team: akumaenterprises-pharma.com`. The YouTube description, pinned comment and replies must not contain the word WhatsApp, the number or a wa.me link (E-058).
 9. **Visual guardrails (storyboard):** the L04 badges stay blank (no tick, star, seal or "certified"). The pharmacy plus sign is black on white only: never red on white, and never a solid white cross on a red field (it looks like a reversed emblem or the Swiss cross). The drawn licence in L07 has no Indian State Emblem, no seal and no real form layout.
 
-**Required mentions (E_PLATFORMS §10 as drafted)**
+**Required mentions (E_PLATFORMS 10 as drafted)**
 - **M1, on screen:** in the legend zone (y 1380–1500), from the start of L09 to the end of the end card, for ≥ 8 s, with no music swell or competing motion over it: `For licensed pharmaceutical trade and healthcare professionals. Products are supplied only where registered or authorised by the national regulator.`
-- **M2, end card** (≥ 4 s): `Akuma Pharma · Akuma Enterprises, Kharar, Punjab, India · Reviewed: DD Mon YYYY`. This gives the legal entity, city/country and date of last review (E_PLATFORMS §10; UCPMP 3.8 [E-009]; Côte d'Ivoire Art. 13 [E-037]). The legal name follows WC §0.2 and R12.
+- **M2, end card** (≥ 4 s): `Akuma Pharma · Akuma Enterprises, Kharar, Punjab, India · Reviewed: DD Mon YYYY`. This gives the legal entity, city/country and date of last review (E_PLATFORMS 10; UCPMP 3.8 [E-009]; Côte d'Ivoire Art. 13 [E-037]). The legal name follows WC 0.2 and R12.
 - **M3, caption on every platform** (replaces the closing paragraph):
 ```
 For licensed pharmaceutical trade and healthcare professionals. Products are supplied only where registered or authorised by the national regulator.
@@ -92,7 +92,7 @@ Akuma Pharma is operated by Akuma Enterprises, Kharar, Punjab, India, a pharmace
 Illustrative animation · AI-generated narration · Reviewed: DD Mon YYYY · Sources in the pinned comment.
 ```
 - **M4, labels:** `Illustrative example` on every drawn document, licence and certificate. `Illustrative example: partner manufacturer's site` on every plant, lab or staff shot (change 4).
-- **M5, AI disclosure:** the "AI-generated narration" line in M3 on every platform. On YouTube, tick "Altered or synthetic content" at upload: it is a realistic synthetic voice on a pharma-sector topic (E_PLATFORMS §8 policy; 10_compliance A, "when in doubt… disclose"). On Meta, keep the C2PA/IPTC metadata. On LinkedIn and WhatsApp the caption line is enough. If any AI-generated music is used, YouTube disclosure is mandatory [E-066]. No regulator approval reference is needed: these are organic posts with no product, and paid ads are on hold (D-006).
+- **M5, AI disclosure:** the "AI-generated narration" line in M3 on every platform. On YouTube, tick "Altered or synthetic content" at upload: it is a realistic synthetic voice on a pharma-sector topic (E_PLATFORMS 8 policy; 10_compliance A, "when in doubt… disclose"). On Meta, keep the C2PA/IPTC metadata. On LinkedIn and WhatsApp the caption line is enough. If any AI-generated music is used, YouTube disclosure is mandatory [E-066]. No regulator approval reference is needed: these are organic posts with no product, and paid ads are on hold (D-006).
 
 **Claim check (line → source → label → verdict)**
 - L01: direct address, no claim.
@@ -108,7 +108,7 @@ Illustrative animation · AI-generated narration · Reviewed: DD Mon YYYY · Sou
 - L12: SP-7, OK.
 - Not present anywhere: product names, prices, "order", superlatives, country counts, testimonials, logos or emblems, syringes, red cross.
 
-**Drawn lab-coat staff (L06): ACCEPTABLE, with conditions.** They are faceless, clearly animated workers at the partner's site. They are not a doctor, pharmacist or other HCP endorsement, not a customer and not a testimonial (10_compliance A/B; E_PLATFORMS §10 blocks synthetic doctors, patients and buyers). Conditions:
+**Drawn lab-coat staff (L06): ACCEPTABLE, with conditions.** They are faceless, clearly animated workers at the partner's site. They are not a doctor, pharmacist or other HCP endorsement, not a customer and not a testimonial (10_compliance A/B; E_PLATFORMS 10 blocks synthetic doctors, patients and buyers). Conditions:
 - The M4 label is in the same frame.
 - They are shown working only: handling a bottle, blister, report or clipboard.
 - No face, name, badge, job title, stethoscope or "pharmacist"/"doctor" caption.
@@ -124,8 +124,8 @@ Illustrative animation · AI-generated narration · Reviewed: DD Mon YYYY · Sou
 
 **Batch conditions (block publish, not voice)**
 - **B1, D-012:** no post, link or on-screen URL goes live until the website P0+P1 fixes are applied and re-audited.
-- **B2, human sign-off:** the client's named regulatory reviewer signs the script, storyboard and caption (Gate 4; D-003 Gate 0 is still open). E_PLATFORMS §11 places this sign-off before voice as well. Generating the voice first means the audio is a draft, and that choice must be recorded in DECISIONS.
-- **B3, evidence:** store the written confirmation reference for SP-1…SP-7 (relayed via D-007/D-014), and keep the partner manufacturers' current WHO-GMP certificates on file (10_compliance A; E_PLATFORMS §12 #1).
+- **B2, human sign-off:** the client's named regulatory reviewer signs the script, storyboard and caption (Gate 4; D-003 Gate 0 is still open). E_PLATFORMS 11 places this sign-off before voice as well. Generating the voice first means the audio is a draft, and that choice must be recorded in DECISIONS.
+- **B3, evidence:** store the written confirmation reference for SP-1…SP-7 (relayed via D-007/D-014), and keep the partner manufacturers' current WHO-GMP certificates on file (10_compliance A; E_PLATFORMS 12 #1).
 - **B4, voice rights:** generate on an ElevenLabs plan that grants commercial use at generation time, with a designed or library voice (no clone of a real person). Log it in VOICE_MANIFEST.csv and ASSET_REGISTER.csv.
 - **B5, open legal questions for the client's counsel** (not studio decisions):
   - Does ARCON pre-exposure vetting apply to organic brand posts aimed at Nigeria [E-026]?
