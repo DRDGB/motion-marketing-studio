@@ -12,12 +12,107 @@ const G: React.FC<P & { children: React.ReactNode; shadow?: boolean }> = ({ x, y
   <g transform={`translate(${x} ${y}) rotate(${rot}) scale(${s})`} opacity={o} style={shadow ? { filter: SHADOW } : undefined}>{children}</g>
 );
 
-/** Generic manufacturing plant (no signage): saw-tooth roof, chimney, windows. */
-export const Factory: React.FC<P> = (p) => (
+/** Pharmaceutical manufacturing plant (WHO-GMP style): clean flat-roof block, glazed cleanroom band, capsule emblem.
+ *  No chimney, no signage text. `Factory` is kept as an alias so older scenes still compile. */
+export const PharmaPlant: React.FC<P> = (p) => (
   <G {...p}>
-    <path d="M -220 120 L -220 -40 L -140 -100 L -140 -40 L -60 -100 L -60 -40 L 20 -100 L 20 -40 L 220 -40 L 220 120 Z" fill={PAPER()} stroke={INK()} strokeWidth={10} strokeLinejoin="round" />
-    <rect x={120} y={-200} width={50} height={160} fill={INK()} />
-    {[-170, -90, -10, 70, 150].map((x) => <rect key={x} x={x} y={10} width={44} height={44} rx={6} fill={p.accent ? ACC(p.dark) : alpha(INK(), 0.85)} />)}
+    <rect x={-240} y={-120} width={300} height={240} rx={8} fill={PAPER()} stroke={INK()} strokeWidth={10} />
+    <rect x={60} y={-40} width={180} height={160} rx={8} fill={PAPER()} stroke={INK()} strokeWidth={10} />
+    <rect x={-210} y={-80} width={240} height={56} rx={6} fill={alpha(INK(), 0.85)} />
+    {[-180, -120, -60, 0].map((x) => <rect key={x} x={x} y={-72} width={4} height={40} fill={PAPER()} />)}
+    <g transform="translate(-90 40) rotate(-35)">
+      <path d="M -50 -20 L 0 -20 L 0 20 L -50 20 A 20 20 0 0 1 -50 -20 Z" fill={ACC(p.dark)} />
+      <path d="M 0 -20 L 50 -20 A 20 20 0 0 1 50 20 L 0 20 Z" fill={PAPER()} stroke={INK()} strokeWidth={6} />
+    </g>
+    {[90, 150].map((x) => <rect key={x} x={x} y={-10} width={40} height={40} rx={5} fill={alpha(INK(), 0.85)} />)}
+    <rect x={120} y={60} width={60} height={60} rx={4} fill={alpha(INK(), 0.25)} />
+    <rect x={-270} y={120} width={540} height={14} rx={7} fill={INK()} />
+  </G>
+);
+export const Factory = PharmaPlant;
+
+/** Pharmacy storefront (the buyer): awning, big plus sign (black on white world / white on red), shelves in the window. */
+export const Pharmacy: React.FC<P> = (p) => (
+  <G {...p}>
+    <rect x={-200} y={-170} width={400} height={330} rx={10} fill={PAPER()} stroke={INK()} strokeWidth={10} />
+    {Array.from({ length: 7 }).map((_, i) => <path key={i} d={`M ${-200 + i * 57.1} -170 L ${-142.9 + i * 57.1} -170 L ${-142.9 + i * 57.1} -120 Q ${-171.4 + i * 57.1} -95 ${-200 + i * 57.1} -120 Z`} fill={i % 2 ? PAPER() : ACC(p.dark)} stroke={INK()} strokeWidth={4} />)}
+    <g transform="translate(0 -250)">
+      <rect x={-60} y={-60} width={120} height={120} rx={22} fill={p.dark ? C.light : INK()} />
+      <rect x={-16} y={-42} width={32} height={84} rx={6} fill={p.dark ? INK() : PAPER()} />
+      <rect x={-42} y={-16} width={84} height={32} rx={6} fill={p.dark ? INK() : PAPER()} />
+    </g>
+    <rect x={-170} y={-80} width={200} height={150} rx={6} fill={alpha(INK(), 0.08)} stroke={INK()} strokeWidth={6} />
+    {[-50, 10].map((y) => <rect key={y} x={-160} y={y} width={180} height={8} fill={INK()} />)}
+    {[-150, -115, -80, -45, -10].map((x, i) => <rect key={x} x={x} y={-42} width={24} height={32} rx={4} fill={i === 2 ? ACC(p.dark) : alpha(INK(), 0.8)} />)}
+    {[-150, -105, -60, -15].map((x) => <rect key={x} x={x} y={20} width={34} height={30} rx={4} fill={alpha(INK(), 0.6)} />)}
+    <rect x={70} y={-60} width={100} height={220} rx={6} fill={alpha(INK(), 0.12)} stroke={INK()} strokeWidth={6} />
+    <circle cx={150} cy={50} r={8} fill={INK()} />
+  </G>
+);
+
+/** Pharmacist / QA professional: faceless, white lab coat with black outline, clipboard. arm 0..1 raises the clipboard. */
+export const Pharmacist: React.FC<P & { arm?: number }> = ({ arm = 0, ...p }) => (
+  <G {...p}>
+    <rect x={-40} y={-90} width={30} height={170} rx={14} fill={INK()} />
+    <rect x={10} y={-90} width={30} height={170} rx={14} fill={INK()} />
+    <path d="M -80 -330 Q -84 -350 -60 -352 L 60 -352 Q 84 -350 80 -330 L 92 -60 Q 92 -40 72 -40 L -72 -40 Q -92 -40 -92 -60 Z" fill={PAPER()} stroke={INK()} strokeWidth={9} />
+    <path d="M -30 -352 L 0 -290 L 30 -352" fill="none" stroke={INK()} strokeWidth={8} strokeLinejoin="round" />
+    <path d="M 0 -290 L 0 -60" stroke={INK()} strokeWidth={6} />
+    <rect x={30} y={-250} width={30} height={8} rx={4} fill={ACC(p.dark)} />
+    <rect x={-104} y={-340} width={26} height={170} rx={13} fill={PAPER()} stroke={INK()} strokeWidth={7} transform="rotate(8 -91 -330)" />
+    <g transform={`rotate(${-20 - 60 * arm} 78 -330)`}>
+      <rect x={66} y={-340} width={26} height={150} rx={13} fill={PAPER()} stroke={INK()} strokeWidth={7} />
+      <rect x={50} y={-210} width={70} height={90} rx={6} fill={INK()} />
+      <rect x={60} y={-195} width={50} height={8} rx={4} fill={PAPER()} /><rect x={60} y={-178} width={40} height={8} rx={4} fill={PAPER()} />
+    </g>
+    <circle cx={0} cy={-405} r={44} fill={INK()} />
+  </G>
+);
+
+/** Medicine carton (unlabelled): a box with a plus sign and a capsule mark, no text. */
+export const MedCarton: React.FC<P> = (p) => (
+  <G {...p} shadow>
+    <rect x={-120} y={-80} width={240} height={160} rx={10} fill={PAPER()} stroke={INK()} strokeWidth={8} />
+    <rect x={-120} y={-80} width={240} height={36} rx={10} fill={ACC(p.dark)} />
+    <g transform="translate(-60 20)"><rect x={-26} y={-8} width={52} height={16} rx={4} fill={INK()} /><rect x={-8} y={-26} width={16} height={52} rx={4} fill={INK()} /></g>
+    {[0, 22, 44].map((y) => <rect key={y} x={0} y={y - 6} width={y ? 80 : 100} height={10} rx={5} fill={alpha(INK(), 0.4)} />)}
+  </G>
+);
+
+/** Capsule (two-tone). */
+export const Capsule: React.FC<P> = ({ rot = -30, ...p }) => (
+  <G {...p} rot={rot}>
+    <path d="M -90 -36 L 0 -36 L 0 36 L -90 36 A 36 36 0 0 1 -90 -36 Z" fill={ACC(p.dark)} stroke={INK()} strokeWidth={6} />
+    <path d="M 0 -36 L 90 -36 A 36 36 0 0 1 90 36 L 0 36 Z" fill={PAPER()} stroke={INK()} strokeWidth={6} />
+  </G>
+);
+
+/** Glass vial with crimp cap (no syringe). */
+export const Vial: React.FC<P> = (p) => (
+  <G {...p}>
+    <rect x={-34} y={-130} width={68} height={34} rx={6} fill={ACC(p.dark)} stroke={INK()} strokeWidth={6} />
+    <path d="M -24 -96 L 24 -96 L 24 -80 Q 50 -70 50 -40 L 50 110 Q 50 130 30 130 L -30 130 Q -50 130 -50 110 L -50 -40 Q -50 -70 -24 -80 Z" fill={PAPER()} stroke={INK()} strokeWidth={8} />
+    <rect x={-50} y={10} width={100} height={60} fill={alpha(INK(), 0.85)} />
+  </G>
+);
+
+/** Tablet bottle (unlabelled). */
+export const PillBottle: React.FC<P> = (p) => (
+  <G {...p}>
+    <rect x={-70} y={-160} width={140} height={50} rx={10} fill={INK()} />
+    <rect x={-90} y={-110} width={180} height={250} rx={28} fill={PAPER()} stroke={INK()} strokeWidth={9} />
+    <rect x={-70} y={-50} width={140} height={110} rx={10} fill={ACC(p.dark)} />
+    <g transform="translate(0 5)"><rect x={-24} y={-8} width={48} height={16} rx={4} fill={PAPER()} /><rect x={-8} y={-24} width={16} height={48} rx={4} fill={PAPER()} /></g>
+  </G>
+);
+
+/** QC lab flask with liquid level (testing). */
+export const Flask: React.FC<P & { level?: number }> = ({ level = 0.5, ...p }) => (
+  <G {...p}>
+    <clipPath id="akm-flask"><path d="M -30 -150 L 30 -150 L 30 -40 L 110 120 Q 120 150 90 150 L -90 150 Q -120 150 -110 120 L -30 -40 Z" /></clipPath>
+    <rect x={-130} y={150 - 300 * level} width={260} height={300} fill={ACC(p.dark)} clipPath="url(#akm-flask)" />
+    <path d="M -30 -150 L 30 -150 L 30 -40 L 110 120 Q 120 150 90 150 L -90 150 Q -120 150 -110 120 L -30 -40 Z" fill="none" stroke={INK()} strokeWidth={9} strokeLinejoin="round" />
+    <rect x={-46} y={-170} width={92} height={22} rx={8} fill={INK()} />
   </G>
 );
 
@@ -59,6 +154,7 @@ export const Carton: React.FC<P> = (p) => (
     <path d="M -130 -60 L 0 -120 L 130 -60 L 130 110 L 0 170 L -130 110 Z" fill={PAPER()} stroke={INK()} strokeWidth={9} strokeLinejoin="round" />
     <path d="M -130 -60 L 0 0 L 130 -60 M 0 0 L 0 170" fill="none" stroke={INK()} strokeWidth={9} strokeLinejoin="round" />
     <path d="M -65 -90 L 65 -30" stroke={ACC(p.dark)} strokeWidth={22} strokeLinecap="round" />
+    <g transform="translate(-65 75) skewY(25)"><rect x={-28} y={-9} width={56} height={18} rx={4} fill={INK()} /><rect x={-9} y={-28} width={18} height={56} rx={4} fill={INK()} /></g>
   </G>
 );
 
@@ -86,13 +182,14 @@ export const Plane: React.FC<P> = (p) => (
   </G>
 );
 
-/** The buyer's door: a warehouse / business door with a handle (the thread ties here). */
+/** The buyer's door: a pharmaceutical distributor's door with a plus sign above (the thread ties here). */
 export const Door: React.FC<P & { open?: number }> = ({ open = 0, ...p }) => (
   <G {...p}>
     <rect x={-150} y={-260} width={300} height={360} rx={10} fill={PAPER()} stroke={INK()} strokeWidth={10} />
     <rect x={-110} y={-220} width={220} height={320} rx={6} fill={alpha(INK(), 0.1 + 0.5 * open)} stroke={INK()} strokeWidth={8} />
     <circle cx={70} cy={-40} r={14} fill={ACC(p.dark)} />
     <rect x={-190} y={100} width={380} height={18} rx={9} fill={INK()} />
+    <g transform="translate(0 -320)"><rect x={-44} y={-44} width={88} height={88} rx={16} fill={p.dark ? C.light : INK()} /><rect x={-11} y={-30} width={22} height={60} rx={4} fill={p.dark ? INK() : PAPER()} /><rect x={-30} y={-11} width={60} height={22} rx={4} fill={p.dark ? INK() : PAPER()} /></g>
   </G>
 );
 

@@ -5,12 +5,12 @@ import { C, DISPLAY, TEXT } from "../../theme";
 import { Backdrop, DarkWorld } from "../../lib/stage";
 import { EndCard, CornerBug } from "../../lib/endcard";
 import { Thread, Node, Knot, Pt } from "../../lib/thread";
-import { Factory, Doc, Carton, Ship, Door, Folder, DocStack } from "../../lib/akuma_icons";
+import { PharmaPlant, Pharmacist, Ship, Pharmacy, Folder, DocStack } from "../../lib/akuma_icons";
 import { ease, pop, fr } from "../../lib/time";
 
 export const THREAD_TEST_FRAMES = fr(8);
 
-const PATH: Pt[] = [[230, 1330], [300, 1020], [520, 900], [700, 1080], [560, 1300], [760, 1460], [880, 1250]];
+const PATH: Pt[] = [[250, 1400], [300, 1060], [430, 920], [650, 1000], [560, 1300], [760, 1450], [860, 1270]];
 
 const WhiteScene: React.FC = () => {
   const f = useCurrentFrame();
@@ -21,14 +21,14 @@ const WhiteScene: React.FC = () => {
         India is far.<br />Your team there <span style={{ color: C.accent, fontStyle: "italic" }}>isn't.</span>
       </div>
       <svg width={1080} height={1920} style={{ position: "absolute" }}>
-        <Factory x={230} y={1480} s={0.75 * pop(f, 2)} />
-        <Doc x={520} y={760} s={0.6 * pop(f, 34)} stamp={ease(f, 50, 60)} />
+        <PharmaPlant x={250} y={1500} s={0.62 * pop(f, 2)} />
+        <Pharmacist x={520} y={860} s={0.5 * pop(f, 34)} arm={ease(f, 44, 56)} />
         <Ship x={560} y={1440} s={0.55 * pop(f, 62)} accent />
-        <Door x={880} y={1250 - 60} s={0.6 * pop(f, 80)} />
+        <Pharmacy x={860} y={1180} s={0.48 * pop(f, 80)} />
         <Thread pts={PATH} k={k} />
-        <Node x={520} y={900} pop={pop(f, 40)} />
+        <Node x={430} y={920} pop={pop(f, 40)} />
         <Node x={560} y={1300} pop={pop(f, 70)} />
-        <Knot x={880} y={1250} k={ease(f, 98, 112)} s={0.8} />
+        <Knot x={860} y={1290} k={ease(f, 98, 112)} s={0.8} />
       </svg>
       <div style={{ position: "absolute", bottom: 210, width: "100%", textAlign: "center", fontFamily: TEXT, fontSize: 40, fontWeight: 700, letterSpacing: 4, color: C.dim, opacity: ease(f, 96, 110) }}>FROM THEIR FACTORY · TO YOUR DOOR</div>
       <CornerBug />
