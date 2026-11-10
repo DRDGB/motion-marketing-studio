@@ -1,9 +1,9 @@
 # AKV-002: "What is a CoPP, and why does your regulator ask for it?"
 
-- **Status:** SCRIPT_DRAFT · **Pillar:** P1 Import Answers · **Series:** S1 "The Importer's Questions", Ep 1 (question card Nº 01) · **Format:** 9:16 master + 1:1 re-layout, ~44 s · **Publish:** Tue 2026-11-24, 08:30 WAT (07:30 GMT · 13:00 IST), PROPOSED; moves to the corrected-website go-live date (DECISIONS D-012)
+- **Status:** COMPLIANCE_OK (changes applied; human client sign-off pending) · **Pillar:** P1 Import Answers · **Series:** S1 "The Importer's Questions", Ep 1 (question card Nº 01) · **Format:** 9:16 master + 1:1 re-layout, ~44 s · **Publish:** Tue 2026-11-24, 08:30 WAT (07:30 GMT · 13:00 IST), PROPOSED; moves to the corrected-website go-live date (DECISIONS D-012)
 - **Hook pattern:** H01 the buyer's exact question · **Story:** ST11 the 3-step answer (short answer → why → what to do) · **Emotion:** E4 control
-- **The Switch:** L07 "It's issued to the manufacturer… not to whoever sells it to you." (SP-6; starts at ~57% of the read) · **CTA:** "Need one for your next registration? Akuma Pharma can help… visit our website." (L4 website + L7 talk to our team) · **Next (teaser):** end card "Next question: Is WHO-GMP the same as WHO prequalification?" (AKV-003)
-- **Visual idea (distinct from previous videos):** **The CoPP passport.** Question card Nº 01 (crimson tab) lands on a pharmaceutical distributor's desk beside a medicine carton, flips, and unfolds into one drawn, generic CoPP (a capsule-and-blister motif on its cover, no real text; legend "Illustrative") that behaves like a passport. It travels along the Thread with a medicine carton: from the clean partner plant in India, to a regulatory dossier in-tray, each step adding a wordless generic stamp to its pages. At the Switch, the camera pushes into the blank name field, and a small drawing of the manufacturing plant appears on the name bar. WHITE world for the answer, RED world for the question card and the Switch. No red cross; no syringes.
+- **The Switch:** L07 "For the products we source, it's issued in the manufacturer's name… not ours." (SP-6, WC §0.2 item 4; starts at ~55% of the read) · **CTA:** "Need one for your next registration? Talk to Akuma Pharma's team… visit our website." (L4 website + L7 talk to our team; website CTA on every platform, YouTube included) · **Next (teaser):** end card "Next question: Is WHO-GMP the same as WHO prequalification?" (AKV-003)
+- **Visual idea (distinct from previous videos):** **The CoPP passport.** Question card Nº 01 (crimson tab) lands on a pharmaceutical distributor's desk beside a medicine carton, flips, and unfolds into one drawn, generic CoPP (a capsule-and-blister motif on its cover, no real text; legend "Illustrative example") that behaves like a passport. It travels along the Thread with a medicine carton: from the clean partner plant in India, to a regulatory dossier in-tray, each step adding a wordless generic stamp to its pages. At the Switch, the camera pushes into the blank name field, and a small drawing of the manufacturing plant appears on the name bar. WHITE world for the answer, RED world for the question card and the Switch. No red cross; no syringes.
 
 ## Hook options
 1. **H01 the buyer's exact question:** "What is a CoPP, and why does your regulator ask for it?" / Visual: question card Nº 01 lands and flips / Claims: C-048 (buyers search "copp certificate meaning"), C-024
@@ -16,21 +16,21 @@
 | Line | Spoken (exactly as it will be voiced) | One subject on screen | Motion | Claims |
 |---|---|---|---|---|
 | L01 | What is a C-O-P-P, and why does your regulator ask for it? | Question card Nº 01 on a pharmaceutical distributor's desk (RED world, white type, black card outline; a white-outlined medicine carton at the edge, dimmed) | Opening sting: the Thread pulls taut, then the card drops onto the desk and flips; type "What is a *CoPP*?" (accent: *CoPP*) | – (question; C-048) |
-| L02 | Short answer: a Certificate of Pharmaceutical Product, in the W-H-O format. | One generic CoPP, closed like a passport, with a capsule-and-blister motif on the cover (legend "Illustrative") | The card unfolds into the document; WHITE world; the capitals C·P·P light up in crimson as they are spoken | C-024 (see note) |
-| L03 | In Nigeria, NAFDAC asks for it to register an imported medicine. | A regulatory in-tray holding a dossier binder and a medicine carton (plain-text label "NAFDAC", no logo) | The passport slides along the Thread and lands on top of the dossier | C-024 |
-| L04 | And it must be authenticated by the Nigerian mission. | The CoPP's open page | A wordless round stamp thumps onto the page on "authenticated"; plain-text legend "Nigerian mission" | C-024 |
-| L05 | In India, C-D-S-C-O processes it with the state licensing authorities. | The clean partner pharmaceutical plant in India (no smokestacks; legend "Illustrative: partner manufacturer") | The Thread rewinds the passport back to the plant gate; two plain-text labels, "CDSCO" and "State licensing authority", type on in sequence | C-013 |
+| L02 | Short answer: a Certificate of Pharmaceutical Product, in the W-H-O format. | One generic CoPP, closed like a passport, with a capsule-and-blister motif on the cover (legend "Illustrative example") | The card unfolds into the document; WHITE world; the capitals C·P·P light up in crimson as they are spoken; type "CoPP (WHO: CPP)", shown once in the film, plus a small "1 certificate = 1 product" tag | W-001, W-003, C-024 |
+| L03 | In Nigeria, NAFDAC asks for it to register an imported medicine. | A regulatory in-tray holding a dossier binder and a medicine carton (plain-text label "NAFDAC" on the in-tray only, never on the carton; no logo; the carton shows no tick, seal or "registered" mark) | The passport slides along the Thread and lands on top of the dossier | C-024 |
+| L04 | And it must be authenticated by the Nigerian mission. | The CoPP's open page (legend "Illustrative example") | A wordless round stamp thumps onto the page on "authenticated"; plain-text legend "Nigerian mission" (no coat of arms, flag or seal) | C-024 |
+| L05 | In India, C-D-S-C-O processes it with the state licensing authorities. | The clean partner pharmaceutical plant in India (no smokestacks; legend "Illustrative example: partner manufacturer's site") | The Thread rewinds the passport back to the plant gate; two plain-text labels, "CDSCO" and "State licensing authority", type on in sequence (no Indian State Emblem) | C-013 |
 | L06 | So whose name is on it? You might guess the seller's. | The CoPP's name field, blank | Camera pushes in; a grey "seller?" ghost word hovers over the field | – (setup) |
-| L07 | It's issued to the manufacturer… not to whoever sells it to you. | The name field, with a small white drawing of the manufacturing plant | Tension drop, then world flips to RED; the ghost word "seller" is struck through and "*manufacturer*" lands on the downbeat with the plant icon | SP-6 · **SWITCH** |
-| L08 | So check that the name matches the factory that makes your product. | The partner plant, with faceless QA staff in a white lab coat holding a blister pack at the door | Back to WHITE; the Thread runs from the CoPP name bar to the plant's nameplate and pulls tight; one crimson tick | interpretation (from SP-6) |
-| L09 | Our team requests it from the manufacturer where one exists… and checks it. | The CoPP held beside a medicine carton on a sourcing desk (drawn hands, no faces) | A magnifier sweeps the CoPP once; the CoPP is clipped to the carton and travels along the Thread toward the viewer | SP-4, SP-2 |
-| L10 | Need one for your next registration? Akuma Pharma can help… visit our website. | End card: logo mark + "Akuma Pharma" + button "Talk to our team" | The Thread ties the end-card knot; the button presses in on "website"; akumaenterprises-pharma.com under it; teaser "Next question: Is WHO-GMP the same as WHO *prequalification*?" | SP-3, SP-4 (CTA) |
+| L07 | For the products we source, it's issued in the manufacturer's name… not ours. | The name field, with a small white drawing of the manufacturing plant | Tension drop, then world flips to RED; the ghost word "seller?" is struck through and "*manufacturer*" lands on the downbeat with the plant icon | SP-6 (WC §0.2 item 4) · **SWITCH** |
+| L08 | So check that the name matches the factory that makes your product. | The partner plant, with faceless QA staff in a white lab coat holding a blister pack at the door (legend "Illustrative example: partner manufacturer's site" in the same frame; working pose only, no face, name, badge or caption, never facing camera) | Back to WHITE; the Thread runs from the CoPP name bar to the plant's nameplate and pulls tight; one crimson tick | interpretation (from SP-6) |
+| L09 | Our team requests it from the manufacturer where one exists… and checks it. | The CoPP held beside a medicine carton on a sourcing desk (drawn hands, no faces, no lab coats; legend "Illustrative example") | A magnifier sweeps the CoPP once; the CoPP is clipped to the carton and travels along the Thread toward the viewer. **M1 trade line starts here** (legend zone y 1380–1500, held through the end card, ≥ 8 s, no competing motion) | SP-4, SP-2 |
+| L10 | Need one for your next registration? Talk to Akuma Pharma's team… visit our website. | End card: logo mark + "Akuma Pharma" + button "Talk to our team" | The Thread ties the end-card knot; the button presses in on "website"; akumaenterprises-pharma.com under it; teaser "Next question: Is WHO-GMP the same as WHO *prequalification*?"; M1 holds; M2 line under the logo | SP-3, SP-7 (CTA) |
 
-**End card (WHITE, ≥ 3 s):** site logo mark + "Akuma Pharma" · CTA button "Talk to our team" · akumaenterprises-pharma.com · teaser · regulatory line "Akuma Pharma sources from licensed WHO-GMP certified partner manufacturers in India and supplies licensed buyers only, where authorised." · "Reviewed: <date>".
+**M1 on-screen trade line (from the start of L09 to the end of the end card, ≥ 8 s):** "For licensed pharmaceutical trade and healthcare professionals. Products are supplied only where registered or authorised by the national regulator."
+**End card (WHITE, ≥ 4 s):** site logo mark + "Akuma Pharma" · CTA button "Talk to our team" · akumaenterprises-pharma.com · teaser · **M2:** "Akuma Pharma · Akuma Enterprises, Kharar, Punjab, India · Reviewed: DD Mon YYYY" (the real review date at render). The former regulatory sentence moves to the caption (M3).
 **On-screen spelling:** the voice spells "C-O-P-P", "W-H-O" and "C-D-S-C-O"; captions and kinetic type show "CoPP", "WHO" and "CDSCO".
 
 ## Voice
-Provider / model / voice / settings: ElevenLabs (UI, by user) · model: Eleven v3 (verify current name) · Stability ~50 · Similarity ~75 · Style low · voice: TBD (user picks once; same voice for all)
 ```
 [curious] What is a C-O-P-P, and why does your regulator ask for it? |
 Short answer: a Certificate of Pharmaceutical Product, in the W-H-O format. |
@@ -38,24 +38,27 @@ In Nigeria, NAFDAC asks for it to register an imported medicine. |
 [calm] And it must be authenticated by the Nigerian mission. |
 In India, C-D-S-C-O processes it with the state licensing authorities. |
 [curious] So whose name is on it? You might guess the seller's. |
-[confident] It's issued to the manufacturer… not to whoever sells it to you. |
+[confident] For the products we source, it's issued in the manufacturer's name… not ours. |
 So check that the name matches the factory that makes your product. |
 [warm] Our team requests it from the manufacturer where one exists… and checks it. |
-[reassuring] Need one for your next registration? Akuma Pharma can help… visit our website. |
+[reassuring] Need one for your next registration? Talk to Akuma Pharma's team… visit our website. |
 ```
-(736 characters, counting tags, spaces and ` |`, excluding line breaks; 745 with line breaks · 10 lines · 6 of 10 tagged · est. ~44 s)
+(755 characters, counting tags, spaces and ` |`, excluding line breaks · 10 lines · 6 of 10 tagged · est. ~45 s)
+Provider / model / voice / settings: ElevenLabs (UI, by user) · model: Eleven v3 (verify current name) · Stability ~50 · Similarity ~75 · Style low · voice: TBD (user picks once; same voice for all; commercial-rights plan, designed or library voice, logged; B4)
 Persona: warm, confident, unhurried business partner; never shouty; slower on the spelled letters. Pronunciation: "Akuma" = ah-KOO-mah; "NAFDAC" = NAF-dak. If either is misread, replace with "Ah-koo-mah" / "Naf-dak" and regenerate the whole take.
 
 ## Claims and sources
 | ID | Claim (as spoken) | Source (publisher, date, URL) | Label | Notes |
 |---|---|---|---|---|
 | C-048 | Hook question (what buyers search) | Google autocomplete, 2026-11-10, https://suggestqueries.google.com/complete/search?client=firefox&q=who+gmp+certificate | FACT | Shows the queries exist ("copp certificate meaning"), not their volume. Not spoken as a fact. |
-| C-024 | "…in the W-H-O format." / "In Nigeria, NAFDAC asks for it to register an imported medicine." / "…authenticated by the Nigerian mission." | Mondaq (Nigerian law firm), n.d., https://www.mondaq.com/nigeria/life-sciences-biotechnology-nanotechnology/1541528/what-to-know-about-registering-a-drugpharmaceutical-product-with-the-nafdac | REPORTED | Law-firm summary; reviewer to re-check the current nafdac.gov.ng guideline. **Not sourced in the ledger text:** the acronym expansion "Certificate of Pharmaceutical Product" (it appears in CONTENT_CALENDAR and WEBSITE_CORRECTIONS §3.3.2, not verbatim in C-024). Add it to C-024's notes or log a definition row before voice. |
+| W-001 | "Short answer: a Certificate of Pharmaceutical Product, in the W-H-O format." | World Health Organization, TRS 1033 Annex 9 (Guidelines on the implementation of the CPP), 2021, https://cdn.who.int/media/docs/default-source/medicines/norms-and-standards/guidelines/inspections/trs1033_annex9_guidelines-on-implementation-of-cpp.pdf?sfvrsn=c40c033b_1 | FACT | The Scheme's primary document is the certificate of a pharmaceutical product (CPP), commonly called CoPP. WHO's abbreviation "CPP" is shown once on screen at L02. |
+| W-003 | On-screen "1 certificate = 1 product" (L02); description "issued for a specific product" | World Health Organization, Model certificate of a pharmaceutical product, n.d., https://www.who.int/teams/regulation-prequalification/regulation-and-safety/regulatory-convergence-networks/certification-scheme/model-certificate-of-a-pharmaceutical-product | FACT | Establishes the status of the product and of the applicant in the exporting country; one certificate per product. |
+| C-024 | "…in the W-H-O format." / "In Nigeria, NAFDAC asks for it to register an imported medicine." / "…authenticated by the Nigerian mission." | Mondaq (Nigerian law firm), n.d., https://www.mondaq.com/nigeria/life-sciences-biotechnology-nanotechnology/1541528/what-to-know-about-registering-a-drugpharmaceutical-product-with-the-nafdac | REPORTED | Law-firm summary. Before publish, re-check against the current NAFDAC guideline; if NAFDAC says "legalised", update L04 and the description (Compliance change 9). |
 | C-013 | "In India, CDSCO processes it with the state licensing authorities." | Medical Dialogues, 2025-08-11, https://medicaldialogues.in/news/industry/pharma/cdsco/no-more-physical-who-gmp-certificate-applications-after-august-15-dcgi-alerts-pharma-firms-153274 | REPORTED | Ledger: processed by CDSCO zonal offices with State Licensing Authorities; online-only since 15 Aug 2025 (not spoken). |
-| SP-6 | "It's issued to the manufacturer… not to whoever sells it to you." (Switch) | 03_STRATEGY §3.4 ← WEBSITE_CORRECTIONS §0.2 item 4 (CoPP/FSC issued in the partner manufacturers' names); DECISIONS D-007 | SERVICE PROMISE / model fact | Also A_BUSINESS: "A CoPP is issued to the licence holder (manufacturer)". Reviewer: confirm the general wording. |
+| SP-6 | "For the products we source, it's issued in the manufacturer's name… not ours." (Switch) | 03_STRATEGY §3.4 ← WEBSITE_CORRECTIONS §0.2 item 4 (CoPP/FSC issued in the partner manufacturers' names); DECISIONS D-007 | SERVICE PROMISE | Scoped to Akuma's own partners, as the reviewer required. The general rule ("issued to the licensed manufacturer, not a trader") stays out until a primary CDSCO source is logged. |
 | (interp.) | "So check that the name matches the factory that makes your product." | Derived from SP-6 | INTERPRETATION | Advice, not a fact. |
 | SP-4, SP-2 | "Our team requests it from the manufacturer where one exists… and checks it." | 03_STRATEGY §3.4 ← WEBSITE_CORRECTIONS §0.2 item 4, §0.4 | SERVICE PROMISE | "Where one exists" keeps the caveat that not every product has a CoPP. |
-| SP-3 | "Akuma Pharma can help" | 03_STRATEGY §3.4; DECISIONS D-014 | SERVICE PROMISE | |
+| SP-3, SP-7 | "Talk to Akuma Pharma's team… visit our website." | 03_STRATEGY §3.4; DECISIONS D-014 | SERVICE PROMISE | An invitation to talk; it promises no CoPP or registration outcome. |
 
 ## Compliance
 - **Reviewer:** studio compliance reviewer (AI), 2026-11-10. Checked against `references/10_compliance.md` A, B, D; E_PLATFORMS §2, §7, §8, §10; WEBSITE_CORRECTIONS §0.2–0.5; 03_STRATEGY §3.4; DECISIONS D-012…D-019; RESEARCH_LEDGER. **This is not a legal, medical or regulatory approval.** Human regulatory sign-off by the client's named reviewer is still required before publish (E_PLATFORMS §11, Gate 4) and recommended before the final voice.
@@ -120,17 +123,21 @@ Educational content · Illustrative animation · AI-generated narration · Revie
 
 **Notes:** the voice character count changes with changes 1 and 3; the writer should recount. This episode is good education that fits the "Verify, Then Trust" positioning; the risk was only in the generalised Switch.
 
+Changes applied 2026-11-10 by scriptwriter: L07 (Switch, scoped to Akuma's partners), L10 (CTA "Talk to Akuma Pharma's team"), L02 (now cites W-001/W-003; "CoPP (WHO: CPP)" shown once), L02/L04/L05/L08/L09 labels ("Illustrative example" / "Illustrative example: partner manufacturer's site"), L03/L04/L05 visual guardrails, M1 trade line L09→end card, M2 end card, M3 caption + AI-narration line, description paragraph 2, pinned comment (WHO rows), YouTube = website only, voice recount 755.
+
 ## Package (when published)
 - **Title:** `What is a CoPP, and why does your regulator ask for it?`
 - **Description:**
 ```
 Question Nº 01 from The Importer's Questions: what a CoPP is, and why regulators ask for it.
 
-A CoPP is a Certificate of Pharmaceutical Product in the WHO format. In Nigeria, NAFDAC asks for it to register an imported medicine, authenticated by the Nigerian mission. In India, it is processed by CDSCO with the state licensing authorities, and it is issued to the manufacturer, not to the seller. Check that the name on it matches the factory that makes your product.
+A CoPP is a Certificate of Pharmaceutical Product in the WHO format, issued for a specific product. In Nigeria, NAFDAC asks for it to register an imported medicine, authenticated by the Nigerian mission. In India, it is processed by CDSCO with the state licensing authorities. For the products Akuma Pharma sources, it is issued in the manufacturer's name, not ours, so check that the name on it matches the factory that makes your product.
 
 Need one for your next registration? Talk to our team at akumaenterprises-pharma.com
 
-Akuma Pharma sources from licensed WHO-GMP certified partner manufacturers in India and supplies licensed buyers only, where registered or authorised. Educational content; illustrative animation. Sources in the pinned comment.
+For licensed pharmaceutical trade and healthcare professionals. Products are supplied only where registered or authorised by the national regulator.
+Akuma Pharma is operated by Akuma Enterprises, Kharar, Punjab, India, a pharmaceutical sourcing and export company. We do not manufacture: products are made by licensed WHO-GMP certified partner manufacturers in India, and the certificates are issued in their names.
+Educational content · Illustrative animation · AI-generated narration · Reviewed: DD Mon YYYY · Sources in the pinned comment.
 
 #CoPP #PharmaImport #PharmaRegulatory #ImportersQuestions #AkumaPharma
 ```
@@ -138,9 +145,11 @@ Akuma Pharma sources from licensed WHO-GMP certified partner manufacturers in In
 - **Pinned comment (sources):**
 ```
 Sources
+· WHO Certification Scheme: the certificate of a pharmaceutical product (CPP/CoPP) is the Scheme's primary document: WHO, TRS 1033 Annex 9, 2021, https://cdn.who.int/media/docs/default-source/medicines/norms-and-standards/guidelines/inspections/trs1033_annex9_guidelines-on-implementation-of-cpp.pdf?sfvrsn=c40c033b_1
+· One certificate per product, issued in the exporting country: WHO, Model certificate of a pharmaceutical product, n.d., https://www.who.int/teams/regulation-prequalification/regulation-and-safety/regulatory-convergence-networks/certification-scheme/model-certificate-of-a-pharmaceutical-product
 · NAFDAC imported-drug registration (WHO-format CoPP, authenticated by the Nigerian mission): Mondaq, n.d., https://www.mondaq.com/nigeria/life-sciences-biotechnology-nanotechnology/1541528/what-to-know-about-registering-a-drugpharmaceutical-product-with-the-nafdac
 · India: WHO-GMP/CoPP processed by CDSCO zonal offices with State Licensing Authorities: Medical Dialogues, 11 Aug 2025, https://medicaldialogues.in/news/industry/pharma/cdsco/no-more-physical-who-gmp-certificate-applications-after-august-15-dcgi-alerts-pharma-firms-153274
 Next question: Is WHO-GMP the same as WHO prequalification?
 ```
-- **Attribution:** UTM `https://akumaenterprises-pharma.com/?utm_source=<platform>&utm_medium=social&utm_campaign=closer&utm_content=akv-002` (platform = linkedin | youtube | instagram | facebook | whatsapp) · WhatsApp prefill `Hi Akuma Pharma, I saw video AKV-002` → `https://wa.me/917986147827?text=Hi%20Akuma%20Pharma%2C%20I%20saw%20video%20AKV-002` (LinkedIn first comment, Meta, WhatsApp only; never on YouTube)
+- **Attribution:** UTM `https://akumaenterprises-pharma.com/?utm_source=<platform>&utm_medium=social&utm_campaign=closer&utm_content=akv-002` (platform = linkedin | youtube | instagram | facebook | whatsapp) · WhatsApp prefill `Hi Akuma Pharma, I saw video AKV-002` → `https://wa.me/917986147827?text=Hi%20Akuma%20Pharma%2C%20I%20saw%20video%20AKV-002` (LinkedIn first comment, Meta, WhatsApp only; never on YouTube: no "WhatsApp", number or wa.me link in the YouTube description, pinned comment or replies). YouTube: website only; put the UTM link in the channel-profile links (Shorts description links are not clickable; re-verify) and tick "Altered or synthetic content" at upload.
 - **Playlist / series:** S1 "The Importer's Questions" / « Les questions de l'importateur », Ep 1 · **Cover frame:** L01 (t = 1.5 s): question card Nº 01 "What is a *CoPP*?"

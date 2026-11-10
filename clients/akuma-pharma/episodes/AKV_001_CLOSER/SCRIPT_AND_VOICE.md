@@ -140,16 +140,19 @@ Changes applied 2026-11-10 by scriptwriter: L02 (new line + sourced legend ≥ 6
 - **Title:** `Closer Than You Think | Akuma Pharma`
 - **Description:**
 ```
-You run a pharmaceutical business. Many medicines you stock are made in India, an ocean and a time difference away.
+You run a pharmaceutical business. Chances are, some of the medicines you need are made in India, an ocean and several time zones away.
 
 Akuma Pharma is your team in India. We source finished medicines from WHO-GMP certified partner manufacturers in India, check their licences and documents, and our team assists you from sourcing in India all the way to delivery at your door. Each shipment carries the manufacturer's batch certificate of analysis.
 
 Message our team on WhatsApp, or visit akumaenterprises-pharma.com
 
-Akuma Pharma sources from licensed WHO-GMP certified partner manufacturers in India and supplies licensed buyers only, where registered or authorised. Illustrative animation. Sources in the pinned comment.
+For licensed pharmaceutical trade and healthcare professionals. Products are supplied only where registered or authorised by the national regulator.
+Akuma Pharma is operated by Akuma Enterprises, Kharar, Punjab, India, a pharmaceutical sourcing and export company. We do not manufacture: products are made by licensed WHO-GMP certified partner manufacturers in India, and the certificates are issued in their names.
+Illustrative animation · AI-generated narration · Reviewed: DD Mon YYYY · Sources in the pinned comment.
 
 #PharmaSourcing #PharmaImport #IndiaToAfrica #AkumaPharma
 ```
+- **YouTube description** (website only; no "WhatsApp", number or wa.me link in the description, pinned comment or replies): same text as above, with the CTA line replaced by `Talk to our team: akumaenterprises-pharma.com`. Put the UTM link in the channel-profile links (links in Shorts descriptions are not clickable; re-verify at publish). Tick "Altered or synthetic content" at upload.
 - **Hashtags / tags:** #PharmaSourcing #PharmaImport #IndiaToAfrica #AkumaPharma · tags: pharmaceutical sourcing India, import medicines from India, pharma importers Africa, WHO-GMP partner manufacturers, Akuma Pharma
 - **Pinned comment (sources):**
 ```
@@ -158,5 +161,5 @@ Sources
 · Time zones: IANA tz database, https://www.iana.org/time-zones
 Service statements describe Akuma Pharma's own service. Next video: What is a CoPP, and why does your regulator ask for it?
 ```
-- **Attribution:** UTM `https://akumaenterprises-pharma.com/?utm_source=<platform>&utm_medium=social&utm_campaign=closer&utm_content=akv-001` (platform = linkedin | youtube | instagram | facebook | whatsapp) · WhatsApp prefill `Hi Akuma Pharma, I saw video AKV-001` → `https://wa.me/917986147827?text=Hi%20Akuma%20Pharma%2C%20I%20saw%20video%20AKV-001` (LinkedIn first comment, Meta, WhatsApp only; YouTube carries the website line only)
+- **Attribution:** UTM `https://akumaenterprises-pharma.com/?utm_source=<platform>&utm_medium=social&utm_campaign=closer&utm_content=akv-001` (platform = linkedin | youtube | instagram | facebook | whatsapp) · WhatsApp prefill `Hi Akuma Pharma, I saw video AKV-001` → `https://wa.me/917986147827?text=Hi%20Akuma%20Pharma%2C%20I%20saw%20video%20AKV-001` (LinkedIn first comment, Meta, WhatsApp only; YouTube carries the website line only, and its pinned comment never contains WhatsApp)
 - **Playlist / series:** "Closer Than You Think" (campaign) · S3 "The Thread" pilot · **Cover frame:** L11 (t ≈ 39 s): the open pharmacy door (black plus sign) with the knotted Thread and "Closer than you *think*."
