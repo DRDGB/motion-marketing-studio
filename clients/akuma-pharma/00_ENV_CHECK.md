@@ -29,9 +29,9 @@ Also list the callable tools yourself (Agent, web search/fetch, Drive connector,
 |---|---|
 | Agent / subagents (mms-* team + general-purpose) | available |
 | Web search (WebSearch, Firecrawl search) | available |
-| Client website akumaenterprises-pharma.com | BLOCKED from the container (proxy 403 for curl, Python, Playwright, WebFetch); readable via Firecrawl MCP. Fix: add the domain under Allowed domains in the environment's network settings |
+| Client website akumaenterprises-pharma.com | reachable (network opened to full access by the user on 2026-11-10; was blocked earlier) |
 | Google Drive connector (MCP) | available (scripts/drive_upload.py has no GDRIVE_* credentials) |
-| ElevenLabs | NOT available: api.elevenlabs.io unreachable, no API key, no MCP |
+| ElevenLabs | api.elevenlabs.io reachable since full network access; no ELEVENLABS_API_KEY set and no ElevenLabs MCP |
 | Scheduling (scheduled tasks) | available |
 | Renderer | verified: Remotion still rendered from the demo engine with the shared engine install |
 

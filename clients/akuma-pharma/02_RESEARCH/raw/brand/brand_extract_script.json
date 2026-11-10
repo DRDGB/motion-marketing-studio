@@ -1,0 +1,509 @@
+{
+ "source": "https://akumaenterprises-pharma.com/",
+ "errors": [],
+ "final_url": "https://akumaenterprises-pharma.com/",
+ "title": "Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides &amp; Custom Export from Asia to All 54 Countries of Africa (EN/FR)",
+ "description": "WHO-GMP &amp; ISO 9001:2015 exporter from Asia to all 54 countries of Africa &amp; worldwide: finished pharmaceutical formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules manufactured or sourced on request with Zone IVb stability &amp; bilingual EN/FR Africa dossiers.",
+ "theme_color": "#B3122B",
+ "og_image": "https://www.akumaenterprises-pharma.com/og-image.jpg",
+ "lang": "en",
+ "stylesheets": [
+  "https://akumaenterprises-pharma.com/assets/index-D_DeLMVN.css"
+ ],
+ "css_variables": {
+  "--tw-ring-offset-color": "#dc2626",
+  "--tw-ring-color": "rgb(248 113 113/var(--tw-ring-opacity,1))",
+  "--tw-shadow-colored": "0 0 #0000",
+  "--primary": "350 82% 46%",
+  "--primary-foreground": "0 0% 100%",
+  "--primary-light": "350 85% 56%",
+  "--primary-dark": "350 90% 36%",
+  "--accent": "160 84% 45%",
+  "--accent-foreground": "0 0% 100%",
+  "--accent-light": "160 70% 55%",
+  "--secondary": "218 15% 15%",
+  "--secondary-foreground": "0 0% 95%",
+  "--gradient-primary": "linear-gradient(135deg, hsl(350 82% 46%), hsl(350 85% 56%)), hsl(45 85% 55%))",
+  "--gradient-accent": "linear-gradient(135deg, hsl(var(--accent)), hsl(var(--accent-light)))",
+  "--tw-shadow-color": "hsl(var(--card))"
+ },
+ "colours_ranked": [
+  {
+   "hex": "#000000",
+   "kind": "neutral",
+   "lightness": 0.0,
+   "saturation": 0.0,
+   "hue": 0,
+   "luminance": 0.0,
+   "count": 94
+  },
+  {
+   "hex": "#ffffff",
+   "kind": "neutral",
+   "lightness": 1.0,
+   "saturation": 0.0,
+   "hue": 0,
+   "luminance": 1.0,
+   "count": 59
+  },
+  {
+   "hex": "#e31b36",
+   "kind": "colour",
+   "lightness": 0.5,
+   "saturation": 0.79,
+   "hue": 352,
+   "luminance": 0.28,
+   "count": 46
+  },
+  {
+   "hex": "#e2e8f0",
+   "kind": "colour",
+   "lightness": 0.91,
+   "saturation": 0.32,
+   "hue": 214,
+   "luminance": 0.91,
+   "count": 31
+  },
+  {
+   "hex": "#f59e0b",
+   "kind": "colour",
+   "lightness": 0.5,
+   "saturation": 0.92,
+   "hue": 38,
+   "luminance": 0.65,
+   "count": 21
+  },
+  {
+   "hex": "#0f172a",
+   "kind": "colour",
+   "lightness": 0.11,
+   "saturation": 0.47,
+   "hue": 222,
+   "luminance": 0.09,
+   "count": 18
+  },
+  {
+   "hex": "#1e293b",
+   "kind": "colour",
+   "lightness": 0.17,
+   "saturation": 0.33,
+   "hue": 217,
+   "luminance": 0.16,
+   "count": 17
+  },
+  {
+   "hex": "#b3122b",
+   "kind": "colour",
+   "lightness": 0.39,
+   "saturation": 0.82,
+   "hue": 351,
+   "luminance": 0.21,
+   "count": 15
+  },
+  {
+   "hex": "#111318",
+   "kind": "colour",
+   "lightness": 0.08,
+   "saturation": 0.17,
+   "hue": 223,
+   "luminance": 0.07,
+   "count": 14
+  },
+  {
+   "hex": "#fbbf24",
+   "kind": "colour",
+   "lightness": 0.56,
+   "saturation": 0.96,
+   "hue": 43,
+   "luminance": 0.76,
+   "count": 11
+  },
+  {
+   "hex": "#334155",
+   "kind": "colour",
+   "lightness": 0.27,
+   "saturation": 0.25,
+   "hue": 215,
+   "luminance": 0.25,
+   "count": 10
+  },
+  {
+   "hex": "#94a3b8",
+   "kind": "colour",
+   "lightness": 0.65,
+   "saturation": 0.2,
+   "hue": 215,
+   "luminance": 0.63,
+   "count": 9
+  },
+  {
+   "hex": "#991b1b",
+   "kind": "colour",
+   "lightness": 0.35,
+   "saturation": 0.7,
+   "hue": 0,
+   "luminance": 0.21,
+   "count": 9
+  },
+  {
+   "hex": "#f1f5f9",
+   "kind": "colour",
+   "lightness": 0.96,
+   "saturation": 0.4,
+   "hue": 210,
+   "luminance": 0.96,
+   "count": 9
+  },
+  {
+   "hex": "#cbd5e1",
+   "kind": "colour",
+   "lightness": 0.84,
+   "saturation": 0.27,
+   "hue": 213,
+   "luminance": 0.83,
+   "count": 9
+  },
+  {
+   "hex": "#3b82f6",
+   "kind": "colour",
+   "lightness": 0.6,
+   "saturation": 0.91,
+   "hue": 217,
+   "luminance": 0.48,
+   "count": 8
+  },
+  {
+   "hex": "#1e3a8a",
+   "kind": "colour",
+   "lightness": 0.33,
+   "saturation": 0.64,
+   "hue": 224,
+   "luminance": 0.23,
+   "count": 8
+  },
+  {
+   "hex": "#10b981",
+   "kind": "colour",
+   "lightness": 0.39,
+   "saturation": 0.84,
+   "hue": 160,
+   "luminance": 0.57,
+   "count": 8
+  },
+  {
+   "hex": "#fef2f2",
+   "kind": "colour",
+   "lightness": 0.97,
+   "saturation": 0.86,
+   "hue": 0,
+   "luminance": 0.96,
+   "count": 8
+  },
+  {
+   "hex": "#dc2626",
+   "kind": "colour",
+   "lightness": 0.51,
+   "saturation": 0.72,
+   "hue": 0,
+   "luminance": 0.3,
+   "count": 7
+  },
+  {
+   "hex": "#f8fafc",
+   "kind": "colour",
+   "lightness": 0.98,
+   "saturation": 0.4,
+   "hue": 210,
+   "luminance": 0.98,
+   "count": 7
+  },
+  {
+   "hex": "#22c55e",
+   "kind": "colour",
+   "lightness": 0.45,
+   "saturation": 0.71,
+   "hue": 142,
+   "luminance": 0.61,
+   "count": 7
+  },
+  {
+   "hex": "#cccccc",
+   "kind": "neutral",
+   "lightness": 0.8,
+   "saturation": 0.0,
+   "hue": 0,
+   "luminance": 0.8,
+   "count": 6
+  },
+  {
+   "hex": "#fee2e2",
+   "kind": "colour",
+   "lightness": 0.94,
+   "saturation": 0.93,
+   "hue": 0,
+   "luminance": 0.91,
+   "count": 6
+  },
+  {
+   "hex": "#ef4444",
+   "kind": "colour",
+   "lightness": 0.6,
+   "saturation": 0.84,
+   "hue": 0,
+   "luminance": 0.41,
+   "count": 5
+  },
+  {
+   "hex": "#64748b",
+   "kind": "colour",
+   "lightness": 0.47,
+   "saturation": 0.16,
+   "hue": 215,
+   "luminance": 0.45,
+   "count": 5
+  },
+  {
+   "hex": "#475569",
+   "kind": "colour",
+   "lightness": 0.35,
+   "saturation": 0.19,
+   "hue": 215,
+   "luminance": 0.33,
+   "count": 5
+  },
+  {
+   "hex": "#0ea5e9",
+   "kind": "colour",
+   "lightness": 0.48,
+   "saturation": 0.89,
+   "hue": 199,
+   "luminance": 0.54,
+   "count": 4
+  },
+  {
+   "hex": "#a855f7",
+   "kind": "colour",
+   "lightness": 0.65,
+   "saturation": 0.91,
+   "hue": 271,
+   "luminance": 0.45,
+   "count": 4
+  },
+  {
+   "hex": "#16a34a",
+   "kind": "colour",
+   "lightness": 0.36,
+   "saturation": 0.76,
+   "hue": 142,
+   "luminance": 0.5,
+   "count": 4
+  },
+  {
+   "hex": "#7c9a7e",
+   "kind": "colour",
+   "lightness": 0.55,
+   "saturation": 0.13,
+   "hue": 124,
+   "luminance": 0.57,
+   "count": 4
+  },
+  {
+   "hex": "#fafafb",
+   "kind": "neutral",
+   "lightness": 0.98,
+   "saturation": 0.11,
+   "hue": 240,
+   "luminance": 0.98,
+   "count": 4
+  },
+  {
+   "hex": "#fecaca",
+   "kind": "colour",
+   "lightness": 0.89,
+   "saturation": 0.96,
+   "hue": 0,
+   "luminance": 0.84,
+   "count": 4
+  },
+  {
+   "hex": "#fca5a5",
+   "kind": "colour",
+   "lightness": 0.82,
+   "saturation": 0.94,
+   "hue": 0,
+   "luminance": 0.72,
+   "count": 4
+  },
+  {
+   "hex": "#f87171",
+   "kind": "colour",
+   "lightness": 0.71,
+   "saturation": 0.91,
+   "hue": 0,
+   "luminance": 0.56,
+   "count": 4
+  },
+  {
+   "hex": "#e5e7eb",
+   "kind": "colour",
+   "lightness": 0.91,
+   "saturation": 0.13,
+   "hue": 220,
+   "luminance": 0.91,
+   "count": 3
+  },
+  {
+   "hex": "#9ca3af",
+   "kind": "neutral",
+   "lightness": 0.65,
+   "saturation": 0.11,
+   "hue": 218,
+   "luminance": 0.64,
+   "count": 3
+  },
+  {
+   "hex": "#06b6d4",
+   "kind": "colour",
+   "lightness": 0.43,
+   "saturation": 0.94,
+   "hue": 189,
+   "luminance": 0.58,
+   "count": 3
+  },
+  {
+   "hex": "#fffbeb",
+   "kind": "colour",
+   "lightness": 0.96,
+   "saturation": 1.0,
+   "hue": 48,
+   "luminance": 0.98,
+   "count": 3
+  },
+  {
+   "hex": "#ecfdf5",
+   "kind": "colour",
+   "lightness": 0.96,
+   "saturation": 0.81,
+   "hue": 152,
+   "luminance": 0.98,
+   "count": 3
+  }
+ ],
+ "brand_colour_candidates": [
+  {
+   "hex": "#e31b36",
+   "kind": "colour",
+   "lightness": 0.5,
+   "saturation": 0.79,
+   "hue": 352,
+   "luminance": 0.28,
+   "count": 46
+  },
+  {
+   "hex": "#e2e8f0",
+   "kind": "colour",
+   "lightness": 0.91,
+   "saturation": 0.32,
+   "hue": 214,
+   "luminance": 0.91,
+   "count": 31
+  },
+  {
+   "hex": "#f59e0b",
+   "kind": "colour",
+   "lightness": 0.5,
+   "saturation": 0.92,
+   "hue": 38,
+   "luminance": 0.65,
+   "count": 21
+  },
+  {
+   "hex": "#0f172a",
+   "kind": "colour",
+   "lightness": 0.11,
+   "saturation": 0.47,
+   "hue": 222,
+   "luminance": 0.09,
+   "count": 18
+  },
+  {
+   "hex": "#1e293b",
+   "kind": "colour",
+   "lightness": 0.17,
+   "saturation": 0.33,
+   "hue": 217,
+   "luminance": 0.16,
+   "count": 17
+  },
+  {
+   "hex": "#b3122b",
+   "kind": "colour",
+   "lightness": 0.39,
+   "saturation": 0.82,
+   "hue": 351,
+   "luminance": 0.21,
+   "count": 15
+  },
+  {
+   "hex": "#111318",
+   "kind": "colour",
+   "lightness": 0.08,
+   "saturation": 0.17,
+   "hue": 223,
+   "luminance": 0.07,
+   "count": 14
+  },
+  {
+   "hex": "#fbbf24",
+   "kind": "colour",
+   "lightness": 0.56,
+   "saturation": 0.96,
+   "hue": 43,
+   "luminance": 0.76,
+   "count": 11
+  }
+ ],
+ "fonts_ranked": [
+  [
+   "-apple-system",
+   2
+  ],
+  [
+   "ui-sans-serif",
+   2
+  ],
+  [
+   "ui-monospace",
+   2
+  ],
+  [
+   "inherit",
+   1
+  ],
+  [
+   "Plus Jakarta Sans",
+   1
+  ],
+  [
+   "Playfair Display",
+   1
+  ]
+ ],
+ "google_fonts_links": [],
+ "logo_candidates": [],
+ "icon_candidates": [
+  "https://akumaenterprises-pharma.com/logo.svg",
+  "https://akumaenterprises-pharma.com/favicon-32.png",
+  "https://akumaenterprises-pharma.com/favicon-16.png",
+  "https://akumaenterprises-pharma.com/favicon.ico",
+  "https://akumaenterprises-pharma.com/apple-touch-icon.png"
+ ],
+ "social_links": [
+  "https://wa.me/9107986147827"
+ ],
+ "contact_links": [
+  "mailto:dalle@akumaenterprises-pharma.com",
+  "mailto:sales@akumaenterprises-pharma.com"
+ ],
+ "note": "Hints only. Verify against a screenshot and the client's brand guide; ask for vector logo files and licensed fonts."
+}
