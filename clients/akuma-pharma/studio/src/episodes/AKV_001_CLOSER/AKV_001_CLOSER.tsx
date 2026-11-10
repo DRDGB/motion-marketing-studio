@@ -41,7 +41,7 @@ const Scene: React.FC<{ id: string; children: React.ReactNode; until?: string }>
   const a = START(id), b = until ? END_OF(until) : END_OF(id);
   return <Sequence from={fr(a)} durationInFrames={Math.max(1, fr(b) - fr(a))}>{children}</Sequence>;
 };
-const Legend: React.FC<{ text: string; y?: number; o?: number; dark?: boolean }> = ({ text, y = 1500, o = 1, dark }) => (
+const Legend: React.FC<{ text: string; y?: number; o?: number; dark?: boolean }> = ({ text, y = 1440, o = 1, dark }) => (
   <div style={{ position: "absolute", top: y, left: 90, right: 90, textAlign: "center", fontFamily: TEXT, fontSize: 28, fontWeight: 500, color: dark ? alpha(C.light, 0.8) : C.dim, opacity: o }}>{text}</div>
 );
 const Svg: React.FC<{ children: React.ReactNode }> = ({ children }) => <svg width={1080} height={1920} style={{ position: "absolute" }}>{children}</svg>;
@@ -50,11 +50,11 @@ const local = (f: number, id: string, t: number) => f - fr(t - START(id)); // fr
 // ---------- scenes ----------
 const S01: React.FC = () => {
   const f = useCurrentFrame(); const id = "L01";
-  const thread: Pt[] = [[-30, 980], [200, 900], [380, 1010], [470, 1160]];
+  const thread: Pt[] = [[-30, 830], [200, 760], [380, 860], [430, 1030]];
   return (<>
     <Kinetic offset={START(id)} lines={K(id, [3, 2, 4, 2], { 9: "accent", 10: "big", 0: "dim", 1: "dim", 2: "dim", 7: "dim", 8: "dim" })} />
     <SceneCam dur={fr(END_OF(id) - START(id))}><Svg>
-      <Pharmacy x={540} y={1300} s={1.15 * pop(f, 3)} />
+      <Pharmacy x={540} y={1160} s={1.55 * pop(f, 3)} />
       <Thread pts={thread} k={ease(f, 2, 26)} />
     </Svg></SceneCam>
   </>);
@@ -62,17 +62,17 @@ const S01: React.FC = () => {
 const S02: React.FC = () => {
   const f = useCurrentFrame(); const id = "L02";
   const lift = ease(f, 6, 30);
-  const arc: Pt[] = [[230, 1330], [540, 1180], [850, 1330]];
+  const arc: Pt[] = [[200, 1270], [540, 1130], [880, 1270]];
   return (<>
     <Kinetic offset={START(id)} lines={K(id, [3, 3, 3, 3], { 0: "dim", 1: "dim", 8: "dim", 9: "dim", 10: "dim", 11: "accent" }, 0)} />
     <Svg>
-      <MedCarton x={540} y={1060 - 80 * lift} s={1.25 * pop(f, 2)} />
+      <MedCarton x={540} y={990 - 80 * lift} s={1.7 * pop(f, 2)} />
       <Thread pts={arc} k={ease(f, 20, 60)} width={7} bead={false} />
-      <Node x={230} y={1330} pop={pop(f, 18)} /><Node x={850} y={1330} pop={pop(f, 50)} />
-      <text x={230} y={1410} textAnchor="middle" fontFamily={TEXT} fontSize={32} fontWeight={700} letterSpacing={3} fill={C.ink} opacity={pop(f, 20)}>YOUR MARKET</text>
-      <text x={850} y={1410} textAnchor="middle" fontFamily={TEXT} fontSize={32} fontWeight={700} letterSpacing={3} fill={C.accent} opacity={pop(f, 52)}>INDIA</text>
+      <Node x={200} y={1270} pop={pop(f, 18)} /><Node x={880} y={1270} pop={pop(f, 50)} />
+      <text x={200} y={1345} textAnchor="middle" fontFamily={TEXT} fontSize={32} fontWeight={700} letterSpacing={3} fill={C.ink} opacity={pop(f, 20)}>YOUR MARKET</text>
+      <text x={880} y={1345} textAnchor="middle" fontFamily={TEXT} fontSize={32} fontWeight={700} letterSpacing={3} fill={C.accent} opacity={pop(f, 52)}>INDIA</text>
     </Svg>
-    <Legend y={1470} o={ease(f, 40, 50)} text="India's pharmaceutical exports to Africa: US$3.93 billion (FY2024-25). Source: Pharmexcil." />
+    <Legend y={1400} o={ease(f, 40, 50)} text="India's pharmaceutical exports to Africa: US$3.93 billion (FY2024-25). Source: Pharmexcil." />
   </>);
 };
 const S03: React.FC = () => {
@@ -82,7 +82,7 @@ const S03: React.FC = () => {
   const sway = f > at(9) ? Math.sin((f - at(9)) / 4) * 4 * Math.max(0, 1 - (f - at(9)) / 30) : 0;
   return (<>
     <Kinetic offset={START(id)} lines={K(id, [2, 2, 1, 4, 1], { 0: "dim", 1: "dim", 5: "dim", 6: "dim", 7: "base", 8: "dim", 9: "accent" })} />
-    <Svg><g transform={`rotate(${sway} 540 1250)`}><DocStack x={540} y={1220} n={count} spread={1} s={1.05 * pop(f, Math.max(0, at(2) - 4))} /></g></Svg>
+    <Svg><g transform={`rotate(${sway} 540 1120)`}><DocStack x={540} y={1100} n={count} spread={1} s={1.5 * pop(f, Math.max(0, at(2) - 4))} /></g></Svg>
   </>);
 };
 const S04: React.FC = () => {
@@ -91,9 +91,9 @@ const S04: React.FC = () => {
   return (<>
     <Kinetic offset={START(id)} lines={K(id, [3, 2, 3], { 0: "dim", 1: "dim", 2: "dim", 5: "dim", 6: "dim", 7: "ghost" })} />
     <Svg><g opacity={1 - 0.6 * grey}>
-      {[180, 400, 620, 840].map((x, i) => <g key={x}>
-        <MedCarton x={x} y={1200} s={0.75 * pop(f, 4 + i * 3)} />
-        <circle cx={x + 55} cy={1135} r={26} fill="none" stroke={C.ink} strokeWidth={6} opacity={0.5 + 0.5 * Math.abs(Math.sin((f + i * 5) / 6))} />
+      {[150, 383, 616, 850].map((x, i) => <g key={x}>
+        <MedCarton x={x} y={1100} s={0.95 * pop(f, 4 + i * 3)} />
+        <circle cx={x + 70} cy={1018} r={26} fill="none" stroke={C.ink} strokeWidth={6} opacity={0.5 + 0.5 * Math.abs(Math.sin((f + i * 5) / 6))} />
       </g>)}
     </g></Svg>
   </>);
@@ -102,27 +102,27 @@ const S05: React.FC = () => {
   const f = useCurrentFrame(); const id = "L05";
   const tc = fr(onset(id, 4) - START(id)); // "closer…"
   const k = ease(f, tc - 4, tc + 18);
-  const lx = 250 + 140 * k, rx = 830 - 140 * k;
+  const lx = 220 + 150 * k, rx = 860 - 150 * k;
   return (<>
     <Kinetic offset={START(id)} lines={K(id, [3, 2, 5], { 0: "dim", 1: "dim", 2: "dim", 3: "base", 4: "accent", 5: "dim", 6: "dim", 7: "dim", 8: "dim", 9: "dim" })} />
     <Svg>
-      <Pharmacy x={lx} y={1260} s={0.55 * pop(f, 2)} />
-      <PharmaPlant x={rx} y={1300} s={0.45 * pop(f, 6)} />
-      <Thread pts={[[lx + 60, 1330], [540, 1250 - 60 * (1 - k)], [rx - 60, 1330]]} k={ease(f, 4, 24)} />
+      <Pharmacy x={lx} y={1150} s={0.85 * pop(f, 2)} />
+      <PharmaPlant x={rx} y={1190} s={0.68 * pop(f, 6)} />
+      <Thread pts={[[lx + 90, 1240], [540, 1170 - 70 * (1 - k)], [rx - 90, 1240]]} k={ease(f, 4, 24)} />
     </Svg>
   </>);
 };
 const S06: React.FC = () => {
   const f = useCurrentFrame(); const id = "L06";
-  const loop: Pt[] = Array.from({ length: 13 }, (_, i) => { const a = Math.PI * 0.75 + (i / 12) * Math.PI * 2; return [540 + 330 * Math.cos(a), 1220 + 200 * Math.sin(a)] as Pt; });
+  const loop: Pt[] = Array.from({ length: 13 }, (_, i) => { const a = Math.PI * 0.75 + (i / 12) * Math.PI * 2; return [540 + 430 * Math.cos(a), 1110 + 250 * Math.sin(a)] as Pt; });
   return (<>
     <Kinetic offset={START(id)} lines={K(id, [2, 2, 1, 2, 2], { 0: "dim", 1: "dim", 2: "big", 4: "accent", 5: "dim", 6: "base", 7: "dim", 8: "dim" })} />
     <Svg>
-      <PharmaPlant x={540} y={1220} s={1.0 * pop(f, 2)} />
+      <PharmaPlant x={540} y={1110} s={1.3 * pop(f, 2)} />
       <Thread pts={loop} k={ease(f, 10, 60)} width={8} />
-      <Pharmacist x={900} y={1440} s={0.42 * pop(f, 40)} arm={ease(f, 60, 80)} />
+      <Pharmacist x={930} y={1395} s={0.5 * pop(f, 40)} arm={ease(f, 60, 80)} />
     </Svg>
-    <Legend y={1500} o={ease(f, 6, 14)} text="Illustrative example: partner manufacturer's site" />
+    <Legend o={ease(f, 6, 14)} text="Illustrative example: partner manufacturer's site" />
   </>);
 };
 const S07: React.FC = () => {
@@ -132,14 +132,14 @@ const S07: React.FC = () => {
   return (<>
     <Kinetic offset={START(id)} lines={K(id, [3, 1, 2], { 0: "dim", 1: "base", 2: "dim", 3: "big", 4: "dim", 5: "accent" })} />
     <Svg>
-      <Blister x={300} y={1260} s={0.8 * pop(f, 4)} rot={-8} />
-      <Doc x={640} y={1200} s={1.15 * pop(f, 2)} stamp={pop(f, td)} />
-      <g transform={`translate(${520 + 260 * sweep} ${1150 + 40 * Math.sin(sweep * 6)})`} opacity={sweep < 1 ? 1 : 1 - ease(f, td + 6, td + 14)}>
+      <Blister x={270} y={1150} s={1.1 * pop(f, 4)} rot={-8} />
+      <Doc x={670} y={1090} s={1.6 * pop(f, 2)} stamp={pop(f, td)} />
+      <g transform={`translate(${520 + 300 * sweep} ${1030 + 50 * Math.sin(sweep * 6)})`} opacity={sweep < 1 ? 1 : 1 - ease(f, td + 6, td + 14)}>
         <circle r={70} fill={alpha(C.surface, 0.35)} stroke={C.ink} strokeWidth={12} />
         <rect x={45} y={45} width={24} height={90} rx={12} fill={C.ink} transform="rotate(-45 57 90)" />
       </g>
     </Svg>
-    <Legend y={1500} o={ease(f, 6, 14)} text="Illustrative" />
+    <Legend o={ease(f, 6, 14)} text="Illustrative" />
   </>);
 };
 const S08: React.FC = () => {
@@ -148,34 +148,34 @@ const S08: React.FC = () => {
   return (<>
     <Kinetic dark offset={START(id)} exitAt={second - 0.05} top={560} lines={K(id, [3, 1], { 0: "base", 1: "base", 2: "base", 3: "big" })} />
     <Kinetic dark offset={START(id)} top={560} lines={K(id, [3, 3, 1], { 4: "base", 5: "base", 6: "base", 7: "dim", 8: "dim", 9: "base", 10: "accent" }, 4)} />
-    <Svg><g opacity={0.25 * pop(f, 2)}><Capsule x={540} y={1400} s={2.2} dark /></g></Svg>
+    <Svg><g opacity={0.9 * pop(f, 2)} transform="translate(540 1250) rotate(-30)"><path d="M -200 -80 L 200 -80 A 80 80 0 0 1 200 80 L -200 80 A 80 80 0 0 1 -200 -80 Z" fill="none" stroke={C.light} strokeWidth={10} /><path d="M 0 -80 L 0 80" stroke={C.light} strokeWidth={10} /></g></Svg>
   </>);
 };
 const S09: React.FC = () => {
   const f = useCurrentFrame(); const id = "L09";
-  const stitch: Pt[] = [[640, 1080], [700, 1140], [620, 1180], [700, 1230], [610, 1270]];
+  const stitch: Pt[] = [[650, 940], [730, 1010], [640, 1060], [730, 1120], [630, 1170]];
   return (<>
     <Kinetic offset={START(id)} lines={K(id, [3, 2, 2, 2], { 0: "dim", 1: "base", 2: "dim", 3: "dim", 4: "base", 5: "dim", 6: "dim", 7: "dim", 8: "accent" })} />
     <Svg>
-      <MedCarton x={470} y={1250} s={1.35 * pop(f, 2)} />
-      <Doc x={760} y={1160} s={0.62 * pop(f, 12)} rot={8} stamp={pop(f, 30)} />
+      <MedCarton x={430} y={1130} s={1.9 * pop(f, 2)} />
+      <Doc x={820} y={1000} s={0.85 * pop(f, 12)} rot={8} stamp={pop(f, 30)} />
       <Thread pts={stitch} k={ease(f, 20, 60)} width={7} />
     </Svg>
-    <Legend y={1500} o={ease(f, 6, 14)} text="Illustrative" />
+    <Legend o={ease(f, 6, 14)} text="Illustrative" />
   </>);
 };
 const S10: React.FC = () => {
   const f = useCurrentFrame(); const id = "L10";
   const dur = fr(END_OF(id) - START(id));
   const p = ease(f, 0, dur * 0.55), q = ease(f, dur * 0.45, dur);
-  const route: Pt[] = [[60, 1060], [300, 980], [560, 1060], [780, 1200], [1020, 1140]];
+  const route: Pt[] = [[60, 1000], [300, 920], [560, 1000], [780, 1130], [1020, 1080]];
   return (<>
     <Kinetic offset={START(id)} lines={K(id, [3, 3, 3, 5], { 0: "dim", 1: "base", 2: "dim", 3: "dim", 4: "base", 5: "dim", 6: "dim", 7: "dim", 8: "dim", 9: "dim", 10: "dim", 11: "dim", 12: "dim", 13: "accent" })} top={170} />
     <Svg>
       <Thread pts={route} k={ease(f, 0, dur)} width={8} />
-      <g opacity={1 - q}><Plane x={80 + 620 * p} y={1020 - 30 * Math.sin(p * 3)} s={0.42} rot={90} /></g>
-      <g opacity={q}><Ship x={300 + 450 * q} y={1360} s={0.55} /></g>
-      <MedCarton x={160} y={1420} s={0.5 * pop(f, 6)} />
+      <g opacity={1 - q}><Plane x={80 + 620 * p} y={960 - 30 * Math.sin(p * 3)} s={0.6} rot={90} /></g>
+      <g opacity={q}><Ship x={280 + 420 * q} y={1270} s={0.85} /></g>
+      <MedCarton x={170} y={1360} s={0.7 * pop(f, 6)} />
     </Svg>
   </>);
 };
@@ -184,9 +184,9 @@ const S11: React.FC = () => {
   return (<>
     <Kinetic offset={START(id)} lines={K(id, [2, 3, 3], { 0: "dim", 1: "base", 2: "base", 3: "dim", 4: "base", 5: "dim", 6: "dim", 7: "accent" })} />
     <Svg>
-      <Pharmacy x={540} y={1300} s={1.1 * pop(f, 2)} />
-      <Thread pts={[[-20, 1100], [250, 1040], [470, 1180], [610, 1360]]} k={ease(f, 2, 30)} />
-      <Knot x={610} y={1370} k={ease(f, 28, 46)} s={0.9} />
+      <Pharmacy x={540} y={1160} s={1.55 * pop(f, 2)} />
+      <Thread pts={[[-20, 900], [250, 840], [560, 1000], [726, 1250]]} k={ease(f, 2, 30)} />
+      <Knot x={726} y={1262} k={ease(f, 28, 46)} s={0.9} />
     </Svg>
   </>);
 };
@@ -212,7 +212,7 @@ export const AKV_001_CLOSER: React.FC = () => {
       <Scene id="L10"><S10 /></Scene>
       <Scene id="L11"><S11 /></Scene>
       <Reveal r={r} cx={540} cy={1150}><DarkWorld><Scene id="L08"><S08 /></Scene></DarkWorld></Reveal>
-      <div style={{ position: "absolute", top: 1560, left: 80, right: 80, textAlign: "center", fontFamily: TEXT, fontSize: 25, fontWeight: 500, color: C.dim, opacity: tradeO, lineHeight: 1.3 }}>
+      <div style={{ position: "absolute", top: 1488, left: 80, right: 80, textAlign: "center", fontFamily: TEXT, fontSize: 25, fontWeight: 500, color: C.dim, opacity: tradeO, lineHeight: 1.3 }}>
         For licensed pharmaceutical trade. Products are supplied only where registered or authorised by the national regulator.
       </div>
       {f > fr(2.2) && f < fr(END_AT) && <CornerBug dark={f > fr(dA + 0.75) && f < fr(dB - 0.2)} />}
