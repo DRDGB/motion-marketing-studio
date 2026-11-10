@@ -1,0 +1,174 @@
+URL: https://www.akumaenterprises-pharma.com/about-brand.html
+FINAL: https://www.akumaenterprises-pharma.com/about-brand
+STATUS: 200
+LANG: en
+TITLE: About Akuma Enterprise Pharma — WHO-GMP Finished Formulations & Peptides Manufacturer
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #0D9488
+robots = index,follow,max-image-preview:large,max-snippet:-1
+description = Akuma Enterprise Pharma Pvt. Ltd. is a WHO-GMP and ISO 9001:2015 certified manufacturer and exporter of WHO-GMP finished formulations, Pharmaceutical Peptide APIs, RUO peptides & custom buyer-requested molecules exported from Asia across all 54 countries of Africa (NAFDAC, PPB, SAHPRA, TMDA) & global markets from SAS Nagar, Punjab, India.
+og:type = article
+og:site_name = Akuma Enterprise Pharma
+og:title = About Akuma Enterprise Pharma — Finished Formulations & Peptides Manufacturer
+og:description = WHO-GMP certified manufacturer and exporter of WHO-GMP commercial finished formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom sourcing exported from Asia across all 54 African countries & worldwide.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:url = https://www.akumaenterprises-pharma.com/about-brand.html
+twitter:card = summary_large_image
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/about-brand.html
+alternate x-default https://www.akumaenterprises-pharma.com/about-brand.html
+alternate en https://www.akumaenterprises-pharma.com/about-brand.html
+
+## TEXT
+Home / Company / About Brand
+Akuma Enterprise Pharma Pvt. Ltd.
+About Akuma Enterprise Pharma
+
+Akuma Enterprise Pharma Pvt. Ltd. is a WHO-GMP and ISO 9001:2015 certified pharmaceutical manufacturer and African & global healthcare export partner headquartered in SAS Nagar, Punjab, India. We export from Asia to all 54 African countries & global markets — showcasing finished human formulations, Pharmaceutical Peptide APIs, and lyophilized Research Peptides (RUO), while fulfilling every buyer inquiry for custom molecules, dosages, and tender packs.
+
+Corporate Mission & African Healthcare Alignment
+
+Operating with strict adherence to Schedule M, WHO-GMP, and international pharmacopoeial standards (IP, BP, USP, EP), Akuma Enterprise Pharma bridges Indian manufacturing quality with African hospital procurement and private pharmacy distribution. We deliver finished medicines complete with Batch CoAs, HPLC/MS purity analytics, Free Sale Certificates (FSC), WHO-Format CoPP, Zone IVb (30°C/75% RH) tropical stability studies, and eCTD/ACTD dossiers for NAFDAC (Nigeria), PPB (Kenya), SAHPRA (South Africa), TMDA (Tanzania), FDA Ghana, EFDA (Ethiopia), NDA (Uganda), WAHO, EAC, and SADC ZAZIBONA.
+
+Export Product Portfolio & Custom Sourcing
+1. Oral Solid Tablets
+
+Film-coated, enteric-coated, and dispersible tablets manufactured with automated rotary presses and blister packaging (Alu-Alu and Blister/Strip).
+
+2. Hard Gelatin Capsules
+
+Precision-filled hard gelatin capsules and sustained-release multi-particulate pellets (PPIs, antifungals, therapeutic vitamins).
+
+3. Dry Powder Injections
+
+Sterile cephalosporin and beta-lactamase inhibitor lyophilized vials packaged with Sterile Water for Injection (WFI).
+
+4. Liquid Injections
+
+USP Type I borosilicate glass ampoules filled under Grade A laminar air flow suites with 100% terminal sterilization and visual inspection.
+
+5. Ointments & Creams
+
+Homogeneous dermatological emulsions, antifungal creams, corticosteroid ointments, and transdermal gels in collapsible aluminum tubes.
+
+6. Oral Liquids & Suspensions
+
+Palatable antacid suspensions, cough expectorants, and haematinic tonics filled in amber PET bottles with calibrated dosing cups.
+
+7. Sterile Eye & Ear Drops
+
+Preserved and unpreserved ophthalmic and otic solutions packaged in three-piece LDPE dropper bottles in ISO Class 5 sterile filling suites.
+
+8. Metered-Dose Sprays & Inhalers
+
+Aerosolized micro-dose corticosteroid nasal sprays, decongestants, and metered-dose inhalers (MDIs) with dose-counter technology.
+
+9. Paediatric Dry Syrups
+
+Taste-masked granules for antibiotic reconstitution (Cefixime, Cefpodoxime) ensuring high paediatric compliance.
+
+10. Paediatric Oral Drops
+
+Calibrated infant dropper bottles for analgesic, antipyretic, and carminative paediatric care.
+
+11. Antiseptic Sanitizers
+
+Hospital-grade hand scrubs and rub solutions formulated to WHO Formulation I standards for surgical cleanrooms and clinical hygiene.
+
+12. Peptides (Pharmaceutical APIs, RUO & Custom)
+
+Lyophilized vials (≥99.0% HPLC/MS verified): WHO-GMP/ICH Q7 Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin, Octreotide), RUO Research Peptides (BPC-157, TB-500, Retatrutide), and custom peptide syntheses on request.
+
+Africa Priority & Global Export Footprint
+
+Africa is our core export corridor — serving licensed importers, hospital groups, and Ministry of Health tenders across Nigeria (Lagos Apapa / Tin Can Island), Kenya (Mombasa / Nairobi), Ghana (Tema / Accra), South Africa (Durban / Johannesburg), Tanzania (Dar es Salaam), Uganda, Ethiopia, Rwanda, Senegal, Côte d'Ivoire, Cameroon, Morocco, and Egypt, alongside GCC, LATAM, and CIS partners. Every consignment ships via Mumbai (BOM/JNPT) or New Delhi (DEL) with English, French, Portuguese, and Arabic packaging and validated Zone IVb / cold-chain protection.
+
+Connect with Akuma Enterprise Pharma
+
+For commercial procurement, contract manufacturing inquiries, PCD distribution partnerships, or regulatory dossier requests, reach our team directly:
+
+sales@akumaenterprises-pharma.com dalle@akumaenterprises-pharma.com
+
+Telephone / WhatsApp: +91 07986147827 · SAS Nagar, Punjab - 140301, India.
+
+## IMG ALT
+
+
+## FORMS
+
+
+## HREFS
+/
+/company
+mailto:sales@akumaenterprises-pharma.com
+mailto:dalle@akumaenterprises-pharma.com
+https://wa.me/9107986147827
+
+## JSON-LD
+
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://www.akumaenterprises-pharma.com/about-brand.html#webpage",
+        "url": "https://www.akumaenterprises-pharma.com/about-brand.html",
+        "name": "About Akuma Enterprise Pharma — SAS Nagar, Punjab, India",
+        "description": "Akuma Enterprise Pharma Pvt. Ltd. is a WHO-GMP and ISO 9001:2015 certified pharmaceutical finished formulation manufacturer and exporter in Punjab, India.",
+        "inLanguage": "en",
+        "isPartOf": { "@id": "https://www.akumaenterprises-pharma.com/#website" },
+        "about": { "@id": "https://www.akumaenterprises-pharma.com/#org" }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.akumaenterprises-pharma.com/" },
+          { "@type": "ListItem", "position": 2, "name": "About the Brand", "item": "https://www.akumaenterprises-pharma.com/about-brand.html" }
+        ]
+      },
+      {
+        "@type": ["Organization", "Manufacturer"],
+        "@id": "https://www.akumaenterprises-pharma.com/#org",
+        "name": "Akuma Enterprise Pharma Pvt. Ltd.",
+        "alternateName": ["Akuma Enterprise Pharma", "Akuma Pharma"],
+        "url": "https://www.akumaenterprises-pharma.com/",
+        "logo": "https://www.akumaenterprises-pharma.com/icon-512.png",
+        "image": "https://www.akumaenterprises-pharma.com/og-image.jpg",
+        "description": "WHO-GMP and ISO 9001:2015 certified manufacturer and exporter of WHO-GMP commercial finished formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules on request — exported from Asia across all 54 African countries and global healthcare systems.",
+        "foundingDate": "2009",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1st Floor, Cabin 101 #2609, Vinod Accounting Solutions, Landran Road, Adarsh Nagar, Kharar",
+          "addressLocality": "SAS Nagar",
+          "addressRegion": "Punjab",
+          "postalCode": "140301",
+          "addressCountry": "IN"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 30.7499,
+          "longitude": 76.6411
+        },
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "contactType": "sales",
+            "email": "sales@akumaenterprises-pharma.com",
+            "telephone": "+91-07986147827",
+            "availableLanguage": ["English", "French", "Portuguese", "Arabic", "Swahili", "Hindi", "Punjabi", "Spanish"]
+          },
+          {
+            "@type": "ContactPoint",
+            "contactType": "executive desk",
+            "email": "dalle@akumaenterprises-pharma.com",
+            "telephone": "+91-07986147827",
+            "availableLanguage": ["English"]
+          }
+        ]
+      }
+    ]
+  }
+  

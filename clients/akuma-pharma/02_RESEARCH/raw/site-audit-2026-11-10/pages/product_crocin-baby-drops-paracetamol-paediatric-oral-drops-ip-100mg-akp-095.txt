@@ -1,0 +1,190 @@
+URL: https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095
+FINAL: https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095
+STATUS: 200
+LANG: en
+TITLE: Crocin Baby Drops (Paracetamol Paediatric Oral Drops IP 100mg/ml) — WHO-GMP Commercial Formulation | Akuma Enterprise Pharma
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #0D9488
+robots = index,follow,max-image-preview:large,max-snippet:-1
+description = WHO-GMP certified Crocin Baby Drops (Paracetamol Paediatric Oral Drops IP 100mg/ml) (Oral Drops (Paediatric), 15ml Amber Glass / PET Bottle with Calibrated Dropper Pipette) in Pain, Inflammation & NSAIDs. Infant pyrexia, fever, post-immunization pyrexia, analgesic. Complete CoA, Zone IVb stability (30°C/75% RH), and eCTD/ACTD dossiers for Africa & global export.
+og:type = product
+og:site_name = Akuma Enterprise Pharma
+og:title = Crocin Baby Drops (Paracetamol Paediatric Oral Drops IP 100mg/ml) — WHO-GMP Commercial Formulation | Akuma Enterprise Pharma
+og:description = WHO-GMP certified Crocin Baby Drops (Paracetamol Paediatric Oral Drops IP 100mg/ml) (Oral Drops (Paediatric), 15ml Amber Glass / PET Bottle with Calibrated Dropper Pipette) in Pain, Inflammation & NSAIDs. Infant pyrexia, fever, post-immunization pyrexia, analgesic. Complete CoA, Zone IVb stability (30°C/75% RH), and eCTD/ACTD dossiers for Africa & global export.
+og:image = https://www.akumaenterprises-pharma.com/product-images/products/akp-095-crocin-baby-drops-paracetamol-paediatric.webp
+og:url = https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095
+twitter:card = summary_large_image
+twitter:title = Crocin Baby Drops (Paracetamol Paediatric Oral Drops IP 100mg/ml) — WHO-GMP Commercial Formulation | Akuma Enterprise Pharma
+twitter:description = WHO-GMP certified Crocin Baby Drops (Paracetamol Paediatric Oral Drops IP 100mg/ml) (Oral Drops (Paediatric), 15ml Amber Glass / PET Bottle with Calibrated Dropper Pipette) in Pain, Inflammation & NSAIDs. Infant pyrexia, fever, post-immunization pyrexia, analgesic. Complete CoA, Zone IVb stability (30°C/75% RH), and eCTD/ACTD dossiers for Africa & global export.
+twitter:image = https://www.akumaenterprises-pharma.com/product-images/products/akp-095-crocin-baby-drops-paracetamol-paediatric.webp
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095
+alternate x-default https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095
+alternate en https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095
+alternate en-NG https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095
+alternate en-KE https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095
+alternate en-GH https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095
+alternate en-ZA https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095
+alternate en-TZ https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095
+alternate en-UG https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095
+alternate en-GB https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095
+alternate en-US https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095
+alternate fr https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095?lang=fr
+alternate fr-SN https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095?lang=fr
+alternate fr-CM https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095?lang=fr
+alternate fr-CD https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095?lang=fr
+alternate fr-MA https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095?lang=fr
+alternate fr-FR https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095?lang=fr
+alternate fr-CA https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095?lang=fr
+
+## TEXT
+Home / Products / Drops / Pain, Inflammation & NSAIDs / Crocin Baby Drops (Paracetamol Paediatric Oral Drops IP 100mg/ml)
+EN
+FR
+WHO-GMP Certified Commercial Pack · Product Code: AKP-095
+Drops · WHO-GMP Certified
+Pain, Inflammation & NSAIDs
+Crocin Baby Drops (Paracetamol Paediatric Oral Drops IP 100mg/ml)
+Formulation Overview: Trusted paediatric antipyretic and analgesic oral drops calibrated for safe infant fever management, post-immunization discomfort, and mild teething pain with a precision graduated dropper. Formulated with Paracetamol IP (Acetaminophen) (100mg / ml) in Oral Drops (Paediatric) dosage form under Pain, Inflammation & NSAIDs, manufactured to IP / BP / USP Compendial standards and supplied in 15ml Amber Glass / PET Bottle with Calibrated Dropper Pipette with complete eCTD/ACTD regulatory dossiers, Zone IVb stability, and batch CoA for African NRAs (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana) and global tenders.
+Item Code (SKU)	AKP-095
+Therapeutic Sector	Pain, Inflammation & NSAIDs
+Dosage Form	Oral Drops (Paediatric)
+Active Ingredient	Paracetamol IP (Acetaminophen)
+Strength / Purity	100mg / ml
+Clinical Indication	Infant pyrexia, fever, post-immunization pyrexia, analgesic
+Specification Standard	IP / BP / USP Compendial
+Packaging Format	15ml Amber Glass / PET Bottle with Calibrated Dropper Pipette
+Shelf Life	24–36 Months
+Storage Conditions	Store below 25°C, protect from moisture & direct sunlight
+Minimum Order Quantity	1000 Packs
+Regulatory / Analytical Docs	Full eCTD / ACTD Modules 1–5 + Zone IVb Stability Available
+African & Global NRA Readiness	NAFDAC (Nigeria), PPB (Kenya), SAHPRA (SA), TMDA (Tanzania), FDA Ghana, AIRP, ARP, EFDA
+Stock Availability	In Stock · Immediate Commercial Dispatch
+Supply Status	Commercial Export Ready
+Request Dossier & Quote
+WhatsApp Support
+Related Drops & Pain, Inflammation & NSAIDs
+Aceclofenac 100mg & Paracetamol 325mg Tablets (Film Coated)
+
+Pain, Inflammation & NSAIDs · Film-Coated Tablets
+
+View Specs →
+Aceclofenac 100mg & Paracetamol 325mg Tablets (Uncoated)
+
+Pain, Inflammation & NSAIDs · Uncoated Tablets
+
+View Specs →
+Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel
+
+Pain, Inflammation & NSAIDs · Topical Analgesic Gel
+
+View Specs →
+Diclofenac Sodium 75mg Injection (per ml)
+
+Pain, Inflammation & NSAIDs · Sterile Liquid Injection Ampoule
+
+View Specs →
+Akuma Enterprise Pharma Pvt. Ltd. · SAS Nagar, Punjab - 140301, India · Official Emails: sales@akumaenterprises-pharma.com · dalle@akumaenterprises-pharma.com · Phone: +91 07986147827
+
+## IMG ALT
+Crocin Baby Drops (Paracetamol Paediatric Oral Drops IP 100mg/ml) — Drops <= /product-images/products/akp-095-crocin-baby-drops-paracetamol-paediatric.webp
+
+## FORMS
+
+
+## HREFS
+/
+/products
+/products/drops
+/products?sector=Pain%2C%20Inflammation%20%26%20NSAIDs
+mailto:sales@akumaenterprises-pharma.com?subject=Inquiry%20for%20AKP-095%20-%20Crocin%20Baby%20Drops%20%28Paracetamol%20Paediatric%20Oral%20Drops%20IP%20100mg/ml%29
+https://wa.me/9107986147827?text=Hello%2C%20I%20am%20inquiring%20about%20Crocin%20Baby%20Drops%20%28Paracetamol%20Paediatric%20Oral%20Drops%20IP%20100mg/ml%29%20%28AKP-095%29
+/product/aceclofenac-100mg-paracetamol-325mg-tablets-film-coated-akp-004
+/product/aceclofenac-100mg-paracetamol-325mg-tablets-uncoated-akp-005
+/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024
+/product/diclofenac-sodium-75mg-injection-per-ml-akp-054
+mailto:sales@akumaenterprises-pharma.com
+mailto:dalle@akumaenterprises-pharma.com
+tel:+9107986147827
+
+## JSON-LD
+
+  {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Product",
+        "Drug"
+      ],
+      "@id": "https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095#product",
+      "name": "Crocin Baby Drops (Paracetamol Paediatric Oral Drops IP 100mg/ml)",
+      "url": "https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095",
+      "image": "https://www.akumaenterprises-pharma.com/product-images/products/akp-095-crocin-baby-drops-paracetamol-paediatric.webp",
+      "description": "WHO-GMP certified Crocin Baby Drops (Paracetamol Paediatric Oral Drops IP 100mg/ml) (Oral Drops (Paediatric), 15ml Amber Glass / PET Bottle with Calibrated Dropper Pipette) in Pain, Inflammation & NSAIDs. Infant pyrexia, fever, post-immunization pyrexia, analgesic. Complete CoA, Zone IVb stability (30\u00b0C/75% RH), and eCTD/ACTD dossiers for Africa & global export.",
+      "sku": "AKP-095",
+      "mpn": "AKP-095",
+      "category": "Drops \u2014 Pain, Inflammation & NSAIDs",
+      "brand": {
+        "@type": "Brand",
+        "name": "Akuma Enterprise Pharma"
+      },
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "0.00",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2027-12-31"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "name": "Akuma Enterprise Pharma Pvt. Ltd.",
+        "url": "https://www.akumaenterprises-pharma.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1st Floor, Cabin 101 #2609, Vinod Accounting Solutions, Landran Road, Adarsh Nagar, Kharar",
+          "addressLocality": "SAS Nagar",
+          "addressRegion": "Punjab",
+          "postalCode": "140301",
+          "addressCountry": "IN"
+        }
+      },
+      "dosageForm": "Oral Drops (Paediatric)",
+      "activeIngredient": "Paracetamol IP (Acetaminophen)"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.akumaenterprises-pharma.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://www.akumaenterprises-pharma.com/products"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Drops",
+          "item": "https://www.akumaenterprises-pharma.com/products/drops"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Crocin Baby Drops (Paracetamol Paediatric Oral Drops IP 100mg/ml)",
+          "item": "https://www.akumaenterprises-pharma.com/product/crocin-baby-drops-paracetamol-paediatric-oral-drops-ip-100mg-akp-095"
+        }
+      ]
+    }
+  ]
+}
+  

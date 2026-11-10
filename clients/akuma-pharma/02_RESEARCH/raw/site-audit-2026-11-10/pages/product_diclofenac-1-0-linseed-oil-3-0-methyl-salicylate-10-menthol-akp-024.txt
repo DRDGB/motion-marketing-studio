@@ -1,0 +1,190 @@
+URL: https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024
+FINAL: https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024
+STATUS: 200
+LANG: en
+TITLE: Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel — WHO-GMP Commercial Formulation | Akuma Enterprise Pharma
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #0D9488
+robots = index,follow,max-image-preview:large,max-snippet:-1
+description = WHO-GMP certified Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel (Topical Analgesic Gel, 30g Laminated Collapsible Tube with Flip-Cap & Carton) in Pain, Inflammation & NSAIDs. Sprains, strains, osteoarthritis knee pain, myofascial spasm, and sports soft-tissue injuries. Complete CoA, Zone IVb stability (30°C/75% RH), and eCTD/ACTD dossiers for Africa & global export.
+og:type = product
+og:site_name = Akuma Enterprise Pharma
+og:title = Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel — WHO-GMP Commercial Formulation | Akuma Enterprise Pharma
+og:description = WHO-GMP certified Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel (Topical Analgesic Gel, 30g Laminated Collapsible Tube with Flip-Cap & Carton) in Pain, Inflammation & NSAIDs. Sprains, strains, osteoarthritis knee pain, myofascial spasm, and sports soft-tissue injuries. Complete CoA, Zone IVb stability (30°C/75% RH), and eCTD/ACTD dossiers for Africa & global export.
+og:image = https://www.akumaenterprises-pharma.com/product-images/products/akp-024-diclofenac-1-0-linseed-oil-3-0-methyl-sa.webp
+og:url = https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024
+twitter:card = summary_large_image
+twitter:title = Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel — WHO-GMP Commercial Formulation | Akuma Enterprise Pharma
+twitter:description = WHO-GMP certified Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel (Topical Analgesic Gel, 30g Laminated Collapsible Tube with Flip-Cap & Carton) in Pain, Inflammation & NSAIDs. Sprains, strains, osteoarthritis knee pain, myofascial spasm, and sports soft-tissue injuries. Complete CoA, Zone IVb stability (30°C/75% RH), and eCTD/ACTD dossiers for Africa & global export.
+twitter:image = https://www.akumaenterprises-pharma.com/product-images/products/akp-024-diclofenac-1-0-linseed-oil-3-0-methyl-sa.webp
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024
+alternate x-default https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024
+alternate en https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024
+alternate en-NG https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024
+alternate en-KE https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024
+alternate en-GH https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024
+alternate en-ZA https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024
+alternate en-TZ https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024
+alternate en-UG https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024
+alternate en-GB https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024
+alternate en-US https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024
+alternate fr https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024?lang=fr
+alternate fr-SN https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024?lang=fr
+alternate fr-CM https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024?lang=fr
+alternate fr-CD https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024?lang=fr
+alternate fr-MA https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024?lang=fr
+alternate fr-FR https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024?lang=fr
+alternate fr-CA https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024?lang=fr
+
+## TEXT
+Home / Products / Ointments & Creams / Pain, Inflammation & NSAIDs / Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel
+EN
+FR
+WHO-GMP Certified Commercial Pack · Product Code: AKP-024
+Ointments & Creams · WHO-GMP Certified
+Pain, Inflammation & NSAIDs
+Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel
+Formulation Overview: Rapid-penetration transdermal rubefacient pain-relief gel combining deep NSAID prostaglandin suppression with cooling menthol and warming methyl salicylate vasodilation. Formulated with Diclofenac Diethylamine (eq. Diclofenac 1.0%) + Linseed Oil 3.0% + Methyl Salicylate 10.0% + Menthol 5.0% + Benzyl Alcohol 1.0% (1.0% / 3.0% / 10% / 5.0% / 1.0% w/w) in Topical Analgesic Gel dosage form under Pain, Inflammation & NSAIDs, manufactured to IP / BP / USP Compendial standards and supplied in 30g Laminated Collapsible Tube with Flip-Cap & Carton with complete eCTD/ACTD regulatory dossiers, Zone IVb stability, and batch CoA for African NRAs (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana) and global tenders.
+Item Code (SKU)	AKP-024
+Therapeutic Sector	Pain, Inflammation & NSAIDs
+Dosage Form	Topical Analgesic Gel
+Active Ingredient	Diclofenac Diethylamine (eq. Diclofenac 1.0%) + Linseed Oil 3.0% + Methyl Salicylate 10.0% + Menthol 5.0% + Benzyl Alcohol 1.0%
+Strength / Purity	1.0% / 3.0% / 10% / 5.0% / 1.0% w/w
+Clinical Indication	Sprains, strains, osteoarthritis knee pain, myofascial spasm, and sports soft-tissue injuries
+Specification Standard	IP / BP / USP Compendial
+Packaging Format	30g Laminated Collapsible Tube with Flip-Cap & Carton
+Shelf Life	24–36 Months
+Storage Conditions	Store below 25°C; keep away from heat and open flame
+Minimum Order Quantity	1000 Packs
+Regulatory / Analytical Docs	Full eCTD / ACTD Modules 1–5 + Zone IVb Stability Available
+African & Global NRA Readiness	NAFDAC (Nigeria), PPB (Kenya), SAHPRA (SA), TMDA (Tanzania), FDA Ghana, AIRP, ARP, EFDA
+Stock Availability	In Stock · Immediate Commercial Dispatch
+Supply Status	Commercial Export Ready
+Request Dossier & Quote
+WhatsApp Support
+Related Ointments & Creams & Pain, Inflammation & NSAIDs
+Aceclofenac 100mg & Paracetamol 325mg Tablets (Film Coated)
+
+Pain, Inflammation & NSAIDs · Film-Coated Tablets
+
+View Specs →
+Aceclofenac 100mg & Paracetamol 325mg Tablets (Uncoated)
+
+Pain, Inflammation & NSAIDs · Uncoated Tablets
+
+View Specs →
+Diclofenac Sodium 75mg Injection (per ml)
+
+Pain, Inflammation & NSAIDs · Sterile Liquid Injection Ampoule
+
+View Specs →
+Piroxicam 20mg Injection (per ml)
+
+Pain, Inflammation & NSAIDs · Sterile Liquid Injection Ampoule
+
+View Specs →
+Akuma Enterprise Pharma Pvt. Ltd. · SAS Nagar, Punjab - 140301, India · Official Emails: sales@akumaenterprises-pharma.com · dalle@akumaenterprises-pharma.com · Phone: +91 07986147827
+
+## IMG ALT
+Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel — Ointments & Creams <= /product-images/products/akp-024-diclofenac-1-0-linseed-oil-3-0-methyl-sa.webp
+
+## FORMS
+
+
+## HREFS
+/
+/products
+/products/ointments-creams
+/products?sector=Pain%2C%20Inflammation%20%26%20NSAIDs
+mailto:sales@akumaenterprises-pharma.com?subject=Inquiry%20for%20AKP-024%20-%20Diclofenac%201.0%25%2C%20Linseed%20Oil%203.0%25%2C%20Methyl%20Salicylate%2010%25%2C%20Menthol%205.0%25%20%26%20Benzyl%20Alcohol%201.0%25%20Gel
+https://wa.me/9107986147827?text=Hello%2C%20I%20am%20inquiring%20about%20Diclofenac%201.0%25%2C%20Linseed%20Oil%203.0%25%2C%20Methyl%20Salicylate%2010%25%2C%20Menthol%205.0%25%20%26%20Benzyl%20Alcohol%201.0%25%20Gel%20%28AKP-024%29
+/product/aceclofenac-100mg-paracetamol-325mg-tablets-film-coated-akp-004
+/product/aceclofenac-100mg-paracetamol-325mg-tablets-uncoated-akp-005
+/product/diclofenac-sodium-75mg-injection-per-ml-akp-054
+/product/piroxicam-20mg-injection-per-ml-akp-060
+mailto:sales@akumaenterprises-pharma.com
+mailto:dalle@akumaenterprises-pharma.com
+tel:+9107986147827
+
+## JSON-LD
+
+  {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Product",
+        "Drug"
+      ],
+      "@id": "https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024#product",
+      "name": "Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel",
+      "url": "https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024",
+      "image": "https://www.akumaenterprises-pharma.com/product-images/products/akp-024-diclofenac-1-0-linseed-oil-3-0-methyl-sa.webp",
+      "description": "WHO-GMP certified Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel (Topical Analgesic Gel, 30g Laminated Collapsible Tube with Flip-Cap & Carton) in Pain, Inflammation & NSAIDs. Sprains, strains, osteoarthritis knee pain, myofascial spasm, and sports soft-tissue injuries. Complete CoA, Zone IVb stability (30\u00b0C/75% RH), and eCTD/ACTD dossiers for Africa & global export.",
+      "sku": "AKP-024",
+      "mpn": "AKP-024",
+      "category": "Ointments & Creams \u2014 Pain, Inflammation & NSAIDs",
+      "brand": {
+        "@type": "Brand",
+        "name": "Akuma Enterprise Pharma"
+      },
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "0.00",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2027-12-31"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "name": "Akuma Enterprise Pharma Pvt. Ltd.",
+        "url": "https://www.akumaenterprises-pharma.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1st Floor, Cabin 101 #2609, Vinod Accounting Solutions, Landran Road, Adarsh Nagar, Kharar",
+          "addressLocality": "SAS Nagar",
+          "addressRegion": "Punjab",
+          "postalCode": "140301",
+          "addressCountry": "IN"
+        }
+      },
+      "dosageForm": "Topical Analgesic Gel",
+      "activeIngredient": "Diclofenac Diethylamine (eq. Diclofenac 1.0%) + Linseed Oil 3.0% + Methyl Salicylate 10.0% + Menthol 5.0% + Benzyl Alcohol 1.0%"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.akumaenterprises-pharma.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://www.akumaenterprises-pharma.com/products"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ointments & Creams",
+          "item": "https://www.akumaenterprises-pharma.com/products/ointments-creams"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel",
+          "item": "https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024"
+        }
+      ]
+    }
+  ]
+}
+  

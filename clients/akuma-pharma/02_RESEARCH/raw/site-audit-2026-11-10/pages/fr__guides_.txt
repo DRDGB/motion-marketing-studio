@@ -1,0 +1,107 @@
+URL: https://www.akumaenterprises-pharma.com/guides/?lang=fr
+FINAL: https://www.akumaenterprises-pharma.com/guides/?lang=fr
+STATUS: 200
+LANG: fr
+TITLE: 10 Pharmaceutical, Peptide & Africa NRA Export Guides — Akuma Enterprise Pharma
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #0D9488
+description = Technical and regulatory guides for WHO-GMP medicines, Peptide APIs, RUO peptides, and custom sourcing exported from Asia across all 54 African countries (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana, AIRP, ARP) with Zone IVb stability.
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/guides/
+alternate x-default https://www.akumaenterprises-pharma.com/guides/
+alternate en https://www.akumaenterprises-pharma.com/guides/
+alternate en-NG https://www.akumaenterprises-pharma.com/guides/
+alternate en-KE https://www.akumaenterprises-pharma.com/guides/
+alternate en-GH https://www.akumaenterprises-pharma.com/guides/
+alternate en-ZA https://www.akumaenterprises-pharma.com/guides/
+alternate fr https://www.akumaenterprises-pharma.com/guides/?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/guides/?lang=fr
+alternate fr-SN https://www.akumaenterprises-pharma.com/guides/?lang=fr
+alternate fr-CM https://www.akumaenterprises-pharma.com/guides/?lang=fr
+alternate fr-CD https://www.akumaenterprises-pharma.com/guides/?lang=fr
+alternate fr-MA https://www.akumaenterprises-pharma.com/guides/?lang=fr
+
+## TEXT
+Accueil / Catalogue Export / Guides
+EN
+FR
+Akuma Enterprise Pharma — Guides Export Afrique, Peptides & OMS-BPF
+
+10 guides techniques, réglementaires et export couvrant nos formulations finies OMS-BPF, API peptidiques, Peptides RUO et commandes sur mesure exportés d'Asie vers les 54 pays d'Afrique.
+
+Fabricant Pharmaceutique & Peptides Certifié OMS-BPF en Inde
+
+Akuma Enterprise Pharma Pvt. Ltd. est un fabricant et exportateur indien certifié OMS-BPF et ISO 9001:2015, exportant depuis l'Asie vers les 54 pays d'Afrique et le monde entier des formulations commerciales finies, API peptidiques, peptides RUO et molécules sur mesure.
+
+Lire le guide complet →
+Fabrication Pharmaceutique à Façon & Marque Privée en Inde
+
+Développez votre gamme en Afrique grâce à la fabrication sous contrat OMS-BPF d'Akuma Enterprise Pharma sur notre catalogue de formulations validées et vos formules sur mesure, conditionnements bilingues EN/FR/PT/AR et dossiers ACTD/eCTD.
+
+Lire le guide complet →
+Exportateur de Formulations Pharmaceutiques Finies vers l'Afrique & le Monde
+
+Akuma Enterprise Pharma exporte depuis l'Asie vers les 54 pays d'Afrique médicaments humains finis OMS-BPF, peptides lyophilisés et molécules sur demande pour les importateurs agréés, ministères de la Santé et centrales d'achats hospitalières en Afrique et dans le monde.
+
+Lire le guide complet →
+Partenaire de Distribution Pharmaceutique Exclusive & Approvisionnement Grossistes
+
+Développez une distribution régionale rentable grâce à notre portefeuille OMS-BPF et nos fabrications sur mesure couvrant Antipaludiques, Antibiotiques, Antidiabétiques, Santé sexuelle, IPP, Dermatologie et Pédiatrie.
+
+Lire le guide complet →
+Fabricant d'Injectables Stériles, Flacons d'Artésunate & Céphalosporines
+
+Formes parentérales aseptiques OMS-BPF pour hôpitaux africains et appels d'offres : gamme complète d'Artésunate IV/IM (30–240 mg), ampoules Artéméther/Artééther et céphalosporines avec EPPI.
+
+Lire le guide complet →
+Fabricant de Sirops Secs Pédiatriques, Gouttes Nourrisson & Suspension Chloroquine
+
+Formulations orales liquides et sirops à reconstituer avec masquage du goût, bouchons sécurité-enfant et pipettes graduées pour cliniques et pharmacies africaines.
+
+Lire le guide complet →
+Dossiers Réglementaires eCTD & ACTD (Modules 1–5) pour l'Afrique & le Monde
+
+Accélérez vos enregistrements auprès des Autorités Nationales de Réglementation (ANR) africaines grâce aux dossiers techniques 5 Modules ACTD/eCTD prêts à déposer sur nos formulations finies, API peptidiques et dossiers sur demande.
+
+Lire le guide complet →
+Logistique d'Export Pharmaceutique Inde–Afrique, MENA & Marchés Mondiaux
+
+Un pont fiable entre notre production OMS-BPF en Inde et les importateurs, grossistes et hôpitaux en Afrique de l'Ouest, Centrale, de l'Est, Australe, Afrique du Nord, MENA et Amérique latine.
+
+Lire le guide complet →
+Guide d'Enregistrement Pharmaceutique ANR en Afrique (AIRP, ARP, NAFDAC, PPB, SAHPRA, TMDA)
+
+Feuille de route réglementaire et logistique pour importateurs licenciés et soumissionnaires publics enregistrant nos médicaments indiens OMS-BPF auprès des Autorités Nationales de Réglementation en Afrique.
+
+Lire le guide complet →
+API Peptidiques Pharmaceutiques & Peptides de Recherche (RUO) — Portefeuille Export
+
+Deux divisions réglementaires distinctes — plus synthèses à façon sur demande : API peptidiques thérapeutiques pour laboratoires formulateurs et soins maternels/métaboliques, et Peptides de recherche strictement RUO.
+
+Lire le guide complet →
+
+## IMG ALT
+
+
+## FORMS
+
+
+## HREFS
+/
+/products
+/guides/who-gmp-certified-manufacturer.html
+/guides/third-party-pharma-manufacturing-india.html
+/guides/finished-dosage-formulation-exporter-india.html
+/guides/pcd-pharma-manufacturing-supplier-india.html
+/guides/sterile-injectable-dry-powder-vials-manufacturer.html
+/guides/paediatric-dry-syrup-suspension-manufacturer.html
+/guides/ectd-actd-dossier-regulatory-support-india.html
+/guides/pharmaceutical-export-africa-latam-cis-gcc.html
+/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html
+/guides/pharmaceutical-peptide-apis-research-peptides-india.html
+
+## JSON-LD
+

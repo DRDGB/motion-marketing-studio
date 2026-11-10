@@ -1,0 +1,192 @@
+URL: https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35
+FINAL: https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35
+STATUS: 200
+LANG: en
+TITLE: Teduglutide Peptide API — Pharmaceutical Peptide API, CAS 197922-42-2 | Akuma Enterprise Pharma
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #0D9488
+robots = index,follow,max-image-preview:large,max-snippet:-1
+description = WHO-GMP Pharmaceutical Peptide API: Teduglutide Peptide API (AKP-API-35, CAS 197922-42-2, Purity >=99.0% HPLC). Short bowel syndrome. HPLC/MS CoA, ICH stability & regulatory dossiers for Africa & global markets.
+og:type = product
+og:site_name = Akuma Enterprise Pharma
+og:title = Teduglutide Peptide API — Pharmaceutical Peptide API, CAS 197922-42-2 | Akuma Enterprise Pharma
+og:description = WHO-GMP Pharmaceutical Peptide API: Teduglutide Peptide API (AKP-API-35, CAS 197922-42-2, Purity >=99.0% HPLC). Short bowel syndrome. HPLC/MS CoA, ICH stability & regulatory dossiers for Africa & global markets.
+og:image = https://www.akumaenterprises-pharma.com/product-images/products/akp-api-35-teduglutide.webp
+og:url = https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35
+twitter:card = summary_large_image
+twitter:title = Teduglutide Peptide API — Pharmaceutical Peptide API, CAS 197922-42-2 | Akuma Enterprise Pharma
+twitter:description = WHO-GMP Pharmaceutical Peptide API: Teduglutide Peptide API (AKP-API-35, CAS 197922-42-2, Purity >=99.0% HPLC). Short bowel syndrome. HPLC/MS CoA, ICH stability & regulatory dossiers for Africa & global markets.
+twitter:image = https://www.akumaenterprises-pharma.com/product-images/products/akp-api-35-teduglutide.webp
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35
+alternate x-default https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35
+alternate en https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35
+alternate en-NG https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35
+alternate en-KE https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35
+alternate en-GH https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35
+alternate en-ZA https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35
+alternate en-TZ https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35
+alternate en-UG https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35
+alternate en-GB https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35
+alternate en-US https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35
+alternate fr https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35?lang=fr
+alternate fr-SN https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35?lang=fr
+alternate fr-CM https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35?lang=fr
+alternate fr-CD https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35?lang=fr
+alternate fr-MA https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35?lang=fr
+alternate fr-FR https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35?lang=fr
+alternate fr-CA https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35?lang=fr
+
+## TEXT
+Home / Products / Peptides / Pharmaceutical Peptide APIs / Teduglutide Peptide API
+EN
+FR
+WHO-GMP Certified Commercial Pack · Product Code: AKP-API-35
+Peptides · WHO-GMP Certified
+Pharmaceutical Peptide APIs
+Teduglutide Peptide API
+Peptide API Overview: DPP-IV-resistant GLP-2 analogue 33-amino-acid peptide API stimulating intestinal mucosal adaptation in short bowel syndrome. Indicated for Short bowel syndrome. Supplied as lyophilized crystalline powder (Purity ≥ 99.0% HPLC, CAS 197922-42-2) with Certificate of Analysis (HPLC/MS), stability validation, and export technical dossier. Supplied as Lyophilized Peptide API (Purity ≥ 99.0% (HPLC)) within Pharmaceutical Peptide APIs, complying with EP / USP / ICH Q7 Peptide API Monograph with batch HPLC/MS CoA and regulatory documentation for African and global formulators.
+Item Code (SKU)	AKP-API-35
+CAS Registry No.	197922-42-2
+Catalog Reference	AKP-API-35 · SN API-35
+Therapeutic Sector	Pharmaceutical Peptide APIs
+Dosage Form	Lyophilized Peptide API
+Active Ingredient	Teduglutide (CAS 197922-42-2)
+Strength / Purity	Purity ≥ 99.0% (HPLC)
+Clinical Indication	Short bowel syndrome
+Specification Standard	EP / USP / ICH Q7 Peptide API Monograph
+Packaging Format	Sealed Type I Glass Vial · Nitrogen Headspace (Bulk / Custom Weights)
+Shelf Life	24–36 Months (Lyophilized at -20°C)
+Storage Conditions	Store lyophilized at -20°C (short-term 2–8°C); protect from moisture and light
+Minimum Order Quantity	50 Vials
+Regulatory / Analytical Docs	Full eCTD / ACTD Modules 1–5 + Zone IVb Stability Available
+African & Global NRA Readiness	NAFDAC (Nigeria), PPB (Kenya), SAHPRA (SA), TMDA (Tanzania), FDA Ghana, AIRP, ARP, EFDA
+Stock Availability	In Stock · Immediate Commercial Dispatch
+Supply Status	Commercial & Regulatory Export Ready
+Request Dossier & Quote
+WhatsApp Support
+Related Peptides & Pharmaceutical Peptide APIs
+Leuprorelin Acetate Peptide API
+
+Pharmaceutical Peptide APIs · Lyophilized Peptide API · CAS 74381-53-6
+
+View Specs →
+Semaglutide Peptide API
+
+Pharmaceutical Peptide APIs · Lyophilized Peptide API · CAS 910463-68-2
+
+View Specs →
+Liraglutide Peptide API
+
+Pharmaceutical Peptide APIs · Lyophilized Peptide API · CAS 204656-20-2
+
+View Specs →
+Tirzepatide Peptide API
+
+Pharmaceutical Peptide APIs · Lyophilized Peptide API · CAS 2023788-19-2
+
+View Specs →
+Akuma Enterprise Pharma Pvt. Ltd. · SAS Nagar, Punjab - 140301, India · Official Emails: sales@akumaenterprises-pharma.com · dalle@akumaenterprises-pharma.com · Phone: +91 07986147827
+
+## IMG ALT
+Teduglutide Peptide API — Peptides <= /product-images/products/akp-api-35-teduglutide.webp
+
+## FORMS
+
+
+## HREFS
+/
+/products
+/products/peptides
+/products?sector=Pharmaceutical%20Peptide%20APIs
+mailto:sales@akumaenterprises-pharma.com?subject=Inquiry%20for%20AKP-API-35%20-%20Teduglutide%20Peptide%20API
+https://wa.me/9107986147827?text=Hello%2C%20I%20am%20inquiring%20about%20Teduglutide%20Peptide%20API%20%28AKP-API-35%29
+/product/leuprorelin-acetate-peptide-api-akp-api-01
+/product/semaglutide-peptide-api-akp-api-02
+/product/liraglutide-peptide-api-akp-api-03
+/product/tirzepatide-peptide-api-akp-api-04
+mailto:sales@akumaenterprises-pharma.com
+mailto:dalle@akumaenterprises-pharma.com
+tel:+9107986147827
+
+## JSON-LD
+
+  {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Product",
+        "Drug"
+      ],
+      "@id": "https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35#product",
+      "name": "Teduglutide Peptide API",
+      "url": "https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35",
+      "image": "https://www.akumaenterprises-pharma.com/product-images/products/akp-api-35-teduglutide.webp",
+      "description": "WHO-GMP Pharmaceutical Peptide API: Teduglutide Peptide API (AKP-API-35, CAS 197922-42-2, Purity >=99.0% HPLC). Short bowel syndrome. HPLC/MS CoA, ICH stability & regulatory dossiers for Africa & global markets.",
+      "sku": "AKP-API-35",
+      "mpn": "197922-42-2",
+      "category": "Peptides \u2014 Pharmaceutical Peptide APIs",
+      "brand": {
+        "@type": "Brand",
+        "name": "Akuma Enterprise Pharma"
+      },
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "0.00",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2027-12-31"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "name": "Akuma Enterprise Pharma Pvt. Ltd.",
+        "url": "https://www.akumaenterprises-pharma.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1st Floor, Cabin 101 #2609, Vinod Accounting Solutions, Landran Road, Adarsh Nagar, Kharar",
+          "addressLocality": "SAS Nagar",
+          "addressRegion": "Punjab",
+          "postalCode": "140301",
+          "addressCountry": "IN"
+        }
+      },
+      "dosageForm": "Lyophilized Peptide API",
+      "activeIngredient": "Teduglutide (CAS 197922-42-2)"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.akumaenterprises-pharma.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://www.akumaenterprises-pharma.com/products"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Peptides",
+          "item": "https://www.akumaenterprises-pharma.com/products/peptides"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Teduglutide Peptide API",
+          "item": "https://www.akumaenterprises-pharma.com/product/teduglutide-peptide-api-akp-api-35"
+        }
+      ]
+    }
+  ]
+}
+  

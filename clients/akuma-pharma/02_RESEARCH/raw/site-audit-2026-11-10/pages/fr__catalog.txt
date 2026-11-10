@@ -1,0 +1,1009 @@
+URL: https://www.akumaenterprises-pharma.com/catalog?lang=fr
+FINAL: https://www.akumaenterprises-pharma.com/products
+STATUS: 200
+LANG: fr
+TITLE: Catalogue Export OMS-BPF & Peptides — Asie vers 54 Pays d'Afrique | Akuma Enterprise Pharma
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #B3122B
+msapplication-TileColor = #B3122B
+msapplication-TileImage = /icon-192.png
+robots = index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+google-site-verification = VERIFY-ME-GOOGLE
+msvalidate.01 = VERIFY-ME-BING
+yandex-verification = VERIFY-ME-YANDEX
+baidu-site-verification = VERIFY-ME-BAIDU
+naver-site-verification = VERIFY-ME-NAVER
+description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished pharmaceutical formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules manufactured or sourced on request with Zone IVb stability & bilingual EN/FR Africa dossiers.
+author = Akuma Enterprise Pharma Pvt. Ltd.
+keywords = pharmaceutical exporter Africa India, NAFDAC registered medicines supplier, PPB Kenya SAHPRA TMDA FDA Ghana dossiers, WHO-GMP finished pharmaceutical formulations, Zone IVb stability medicines Africa, Artesunate IV Artemether Lumefantrine India, Semaglutide Tirzepatide Peptide API India, BPC-157 TB-500 Retatrutide RUO peptides, tablets capsules injectables manufacturer Punjab, eCTD ACTD dossiers India
+og:type = website
+og:site_name = Akuma Enterprise Pharma
+og:title = Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global
+og:description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished formulations, Peptide APIs, Research Peptides, and custom sourcing for every buyer request with Zone IVb stability and Africa eCTD/ACTD dossiers.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:image:type = image/jpeg
+og:image:width = 1200
+og:image:height = 630
+og:image:alt = Akuma Enterprise Pharma finished formulations and dossiers
+og:url = https://www.akumaenterprises-pharma.com
+og:locale = en_US
+og:locale:alternate = fr_CI
+og:locale:alternate = fr_SN
+og:locale:alternate = fr_FR
+og:locale:alternate = en_NG
+og:locale:alternate = en_KE
+og:locale:alternate = en_ZA
+twitter:card = summary_large_image
+twitter:title = Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global
+twitter:description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & globally across finished formulations, Peptide APIs, RUO peptides, and custom molecules on request with bilingual EN/FR Africa dossiers.
+twitter:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+twitter:image:alt = Akuma Enterprise Pharma finished formulations and dossiers
+geo.region = IN-PB
+geo.placename = SAS Nagar, Punjab, India
+geo.position = 30.7499;76.6411
+ICBM = 30.7499, 76.6411
+description = Catalogue export OMS-BPF depuis l'Asie vers les 54 pays d'Afrique : formulations finies, API peptidiques, peptides RUO et sourcing sur mesure avec dossiers NAFDAC, AIRP, ARP, PPB, SAHPRA, TMDA.
+keywords = exportateur pharmaceutique Afrique, formulations OMS-BPF Côte d'Ivoire Sénégal Cameroun RDC Nigeria Kenya, API peptidiques Sémaglutide Tirzépatide, peptides RUO BPC-157, dossiers ACTD eCTD AIRP ARP NAFDAC PPB SAHPRA TMDA, Akuma Enterprise Pharma
+author = Akuma Enterprise Pharma Pvt. Ltd.
+application-name = Akuma Enterprise Pharma
+apple-mobile-web-app-title = Akuma Enterprise Pharma
+theme-color = #B3122B
+robots = index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+language = fr
+geo.region = IN-PB
+geo.placename = SAS Nagar, Punjab, India
+geo.position = 30.7499;76.6411
+ICBM = 30.7499, 76.6411
+industry = Pharmaceutical Manufacturing & Africa Healthcare Export
+business-type = B2B Pharmaceutical Manufacturer & Exporter
+og:type = website
+og:title = Catalogue Export OMS-BPF & Peptides — Asie vers 54 Pays d'Afrique | Akuma Enterprise Pharma
+og:description = Catalogue export OMS-BPF depuis l'Asie vers les 54 pays d'Afrique : formulations finies, API peptidiques, peptides RUO et sourcing sur mesure avec dossiers NAFDAC, AIRP, ARP, PPB, SAHPRA, TMDA.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:image:type = image/jpeg
+og:image:width = 1920
+og:image:height = 1080
+og:image:alt = Catalogue Export OMS-BPF & Peptides — Asie vers 54 Pays d'Afrique
+og:site_name = Akuma Enterprise Pharma
+og:locale = fr_FR
+og:locale:alternate = fr_FR
+og:locale:alternate = fr_CI
+og:locale:alternate = fr_SN
+og:locale:alternate = en_NG
+og:locale:alternate = en_KE
+og:locale:alternate = en_ZA
+og:url = https://www.akumaenterprises-pharma.com/products
+twitter:card = summary_large_image
+twitter:title = Catalogue Export OMS-BPF & Peptides — Asie vers 54 Pays d'Afrique | Akuma Enterprise Pharma
+twitter:description = Catalogue export OMS-BPF depuis l'Asie vers les 54 pays d'Afrique : formulations finies, API peptidiques, peptides RUO et sourcing sur mesure avec dossiers NAFDAC, AIRP, ARP, PPB, SAHPRA, TMDA.
+twitter:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+twitter:image:alt = Catalogue Export OMS-BPF & Peptides — Asie vers 54 Pays d'Afrique
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/products
+alternate x-default https://www.akumaenterprises-pharma.com/
+alternate en https://www.akumaenterprises-pharma.com/
+alternate en-NG https://www.akumaenterprises-pharma.com/en-ng/
+alternate en-KE https://www.akumaenterprises-pharma.com/en-ke/
+alternate en-GH https://www.akumaenterprises-pharma.com/en-gh/
+alternate en-ZA https://www.akumaenterprises-pharma.com/en-za/
+alternate en-TZ https://www.akumaenterprises-pharma.com/en-tz/
+alternate en-UG https://www.akumaenterprises-pharma.com/en-ug/
+alternate fr https://www.akumaenterprises-pharma.com/?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/fr-ci/
+alternate fr-SN https://www.akumaenterprises-pharma.com/fr-sn/
+alternate fr-CM https://www.akumaenterprises-pharma.com/fr-cm/
+alternate fr-CD https://www.akumaenterprises-pharma.com/fr-cd/
+alternate fr-MA https://www.akumaenterprises-pharma.com/fr-ma/
+alternate en-US https://www.akumaenterprises-pharma.com/
+alternate en-GB https://www.akumaenterprises-pharma.com/en-gb/
+alternate en-IN https://www.akumaenterprises-pharma.com/en-in/
+alternate en-AU https://www.akumaenterprises-pharma.com/en-au/
+alternate en-CA https://www.akumaenterprises-pharma.com/en-ca/
+alternate en-NZ https://www.akumaenterprises-pharma.com/en-nz/
+alternate de-DE https://www.akumaenterprises-pharma.com/de-de/
+alternate fr-FR https://www.akumaenterprises-pharma.com/fr-fr/
+alternate es-ES https://www.akumaenterprises-pharma.com/es-es/
+alternate it-IT https://www.akumaenterprises-pharma.com/it-it/
+alternate nl-NL https://www.akumaenterprises-pharma.com/nl-nl/
+alternate pt-BR https://www.akumaenterprises-pharma.com/pt-br/
+alternate es-MX https://www.akumaenterprises-pharma.com/es-mx/
+alternate fr-CA https://www.akumaenterprises-pharma.com/fr-ca/
+alternate ja-JP https://www.akumaenterprises-pharma.com/ja-jp/
+alternate ko-KR https://www.akumaenterprises-pharma.com/ko-kr/
+alternate  https://www.akumaenterprises-pharma.com/news.rss
+alternate  https://www.akumaenterprises-pharma.com/dmf-updates.rss
+alternate  https://www.akumaenterprises-pharma.com/llms.txt
+alternate  https://www.akumaenterprises-pharma.com/products.json
+canonical  https://www.akumaenterprises-pharma.com/products
+alternate en https://www.akumaenterprises-pharma.com/products
+alternate en-NG https://www.akumaenterprises-pharma.com/products
+alternate en-KE https://www.akumaenterprises-pharma.com/products
+alternate en-GH https://www.akumaenterprises-pharma.com/products
+alternate en-ZA https://www.akumaenterprises-pharma.com/products
+alternate en-TZ https://www.akumaenterprises-pharma.com/products
+alternate en-UG https://www.akumaenterprises-pharma.com/products
+alternate en-GB https://www.akumaenterprises-pharma.com/products
+alternate en-US https://www.akumaenterprises-pharma.com/products
+alternate fr https://www.akumaenterprises-pharma.com/products?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/products?lang=fr
+alternate fr-SN https://www.akumaenterprises-pharma.com/products?lang=fr
+alternate fr-CM https://www.akumaenterprises-pharma.com/products?lang=fr
+alternate fr-CD https://www.akumaenterprises-pharma.com/products?lang=fr
+alternate fr-MA https://www.akumaenterprises-pharma.com/products?lang=fr
+alternate fr-FR https://www.akumaenterprises-pharma.com/products?lang=fr
+alternate x-default https://www.akumaenterprises-pharma.com/products
+
+## TEXT
+sales@akumaenterprises-pharma.com
+|
+dalle@akumaenterprises-pharma.com
++91 07986147827
+|
+WhatsApp Export : +91 07986147827
+Akuma Enterprise Pharma
+FORMULATIONS FINIES & DOSSIERS AFRIQUE
+Produits
+Conformité
+Capacités
+Qualité
+Actualités
+Entreprise
+EN
+FR
+Demander un Dossier
+→
+
+Formulations Finies OMS-BPF, API Peptidiques & Peptides RUO — Export Afrique & Monde
+
+Médicaments commerciaux & API peptidiques fabriqués sous normes OMS-BPF et ISO 9001:2015 (IP, BP, USP, EP) avec stabilité Zone IVb, CoA et dossiers ACTD/eCTD pour les ANR africaines (NAFDAC, AIRP, ARP, PPB, SAHPRA, TMDA). Les peptides de recherche (RUO) sont vérifiés à ≥99,0 % HPLC/MS exclusivement pour usage laboratoire.
+
+Catalogue Export Formulations Finies & Peptides
+
+Notre vitrine en ligne présente nos formulations finies OMS-BPF, API Peptidiques et Peptides de Recherche (RUO). Au-delà des produits affichés, nous sourçons, fabriquons et exportons depuis l'Asie vers les 54 pays d'Afrique toute molécule, dosage ou conditionnement demandé.
+
+Asie → 54 Pays d'Afrique · Toute Molécule sur Demande
+Catalogue PDF 2026 ↓
+Devis WhatsApp Express
+Filtrer par :
+Toutes les catégories
+Tous les secteurs thérapeutiques
+Toutes disponibilités
+Télécharger CSV
+CONFORMITÉ :
+Certifié OMS-BPF
+Dossier ACTD/eCTD prêt
+Stabilité Zone IVb
+Recherche uniquement (RUO)
+Tous les produits
+
+Vitrine du catalogue export · Demandes sur mesure pour toute molécule acceptées
+
+Pertinence
+Comprimés
+Anti-infectieux & Antibiotiques
+En stock
+Ofloxacin 200mg Tablets
+
+Réf : AKP-001
+
+Ofloxacin 200mg Tablets (Comprimés, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Anti-infectieux & Antibiotiques, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+API peptidiques pharmaceutiques
+En stock
+Leuprorelin Acetate Peptide API
+
+Réf : AKP-API-01 · CAS 74381-53-6
+
+Leuprorelin Acetate (AKP-API-01, CAS 74381-53-6) — API peptidique pharmaceutique OMS-BPF (API peptidiques pharmaceutiques), pureté HPLC ≥ 99,0 % avec CoA et dossier réglementaire pour l'Afrique et l'international.
+
+Devis sur demande
+Tarif export · QMC 50 flacon
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+Purity ≥ 99.0% (HPLC)
++1 autres
+Détails
+FDS
+Devis
+Injections poudre sèche
+Anti-infectieux & Antibiotiques
+En stock
+Cefoperazone Sodium 500mg & Sulbactam Sodium 500mg Injection
+
+Réf : AKP-041
+
+Cefoperazone Sodium 500mg & Sulbactam Sodium 500mg Injection (Injections poudre sèche, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Anti-infectieux & Antibiotiques, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Liquides oraux
+Gastro-entérologie & IPP
+En stock
+Magaldrate 400mg & Simethicone 20mg Oral Suspension (per 5ml)
+
+Réf : AKP-031
+
+Magaldrate 400mg & Simethicone 20mg Oral Suspension (per 5ml) (Liquides oraux, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Gastro-entérologie & IPP, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Gélules
+Gastro-entérologie & IPP
+En stock
+Omeprazole 20mg Capsules (Enteric Coated Pellets)
+
+Réf : AKP-011
+
+Omeprazole 20mg Capsules (Enteric Coated Pellets) (Gélules, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Gastro-entérologie & IPP, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Sprays nasaux
+Respiratoire & Allergie
+En stock
+Fluticasone Furoate 0.0275% w/v Nasal Spray
+
+Réf : AKP-071
+
+Fluticasone Furoate 0.0275% w/v Nasal Spray (Sprays nasaux, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Respiratoire & Allergie, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Pommades & Crèmes
+Dermatologie & Topiques
+En stock
+Terbinafine Cream 1.0%
+
+Réf : AKP-021
+
+Terbinafine Cream 1.0% (Pommades & Crèmes, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Dermatologie & Topiques, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Injections liquides
+Anti-infectieux & Antibiotiques
+En stock
+Amikacin Sulphate 100mg Injection (per 2ml)
+
+Réf : AKP-051
+
+Amikacin Sulphate 100mg Injection (per 2ml) (Injections liquides, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Anti-infectieux & Antibiotiques, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Collyres & Gouttes auriculaires
+Ophtalmologie & ORL
+En stock
+Moxifloxacin 0.5% w/v Eye Drops
+
+Réf : AKP-061
+
+Moxifloxacin 0.5% w/v Eye Drops (Collyres & Gouttes auriculaires, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Ophtalmologie & ORL, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Gouttes pédiatriques
+Nutrition & Toniques métaboliques
+En stock
+Cyproheptadine Hydrochloride 2mg & Tricholine Citrate (65%) 55mg Drops (per ml)
+
+Réf : AKP-085
+
+Cyproheptadine Hydrochloride 2mg & Tricholine Citrate (65%) 55mg Drops (per ml) (Gouttes pédiatriques, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Nutrition & Toniques métaboliques, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Sirops secs pédiatriques
+Anti-infectieux & Antibiotiques
+En stock
+Cefixime 50mg Dry Syrup (per 5ml Reconstituted Suspension)
+
+Réf : AKP-081
+
+Cefixime 50mg Dry Syrup (per 5ml Reconstituted Suspension) (Sirops secs pédiatriques, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Anti-infectieux & Antibiotiques, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Antiseptiques & Solutions
+Antiseptiques & Hygiène hospitalière
+En stock
+Isopropyl Alcohol IP 70% v/v Gel Base Sanitizer
+
+Réf : AKP-087
+
+Isopropyl Alcohol IP 70% v/v Gel Base Sanitizer (Antiseptiques & Solutions, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Antiseptiques & Hygiène hospitalière, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Comprimés
+Respiratoire & Allergie
+En stock
+Levocetirizine Hydrochloride 5mg Tablets
+
+Réf : AKP-003
+
+Levocetirizine Hydrochloride 5mg Tablets (Comprimés, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Respiratoire & Allergie, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+Peptides de recherche (RUO)
+En stock
+Retatrutide Research Peptide
+
+Réf : AKP-RP-01 · CAS 2381089-83-2
+
+Retatrutide (AKP-RP-01, CAS 2381089-83-2) — flacon lyophilisé haute pureté (HPLC ≥ 99,0 % + CoA MS), strictement réservé à la recherche en laboratoire in vitro (RUO).
+
+Devis sur demande
+Tarif export · QMC 10 flacon
+B2B
+Research Grade (RUO)
+Purity ≥ 99.0% (HPLC)
+HPLC & MS CoA Included
++1 autres
+Détails
+FDS
+Devis
+Injections poudre sèche
+Médicaments antipaludiques
+En stock
+Artesunate for Injection 30 mg
+
+Réf : AKP-004-MAL
+
+Artesunate for Injection 30 mg (Injections poudre sèche, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Médicaments antipaludiques, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Liquides oraux
+Respiratoire & Allergie
+En stock
+Terbutaline Sulphate 1.25mg, Bromhexine HCl 2mg, Guaiphenesin 50mg & Menthol 0.5mg Syrup (per 5ml)
+
+Réf : AKP-032
+
+Terbutaline Sulphate 1.25mg, Bromhexine HCl 2mg, Guaiphenesin 50mg & Menthol 0.5mg Syrup (per 5ml) (Liquides oraux, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Respiratoire & Allergie, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Gélules
+Anti-infectieux & Antibiotiques
+En stock
+Itraconazole 100mg Capsules (Pellets)
+
+Réf : AKP-017
+
+Itraconazole 100mg Capsules (Pellets) (Gélules, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Anti-infectieux & Antibiotiques, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Sprays nasaux
+Endocrinologie & Soins de support
+En stock
+Calcitonin (Salmon) 2200 IU Nasal Spray
+
+Réf : AKP-073
+
+Calcitonin (Salmon) 2200 IU Nasal Spray (Sprays nasaux, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Endocrinologie & Soins de support, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Pommades & Crèmes
+Douleur, Inflammation & AINS
+En stock
+Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel
+
+Réf : AKP-024
+
+Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel (Pommades & Crèmes, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Douleur, Inflammation & AINS, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Injections liquides
+Douleur, Inflammation & AINS
+En stock
+Diclofenac Sodium 75mg Injection (per ml)
+
+Réf : AKP-054
+
+Diclofenac Sodium 75mg Injection (per ml) (Injections liquides, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Douleur, Inflammation & AINS, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Collyres & Gouttes auriculaires
+Ophtalmologie & ORL
+En stock
+Paradichlorobenzene 2%, Benzocaine 2.7%, Chlorbutol 5% & Turpentine Oil 15% Ear Drops
+
+Réf : AKP-062
+
+Paradichlorobenzene 2%, Benzocaine 2.7%, Chlorbutol 5% & Turpentine Oil 15% Ear Drops (Collyres & Gouttes auriculaires, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Ophtalmologie & ORL, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Gouttes pédiatriques
+Gastro-entérologie & IPP
+En stock
+Dicyclomine Hydrochloride 10mg & Activated Dimethicone 40mg Drops (per ml)
+
+Réf : AKP-086
+
+Dicyclomine Hydrochloride 10mg & Activated Dimethicone 40mg Drops (per ml) (Gouttes pédiatriques, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Gastro-entérologie & IPP, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Sirops secs pédiatriques
+Anti-infectieux & Antibiotiques
+En stock
+Cefixime 100mg Dry Syrup (per 5ml Reconstituted Suspension)
+
+Réf : AKP-082
+
+Cefixime 100mg Dry Syrup (per 5ml Reconstituted Suspension) (Sirops secs pédiatriques, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Anti-infectieux & Antibiotiques, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+Antiseptiques & Solutions
+Antiseptiques & Hygiène hospitalière
+En stock
+Isopropyl Alcohol IP 70% v/v Rub Sanitizer
+
+Réf : AKP-088
+
+Isopropyl Alcohol IP 70% v/v Rub Sanitizer (Antiseptiques & Solutions, conditionnement export) — formulation commerciale finie certifiée OMS-BPF dans la gamme Antiseptiques & Hygiène hospitalière, avec stabilité Zone IVb (30 °C/75 % HR) et dossier ACTD/eCTD prêt pour l'enregistrement en Afrique.
+
+Devis sur demande
+Tarif export · QMC 1,000 boîte
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+CoA inclus
++1 autres
+Détails
+FDS
+Devis
+
+Affichage de 1–24 · Demandes sur mesure pour toute molécule acceptées
+
+Précédent
+Page 1 sur 10
+Suivant
+Akuma Enterprise Pharma Pvt. Ltd.
+Formulations Finies OMS-BPF & Dossiers Réglementaires Afrique
+EN
+FR
+
+Exportateur certifié OMS-BPF depuis l'Asie vers les 54 pays d'Afrique et le monde : formulations finies, API peptidiques, peptides RUO et sourcing sur mesure.
+
+Certifié OMS-BPF
+ISO 9001:2015
+Dossiers ACTD/eCTD & Zone IVb
+FORMULATIONS & PEPTIDES
+Comprimés & Solides oraux
+Gélules à libération modifiée
+Injections poudre sèche
+Injections liquides & Ampoules
+Liquides oraux & Sirops
+Pommades, Crèmes & Collyres
+API Peptidiques & Peptides RUO
+Antipaludiques & Antidiabétiques
+Voir Tout le Catalogue →
+DOSSIERS RÉGLEMENTAIRES
+Dossiers eCTD 5 Modules
+Soumissions au format ACTD
+Stabilité Zone IVb (30°C/75% HR)
+Bioéquivalence & Dissolution f2
+Certificat d'Analyse (CoA)
+CoPP OMS & Libre Vente (CLV)
+Catalogue PDF 2026 ↓
+Demander un dossier ANR →
+AFRIQUE & MARCHÉS EXPORT
+Afrique de l'Ouest (NAFDAC, AIRP, ARP, OOAS)
+Afrique de l'Est (PPB, TMDA, NDA, EFDA)
+Afrique Australe (SAHPRA, ZAZIBONA)
+Afrique Centrale (ACOREP RDC, Cameroun)
+Afrique du Nord (Maroc DMP, Égypte EDA)
+Fiches Réglementaires par Pays (26)
+Demander un échantillon analytique →
+ENTREPRISE & CONTACT DIRECT
+À propos d'Akuma Enterprise Pharma
+Lignes stériles & Conditionnement
+Actualités & Guides ANR
+WhatsApp : +91 07986147827
+sales@akumaenterprises-pharma.com
+Devis Export & Appels d'offres 24h →
+
+© 2026 Akuma Enterprise Pharma Pvt. Ltd. Tous droits réservés. · SAS Nagar, Pendjab, Inde
+
+Confidentialité · Politique de retour · Contact
+
+Aide / Suivi commande
+Toutes les catégories
+Comprimés
+Gélules
+Injections poudre sèche
+Injections liquides
+Peptides (API & RUO)
+Pommades & Crèmes
+Liquides oraux
+Collyres & Gouttes auriculaires
+Sprays nasaux
+Sirops secs pédiatriques
+Gouttes pédiatriques
+Antiseptiques & Solutions
+Tous les secteurs thérapeutiques
+Anti-infectieux & Antibiotiques
+Gastro-entérologie & IPP
+Santé sexuelle & Urologie
+Médicaments antidiabétiques
+Respiratoire & Allergie
+Médicaments antipaludiques
+Dermatologie & Topiques
+Ophtalmologie & ORL
+Antiseptiques & Hygiène hospitalière
+Douleur, Inflammation & AINS
+Nutrition & Toniques métaboliques
+Endocrinologie & Soins de support
+Antirétroviraux / Antiviraux
+API peptidiques pharmaceutiques
+Peptides de recherche (RUO)
+Toutes disponibilités
+En stock
+Sur demande
+Sur mesure
+Pertinence
+Nom A–Z
+Catégorie
+Secteur thérapeutique
+Disponibilité
+Prix croissant
+Prix décroissant
+
+## IMG ALT
+Akuma Enterprise Pharma Logo <= /logo.svg
+Ofloxacin 200mg Tablets — WHO-GMP Finished Formulation · Code AKP-001 · Tablets <= /product-images/products/akp-001-ofloxacin-200mg-tablets.webp
+Leuprorelin Acetate — WHO-GMP / RUO Lyophilized Peptide · Code AKP-API-01 · Peptides <= /product-images/products/akp-api-01-leuprorelin-acetate.webp
+Cefoperazone Sodium 500mg & Sulbactam Sodium 500mg Injection — WHO-GMP Finished Formulation · Code AKP-041 · Dry Powder Injections <= /product-images/products/akp-041-cefoperazone-sodium-500mg-sulbactam-sodi.webp
+Magaldrate 400mg & Simethicone 20mg Oral Suspension (per 5ml) — WHO-GMP Finished Formulation · Code AKP-031 · Oral Liquids <= /product-images/products/akp-031-magaldrate-400mg-simethicone-20mg-oral-s.webp
+Omeprazole 20mg Capsules (Enteric Coated Pellets) — WHO-GMP Finished Formulation · Code AKP-011 · Capsules <= /product-images/products/akp-011-omeprazole-20mg-capsules-enteric-coated.webp
+Fluticasone Furoate 0.0275% w/v Nasal Spray — WHO-GMP Finished Formulation · Code AKP-071 · Nasal Spray <= /product-images/products/akp-071-fluticasone-furoate-0-0275-w-v-nasal-spr.webp
+Terbinafine Cream 1.0% — WHO-GMP Finished Formulation · Code AKP-021 · Ointments & Creams <= /product-images/products/akp-021-terbinafine-cream-1-0.webp
+Amikacin Sulphate 100mg Injection (per 2ml) — WHO-GMP Finished Formulation · Code AKP-051 · Liquid Injections <= /product-images/products/akp-051-amikacin-sulphate-100mg-injection-per-2m.webp
+Moxifloxacin 0.5% w/v Eye Drops — WHO-GMP Finished Formulation · Code AKP-061 · Eye-Ear Drops <= /product-images/products/akp-061-moxifloxacin-0-5-w-v-eye-drops.webp
+Cyproheptadine Hydrochloride 2mg & Tricholine Citrate (65%) 55mg Drops (per ml) — WHO-GMP Finished Formulation · Code AKP-085 · Drops <= /product-images/products/akp-085-cyproheptadine-hydrochloride-2mg-trichol.webp
+Cefixime 50mg Dry Syrup (per 5ml Reconstituted Suspension) — WHO-GMP Finished Formulation · Code AKP-081 · Dry Syrup <= /product-images/products/akp-081-cefixime-50mg-dry-syrup-per-5ml-reconsti.webp
+Isopropyl Alcohol IP 70% v/v Gel Base Sanitizer — WHO-GMP Finished Formulation · Code AKP-087 · Sanitizer <= /product-images/products/akp-087-isopropyl-alcohol-ip-70-v-v-gel-base-san.webp
+Levocetirizine Hydrochloride 5mg Tablets — WHO-GMP Finished Formulation · Code AKP-003 · Tablets <= /product-images/products/akp-003-levocetirizine-hydrochloride-5mg-tablets.webp
+Retatrutide — WHO-GMP / RUO Lyophilized Peptide · Code AKP-RP-01 · Peptides <= /product-images/products/akp-rp-01-retatrutide.webp
+Artesunate for Injection 30 mg — WHO-GMP Finished Formulation · Code AKP-004-MAL · Dry Powder Injections <= /product-images/products/akp-004-artesunate-30mg-injection.webp
+Terbutaline Sulphate 1.25mg, Bromhexine HCl 2mg, Guaiphenesin 50mg & Menthol 0.5mg Syrup (per 5ml) — WHO-GMP Finished Formulation · Code AKP-032 · Oral Liquids <= /product-images/products/akp-032-terbutaline-sulphate-1-25mg-bromhexine-h.webp
+Itraconazole 100mg Capsules (Pellets) — WHO-GMP Finished Formulation · Code AKP-017 · Capsules <= /product-images/products/akp-017-itraconazole-100mg-capsules-pellets.webp
+Calcitonin (Salmon) 2200 IU Nasal Spray — WHO-GMP Finished Formulation · Code AKP-073 · Nasal Spray <= /product-images/products/akp-073-calcitonin-salmon-2200-iu-nasal-spray.webp
+Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel — WHO-GMP Finished Formulation · Code AKP-024 · Ointments & Creams <= /product-images/products/akp-024-diclofenac-1-0-linseed-oil-3-0-methyl-sa.webp
+Diclofenac Sodium 75mg Injection (per ml) — WHO-GMP Finished Formulation · Code AKP-054 · Liquid Injections <= /product-images/products/akp-054-diclofenac-sodium-75mg-injection-per-ml.webp
+Paradichlorobenzene 2%, Benzocaine 2.7%, Chlorbutol 5% & Turpentine Oil 15% Ear Drops — WHO-GMP Finished Formulation · Code AKP-062 · Eye-Ear Drops <= /product-images/products/akp-062-paradichlorobenzene-2-benzocaine-2-7-chl.webp
+Dicyclomine Hydrochloride 10mg & Activated Dimethicone 40mg Drops (per ml) — WHO-GMP Finished Formulation · Code AKP-086 · Drops <= /product-images/products/akp-086-dicyclomine-hydrochloride-10mg-activated.webp
+Cefixime 100mg Dry Syrup (per 5ml Reconstituted Suspension) — WHO-GMP Finished Formulation · Code AKP-082 · Dry Syrup <= /product-images/products/akp-082-cefixime-100mg-dry-syrup-per-5ml-reconst.webp
+Isopropyl Alcohol IP 70% v/v Rub Sanitizer — WHO-GMP Finished Formulation · Code AKP-088 · Sanitizer <= /product-images/products/akp-088-isopropyl-alcohol-ip-70-v-v-rub-sanitize.webp
+Akuma Enterprise Pharma <= /logo.svg
+
+## FORMS
+
+
+## HREFS
+mailto:sales@akumaenterprises-pharma.com
+mailto:dalle@akumaenterprises-pharma.com
+tel:+9107986147827
+https://wa.me/9107986147827
+/
+/products
+/compliance
+/supply
+/solutions
+/knowledge
+/company
+/downloads/catalog/akuma-pharma-catalog-2026.pdf
+/product/ofloxacin-200mg-tablets-akp-001
+/product/leuprorelin-acetate-peptide-api-akp-api-01
+/product/cefoperazone-sodium-500mg-sulbactam-sodium-500mg-injection-akp-041
+/product/magaldrate-400mg-simethicone-20mg-oral-suspension-per-5ml-akp-031
+/product/omeprazole-20mg-capsules-enteric-coated-pellets-akp-011
+/product/fluticasone-furoate-0-0275-w-v-nasal-spray-akp-071
+/product/terbinafine-cream-1-0-akp-021
+/product/amikacin-sulphate-100mg-injection-per-2ml-akp-051
+/product/moxifloxacin-0-5-w-v-eye-drops-akp-061
+/product/cyproheptadine-hydrochloride-2mg-tricholine-citrate-65-55mg-akp-085
+/product/cefixime-50mg-dry-syrup-per-5ml-reconstituted-suspension-akp-081
+/product/isopropyl-alcohol-ip-70-v-v-gel-base-sanitizer-akp-087
+/product/levocetirizine-hydrochloride-5mg-tablets-akp-003
+/product/retatrutide-research-peptide-akp-rp-01
+/product/artesunate-for-injection-30-mg-akp-004-mal
+/product/terbutaline-sulphate-1-25mg-bromhexine-hcl-2mg-guaiphenesin-akp-032
+/product/itraconazole-100mg-capsules-pellets-akp-017
+/product/calcitonin-salmon-2200-iu-nasal-spray-akp-073
+/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024
+/product/diclofenac-sodium-75mg-injection-per-ml-akp-054
+/product/paradichlorobenzene-2-benzocaine-2-7-chlorbutol-5-turpentine-akp-062
+/product/dicyclomine-hydrochloride-10mg-activated-dimethicone-40mg-dr-akp-086
+/product/cefixime-100mg-dry-syrup-per-5ml-reconstituted-suspension-akp-082
+/product/isopropyl-alcohol-ip-70-v-v-rub-sanitizer-akp-088
+/products/tablets
+/products/capsules
+/products/dry-powder-injections
+/products/liquid-injections
+/products/oral-liquids
+/products/ointments-creams
+/products/peptides
+/products?sector=Antimalarials%20Medication
+/quality
+/certifications
+/contact
+/markets/west-africa
+/markets/east-africa
+/markets/southern-africa
+/markets/central-africa
+/markets/north-africa
+/country
+/sample-request
+/about
+/capabilities
+/news
+/privacy-policy
+/return-policy
+https://wa.me/9107986147827?text=Hello%20Akuma%20Enterprise%20Pharma,%20I%20have%20an%20inquiry
+
+## JSON-LD
+
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": ["Organization", "LocalBusiness", "Manufacturer"],
+            "@id": "https://www.akumaenterprises-pharma.com/#org",
+            "name": "Akuma Enterprise Pharma Pvt. Ltd.",
+            "alternateName": ["Akuma Enterprise Pharma", "Akuma Pharma"],
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "logo": "https://www.akumaenterprises-pharma.com/icon-512.png",
+            "image": "https://www.akumaenterprises-pharma.com/og-image.jpg",
+            "description": "ISO 9001:2015 and WHO-GMP certified exporter shipping from Asia to all 54 African countries & global markets across commercial finished formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules requested by clients, backed by Zone IVb stability and eCTD/ACTD dossiers.",
+            "foundingDate": "2009",
+            "slogan": "Pharmaceutical supply, engineered for confidence.",
+            "vatID": "03ACLFA6940J1ZB",
+            "taxID": "ACLFA6940J",
+            "numberOfEmployees": { "@type": "QuantitativeValue", "value": "200+" },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1st Floor, Cabin 101 #2609, Vinod Accounting Solutions, Landran Road, Adarsh Nagar, Kharar",
+              "addressLocality": "SAS Nagar",
+              "addressRegion": "Punjab",
+              "postalCode": "140301",
+              "addressCountry": "IN"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 30.7499,
+              "longitude": 76.6411
+            },
+            "openingHoursSpecification": [
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "09:00", "closes": "18:00" },
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "09:00", "closes": "13:00" }
+            ],
+            "contactPoint": [
+              {
+                "@type": "ContactPoint",
+                "contactType": "sales",
+                "telephone": "+91-07986147827",
+                "email": "sales@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "areaServed": ["NG","KE","GH","TZ","UG","ET","RW","ZA","EG","MA","CI","SN","CM","CD","ZM","ZW","AO","MZ","DZ","TN","US","CA","MX","BR","DE","FR","GB","IN","JP","AU","AE","SA"],
+                "availableLanguage": ["English","French","Portuguese","Arabic","Swahili","Spanish","Hindi"]
+              },
+              {
+                "@type": "ContactPoint",
+                "contactType": "executive and regulatory desk",
+                "telephone": "+91-07986147827",
+                "email": "dalle@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "availableLanguage": ["English","French","Portuguese","Arabic"]
+              }
+            ],
+            "hasCredential": [
+              { "@type": "EducationalOccupationalCredential", "name": "WHO-GMP", "credentialCategory": "Good Manufacturing Practice", "recognizedBy": { "@type": "Organization", "name": "World Health Organization" } },
+              { "@type": "EducationalOccupationalCredential", "name": "ISO 9001:2015", "credentialCategory": "Quality Management System" },
+              { "@type": "EducationalOccupationalCredential", "name": "ACTD / eCTD Regulatory Dossiers", "credentialCategory": "Modules 1-5 Technical Dossier" },
+              { "@type": "EducationalOccupationalCredential", "name": "ICH Zone IVb Tropical Stability", "credentialCategory": "30C / 75% RH Climatic Stability" },
+              { "@type": "EducationalOccupationalCredential", "name": "CDSCO Manufacturing Licence", "credentialCategory": "Pharmaceutical Manufacturing Licence", "recognizedBy": { "@type": "Organization", "name": "Central Drugs Standard Control Organization (India)" } }
+            ],
+            "knowsAbout": [
+              "Commercial Finished Formulations",
+              "Antimalarial Injections & ACT Tablets (Artesunate IV, Artemether-Lumefantrine)",
+              "Sexual Wellness & Urology Formulations",
+              "Anti-Diabetic SGLT2 & Gliptin Combinations",
+              "Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin)",
+              "Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu)",
+              "African NRA Regulatory Filings (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana, EFDA, WAHO)",
+              "ICH Zone IVb Tropical Stability & Cold-Chain Export",
+              "Dry Powder Injections & Lyophilized Vials",
+              "Liquid Injections & Sterile Ampoules",
+              "Oral Liquids & Paediatric Dry Syrups",
+              "Topical Ointments, Eye-Ear Drops & Nasal Sprays",
+              "WHO-GMP Quality Compliance"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.akumaenterprises-pharma.com/#website",
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "name": "Akuma Enterprise Pharma",
+            "publisher": { "@id": "https://www.akumaenterprises-pharma.com/#org" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": { "@type": "EntryPoint", "urlTemplate": "https://www.akumaenterprises-pharma.com/products?search={search_term_string}" },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": ["en", "fr"]
+          }
+        ]
+      }
+    
+-----
+
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What pharmaceutical products and peptide portfolios does Akuma Enterprise Pharma supply?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Akuma Enterprise Pharma exports from Asia across all 54 countries of Africa and global markets. Our featured portfolio covers WHO-GMP commercial finished formulations (Tablets, Capsules, Dry Powder Injections, Liquid Injections, Oral Liquids, Ointments & Creams, Eye-Ear Drops, Nasal Sprays, Dry Syrups, Paediatric Drops, and Sanitizers), Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin, Leuprorelin), and Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu) \u2014 while accepting every custom molecule, dosage, and tender specification on request."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Do you provide ACTD/eCTD dossiers and Zone IVb stability for African National Regulatory Authorities (NRAs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Yes. Every finished formulation and Pharmaceutical Peptide API is backed by 5-Module ACTD/eCTD dossiers, WHO-Format Certificates of Pharmaceutical Product (CoPP), Free Sale Certificates (FSC), CoA, bilingual EN/FR/PT/AR packaging support, and ICH Zone IVb tropical stability studies (30\u00b0C/75% RH & 40\u00b0C/75% RH) tailored for NAFDAC (Nigeria), PPB (Kenya), SAHPRA (South Africa), TMDA (Tanzania), FDA Ghana, AIRP (Cote d'Ivoire), ARP (Senegal), EFDA, NDA, WAHO, and SADC ZAZIBONA."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "How are Pharmaceutical Peptide APIs separated from Research Peptides (RUO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Our Pharmaceutical Peptide APIs (AKP-API series) are manufactured to >=99.0% HPLC purity for licensed formulators and clinical supply chains, whereas our Research Peptides (AKP-RP series) are strictly labeled and restricted to in-vitro laboratory Research Use Only (RUO \u2014 Not for Human or Veterinary Consumption). Custom peptide syntheses are also available."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What are the minimum order quantities (MOQ) and export freight corridors from India to Africa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Standard export MOQs are 1,000 packs for finished formulations, 50 vials for Pharmaceutical Peptide APIs, and 10 vials for RUO Research Peptides. Consignments dispatch via Mumbai (BOM/JNPT) and New Delhi (DEL) air/sea corridors into Lagos, Mombasa, Tema, Durban, Dar es Salaam, Djibouti, Abidjan, and Dakar with validated cold-chain loggers where required."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Which antimalarial, sexual wellness, anti-diabetic, and hospital antibiotic formulations are in stock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "In-stock flagship export lines include Artesunate IV/IM lyophilized vials (30\u2013240 mg), Artemether & \u03b1-\u03b2 Arteether ampoules, Artemether 80/Lumefantrine 480 mg tablets, Chloroquine tablets & suspension, Dapoxetine + Sildenafil/Tadalafil/Vardenafil and Silodosin urology generics, Dapagliflozin & Glimepiride triple combos, Ceftriaxone-Sulbactam, and Cefixime paediatric dry syrups."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Fournissez-vous des m\u00e9dicaments certifi\u00e9s OMS-BPF et des dossiers CTD en fran\u00e7ais pour l'Afrique francophone ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Oui. Akuma Enterprise Pharma exporte depuis l'Asie vers les 54 pays d'Afrique (formulations finies OMS-BPF, API peptidiques, peptides RUO et demandes sur mesure) avec dossiers ACTD/eCTD 5 Modules, CoPP OMS, stabilit\u00e9 ICH Zone IVb et notices RCP/Patient en fran\u00e7ais pour l'AIRP (C\u00f4te d'Ivoire), l'ARP (S\u00e9n\u00e9gal), la DPML (Cameroun), l'ACOREP (RD Congo), la DMP (Maroc) et l'espace WAHO/CEDEAO."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Comment demander un devis export CIF/FOB sous 24 heures vers l'Afrique ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Contactez notre bureau export Afrique par e-mail \u00e0 sales@akumaenterprises-pharma.com ou dalle@akumaenterprises-pharma.com, sur WhatsApp au +91 07986147827, ou directement via le formulaire de devis bilingue sur akumaenterprises-pharma.com/contact."
+      }
+    }
+  ]
+}
+
+-----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":2,"name":"","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":3,"name":"Produits","item":"https://www.akumaenterprises-pharma.com//products"}]}
+-----
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Catalogue Export Formulations Finies & Peptides","description":"Notre vitrine en ligne présente nos formulations finies OMS-BPF, API Peptidiques et Peptides de Recherche (RUO). Au-delà des produits affichés, nous sourçons, fabriquons et exportons depuis l'Asie vers les 54 pays d'Afrique toute molécule, dosage ou conditionnement demandé.","inLanguage":"fr","isPartOf":{"@id":"https://www.akumaenterprises-pharma.com/#website"},"about":"Formulations pharmaceutiques finies OMS-BPF, API Peptidiques et Peptides RUO pour l'Afrique et les marchés mondiaux","mainEntity":{"@type":"ItemList","numberOfItems":224,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Product","name":"Ofloxacin 200mg Tablets","sku":"AKP-001","category":"Tablets — Anti-Infectives & Antibiotics","url":"https://www.akumaenterprises-pharma.com/product/ofloxacin-200mg-tablets-akp-001","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-001-ofloxacin-200mg-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":2,"item":{"@type":"Product","name":"Leuprorelin Acetate","sku":"AKP-API-01","mpn":"74381-53-6","category":"Peptides — Pharmaceutical Peptide APIs","url":"https://www.akumaenterprises-pharma.com/product/leuprorelin-acetate-peptide-api-akp-api-01","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-api-01-leuprorelin-acetate.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":3,"item":{"@type":"Product","name":"Cefoperazone Sodium 500mg & Sulbactam Sodium 500mg Injection","sku":"AKP-041","category":"Dry Powder Injections — Anti-Infectives & Antibiotics","url":"https://www.akumaenterprises-pharma.com/product/cefoperazone-sodium-500mg-sulbactam-sodium-500mg-injection-akp-041","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-041-cefoperazone-sodium-500mg-sulbactam-sodi.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":4,"item":{"@type":"Product","name":"Magaldrate 400mg & Simethicone 20mg Oral Suspension (per 5ml)","sku":"AKP-031","category":"Oral Liquids — Gastroenterology & PPIs","url":"https://www.akumaenterprises-pharma.com/product/magaldrate-400mg-simethicone-20mg-oral-suspension-per-5ml-akp-031","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-031-magaldrate-400mg-simethicone-20mg-oral-s.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":5,"item":{"@type":"Product","name":"Omeprazole 20mg Capsules (Enteric Coated Pellets)","sku":"AKP-011","category":"Capsules — Gastroenterology & PPIs","url":"https://www.akumaenterprises-pharma.com/product/omeprazole-20mg-capsules-enteric-coated-pellets-akp-011","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-011-omeprazole-20mg-capsules-enteric-coated.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":6,"item":{"@type":"Product","name":"Fluticasone Furoate 0.0275% w/v Nasal Spray","sku":"AKP-071","category":"Nasal Spray — Respiratory & Allergy","url":"https://www.akumaenterprises-pharma.com/product/fluticasone-furoate-0-0275-w-v-nasal-spray-akp-071","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-071-fluticasone-furoate-0-0275-w-v-nasal-spr.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":7,"item":{"@type":"Product","name":"Terbinafine Cream 1.0%","sku":"AKP-021","category":"Ointments & Creams — Dermatology & Topicals","url":"https://www.akumaenterprises-pharma.com/product/terbinafine-cream-1-0-akp-021","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-021-terbinafine-cream-1-0.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":8,"item":{"@type":"Product","name":"Amikacin Sulphate 100mg Injection (per 2ml)","sku":"AKP-051","category":"Liquid Injections — Anti-Infectives & Antibiotics","url":"https://www.akumaenterprises-pharma.com/product/amikacin-sulphate-100mg-injection-per-2ml-akp-051","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-051-amikacin-sulphate-100mg-injection-per-2m.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":9,"item":{"@type":"Product","name":"Moxifloxacin 0.5% w/v Eye Drops","sku":"AKP-061","category":"Eye-Ear Drops — Ophthalmic & Otic Care","url":"https://www.akumaenterprises-pharma.com/product/moxifloxacin-0-5-w-v-eye-drops-akp-061","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-061-moxifloxacin-0-5-w-v-eye-drops.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":10,"item":{"@type":"Product","name":"Cyproheptadine Hydrochloride 2mg & Tricholine Citrate (65%) 55mg Drops (per ml)","sku":"AKP-085","category":"Drops — Nutrition & Metabolic Tonics","url":"https://www.akumaenterprises-pharma.com/product/cyproheptadine-hydrochloride-2mg-tricholine-citrate-65-55mg-akp-085","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-085-cyproheptadine-hydrochloride-2mg-trichol.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":11,"item":{"@type":"Product","name":"Cefixime 50mg Dry Syrup (per 5ml Reconstituted Suspension)","sku":"AKP-081","category":"Dry Syrup — Anti-Infectives & Antibiotics","url":"https://www.akumaenterprises-pharma.com/product/cefixime-50mg-dry-syrup-per-5ml-reconstituted-suspension-akp-081","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-081-cefixime-50mg-dry-syrup-per-5ml-reconsti.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":12,"item":{"@type":"Product","name":"Isopropyl Alcohol IP 70% v/v Gel Base Sanitizer","sku":"AKP-087","category":"Sanitizer — Hospital Antiseptics & Sanitization","url":"https://www.akumaenterprises-pharma.com/product/isopropyl-alcohol-ip-70-v-v-gel-base-sanitizer-akp-087","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-087-isopropyl-alcohol-ip-70-v-v-gel-base-san.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":13,"item":{"@type":"Product","name":"Levocetirizine Hydrochloride 5mg Tablets","sku":"AKP-003","category":"Tablets — Respiratory & Allergy","url":"https://www.akumaenterprises-pharma.com/product/levocetirizine-hydrochloride-5mg-tablets-akp-003","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-003-levocetirizine-hydrochloride-5mg-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":14,"item":{"@type":"Product","name":"Retatrutide","sku":"AKP-RP-01","mpn":"2381089-83-2","category":"Peptides — Research Peptides (RUO)","url":"https://www.akumaenterprises-pharma.com/product/retatrutide-research-peptide-akp-rp-01","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-rp-01-retatrutide.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":15,"item":{"@type":"Product","name":"Artesunate for Injection 30 mg","sku":"AKP-004-MAL","category":"Dry Powder Injections — Antimalarials Medication","url":"https://www.akumaenterprises-pharma.com/product/artesunate-for-injection-30-mg-akp-004-mal","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-004-artesunate-30mg-injection.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":16,"item":{"@type":"Product","name":"Terbutaline Sulphate 1.25mg, Bromhexine HCl 2mg, Guaiphenesin 50mg & Menthol 0.5mg Syrup (per 5ml)","sku":"AKP-032","category":"Oral Liquids — Respiratory & Allergy","url":"https://www.akumaenterprises-pharma.com/product/terbutaline-sulphate-1-25mg-bromhexine-hcl-2mg-guaiphenesin-akp-032","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-032-terbutaline-sulphate-1-25mg-bromhexine-h.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":17,"item":{"@type":"Product","name":"Itraconazole 100mg Capsules (Pellets)","sku":"AKP-017","category":"Capsules — Anti-Infectives & Antibiotics","url":"https://www.akumaenterprises-pharma.com/product/itraconazole-100mg-capsules-pellets-akp-017","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-017-itraconazole-100mg-capsules-pellets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":18,"item":{"@type":"Product","name":"Calcitonin (Salmon) 2200 IU Nasal Spray","sku":"AKP-073","category":"Nasal Spray — Endocrine & Supportive Care","url":"https://www.akumaenterprises-pharma.com/product/calcitonin-salmon-2200-iu-nasal-spray-akp-073","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-073-calcitonin-salmon-2200-iu-nasal-spray.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":19,"item":{"@type":"Product","name":"Diclofenac 1.0%, Linseed Oil 3.0%, Methyl Salicylate 10%, Menthol 5.0% & Benzyl Alcohol 1.0% Gel","sku":"AKP-024","category":"Ointments & Creams — Pain, Inflammation & NSAIDs","url":"https://www.akumaenterprises-pharma.com/product/diclofenac-1-0-linseed-oil-3-0-methyl-salicylate-10-menthol-akp-024","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-024-diclofenac-1-0-linseed-oil-3-0-methyl-sa.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":20,"item":{"@type":"Product","name":"Diclofenac Sodium 75mg Injection (per ml)","sku":"AKP-054","category":"Liquid Injections — Pain, Inflammation & NSAIDs","url":"https://www.akumaenterprises-pharma.com/product/diclofenac-sodium-75mg-injection-per-ml-akp-054","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-054-diclofenac-sodium-75mg-injection-per-ml.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":21,"item":{"@type":"Product","name":"Paradichlorobenzene 2%, Benzocaine 2.7%, Chlorbutol 5% & Turpentine Oil 15% Ear Drops","sku":"AKP-062","category":"Eye-Ear Drops — Ophthalmic & Otic Care","url":"https://www.akumaenterprises-pharma.com/product/paradichlorobenzene-2-benzocaine-2-7-chlorbutol-5-turpentine-akp-062","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-062-paradichlorobenzene-2-benzocaine-2-7-chl.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":22,"item":{"@type":"Product","name":"Dicyclomine Hydrochloride 10mg & Activated Dimethicone 40mg Drops (per ml)","sku":"AKP-086","category":"Drops — Gastroenterology & PPIs","url":"https://www.akumaenterprises-pharma.com/product/dicyclomine-hydrochloride-10mg-activated-dimethicone-40mg-dr-akp-086","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-086-dicyclomine-hydrochloride-10mg-activated.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":23,"item":{"@type":"Product","name":"Cefixime 100mg Dry Syrup (per 5ml Reconstituted Suspension)","sku":"AKP-082","category":"Dry Syrup — Anti-Infectives & Antibiotics","url":"https://www.akumaenterprises-pharma.com/product/cefixime-100mg-dry-syrup-per-5ml-reconstituted-suspension-akp-082","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-082-cefixime-100mg-dry-syrup-per-5ml-reconst.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":24,"item":{"@type":"Product","name":"Isopropyl Alcohol IP 70% v/v Rub Sanitizer","sku":"AKP-088","category":"Sanitizer — Hospital Antiseptics & Sanitization","url":"https://www.akumaenterprises-pharma.com/product/isopropyl-alcohol-ip-70-v-v-rub-sanitizer-akp-088","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-088-isopropyl-alcohol-ip-70-v-v-rub-sanitize.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}}]}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":2,"name":"Produits","item":"https://www.akumaenterprises-pharma.com/products"}]}]}

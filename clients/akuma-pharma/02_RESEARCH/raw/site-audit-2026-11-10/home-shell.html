@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#B3122B" />
+
+    <!-- Favicon & touch icons. Order matters — browsers pick the FIRST format
+         they understand, so the vector SVG comes first for modern browsers
+         (sharp at any zoom level), with PNG/ICO fallbacks for older agents. -->
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="msapplication-TileColor" content="#B3122B" />
+    <meta name="msapplication-TileImage" content="/icon-192.png" />
+
+    <!-- Crawlers can use both index and image preview at large size -->
+    <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" />
+
+    <!-- Webmaster verification placeholders. Each search engine requires a
+         distinct verification code (you paste the value provided by the
+         webmaster tool). Setting them lets the engine crawl deeper and
+         lets the operator submit sitemap-update pings.
+         Replace the VERIFY-ME values once each property is registered:
+           Google Search Console:  https://search.google.com/search-console
+           Bing Webmaster Tools:   https://www.bing.com/webmasters
+           Yandex Webmaster:       https://webmaster.yandex.com
+           Baidu Webmaster Tools:  https://ziyuan.baidu.com (mainland China)
+           Naver Search Advisor:   https://searchadvisor.naver.com (Korea)
+         Until replaced these meta tags are harmless — engines simply
+         ignore unrecognised tokens. The presence of the tag itself is
+         what some engines (Baidu, Naver) use as a signal of intent. -->
+    <meta name="google-site-verification" content="VERIFY-ME-GOOGLE" />
+    <meta name="msvalidate.01" content="VERIFY-ME-BING" />
+    <meta name="yandex-verification" content="VERIFY-ME-YANDEX" />
+    <meta name="baidu-site-verification" content="VERIFY-ME-BAIDU" />
+    <meta name="naver-site-verification" content="VERIFY-ME-NAVER" />
+
+    <!-- Performance: preconnect to origins the SPA hits within the first
+         render (Supabase REST/Auth for the product catalog + Google Fonts
+         for typography). Saves 50-200ms on initial fetches by warming DNS,
+         TCP, and TLS in parallel with the HTML parse. dns-prefetch is the
+         compatibility fallback for the few browsers that don't do
+         preconnect (Safari ≤ 15.4). -->
+    <link rel="preconnect" href="https://znqbxgzetommnjromrbe.supabase.co" crossorigin />
+    <link rel="dns-prefetch" href="https://znqbxgzetommnjromrbe.supabase.co" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+
+    <!-- LCP hero preload — explicit Open Graph image preload so the LCP
+         (Largest Contentful Paint) candidate starts fetching during HTML
+         parse instead of waiting for React hydration to discover it.
+         Cuts ~300-500 ms off LCP on a 4G connection per PageSpeed
+         Insights. The Hero LCP image is a fingerprinted Vite asset
+         (/assets/hero-biotech-<hash>.jpg) that we can't reference from
+         a static index.html; the Hero component tags its own <img>
+         with fetchpriority=high, which is enough for LCP prioritisation.
+         Preloading /og-image.jpg here would waste a request on a file
+         the hero doesn't render, so we skip the preload entirely. -->
+
+    <!-- Canonical link — injected synchronously at parse time so the
+         FIRST byte Google reads already has a canonical, instead of
+         waiting for React-Helmet to set it on hydration. Strips the query
+         string (Share Kit posts append ?utm_source=… — without this every
+         such share would look like a duplicate URL to Google). React-Helmet
+         later overrides this per-route with the same value (or a specific
+         override on detail pages), which is fine — search engines use the
+         last <link rel="canonical" href="https://www.akumaenterprises-pharma.com"> wins rule.
+
+         Why inline + window.location: index.html is a single static file
+         served for every SPA route; we can't bake the path in at build time.
+         Apache also emits a Link: rel=canonical HTTP header (see public/.htaccess)
+         for non-JS crawlers — belt-and-braces. -->
+    <script>
+      (function () {
+        try {
+          var l = document.createElement('link');
+          l.rel = 'canonical';
+          l.href = 'https://www.akumaenterprises-pharma.com' + window.location.pathname;
+          document.head.appendChild(l);
+        } catch (e) { /* no-op on prehistoric browsers */ }
+      })();
+    </script>
+
+    <!-- Primary title & description for Akuma Enterprise Pharma (Asia to 54 African Countries & Global Export). -->
+    <title>Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides &amp; Custom Export from Asia to All 54 Countries of Africa (EN/FR)</title>
+    <meta name="description" content="WHO-GMP &amp; ISO 9001:2015 exporter from Asia to all 54 countries of Africa &amp; worldwide: finished pharmaceutical formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules manufactured or sourced on request with Zone IVb stability &amp; bilingual EN/FR Africa dossiers." />
+    <meta name="author" content="Akuma Enterprise Pharma Pvt. Ltd." />
+    <meta
+      name="keywords"
+      content="pharmaceutical exporter Africa India, NAFDAC registered medicines supplier, PPB Kenya SAHPRA TMDA FDA Ghana dossiers, WHO-GMP finished pharmaceutical formulations, Zone IVb stability medicines Africa, Artesunate IV Artemether Lumefantrine India, Semaglutide Tirzepatide Peptide API India, BPC-157 TB-500 Retatrutide RUO peptides, tablets capsules injectables manufacturer Punjab, eCTD ACTD dossiers India"
+    />
+    <!-- Canonical URL is set per-page by the React SEO component so each
+         route advertises its own authoritative URL. -->
+
+    <!-- Hreflang matrix — Africa Priority (EN/FR) + Global Locale coverage.
+         Each country locale resolves cleanly in the router (_PhRoutes) while
+         generic French /?lang=fr and Africa French regional variants (fr-CI,
+         fr-SN, fr-CM, fr-CD, fr-MA) carry explicit bilingual signal. -->
+    <link rel="alternate" hreflang="x-default" href="https://www.akumaenterprises-pharma.com/" />
+    <link rel="alternate" hreflang="en"        href="https://www.akumaenterprises-pharma.com/" />
+    <link rel="alternate" hreflang="en-NG"     href="https://www.akumaenterprises-pharma.com/en-ng/" />
+    <link rel="alternate" hreflang="en-KE"     href="https://www.akumaenterprises-pharma.com/en-ke/" />
+    <link rel="alternate" hreflang="en-GH"     href="https://www.akumaenterprises-pharma.com/en-gh/" />
+    <link rel="alternate" hreflang="en-ZA"     href="https://www.akumaenterprises-pharma.com/en-za/" />
+    <link rel="alternate" hreflang="en-TZ"     href="https://www.akumaenterprises-pharma.com/en-tz/" />
+    <link rel="alternate" hreflang="en-UG"     href="https://www.akumaenterprises-pharma.com/en-ug/" />
+    <link rel="alternate" hreflang="fr"        href="https://www.akumaenterprises-pharma.com/?lang=fr" />
+    <link rel="alternate" hreflang="fr-CI"     href="https://www.akumaenterprises-pharma.com/fr-ci/" />
+    <link rel="alternate" hreflang="fr-SN"     href="https://www.akumaenterprises-pharma.com/fr-sn/" />
+    <link rel="alternate" hreflang="fr-CM"     href="https://www.akumaenterprises-pharma.com/fr-cm/" />
+    <link rel="alternate" hreflang="fr-CD"     href="https://www.akumaenterprises-pharma.com/fr-cd/" />
+    <link rel="alternate" hreflang="fr-MA"     href="https://www.akumaenterprises-pharma.com/fr-ma/" />
+    <link rel="alternate" hreflang="en-US"     href="https://www.akumaenterprises-pharma.com/" />
+    <link rel="alternate" hreflang="en-GB"     href="https://www.akumaenterprises-pharma.com/en-gb/" />
+    <link rel="alternate" hreflang="en-IN"     href="https://www.akumaenterprises-pharma.com/en-in/" />
+    <link rel="alternate" hreflang="en-AU"     href="https://www.akumaenterprises-pharma.com/en-au/" />
+    <link rel="alternate" hreflang="en-CA"     href="https://www.akumaenterprises-pharma.com/en-ca/" />
+    <link rel="alternate" hreflang="en-NZ"     href="https://www.akumaenterprises-pharma.com/en-nz/" />
+    <link rel="alternate" hreflang="de-DE"     href="https://www.akumaenterprises-pharma.com/de-de/" />
+    <link rel="alternate" hreflang="fr-FR"     href="https://www.akumaenterprises-pharma.com/fr-fr/" />
+    <link rel="alternate" hreflang="es-ES"     href="https://www.akumaenterprises-pharma.com/es-es/" />
+    <link rel="alternate" hreflang="it-IT"     href="https://www.akumaenterprises-pharma.com/it-it/" />
+    <link rel="alternate" hreflang="nl-NL"     href="https://www.akumaenterprises-pharma.com/nl-nl/" />
+    <link rel="alternate" hreflang="pt-BR"     href="https://www.akumaenterprises-pharma.com/pt-br/" />
+    <link rel="alternate" hreflang="es-MX"     href="https://www.akumaenterprises-pharma.com/es-mx/" />
+    <link rel="alternate" hreflang="fr-CA"     href="https://www.akumaenterprises-pharma.com/fr-ca/" />
+    <link rel="alternate" hreflang="ja-JP"     href="https://www.akumaenterprises-pharma.com/ja-jp/" />
+    <link rel="alternate" hreflang="ko-KR"     href="https://www.akumaenterprises-pharma.com/ko-kr/" />
+
+    <!-- RSS feeds — discovery hints for Google News, Feedly, AI-training
+         crawlers (GPTBot, ClaudeBot, PerplexityBot all auto-follow
+         <link rel="alternate" type="application/rss+xml">). Splitting
+         news vs regulatory lets buyers subscribe to high-signal docket
+         updates without unsubscribing from broader news. The Atom-like
+         self-reference inside each RSS body is also set so feed readers
+         display the right "subscribe from" URL. -->
+    <link rel="alternate" type="application/rss+xml" title="Akuma Enterprise Pharma — News &amp; Insights (RSS)" href="https://www.akumaenterprises-pharma.com/news.rss" />
+    <link rel="alternate" type="application/rss+xml" title="Akuma Enterprise Pharma — Formulations &amp; Regulatory Updates (RSS)" href="https://www.akumaenterprises-pharma.com/dmf-updates.rss" />
+
+    <!-- GEO & AI Machine-Readable Knowledge Feeds (llmstxt.org specification) -->
+    <link rel="alternate" type="text/markdown" title="Akuma Enterprise Pharma — AI Knowledge Base (llms.txt)" href="https://www.akumaenterprises-pharma.com/llms.txt" />
+    <link rel="author" type="text/markdown" title="Akuma Enterprise Pharma — Complete Formulations Masterlist (llms-full.txt)" href="https://www.akumaenterprises-pharma.com/llms-full.txt" />
+    <link rel="alternate" type="application/json" title="Akuma Enterprise Pharma — Catalog Schema.org (JSON)" href="https://www.akumaenterprises-pharma.com/products.json" />
+
+    <!-- Open Graph + Twitter baseline.
+         Per-route values are overridden at runtime by src/components/SEO.tsx
+         via react-helmet-async; these static defaults exist so non-JS
+         crawlers, social-scraper bots that don't execute JS, and SEO
+         auditors that read the raw HTML still see proper unfurl metadata.
+         https://www.akumaenterprises-pharma.com is substituted at build time. -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Akuma Enterprise Pharma" />
+    <meta property="og:title" content="Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides &amp; Custom Export | Africa &amp; Global" />
+    <meta property="og:description" content="WHO-GMP &amp; ISO 9001:2015 exporter from Asia to all 54 countries of Africa &amp; worldwide: finished formulations, Peptide APIs, Research Peptides, and custom sourcing for every buyer request with Zone IVb stability and Africa eCTD/ACTD dossiers." />
+    <meta property="og:image" content="https://www.akumaenterprises-pharma.com/og-image.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Akuma Enterprise Pharma finished formulations and dossiers" />
+    <meta property="og:url" content="https://www.akumaenterprises-pharma.com" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:locale:alternate" content="fr_CI" />
+    <meta property="og:locale:alternate" content="fr_SN" />
+    <meta property="og:locale:alternate" content="fr_FR" />
+    <meta property="og:locale:alternate" content="en_NG" />
+    <meta property="og:locale:alternate" content="en_KE" />
+    <meta property="og:locale:alternate" content="en_ZA" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides &amp; Custom Export | Africa &amp; Global" />
+    <meta name="twitter:description" content="WHO-GMP &amp; ISO 9001:2015 exporter from Asia to all 54 countries of Africa &amp; globally across finished formulations, Peptide APIs, RUO peptides, and custom molecules on request with bilingual EN/FR Africa dossiers." />
+    <meta name="twitter:image" content="https://www.akumaenterprises-pharma.com/og-image.jpg" />
+    <meta name="twitter:image:alt" content="Akuma Enterprise Pharma finished formulations and dossiers" />
+
+    <!-- Geo signals — explicit lat/long for local SEO. Maps panels and Google
+         Knowledge Graph use these to attach the company to a physical location
+         even when the SPA hasn't hydrated. ICBM is the legacy syntax some
+         engines still read; geo.position is the modern form. -->
+    <meta name="geo.region" content="IN-PB" />
+    <meta name="geo.placename" content="SAS Nagar, Punjab, India" />
+    <meta name="geo.position" content="30.7499;76.6411" />
+    <meta name="ICBM" content="30.7499, 76.6411" />
+
+    <!-- Baseline JSON-LD so non-JS crawlers (and AI answer engines) get the
+         Organization + LocalBusiness + WebSite identity without waiting for
+         React to hydrate. We emit BOTH Organization and LocalBusiness with
+         the same @id — Schema.org permits a node to be both, and the two
+         intents (corporate vs. premises) surface differently in Google rich
+         results (LocalBusiness powers map panels and "near me" answers,
+         Organization powers Knowledge Graph). Per-page schema is overridden
+         later by the SEO component, but never the @id graph nodes. -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": ["Organization", "LocalBusiness", "Manufacturer"],
+            "@id": "https://www.akumaenterprises-pharma.com/#org",
+            "name": "Akuma Enterprise Pharma Pvt. Ltd.",
+            "alternateName": ["Akuma Enterprise Pharma", "Akuma Pharma"],
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "logo": "https://www.akumaenterprises-pharma.com/icon-512.png",
+            "image": "https://www.akumaenterprises-pharma.com/og-image.jpg",
+            "description": "ISO 9001:2015 and WHO-GMP certified exporter shipping from Asia to all 54 African countries & global markets across commercial finished formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules requested by clients, backed by Zone IVb stability and eCTD/ACTD dossiers.",
+            "foundingDate": "2009",
+            "slogan": "Pharmaceutical supply, engineered for confidence.",
+            "vatID": "03ACLFA6940J1ZB",
+            "taxID": "ACLFA6940J",
+            "numberOfEmployees": { "@type": "QuantitativeValue", "value": "200+" },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1st Floor, Cabin 101 #2609, Vinod Accounting Solutions, Landran Road, Adarsh Nagar, Kharar",
+              "addressLocality": "SAS Nagar",
+              "addressRegion": "Punjab",
+              "postalCode": "140301",
+              "addressCountry": "IN"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 30.7499,
+              "longitude": 76.6411
+            },
+            "openingHoursSpecification": [
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "09:00", "closes": "18:00" },
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "09:00", "closes": "13:00" }
+            ],
+            "contactPoint": [
+              {
+                "@type": "ContactPoint",
+                "contactType": "sales",
+                "telephone": "+91-07986147827",
+                "email": "sales@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "areaServed": ["NG","KE","GH","TZ","UG","ET","RW","ZA","EG","MA","CI","SN","CM","CD","ZM","ZW","AO","MZ","DZ","TN","US","CA","MX","BR","DE","FR","GB","IN","JP","AU","AE","SA"],
+                "availableLanguage": ["English","French","Portuguese","Arabic","Swahili","Spanish","Hindi"]
+              },
+              {
+                "@type": "ContactPoint",
+                "contactType": "executive and regulatory desk",
+                "telephone": "+91-07986147827",
+                "email": "dalle@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "availableLanguage": ["English","French","Portuguese","Arabic"]
+              }
+            ],
+            "hasCredential": [
+              { "@type": "EducationalOccupationalCredential", "name": "WHO-GMP", "credentialCategory": "Good Manufacturing Practice", "recognizedBy": { "@type": "Organization", "name": "World Health Organization" } },
+              { "@type": "EducationalOccupationalCredential", "name": "ISO 9001:2015", "credentialCategory": "Quality Management System" },
+              { "@type": "EducationalOccupationalCredential", "name": "ACTD / eCTD Regulatory Dossiers", "credentialCategory": "Modules 1-5 Technical Dossier" },
+              { "@type": "EducationalOccupationalCredential", "name": "ICH Zone IVb Tropical Stability", "credentialCategory": "30C / 75% RH Climatic Stability" },
+              { "@type": "EducationalOccupationalCredential", "name": "CDSCO Manufacturing Licence", "credentialCategory": "Pharmaceutical Manufacturing Licence", "recognizedBy": { "@type": "Organization", "name": "Central Drugs Standard Control Organization (India)" } }
+            ],
+            "knowsAbout": [
+              "Commercial Finished Formulations",
+              "Antimalarial Injections & ACT Tablets (Artesunate IV, Artemether-Lumefantrine)",
+              "Sexual Wellness & Urology Formulations",
+              "Anti-Diabetic SGLT2 & Gliptin Combinations",
+              "Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin)",
+              "Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu)",
+              "African NRA Regulatory Filings (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana, EFDA, WAHO)",
+              "ICH Zone IVb Tropical Stability & Cold-Chain Export",
+              "Dry Powder Injections & Lyophilized Vials",
+              "Liquid Injections & Sterile Ampoules",
+              "Oral Liquids & Paediatric Dry Syrups",
+              "Topical Ointments, Eye-Ear Drops & Nasal Sprays",
+              "WHO-GMP Quality Compliance"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.akumaenterprises-pharma.com/#website",
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "name": "Akuma Enterprise Pharma",
+            "publisher": { "@id": "https://www.akumaenterprises-pharma.com/#org" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": { "@type": "EntryPoint", "urlTemplate": "https://www.akumaenterprises-pharma.com/products?search={search_term_string}" },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": ["en", "fr"]
+          }
+        ]
+      }
+    </script>
+
+    <!-- Inline critical CSS for the first-paint loading state.
+         The main CSS bundle is loaded asynchronously (see the
+         akuma-async-css Vite plugin in vite.config.ts) so first
+         paint doesn't have to wait ~96 KB of Tailwind to download.
+         These ~400 bytes inline-style a centered spinner so users see
+         "something is happening" instantly instead of a blank screen
+         for 200-800 ms on slower connections — directly moves
+         Lighthouse's First Contentful Paint metric and the user-felt
+         loading experience together. React-Helmet's later renders
+         override #root contents naturally; this CSS is dormant after. -->
+    <style>
+      :root { color-scheme: dark; }
+      html, body { margin: 0; padding: 0; background: #0f172a; color: #e2e8f0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      #root:empty::before {
+        content: '';
+        position: fixed; top: 50%; left: 50%;
+        width: 40px; height: 40px; margin: -20px 0 0 -20px;
+        border: 3px solid rgba(226, 232, 240, 0.15);
+        border-top-color: #E31B36;
+        border-radius: 50%;
+        animation: ls-spin 0.8s linear infinite;
+      }
+      @keyframes ls-spin { to { transform: rotate(360deg); } }
+    </style>
+    <script type="module" crossorigin src="/assets/index-x6A47J9A.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/rolldown-runtime-NMqb_1LM.js">
+    <link rel="modulepreload" crossorigin href="/assets/lucide-CUpXcTES.js">
+    <link rel="modulepreload" crossorigin href="/assets/tanstack-query-Ce-wDWBp.js">
+    <link rel="modulepreload" crossorigin href="/assets/client-j70wrbnW.js">
+    <link rel="modulepreload" crossorigin href="/assets/react-router-DfsHNNFq.js">
+    <link rel="modulepreload" crossorigin href="/assets/button-C7tglyNd.js">
+    <link rel="modulepreload" crossorigin href="/assets/react-vendor-JzY3a-SR.js">
+    <link rel="modulepreload" crossorigin href="/assets/use-analytics-D2QBv13E.js">
+    <link rel="modulepreload" crossorigin href="/assets/use-toast-TJOkOZfR.js">
+    <link rel="modulepreload" crossorigin href="/assets/site-config-BdCLZp9d.js">
+    <link rel="preload" as="style" crossorigin href="/assets/index-D_DeLMVN.css" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" crossorigin href="/assets/index-D_DeLMVN.css"></noscript>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What pharmaceutical products and peptide portfolios does Akuma Enterprise Pharma supply?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Akuma Enterprise Pharma exports from Asia across all 54 countries of Africa and global markets. Our featured portfolio covers WHO-GMP commercial finished formulations (Tablets, Capsules, Dry Powder Injections, Liquid Injections, Oral Liquids, Ointments & Creams, Eye-Ear Drops, Nasal Sprays, Dry Syrups, Paediatric Drops, and Sanitizers), Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin, Leuprorelin), and Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu) \u2014 while accepting every custom molecule, dosage, and tender specification on request."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Do you provide ACTD/eCTD dossiers and Zone IVb stability for African National Regulatory Authorities (NRAs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Yes. Every finished formulation and Pharmaceutical Peptide API is backed by 5-Module ACTD/eCTD dossiers, WHO-Format Certificates of Pharmaceutical Product (CoPP), Free Sale Certificates (FSC), CoA, bilingual EN/FR/PT/AR packaging support, and ICH Zone IVb tropical stability studies (30\u00b0C/75% RH & 40\u00b0C/75% RH) tailored for NAFDAC (Nigeria), PPB (Kenya), SAHPRA (South Africa), TMDA (Tanzania), FDA Ghana, AIRP (Cote d'Ivoire), ARP (Senegal), EFDA, NDA, WAHO, and SADC ZAZIBONA."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "How are Pharmaceutical Peptide APIs separated from Research Peptides (RUO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Our Pharmaceutical Peptide APIs (AKP-API series) are manufactured to >=99.0% HPLC purity for licensed formulators and clinical supply chains, whereas our Research Peptides (AKP-RP series) are strictly labeled and restricted to in-vitro laboratory Research Use Only (RUO \u2014 Not for Human or Veterinary Consumption). Custom peptide syntheses are also available."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What are the minimum order quantities (MOQ) and export freight corridors from India to Africa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Standard export MOQs are 1,000 packs for finished formulations, 50 vials for Pharmaceutical Peptide APIs, and 10 vials for RUO Research Peptides. Consignments dispatch via Mumbai (BOM/JNPT) and New Delhi (DEL) air/sea corridors into Lagos, Mombasa, Tema, Durban, Dar es Salaam, Djibouti, Abidjan, and Dakar with validated cold-chain loggers where required."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Which antimalarial, sexual wellness, anti-diabetic, and hospital antibiotic formulations are in stock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "In-stock flagship export lines include Artesunate IV/IM lyophilized vials (30\u2013240 mg), Artemether & \u03b1-\u03b2 Arteether ampoules, Artemether 80/Lumefantrine 480 mg tablets, Chloroquine tablets & suspension, Dapoxetine + Sildenafil/Tadalafil/Vardenafil and Silodosin urology generics, Dapagliflozin & Glimepiride triple combos, Ceftriaxone-Sulbactam, and Cefixime paediatric dry syrups."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Fournissez-vous des m\u00e9dicaments certifi\u00e9s OMS-BPF et des dossiers CTD en fran\u00e7ais pour l'Afrique francophone ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Oui. Akuma Enterprise Pharma exporte depuis l'Asie vers les 54 pays d'Afrique (formulations finies OMS-BPF, API peptidiques, peptides RUO et demandes sur mesure) avec dossiers ACTD/eCTD 5 Modules, CoPP OMS, stabilit\u00e9 ICH Zone IVb et notices RCP/Patient en fran\u00e7ais pour l'AIRP (C\u00f4te d'Ivoire), l'ARP (S\u00e9n\u00e9gal), la DPML (Cameroun), l'ACOREP (RD Congo), la DMP (Maroc) et l'espace WAHO/CEDEAO."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Comment demander un devis export CIF/FOB sous 24 heures vers l'Afrique ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Contactez notre bureau export Afrique par e-mail \u00e0 sales@akumaenterprises-pharma.com ou dalle@akumaenterprises-pharma.com, sur WhatsApp au +91 07986147827, ou directement via le formulaire de devis bilingue sur akumaenterprises-pharma.com/contact."
+      }
+    }
+  ]
+}
+</script>
+  <link rel="help" type="text/plain" href="/llms.txt" title="LLM Knowledge Profile" />
+</head>
+
+  <body>
+    <div id="root"></div>
+
+    <!-- Non-JS fallback content. Visible only when JavaScript is disabled
+         or hasn't loaded yet (some AI engine crawlers, Lynx, older Bingbot,
+         text-only browsers, hardened corporate firewalls). Gives crawlers
+         a real H1 + paragraph + nav links so the homepage isn't a blank
+         "JS required" shell for ~5-8% of bot traffic. React hydration
+         replaces #root contents normally — this block stays hidden behind
+         the React-mounted UI for human visitors (it's inside <noscript>
+         so the browser never renders it when JS is on). -->
+    <noscript>
+      <main style="max-width:960px;margin:0 auto;padding:48px 24px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:#e2e8f0;">
+        <h1>Akuma Enterprise Pharma — WHO-GMP Formulations &amp; Peptides | Export from Asia to All 54 African Countries</h1>
+        <p>
+          Akuma Enterprise Pharma Pvt. Ltd. is a WHO-GMP and ISO 9001:2015 certified pharmaceutical manufacturer and exporter headquartered in SAS Nagar, Punjab, India. We export from Asia across all 54 African countries &amp; global markets. Our featured portfolio covers WHO-GMP commercial finished formulations (Tablets, Capsules, Dry Powder Injections, Liquid Injections, Oral Liquids, Ointments &amp; Creams, Eye &amp; Ear Drops, Nasal Sprays, Paediatric Dry Syrups, Paediatric Drops, and Sanitizers), Pharmaceutical Peptide APIs, and Research Peptides (RUO) — alongside custom molecule sourcing and contract manufacturing for every buyer inquiry.
+        </p>
+        <p>
+          <strong>Africa Priority &amp; Certifications:</strong> WHO-GMP · ISO 9001:2015 · 5-Module ACTD / eCTD Dossiers · NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana, EFDA &amp; WAHO Readiness · ICH Zone IVb Tropical Stability (30°C/75% RH) · &ge;99.0% HPLC + ESI-MS Peptides
+        </p>
+        <p>
+          <strong>Services:</strong> Commercial Formulation Export · Peptide API &amp; Laboratory RUO Supply · Third-Party Manufacturing · Hospital Tenders · Cold-Chain Air &amp; Sea Logistics
+        </p>
+        <nav aria-label="Primary navigation (non-JS fallback)">
+          <h2>Explore the site</h2>
+          <ul>
+            <li><a href="/">Home (English)</a> · <a href="/?lang=fr">Accueil (Français — Afrique Francophone)</a></li>
+            <li><a href="/products">Explore Full Export Catalog (All Categories &amp; Sectors)</a></li>
+            <li><a href="/products?lang=fr">Catalogue Export Bilingue — Afrique &amp; Monde (FR)</a></li>
+            <li><a href="/products/peptides">Peptides Portfolio (Peptide APIs, RUO Peptides &amp; Custom Synthesis)</a></li>
+            <li><a href="/markets">Regional Markets (Africa Priority, MENA, LATAM &amp; Global)</a></li>
+            <li><a href="/country">Country Export Directory (All 54 African Countries &amp; Global Markets)</a></li>
+            <li><a href="/guides/">Pillar Export, Peptide &amp; African NRA Guides</a></li>
+            <li><a href="/news">News &amp; Regulatory Insights</a></li>
+            <li><a href="/quality">WHO-GMP Quality &amp; Zone IVb Stability</a></li>
+            <li><a href="/dmf-updates/">Regulatory Dossiers &amp; African NRA Matrix</a></li>
+            <li><a href="/contact">Request a Dossier &amp; 24-Hour Quote</a></li>
+          </ul>
+        </nav>
+        <p style="margin-top:48px;color:#94a3b8;font-size:14px;">
+          This page requires JavaScript for full interactivity. The links above let you reach every section of the site without JavaScript. WhatsApp: <a href="https://wa.me/9107986147827" style="color:#E31B36;">+91 07986147827</a> | Email <a href="mailto:sales@akumaenterprises-pharma.com" style="color:#E31B36;">sales@akumaenterprises-pharma.com</a> or <a href="mailto:dalle@akumaenterprises-pharma.com" style="color:#E31B36;">dalle@akumaenterprises-pharma.com</a> for direct contact.
+        </p>
+      </main>
+    </noscript>
+
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+      var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+      Tawk_API.customStyle = {
+        visibility: {
+          desktop: { position: "br", xOffset: "20px", yOffset: "90px" },
+          mobile: { position: "br", xOffset: "20px", yOffset: "90px" }
+        }
+      };
+      (function(){
+        var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/6abeb9a510432e343d4a2a2e/1k3sgabjb';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+      })();
+    </script>
+    <!--End of Tawk.to Script-->
+  </body>
+</html>

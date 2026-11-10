@@ -1,0 +1,684 @@
+URL: https://www.akumaenterprises-pharma.com/faq?lang=fr
+FINAL: https://www.akumaenterprises-pharma.com/
+STATUS: 200
+LANG: fr
+TITLE: Formulations Finies OMS-BPF & Peptides | Export d'Asie vers l'Afrique & Monde | Akuma Enterprise Pharma
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #B3122B
+msapplication-TileColor = #B3122B
+msapplication-TileImage = /icon-192.png
+robots = index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+google-site-verification = VERIFY-ME-GOOGLE
+msvalidate.01 = VERIFY-ME-BING
+yandex-verification = VERIFY-ME-YANDEX
+baidu-site-verification = VERIFY-ME-BAIDU
+naver-site-verification = VERIFY-ME-NAVER
+description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished pharmaceutical formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules manufactured or sourced on request with Zone IVb stability & bilingual EN/FR Africa dossiers.
+author = Akuma Enterprise Pharma Pvt. Ltd.
+keywords = pharmaceutical exporter Africa India, NAFDAC registered medicines supplier, PPB Kenya SAHPRA TMDA FDA Ghana dossiers, WHO-GMP finished pharmaceutical formulations, Zone IVb stability medicines Africa, Artesunate IV Artemether Lumefantrine India, Semaglutide Tirzepatide Peptide API India, BPC-157 TB-500 Retatrutide RUO peptides, tablets capsules injectables manufacturer Punjab, eCTD ACTD dossiers India
+og:type = website
+og:site_name = Akuma Enterprise Pharma
+og:title = Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global
+og:description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished formulations, Peptide APIs, Research Peptides, and custom sourcing for every buyer request with Zone IVb stability and Africa eCTD/ACTD dossiers.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:image:type = image/jpeg
+og:image:width = 1200
+og:image:height = 630
+og:image:alt = Akuma Enterprise Pharma finished formulations and dossiers
+og:url = https://www.akumaenterprises-pharma.com
+og:locale = en_US
+og:locale:alternate = fr_CI
+og:locale:alternate = fr_SN
+og:locale:alternate = fr_FR
+og:locale:alternate = en_NG
+og:locale:alternate = en_KE
+og:locale:alternate = en_ZA
+twitter:card = summary_large_image
+twitter:title = Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global
+twitter:description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & globally across finished formulations, Peptide APIs, RUO peptides, and custom molecules on request with bilingual EN/FR Africa dossiers.
+twitter:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+twitter:image:alt = Akuma Enterprise Pharma finished formulations and dossiers
+geo.region = IN-PB
+geo.placename = SAS Nagar, Punjab, India
+geo.position = 30.7499;76.6411
+ICBM = 30.7499, 76.6411
+author = Akuma Enterprise Pharma Pvt. Ltd.
+application-name = Akuma Enterprise Pharma
+apple-mobile-web-app-title = Akuma Enterprise Pharma
+theme-color = #B3122B
+language = fr
+geo.region = IN-PB
+geo.placename = SAS Nagar, Punjab, India
+geo.position = 30.7499;76.6411
+ICBM = 30.7499, 76.6411
+industry = Pharmaceutical Manufacturing & Africa Healthcare Export
+business-type = B2B Pharmaceutical Manufacturer & Exporter
+og:type = website
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:image:type = image/jpeg
+og:image:width = 1920
+og:image:height = 1080
+og:site_name = Akuma Enterprise Pharma
+og:locale = fr_FR
+og:locale:alternate = fr_FR
+og:locale:alternate = fr_CI
+og:locale:alternate = fr_SN
+og:locale:alternate = en_NG
+og:locale:alternate = en_KE
+og:locale:alternate = en_ZA
+twitter:card = summary_large_image
+twitter:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+description = Exportateur indien certifié OMS-BPF de formulations commerciales finies, API peptidiques, peptides RUO et sourcing sur mesure. Export d'Asie vers les 54 pays d'Afrique avec stabilité Zone IVb et dossiers ANR (NAFDAC, AIRP, ARP, PPB, SAHPRA, TMDA).
+keywords = Akuma Enterprise Pharma, exportateur pharmaceutique Afrique, formulations OMS-BPF 54 pays Afrique, Côte d'Ivoire Sénégal Cameroun RDC Nigeria Kenya, dossiers ACTD eCTD AIRP ARP NAFDAC PPB TMDA, stabilité Zone IVb, Artésunate, Sémaglutide API, BPC-157
+robots = index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+og:title = Formulations Finies OMS-BPF & Peptides | Export d'Asie vers l'Afrique & Monde | Akuma Enterprise Pharma
+og:description = Exportateur indien certifié OMS-BPF de formulations commerciales finies, API peptidiques, peptides RUO et sourcing sur mesure. Export d'Asie vers les 54 pays d'Afrique avec stabilité Zone IVb et dossiers ANR (NAFDAC, AIRP, ARP, PPB, SAHPRA, TMDA).
+og:image:alt = Formulations Finies OMS-BPF & Peptides | Export d'Asie vers l'Afrique & Monde
+og:url = https://www.akumaenterprises-pharma.com/
+twitter:title = Formulations Finies OMS-BPF & Peptides | Export d'Asie vers l'Afrique & Monde | Akuma Enterprise Pharma
+twitter:description = Exportateur indien certifié OMS-BPF de formulations commerciales finies, API peptidiques, peptides RUO et sourcing sur mesure. Export d'Asie vers les 54 pays d'Afrique avec stabilité Zone IVb et dossiers ANR (NAFDAC, AIRP, ARP, PPB, SAHPRA, TMDA).
+twitter:image:alt = Formulations Finies OMS-BPF & Peptides | Export d'Asie vers l'Afrique & Monde
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/faq
+alternate x-default https://www.akumaenterprises-pharma.com/
+alternate en https://www.akumaenterprises-pharma.com/
+alternate en-NG https://www.akumaenterprises-pharma.com/en-ng/
+alternate en-KE https://www.akumaenterprises-pharma.com/en-ke/
+alternate en-GH https://www.akumaenterprises-pharma.com/en-gh/
+alternate en-ZA https://www.akumaenterprises-pharma.com/en-za/
+alternate en-TZ https://www.akumaenterprises-pharma.com/en-tz/
+alternate en-UG https://www.akumaenterprises-pharma.com/en-ug/
+alternate fr https://www.akumaenterprises-pharma.com/?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/fr-ci/
+alternate fr-SN https://www.akumaenterprises-pharma.com/fr-sn/
+alternate fr-CM https://www.akumaenterprises-pharma.com/fr-cm/
+alternate fr-CD https://www.akumaenterprises-pharma.com/fr-cd/
+alternate fr-MA https://www.akumaenterprises-pharma.com/fr-ma/
+alternate en-US https://www.akumaenterprises-pharma.com/
+alternate en-GB https://www.akumaenterprises-pharma.com/en-gb/
+alternate en-IN https://www.akumaenterprises-pharma.com/en-in/
+alternate en-AU https://www.akumaenterprises-pharma.com/en-au/
+alternate en-CA https://www.akumaenterprises-pharma.com/en-ca/
+alternate en-NZ https://www.akumaenterprises-pharma.com/en-nz/
+alternate de-DE https://www.akumaenterprises-pharma.com/de-de/
+alternate fr-FR https://www.akumaenterprises-pharma.com/fr-fr/
+alternate es-ES https://www.akumaenterprises-pharma.com/es-es/
+alternate it-IT https://www.akumaenterprises-pharma.com/it-it/
+alternate nl-NL https://www.akumaenterprises-pharma.com/nl-nl/
+alternate pt-BR https://www.akumaenterprises-pharma.com/pt-br/
+alternate es-MX https://www.akumaenterprises-pharma.com/es-mx/
+alternate fr-CA https://www.akumaenterprises-pharma.com/fr-ca/
+alternate ja-JP https://www.akumaenterprises-pharma.com/ja-jp/
+alternate ko-KR https://www.akumaenterprises-pharma.com/ko-kr/
+alternate  https://www.akumaenterprises-pharma.com/news.rss
+alternate  https://www.akumaenterprises-pharma.com/dmf-updates.rss
+alternate  https://www.akumaenterprises-pharma.com/llms.txt
+alternate  https://www.akumaenterprises-pharma.com/products.json
+canonical  https://www.akumaenterprises-pharma.com/
+alternate en https://www.akumaenterprises-pharma.com/
+alternate en-NG https://www.akumaenterprises-pharma.com/
+alternate en-KE https://www.akumaenterprises-pharma.com/
+alternate en-GH https://www.akumaenterprises-pharma.com/
+alternate en-ZA https://www.akumaenterprises-pharma.com/
+alternate en-TZ https://www.akumaenterprises-pharma.com/
+alternate en-UG https://www.akumaenterprises-pharma.com/
+alternate en-GB https://www.akumaenterprises-pharma.com/
+alternate en-US https://www.akumaenterprises-pharma.com/
+alternate fr https://www.akumaenterprises-pharma.com/?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/?lang=fr
+alternate fr-SN https://www.akumaenterprises-pharma.com/?lang=fr
+alternate fr-CM https://www.akumaenterprises-pharma.com/?lang=fr
+alternate fr-CD https://www.akumaenterprises-pharma.com/?lang=fr
+alternate fr-MA https://www.akumaenterprises-pharma.com/?lang=fr
+alternate fr-FR https://www.akumaenterprises-pharma.com/?lang=fr
+alternate x-default https://www.akumaenterprises-pharma.com/
+
+## TEXT
+sales@akumaenterprises-pharma.com
+|
+dalle@akumaenterprises-pharma.com
++91 07986147827
+|
+WhatsApp Export : +91 07986147827
+Akuma Enterprise Pharma
+FORMULATIONS FINIES & DOSSIERS AFRIQUE
+Produits
+Conformité
+Capacités
+Qualité
+Actualités
+Entreprise
+EN
+FR
+Demander un Dossier
+→
+L'export pharmaceutique,
+conçu pour la confiance.
+
+Exportation depuis l'Asie vers les 54 pays d'Afrique et le monde : formulations pharmaceutiques finies OMS-BPF, API Peptidiques, Peptides de Recherche (RUO) et toute molécule sur demande — avec stabilité Zone IVb et dossiers ACTD/eCTD.
+
+→
+Recherches fréquentes :
+Artésunate
+·
+Ofloxacine
+·
+Ceftriaxone
+·
+Sémaglutide
+·
+BPC-157
+Export d'Asie vers 54 pays d'Afrique
+FICHE TECHNIQUE PRODUIT
+Ceftriaxone 1000 mg & Sulbactam 500 mg Inj.
+AKP-048 · Flacon poudre stérile
+Pharmacopée
+USP / BP / EP
+Stock & CoA
+En stock · CoA immédiat
+Stabilité
+Zone IVb (30°C/75% RH)
+Statut Réglementaire
+OMS-BPF · Dossier ACTD Afrique
+Voir la fiche →
+Demander le dossier
+EXPLORER NOTRE PORTEFEUILLE
+Formulations Finies, Peptides & Export Sur Mesure
+
+Parcourez nos formes galéniques, API Peptidiques et Peptides de Recherche — ou soumettez toute demande client : nous fabriquons, sourçons et exportons chaque molécule sur demande.
+
+Explorer le Catalogue
+→
+OMS-BPF
+Comprimés
+Formes orales solides
+IP / BP / USP
+Gélules
+Libération prolongée
+Stérile
+Injections Poudre
+Artésunate & Antibiotiques
+Parentéral
+Injections Liquides
+Ampoules parentérales
+Zone IVb
+Pommades & Crèmes
+Gels et crèmes dermiques
+Sirop / Oral
+Liquides Oraux
+Suspensions & Sirops
+Ophtalmique
+Collyres & Auriculaires
+Solutions ophtalmiques stériles
+HPLC ≥99%
+Peptides
+API & Peptides RUO
+Sprays Nasaux
+Sirops Secs
+Gouttes Pédiatriques
+Désinfectants
+Secteur Antipaludiques
+Secteur Bien-Être Sexuel
+Secteur Antidiabétiques
+API Peptidiques
+Peptides RUO
+Toute Molécule sur Demande →
+NOS PRODUITS PHARES
+Formulations Finies & Peptides en Stock
+
+Médicaments essentiels OMS-BPF et peptides lyophilisés de notre gamme — avec fabrication à façon et sourçage sur demande pour l'Afrique et le monde.
+
+Explorer Tout le Catalogue
+→
+Ofloxacine 200 mg & Ornidazole 500 mg Comprimés
+AKP-002 · Comprimés pelliculés
+IP / BP / USP · En stock
+→
+Artésunate Injectable 60 mg (IV/IM)
+AKP-005-MAL · Antipaludique Zone IVb
+OMS 1re intention · En stock
+→
+Ceftriaxone 1000 mg & Sulbactam 500 mg Inj.
+AKP-048 · Flacon stérile 1500 mg
+Verre Type I USP · En stock
+→
+Sémaglutide API Peptidique
+AKP-API-02 · CAS 910463-68-2
+HPLC ≥99,0 % · API Peptidique
+→
+QUALITÉ & CONFORMITÉ
+Documentation Complète pour l'Afrique & le Monde
+
+Dossiers réglementaires complets — CoPP au format OMS, études de stabilité Zone IVb et modules ACTD/eCTD adaptés aux autorités AIRP, ARP, NAFDAC, PPB, SAHPRA et TMDA.
+
+Voir nos certifications
+→
+Certificat d'Analyse (CoA)
+
+Contrôle HPLC / GC / MS par lot
+
+Fiche de Données de Sécurité (FDS)
+
+SGH 16 sections (FR / EN / PT)
+
+Attestation OMS-BPF
+
+Certifié WHO-GMP & Annexe M
+
+CoPP OMS & Vente Libre (FSC)
+
+Légalisation ANR africaines
+
+Dossiers ACTD & eCTD
+
+AIRP, ARP, NAFDAC, PPB, SAHPRA
+
+Stabilité Tropicale Zone IVb
+
+30 °C / 75 % HR & 40 °C / 75 % HR
+
+Solvants Résiduels (Q3C)
+
+Dépistage GC-MS conforme ICH
+
+Impuretés Élémentaires (Q3D)
+
+ICH Q3D Classes 1, 2A, 2B, 3
+
+Traçabilité de Lots GS1
+
+Chaîne de traçabilité & QR code
+
+CHAÎNE LOGISTIQUE MONDIALE
+Maîtrise de la Chaîne d'Approvisionnement
+
+Un circuit transparent et réactif garantissant conformité réglementaire, traçabilité et livraisons ponctuelles en Afrique.
+
+Notre réseau logistique
+→
+Production
+
+Unités OMS-BPF
+
+Contrôle Qualité
+
+Zone IVb & HPLC
+
+Dépôt Dossier
+
+ANR Afrique & Monde
+
+Fret Aérien/Mer
+
+BOM / JNPT -> Afrique
+
+Votre Marché
+
+Partenariat durable
+
+NOS ATOUTS
+Pourquoi choisir Akuma Enterprise Pharma
+
+Plus qu'un exportateur — un partenaire industriel engagé pour vos succès réglementaires et hospitaliers.
+
+Qualité OMS-BPF Certifiée
+
+Contrôles pharmacopées IP, BP, USP, EP et vérification HPLC/MS sur notre portefeuille export et vos demandes sur mesure.
+
+Expertise ANR Afrique & Monde
+
+Dossiers ACTD/eCTD prêts au dépôt pour AIRP, ARP, NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana, EFDA et WAHO/ZAZIBONA.
+
+Zone IVb & Chaîne du Froid
+
+Stabilité tropicale validée à 30 °C/75 % HR et expéditions aériennes BOM/DEL vers les 54 pays d'Afrique.
+
+Appels d'Offres & B2B 24h
+
+Disponibilité étendue, sourcing sur demande pour toute molécule, notices FR/EN/PT/AR et réponse CIF sous 24 heures.
+
+“
+Des médicaments certifiés pour une Afrique et un monde en meilleure santé.
+AP
+Engagement Akuma Pharma
+Qualité OMS-BPF & Conformité Zone IVb
+CENTRE DE RESSOURCES
+Actualités Réglementaires & Guides Export
+
+Guides ANR africaines, dossiers ACTD/eCTD et actualités de notre portefeuille export.
+
+Tous les articles
+→
+28 Oct. 2026
+Enregistrement ANR en Afrique : NAFDAC, AIRP, ARP, PPB, SAHPRA & TMDA
+
+Comment nos dossiers ACTD/eCTD, CoPP OMS et données de stabilité Zone IVb accélèrent les autorisations de mise sur le marché en Afrique de l'Ouest, de l'Est et Australe.
+
+Lire l'article
+→
+10 Sept. 2026
+Validation de Stabilité Zone IVb pour les Climats Tropicaux Africains
+
+Protocoles en temps réel (30 °C/75 % HR) et accélérés (40 °C/75 % HR) pour antipaludiques injectables, antibiotiques et formulations pédiatriques.
+
+Lire l'article
+→
+16 Oct. 2026
+API Peptidiques Pharmaceutiques & Peptides de Recherche (RUO) — Export Mondial
+
+Sémaglutide, Tirzépatide, Carbétocine, BPC-157 lyophilisés (HPLC ≥ 99,0 % + spectrométrie de masse) et synthèses sur demande pour l'export.
+
+Lire l'article
+→
+QUESTIONS FRÉQUENTES
+Questions Fréquentes Export & ANR
+
+Réponses rapides sur notre gamme, commandes sur mesure, dossiers Afrique, stabilité Zone IVb et peptides.
+
+Découvrir l'entreprise
+→
+Quels produits pharmaceutiques et peptides exportez-vous ?
++
+Exportez-vous d'Asie vers les 54 pays d'Afrique avec dossiers ANR ?
++
+Pouvons-nous commander une molécule ou un dosage qui n'apparaît pas sur le site ?
++
+Fournissez-vous les certificats CoA, CoPP OMS, FSC et dossiers ACTD / eCTD ?
++
+Quelle est la séparation entre API Peptidiques et Peptides de Recherche (RUO) ?
++
+Sous quel délai recevons-nous nos cotations CIF/FOB et aperçus de dossiers ?
++
+PARTENARIAT EXPORT AFRIQUE
+Construisons ensemble une santé plus forte en Afrique
+
+Contactez notre bureau export pour obtenir vos cotations CIF/FOB 24h, notre catalogue PDF 2026 ou un dossier ACTD/eCTD complet.
+
+Demander un dossier
+▾
+Contacter notre équipe
+Catalogue PDF 2026 ↓
+24h
+Réponse Rapide
+Sous 24 heures pour toute demande réglementaire ou devis
+54
+Afrique & Monde
+Export de l'Asie vers les 54 pays d'Afrique & le monde
+GMP
+Équipe Réglementaire Dédiée
+Spécialistes ANR Afrique & chaînes stériles à votre écoute
+Akuma Enterprise Pharma
+EN
+FR
+
+Exportateur pharmaceutique certifié OMS-BPF & ISO 9001:2015 depuis l'Asie vers les 54 pays d'Afrique et le monde : formulations finies, API peptidiques, peptides RUO et toute molécule sur demande avec stabilité Zone IVb.
+
+Catalogue PDF 2026
+Guides Export ANR
+PRODUITS
+Comprimés & Solides oraux
+Injections poudre sèche
+API Peptidiques & Peptides RUO
+Antipaludiques & Antidiabétiques
+Explorer Tout le Catalogue
+ENTREPRISE & AFRIQUE
+À propos
+54 Pays d'Afrique & Monde
+Répertoire Pays & ANR
+Qualité & Conformité
+Demande Sur Mesure / Contact
+BUREAU EXPORT
+Siège Social & Export · SAS Nagar, Pendjab, Inde
+sales@akumaenterprises-pharma.com
+dalle@akumaenterprises-pharma.com
++91 07986147827
+WhatsApp: +91 07986147827
+
+© 2026 Akuma Enterprise Pharma Pvt. Ltd. Tous droits réservés.
+
+Confidentialité
+Conditions & Retours
+Plan du site
+Aide / Suivi commande
+
+## IMG ALT
+Akuma Enterprise Pharma Logo <= /logo.svg
+Flacon stérile et formulations pharmaceutiques OMS-BPF — Akuma Enterprise Pharma <= /assets/pharma-hero-vial.jpg
+Flacon Ceftriaxone 1000 mg & Sulbactam 500 mg <= /product-images/products/akp-048-ceftriaxone-sodium-1000mg-sulbactam-sodi.webp
+Ofloxacine 200 mg & Ornidazole 500 mg Comprimés <= /product-images/products/akp-002-ofloxacin-200mg-ornidazole-500mg-tablets.webp
+Artésunate Injectable 60 mg (IV/IM) <= /product-images/products/akp-005-artesunate-60mg-injection.webp
+Ceftriaxone 1000 mg & Sulbactam 500 mg Inj. <= /product-images/products/akp-048-ceftriaxone-sodium-1000mg-sulbactam-sodi.webp
+Sémaglutide API Peptidique <= /product-images/products/akp-api-02-semaglutide.webp
+Analyste CQ contrôlant des lots pharmaceutiques <= /assets/pharma-compliance-lab.jpg
+Enregistrement ANR en Afrique : NAFDAC, AIRP, ARP, PPB, SAHPRA & TMDA <= /assets/manufacturing-facility-Den46mjf.jpg
+Validation de Stabilité Zone IVb pour les Climats Tropicaux Africains <= /assets/news-fda-regulatory-DG27vGtA.jpg
+API Peptidiques Pharmaceutiques & Peptides de Recherche (RUO) — Export Mondial <= /assets/news-laboratory-accreditation-0vSDTJDp.jpg
+
+## FORMS
+INPUT:hero-search-input:text:Molécule, peptide ou CAS...
+
+## HREFS
+mailto:sales@akumaenterprises-pharma.com
+mailto:dalle@akumaenterprises-pharma.com
+tel:+9107986147827
+https://wa.me/9107986147827
+/
+/products
+/compliance
+/supply
+/solutions
+/knowledge
+/company
+/markets
+/products/nasal-spray
+/products/dry-syrup
+/products/drops
+/products/sanitizer
+/products?sector=Antimalarials%20Medication
+/products?sector=Sexual%20Wellness%20Medication
+/products?sector=Anti-Diabetic%20Medication
+/products?sector=Pharmaceutical%20Peptide%20APIs
+/products?sector=Research%20Peptides%20(RUO)
+/contact
+/product/ofloxacin-200mg-ornidazole-500mg-tablets-akp-002
+/product/artesunate-for-injection-60-mg-akp-005-mal
+/product/ceftriaxone-sodium-1000mg-sulbactam-sodium-500mg-injection-akp-048
+/product/semaglutide-peptide-api-akp-api-02
+/capabilities
+/news
+/news/african-nra-registration-nafdac-ppb-sahpra-tmda
+/news/zone-ivb-stability-validation-tropical-markets
+/news/pharmaceutical-peptide-apis-and-research-peptides-launch
+/about
+/downloads/catalog/akuma-pharma-catalog-2026.pdf
+/guides/
+/products/tablets
+/products/dry-powder-injections
+/products/peptides
+/country
+/certifications
+/privacy-policy
+/return-policy
+/sitemap.html
+https://wa.me/9107986147827?text=Hello%20Akuma%20Enterprise%20Pharma,%20I%20have%20an%20inquiry
+
+## JSON-LD
+
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": ["Organization", "LocalBusiness", "Manufacturer"],
+            "@id": "https://www.akumaenterprises-pharma.com/#org",
+            "name": "Akuma Enterprise Pharma Pvt. Ltd.",
+            "alternateName": ["Akuma Enterprise Pharma", "Akuma Pharma"],
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "logo": "https://www.akumaenterprises-pharma.com/icon-512.png",
+            "image": "https://www.akumaenterprises-pharma.com/og-image.jpg",
+            "description": "ISO 9001:2015 and WHO-GMP certified exporter shipping from Asia to all 54 African countries & global markets across commercial finished formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules requested by clients, backed by Zone IVb stability and eCTD/ACTD dossiers.",
+            "foundingDate": "2009",
+            "slogan": "Pharmaceutical supply, engineered for confidence.",
+            "vatID": "03ACLFA6940J1ZB",
+            "taxID": "ACLFA6940J",
+            "numberOfEmployees": { "@type": "QuantitativeValue", "value": "200+" },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1st Floor, Cabin 101 #2609, Vinod Accounting Solutions, Landran Road, Adarsh Nagar, Kharar",
+              "addressLocality": "SAS Nagar",
+              "addressRegion": "Punjab",
+              "postalCode": "140301",
+              "addressCountry": "IN"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 30.7499,
+              "longitude": 76.6411
+            },
+            "openingHoursSpecification": [
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "09:00", "closes": "18:00" },
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "09:00", "closes": "13:00" }
+            ],
+            "contactPoint": [
+              {
+                "@type": "ContactPoint",
+                "contactType": "sales",
+                "telephone": "+91-07986147827",
+                "email": "sales@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "areaServed": ["NG","KE","GH","TZ","UG","ET","RW","ZA","EG","MA","CI","SN","CM","CD","ZM","ZW","AO","MZ","DZ","TN","US","CA","MX","BR","DE","FR","GB","IN","JP","AU","AE","SA"],
+                "availableLanguage": ["English","French","Portuguese","Arabic","Swahili","Spanish","Hindi"]
+              },
+              {
+                "@type": "ContactPoint",
+                "contactType": "executive and regulatory desk",
+                "telephone": "+91-07986147827",
+                "email": "dalle@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "availableLanguage": ["English","French","Portuguese","Arabic"]
+              }
+            ],
+            "hasCredential": [
+              { "@type": "EducationalOccupationalCredential", "name": "WHO-GMP", "credentialCategory": "Good Manufacturing Practice", "recognizedBy": { "@type": "Organization", "name": "World Health Organization" } },
+              { "@type": "EducationalOccupationalCredential", "name": "ISO 9001:2015", "credentialCategory": "Quality Management System" },
+              { "@type": "EducationalOccupationalCredential", "name": "ACTD / eCTD Regulatory Dossiers", "credentialCategory": "Modules 1-5 Technical Dossier" },
+              { "@type": "EducationalOccupationalCredential", "name": "ICH Zone IVb Tropical Stability", "credentialCategory": "30C / 75% RH Climatic Stability" },
+              { "@type": "EducationalOccupationalCredential", "name": "CDSCO Manufacturing Licence", "credentialCategory": "Pharmaceutical Manufacturing Licence", "recognizedBy": { "@type": "Organization", "name": "Central Drugs Standard Control Organization (India)" } }
+            ],
+            "knowsAbout": [
+              "Commercial Finished Formulations",
+              "Antimalarial Injections & ACT Tablets (Artesunate IV, Artemether-Lumefantrine)",
+              "Sexual Wellness & Urology Formulations",
+              "Anti-Diabetic SGLT2 & Gliptin Combinations",
+              "Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin)",
+              "Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu)",
+              "African NRA Regulatory Filings (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana, EFDA, WAHO)",
+              "ICH Zone IVb Tropical Stability & Cold-Chain Export",
+              "Dry Powder Injections & Lyophilized Vials",
+              "Liquid Injections & Sterile Ampoules",
+              "Oral Liquids & Paediatric Dry Syrups",
+              "Topical Ointments, Eye-Ear Drops & Nasal Sprays",
+              "WHO-GMP Quality Compliance"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.akumaenterprises-pharma.com/#website",
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "name": "Akuma Enterprise Pharma",
+            "publisher": { "@id": "https://www.akumaenterprises-pharma.com/#org" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": { "@type": "EntryPoint", "urlTemplate": "https://www.akumaenterprises-pharma.com/products?search={search_term_string}" },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": ["en", "fr"]
+          }
+        ]
+      }
+    
+-----
+
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What pharmaceutical products and peptide portfolios does Akuma Enterprise Pharma supply?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Akuma Enterprise Pharma exports from Asia across all 54 countries of Africa and global markets. Our featured portfolio covers WHO-GMP commercial finished formulations (Tablets, Capsules, Dry Powder Injections, Liquid Injections, Oral Liquids, Ointments & Creams, Eye-Ear Drops, Nasal Sprays, Dry Syrups, Paediatric Drops, and Sanitizers), Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin, Leuprorelin), and Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu) \u2014 while accepting every custom molecule, dosage, and tender specification on request."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Do you provide ACTD/eCTD dossiers and Zone IVb stability for African National Regulatory Authorities (NRAs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Yes. Every finished formulation and Pharmaceutical Peptide API is backed by 5-Module ACTD/eCTD dossiers, WHO-Format Certificates of Pharmaceutical Product (CoPP), Free Sale Certificates (FSC), CoA, bilingual EN/FR/PT/AR packaging support, and ICH Zone IVb tropical stability studies (30\u00b0C/75% RH & 40\u00b0C/75% RH) tailored for NAFDAC (Nigeria), PPB (Kenya), SAHPRA (South Africa), TMDA (Tanzania), FDA Ghana, AIRP (Cote d'Ivoire), ARP (Senegal), EFDA, NDA, WAHO, and SADC ZAZIBONA."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "How are Pharmaceutical Peptide APIs separated from Research Peptides (RUO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Our Pharmaceutical Peptide APIs (AKP-API series) are manufactured to >=99.0% HPLC purity for licensed formulators and clinical supply chains, whereas our Research Peptides (AKP-RP series) are strictly labeled and restricted to in-vitro laboratory Research Use Only (RUO \u2014 Not for Human or Veterinary Consumption). Custom peptide syntheses are also available."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What are the minimum order quantities (MOQ) and export freight corridors from India to Africa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Standard export MOQs are 1,000 packs for finished formulations, 50 vials for Pharmaceutical Peptide APIs, and 10 vials for RUO Research Peptides. Consignments dispatch via Mumbai (BOM/JNPT) and New Delhi (DEL) air/sea corridors into Lagos, Mombasa, Tema, Durban, Dar es Salaam, Djibouti, Abidjan, and Dakar with validated cold-chain loggers where required."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Which antimalarial, sexual wellness, anti-diabetic, and hospital antibiotic formulations are in stock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "In-stock flagship export lines include Artesunate IV/IM lyophilized vials (30\u2013240 mg), Artemether & \u03b1-\u03b2 Arteether ampoules, Artemether 80/Lumefantrine 480 mg tablets, Chloroquine tablets & suspension, Dapoxetine + Sildenafil/Tadalafil/Vardenafil and Silodosin urology generics, Dapagliflozin & Glimepiride triple combos, Ceftriaxone-Sulbactam, and Cefixime paediatric dry syrups."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Fournissez-vous des m\u00e9dicaments certifi\u00e9s OMS-BPF et des dossiers CTD en fran\u00e7ais pour l'Afrique francophone ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Oui. Akuma Enterprise Pharma exporte depuis l'Asie vers les 54 pays d'Afrique (formulations finies OMS-BPF, API peptidiques, peptides RUO et demandes sur mesure) avec dossiers ACTD/eCTD 5 Modules, CoPP OMS, stabilit\u00e9 ICH Zone IVb et notices RCP/Patient en fran\u00e7ais pour l'AIRP (C\u00f4te d'Ivoire), l'ARP (S\u00e9n\u00e9gal), la DPML (Cameroun), l'ACOREP (RD Congo), la DMP (Maroc) et l'espace WAHO/CEDEAO."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Comment demander un devis export CIF/FOB sous 24 heures vers l'Afrique ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Contactez notre bureau export Afrique par e-mail \u00e0 sales@akumaenterprises-pharma.com ou dalle@akumaenterprises-pharma.com, sur WhatsApp au +91 07986147827, ou directement via le formulaire de devis bilingue sur akumaenterprises-pharma.com/contact."
+      }
+    }
+  ]
+}
+
+-----
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.akumaenterprises-pharma.com/#webpage","url":"https://www.akumaenterprises-pharma.com/","name":"Akuma Enterprise Pharma | Formulations OMS-BPF & Peptides — Export d'Asie vers les 54 pays d'Afrique","isPartOf":{"@id":"https://www.akumaenterprises-pharma.com/#website"},"about":{"@id":"https://www.akumaenterprises-pharma.com/#org"},"inLanguage":"fr"},{"@type":"Organization","@id":"https://www.akumaenterprises-pharma.com/#org","name":"Akuma Enterprise Pharma Pvt. Ltd.","url":"https://www.akumaenterprises-pharma.com","logo":"https://www.akumaenterprises-pharma.com/logo.svg","email":"sales@akumaenterprises-pharma.com","telephone":"+91 07986147827","areaServed":["Africa","Nigeria","Kenya","Ghana","South Africa","Tanzania","Uganda","Ethiopia","Cote d'Ivoire","Senegal","Cameroon","DR Congo","Morocco","Egypt"],"address":{"@type":"PostalAddress","streetAddress":"1st Floor, Cabin 101 #2609, Landran Road, Adarsh Nagar, Kharar","addressLocality":"SAS Nagar","addressRegion":"Punjab","postalCode":"140301","addressCountry":"IN"}},{"@type":"WebSite","@id":"https://www.akumaenterprises-pharma.com/#website","url":"https://www.akumaenterprises-pharma.com","name":"Akuma Enterprise Pharma","inLanguage":["en","fr"],"potentialAction":{"@type":"SearchAction","target":"https://www.akumaenterprises-pharma.com/products?search={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quels produits pharmaceutiques et peptides exportez-vous ?","acceptedAnswer":{"@type":"Answer","text":"Notre vitrine export couvre des formulations commerciales finies OMS-BPF (comprimés, gélules, injections poudre sèche et liquides, antipaludiques, sirops pédiatriques, collyres, sprays nasaux) ainsi que des API Peptidiques pharmaceutiques et des Peptides de Recherche (RUO). Au-delà du catalogue exposé, nous sourçons, fabriquons et exportons sur demande toute molécule ou dosage spécifique demandé par nos clients."}},{"@type":"Question","name":"Exportez-vous d'Asie vers les 54 pays d'Afrique avec dossiers ANR ?","acceptedAnswer":{"@type":"Answer","text":"Oui. L'Afrique est notre marché prioritaire : nous exportons d'Asie vers les 54 pays d'Afrique (Afrique de l'Ouest, Centrale, de l'Est, Australe et du Nord), accompagnés de dossiers ACTD/eCTD (NAFDAC, AIRP, ARP, DPML, ACOREP, PPB, FDA Ghana, SAHPRA, TMDA, EFDA, DMP) et de notices en français, anglais, portugais et arabe."}},{"@type":"Question","name":"Pouvons-nous commander une molécule ou un dosage qui n'apparaît pas sur le site ?","acceptedAnswer":{"@type":"Answer","text":"Absolument. Les références affichées représentent notre portefeuille mis en avant, mais notre bureau export traite chaque demande client : dosages personnalisés, conditionnements hôpitaux ou appels d'offres nationaux, et fabrication OMS-BPF sur cahier des charges."}},{"@type":"Question","name":"Fournissez-vous les certificats CoA, CoPP OMS, FSC et dossiers ACTD / eCTD ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Chaque expédition s'accompagne de Certificats d'Analyse par lot (HPLC/MS CoA), Certificat de Vente Libre (FSC), CoPP au format OMS, données de stabilité Zone IVb (30 °C/75 % HR) et dossiers d'enregistrement ACTD/eCTD Modules 1 à 5."}},{"@type":"Question","name":"Quelle est la séparation entre API Peptidiques et Peptides de Recherche (RUO) ?","acceptedAnswer":{"@type":"Answer","text":"Nos API Peptidiques (Sémaglutide, Tirzépatide, Carbétocine, Leuproréline) sont destinés aux formulateurs licenciés, tandis que nos Peptides RUO (Rétatrutide, BPC-157, TB-500, GHK-Cu) sont strictement réservés à la recherche en laboratoire (non destinés à l'usage humain ou vétérinaire)."}},{"@type":"Question","name":"Sous quel délai recevons-nous nos cotations CIF/FOB et aperçus de dossiers ?","acceptedAnswer":{"@type":"Answer","text":"Cliquez sur « Demander un dossier » ou contactez-nous sur WhatsApp (+91 07986147827) ou à sales@akumaenterprises-pharma.com : notre bureau export répond sous 24 heures ouvrées pour le catalogue standard comme pour toute demande sur mesure."}}]}]}

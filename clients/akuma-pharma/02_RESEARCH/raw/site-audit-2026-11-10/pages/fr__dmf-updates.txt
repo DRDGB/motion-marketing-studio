@@ -1,0 +1,145 @@
+URL: https://www.akumaenterprises-pharma.com/dmf-updates?lang=fr
+FINAL: https://www.akumaenterprises-pharma.com/dmf-updates/?lang=fr
+STATUS: 200
+LANG: en
+TITLE: Regulatory Dossiers & Technical Filings (eCTD / ACTD) — Akuma Enterprise Pharma
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #0D9488
+robots = index,follow,max-image-preview:large,max-snippet:-1
+description = Ready-to-file 5-Module eCTD and ACTD regulatory dossiers, COPP, HPLC/MS CoA, and Zone IVb stability data for WHO-GMP finished formulations, Pharmaceutical Peptide APIs, and custom export dossiers across all 54 Africa NRAs (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana) & global export.
+keywords = eCTD dossier supplier India, ACTD dossier Africa NAFDAC PPB SAHPRA TMDA, COPP certificate pharmaceutical product India, WHO-GMP dossier registration, Zone IVb stability testing, MOH registration dossier Africa, peptide API CoA HPLC MS
+og:type = article
+og:site_name = Akuma Enterprise Pharma
+og:title = Regulatory Dossiers & Technical Filings — Akuma Enterprise Pharma
+og:description = Ready-to-file Africa & global eCTD/ACTD dossiers, COPP, and Zone IVb stability data for finished formulations, Pharmaceutical Peptide APIs, RUO peptides, and custom client filings across all 54 African countries & worldwide.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:url = https://www.akumaenterprises-pharma.com/dmf-updates/
+twitter:card = summary_large_image
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/dmf-updates/
+alternate x-default https://www.akumaenterprises-pharma.com/dmf-updates/
+alternate en https://www.akumaenterprises-pharma.com/dmf-updates/
+
+## TEXT
+Home / Products / Regulatory Dossiers
+WHO-GMP & CDSCO Certified
+Commercial Formulation Regulatory Dossiers (eCTD / ACTD)
+
+Akuma Enterprise Pharma maintains comprehensive, pre-compiled regulatory and analytical documentation packages for our WHO-GMP commercial finished formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom client-requested molecules — serving all 54 African countries & global markets. Engineered specifically for fast-track NRA registration across Africa (NAFDAC Nigeria, PPB Kenya, SAHPRA South Africa, TMDA Tanzania, FDA Ghana, EFDA Ethiopia, WAHO, EAC, SADC ZAZIBONA) alongside GCC, Latin America, Southeast Asia, and CIS markets.
+
+Dossier Package Structure (Modules 1 through 5)
+
+Every commercial product dossier follows harmonized ICH CTD and ASEAN ACTD specifications:
+
+Module 1: Administrative
+
+Application forms, comprehensive Certificate of Pharmaceutical Product (COPP / WHO-Format), Free Sale Certificate (FSC), GMP Certificate, and proposed Product Information / Leaflets.
+
+Module 2: Summaries
+
+Overall Quality Summary (QOS), Clinical Overview, Non-Clinical Overview, and tabular summaries prepared by certified regulatory affairs specialists.
+
+Module 3: Quality (CMC)
+
+Complete drug substance specifications, manufacturing process validation, batch analysis reports (CoAs), analytical method validation, and container-closure system integrity.
+
+Stability: Zone IVb
+
+Accelerated (40°C ± 2°C / 75% RH ± 5% RH) and real-time long-term (30°C ± 2°C / 75% RH ± 5% RH) stability testing demonstrating 24 to 36 months commercial shelf life in tropical zones.
+
+Active Commercial Formulations Dossier Registry
+Dosage Category	Formulations	Pharmacopoeia	Dossier Format	Status
+Oral Tablets	Featured · Custom Strengths Available (Ofloxacin, Artemether + Lumefantrine, Dapagliflozin, Glimepiride + Metformin, Sildenafil, Tadalafil)	IP / BP / USP	eCTD / ACTD	Ready to File
+Capsules & Pellets	Featured · Custom Strengths Available (Omeprazole, Itraconazole, Oseltamivir 45/75 mg, Silodosin, Rabeprazole)	IP / BP / USP	eCTD / ACTD	Ready to File
+Dry Powder Injections	Featured · Custom Strengths Available (Artesunate 30–240 mg, Ceftriaxone, Cefoperazone + Sulbactam)	IP / BP / USP	eCTD / ACTD	Ready to File
+Liquid Injections	Featured · Custom Strengths Available (Artemether 20/40/80 mg, α-β Arteether 150 mg, Amikacin, Diclofenac)	IP / BP / USP	eCTD / ACTD	Ready to File
+Ointments & Creams	Featured · Custom Strengths Available (Terbinafine, Clobetasol, Mometasone)	IP / BP / USP	eCTD / ACTD	Ready to File
+Oral Liquids & Syrups	Featured · Custom Strengths Available (Chloroquine 160 mg/10 ml, Magaldrate + Simethicone, Expectorants)	IP / BP / USP	eCTD / ACTD	Ready to File
+Sterile Eye & Ear Drops	Featured · Custom Strengths Available (Moxifloxacin, Carboxymethylcellulose)	IP / BP / USP	eCTD / ACTD	Ready to File
+Metered-Dose Nasal Sprays & Inhalers	Featured · Custom Strengths Available (Fluticasone, Xylometazoline, Zolmitriptan, Salbutamol)	IP / BP / USP	eCTD / ACTD	Ready to File
+Paediatric Dry Syrups	Featured · Custom Strengths Available (Cefixime, Cefpodoxime granules)	IP / BP / USP	eCTD / ACTD	Ready to File
+Paediatric Oral Drops	Featured · Custom Strengths Available (Paracetamol Infant Drops, Dicyclomine, Cyproheptadine)	IP / BP / USP	eCTD / ACTD	Ready to File
+Hospital & Clinical Sanitizers	Featured · Custom Strengths Available (Chlorhexidine Surgical Scrub, WHO Alcohol Handrubs)	WHO / IP / USP	eCTD / ACTD	Ready to File
+Peptides (Pharmaceutical APIs & RUO)	Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin, Octreotide), RUO Research Peptides (BPC-157, TB-500, Retatrutide) & Custom Synthesis	ICH Q7 / USP / EP / HPLC ≥99.0%	eCTD / CoA + MS + SDS	Ready to File
+African National Regulatory Authority (NRA) Filing Matrix & Sea/Air Corridors
+
+Every export registration package is aligned to African regional harmonisation frameworks (AMRH, WAHO, EAC-MRH, SADC ZAZIBONA) with bilingual English, French, Portuguese, and Arabic packs and direct freight corridors from Mumbai (BOM/JNPT) & New Delhi (DEL) to Apapa/Tin Can Island (Lagos), Mombasa, Tema, Durban, and Dar es Salaam:
+
+West Africa (NAFDAC · FDA Ghana · WAHO)
+
+COPP, Free Sale Certificate, NAFDAC NAPAMS dossier readiness, pre-shipment clean report of inspection & analysis (CRIA) support, and French/English ECOWAS packs.
+
+East Africa (PPB · TMDA · NDA · EFDA)
+
+EAC Common Technical Document format for Kenya (PPB), Tanzania (TMDA), Uganda (NDA), Rwanda FDA, and Ethiopia (EFDA) plus WHO-prequalified antimalarial Artesunate documentation.
+
+Southern & North Africa (SAHPRA · EDA · DMP)
+
+Full eCTD Module 1–5 sequence readiness for SAHPRA (South Africa) & ZAZIBONA work-sharing, plus French/Arabic serialized cartons for Morocco, Algeria, Tunisia, and Egypt.
+
+Request Regulatory Dossier Authorization
+
+Licensed distributors and Ministry of Health tender participants can request complete dossier sections, Letters of Access, and audit documentation directly from our regulatory desk.
+
+Email Regulatory Desk WhatsApp (+91 07986147827)
+
+Direct Contact: sales@akumaenterprises-pharma.com · dalle@akumaenterprises-pharma.com · SAS Nagar, Punjab - 140301, India.
+
+## IMG ALT
+
+
+## FORMS
+
+
+## HREFS
+/
+/products
+mailto:sales@akumaenterprises-pharma.com?subject=Dossier%20Request%20-%20Akuma%20Enterprise%20Pharma
+https://wa.me/9107986147827
+mailto:sales@akumaenterprises-pharma.com
+mailto:dalle@akumaenterprises-pharma.com
+
+## JSON-LD
+
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://www.akumaenterprises-pharma.com/dmf-updates/#webpage",
+        "url": "https://www.akumaenterprises-pharma.com/dmf-updates/",
+        "name": "Regulatory Dossiers & Technical Filings — Akuma Enterprise Pharma",
+        "description": "Ready-to-file 5-Module eCTD and ACTD regulatory dossiers, COPP, and Zone IVb stability data for finished pharmaceutical formulations.",
+        "inLanguage": "en",
+        "isPartOf": { "@id": "https://www.akumaenterprises-pharma.com/#website" },
+        "about": { "@id": "https://www.akumaenterprises-pharma.com/#org" },
+        "dateModified": "2026-10-22"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.akumaenterprises-pharma.com/" },
+          { "@type": "ListItem", "position": 2, "name": "Regulatory Dossiers", "item": "https://www.akumaenterprises-pharma.com/dmf-updates/" }
+        ]
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://www.akumaenterprises-pharma.com/#org",
+        "name": "Akuma Enterprise Pharma Pvt. Ltd.",
+        "url": "https://www.akumaenterprises-pharma.com",
+        "logo": "https://www.akumaenterprises-pharma.com/icon-512.png",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1st Floor, Cabin 101 #2609, Vinod Accounting Solutions, Landran Road, Adarsh Nagar, Kharar",
+          "addressLocality": "SAS Nagar",
+          "addressRegion": "Punjab",
+          "postalCode": "140301",
+          "addressCountry": "IN"
+        }
+      }
+    ]
+  }
+  

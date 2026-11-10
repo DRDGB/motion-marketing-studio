@@ -1,0 +1,1013 @@
+URL: https://www.akumaenterprises-pharma.com/products/peptides?lang=fr
+FINAL: https://www.akumaenterprises-pharma.com/products/peptides?lang=fr
+STATUS: 200
+LANG: fr
+TITLE: Peptides — API peptidiques pharmaceutiques & Peptides de recherche (RUO) | Akuma Enterprise Pharma
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #B3122B
+msapplication-TileColor = #B3122B
+msapplication-TileImage = /icon-192.png
+robots = index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+google-site-verification = VERIFY-ME-GOOGLE
+msvalidate.01 = VERIFY-ME-BING
+yandex-verification = VERIFY-ME-YANDEX
+baidu-site-verification = VERIFY-ME-BAIDU
+naver-site-verification = VERIFY-ME-NAVER
+description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished pharmaceutical formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules manufactured or sourced on request with Zone IVb stability & bilingual EN/FR Africa dossiers.
+author = Akuma Enterprise Pharma Pvt. Ltd.
+keywords = pharmaceutical exporter Africa India, NAFDAC registered medicines supplier, PPB Kenya SAHPRA TMDA FDA Ghana dossiers, WHO-GMP finished pharmaceutical formulations, Zone IVb stability medicines Africa, Artesunate IV Artemether Lumefantrine India, Semaglutide Tirzepatide Peptide API India, BPC-157 TB-500 Retatrutide RUO peptides, tablets capsules injectables manufacturer Punjab, eCTD ACTD dossiers India
+og:type = website
+og:site_name = Akuma Enterprise Pharma
+og:title = Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global
+og:description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished formulations, Peptide APIs, Research Peptides, and custom sourcing for every buyer request with Zone IVb stability and Africa eCTD/ACTD dossiers.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:image:type = image/jpeg
+og:image:width = 1200
+og:image:height = 630
+og:image:alt = Akuma Enterprise Pharma finished formulations and dossiers
+og:url = https://www.akumaenterprises-pharma.com
+og:locale = en_US
+og:locale:alternate = fr_CI
+og:locale:alternate = fr_SN
+og:locale:alternate = fr_FR
+og:locale:alternate = en_NG
+og:locale:alternate = en_KE
+og:locale:alternate = en_ZA
+twitter:card = summary_large_image
+twitter:title = Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global
+twitter:description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & globally across finished formulations, Peptide APIs, RUO peptides, and custom molecules on request with bilingual EN/FR Africa dossiers.
+twitter:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+twitter:image:alt = Akuma Enterprise Pharma finished formulations and dossiers
+geo.region = IN-PB
+geo.placename = SAS Nagar, Punjab, India
+geo.position = 30.7499;76.6411
+ICBM = 30.7499, 76.6411
+description = Flacons peptidiques lyophilisés (≥ 99,0 % HPLC + CoA MS) et synthèses sur demande : API thérapeutiques (Sémaglutide, Tirzépatide, Liraglutide, Carbétocine, Oxytocine) et Peptides RUO (Rétatruitide, BPC-157, TB-500).
+keywords = pharmaceutical peptide APIs, research peptides RUO, semaglutide peptide API, tirzepatide peptide API, liraglutide peptide, BPC-157 research peptide, GHK-Cu, lyophilized peptides Africa export, peptide supplier India
+author = Akuma Enterprise Pharma Pvt. Ltd.
+application-name = Akuma Enterprise Pharma
+apple-mobile-web-app-title = Akuma Enterprise Pharma
+theme-color = #B3122B
+robots = index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+language = fr
+geo.region = IN-PB
+geo.placename = SAS Nagar, Punjab, India
+geo.position = 30.7499;76.6411
+ICBM = 30.7499, 76.6411
+industry = Pharmaceutical Manufacturing & Africa Healthcare Export
+business-type = B2B Pharmaceutical Manufacturer & Exporter
+og:type = website
+og:title = Peptides — API peptidiques pharmaceutiques & Peptides de recherche (RUO) | Akuma Enterprise Pharma
+og:description = Flacons peptidiques lyophilisés (≥ 99,0 % HPLC + CoA MS) et synthèses sur demande : API thérapeutiques (Sémaglutide, Tirzépatide, Liraglutide, Carbétocine, Oxytocine) et Peptides RUO (Rétatruitide, BPC-157, TB-500).
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:image:type = image/jpeg
+og:image:width = 1920
+og:image:height = 1080
+og:image:alt = Peptides — API peptidiques pharmaceutiques & Peptides de recherche (RUO)
+og:site_name = Akuma Enterprise Pharma
+og:locale = fr_FR
+og:locale:alternate = fr_FR
+og:locale:alternate = fr_CI
+og:locale:alternate = fr_SN
+og:locale:alternate = en_NG
+og:locale:alternate = en_KE
+og:locale:alternate = en_ZA
+og:url = https://www.akumaenterprises-pharma.com/products/peptides
+twitter:card = summary_large_image
+twitter:title = Peptides — API peptidiques pharmaceutiques & Peptides de recherche (RUO) | Akuma Enterprise Pharma
+twitter:description = Flacons peptidiques lyophilisés (≥ 99,0 % HPLC + CoA MS) et synthèses sur demande : API thérapeutiques (Sémaglutide, Tirzépatide, Liraglutide, Carbétocine, Oxytocine) et Peptides RUO (Rétatruitide, BPC-157, TB-500).
+twitter:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+twitter:image:alt = Peptides — API peptidiques pharmaceutiques & Peptides de recherche (RUO)
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/products/peptides
+alternate x-default https://www.akumaenterprises-pharma.com/
+alternate en https://www.akumaenterprises-pharma.com/
+alternate en-NG https://www.akumaenterprises-pharma.com/en-ng/
+alternate en-KE https://www.akumaenterprises-pharma.com/en-ke/
+alternate en-GH https://www.akumaenterprises-pharma.com/en-gh/
+alternate en-ZA https://www.akumaenterprises-pharma.com/en-za/
+alternate en-TZ https://www.akumaenterprises-pharma.com/en-tz/
+alternate en-UG https://www.akumaenterprises-pharma.com/en-ug/
+alternate fr https://www.akumaenterprises-pharma.com/?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/fr-ci/
+alternate fr-SN https://www.akumaenterprises-pharma.com/fr-sn/
+alternate fr-CM https://www.akumaenterprises-pharma.com/fr-cm/
+alternate fr-CD https://www.akumaenterprises-pharma.com/fr-cd/
+alternate fr-MA https://www.akumaenterprises-pharma.com/fr-ma/
+alternate en-US https://www.akumaenterprises-pharma.com/
+alternate en-GB https://www.akumaenterprises-pharma.com/en-gb/
+alternate en-IN https://www.akumaenterprises-pharma.com/en-in/
+alternate en-AU https://www.akumaenterprises-pharma.com/en-au/
+alternate en-CA https://www.akumaenterprises-pharma.com/en-ca/
+alternate en-NZ https://www.akumaenterprises-pharma.com/en-nz/
+alternate de-DE https://www.akumaenterprises-pharma.com/de-de/
+alternate fr-FR https://www.akumaenterprises-pharma.com/fr-fr/
+alternate es-ES https://www.akumaenterprises-pharma.com/es-es/
+alternate it-IT https://www.akumaenterprises-pharma.com/it-it/
+alternate nl-NL https://www.akumaenterprises-pharma.com/nl-nl/
+alternate pt-BR https://www.akumaenterprises-pharma.com/pt-br/
+alternate es-MX https://www.akumaenterprises-pharma.com/es-mx/
+alternate fr-CA https://www.akumaenterprises-pharma.com/fr-ca/
+alternate ja-JP https://www.akumaenterprises-pharma.com/ja-jp/
+alternate ko-KR https://www.akumaenterprises-pharma.com/ko-kr/
+alternate  https://www.akumaenterprises-pharma.com/news.rss
+alternate  https://www.akumaenterprises-pharma.com/dmf-updates.rss
+alternate  https://www.akumaenterprises-pharma.com/llms.txt
+alternate  https://www.akumaenterprises-pharma.com/products.json
+canonical  https://www.akumaenterprises-pharma.com/products/peptides
+alternate en https://www.akumaenterprises-pharma.com/products/peptides
+alternate en-NG https://www.akumaenterprises-pharma.com/products/peptides
+alternate en-KE https://www.akumaenterprises-pharma.com/products/peptides
+alternate en-GH https://www.akumaenterprises-pharma.com/products/peptides
+alternate en-ZA https://www.akumaenterprises-pharma.com/products/peptides
+alternate en-TZ https://www.akumaenterprises-pharma.com/products/peptides
+alternate en-UG https://www.akumaenterprises-pharma.com/products/peptides
+alternate en-GB https://www.akumaenterprises-pharma.com/products/peptides
+alternate en-US https://www.akumaenterprises-pharma.com/products/peptides
+alternate fr https://www.akumaenterprises-pharma.com/products/peptides?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/products/peptides?lang=fr
+alternate fr-SN https://www.akumaenterprises-pharma.com/products/peptides?lang=fr
+alternate fr-CM https://www.akumaenterprises-pharma.com/products/peptides?lang=fr
+alternate fr-CD https://www.akumaenterprises-pharma.com/products/peptides?lang=fr
+alternate fr-MA https://www.akumaenterprises-pharma.com/products/peptides?lang=fr
+alternate fr-FR https://www.akumaenterprises-pharma.com/products/peptides?lang=fr
+alternate x-default https://www.akumaenterprises-pharma.com/products/peptides
+
+## TEXT
+sales@akumaenterprises-pharma.com
+|
+dalle@akumaenterprises-pharma.com
++91 07986147827
+|
+WhatsApp Export : +91 07986147827
+Akuma Enterprise Pharma
+FORMULATIONS FINIES & DOSSIERS AFRIQUE
+Produits
+Conformité
+Capacités
+Qualité
+Actualités
+Entreprise
+EN
+FR
+Demander un Dossier
+→
+
+Formulations Finies OMS-BPF, API Peptidiques & Peptides RUO — Export Afrique & Monde
+
+Médicaments commerciaux & API peptidiques fabriqués sous normes OMS-BPF et ISO 9001:2015 (IP, BP, USP, EP) avec stabilité Zone IVb, CoA et dossiers ACTD/eCTD pour les ANR africaines (NAFDAC, AIRP, ARP, PPB, SAHPRA, TMDA). Les peptides de recherche (RUO) sont vérifiés à ≥99,0 % HPLC/MS exclusivement pour usage laboratoire.
+
+API Peptidiques Pharmaceutiques & Peptides de Recherche (RUO)
+
+Deux divisions réglementaires strictement séparées (plus synthèses à façon sur demande) : API peptidiques pharmaceutiques pour fabricants agréés et peptides RUO destinés exclusivement à la recherche en laboratoire.
+
+72 Références affichées
+Catalogue PDF 2026 ↓
+Devis WhatsApp Express
+Filtrer par :
+Peptides (API & RUO)
+Tous les secteurs thérapeutiques
+Toutes disponibilités
+Télécharger CSV
+CONFORMITÉ :
+Certifié OMS-BPF
+(36)
+Dossier ACTD/eCTD prêt
+(36)
+Stabilité Zone IVb
+(36)
+Recherche uniquement (RUO)
+(36)
+Peptides (API & RUO)
+
+Affichage de 72 références exposées · Toute molécule sur demande
+
+Pertinence
+Peptides (API & RUO)
+API peptidiques pharmaceutiques
+En stock
+Leuprorelin Acetate Peptide API
+
+Réf : AKP-API-01 · CAS 74381-53-6
+
+Leuprorelin Acetate (AKP-API-01, CAS 74381-53-6) — API peptidique pharmaceutique OMS-BPF (API peptidiques pharmaceutiques), pureté HPLC ≥ 99,0 % avec CoA et dossier réglementaire pour l'Afrique et l'international.
+
+Devis sur demande
+Tarif export · QMC 50 flacon
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+Purity ≥ 99.0% (HPLC)
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+Peptides de recherche (RUO)
+En stock
+Retatrutide Research Peptide
+
+Réf : AKP-RP-01 · CAS 2381089-83-2
+
+Retatrutide (AKP-RP-01, CAS 2381089-83-2) — flacon lyophilisé haute pureté (HPLC ≥ 99,0 % + CoA MS), strictement réservé à la recherche en laboratoire in vitro (RUO).
+
+Devis sur demande
+Tarif export · QMC 10 flacon
+B2B
+Research Grade (RUO)
+Purity ≥ 99.0% (HPLC)
+HPLC & MS CoA Included
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+API peptidiques pharmaceutiques
+En stock
+Semaglutide Peptide API
+
+Réf : AKP-API-02 · CAS 910463-68-2
+
+Semaglutide (AKP-API-02, CAS 910463-68-2) — API peptidique pharmaceutique OMS-BPF (API peptidiques pharmaceutiques), pureté HPLC ≥ 99,0 % avec CoA et dossier réglementaire pour l'Afrique et l'international.
+
+Devis sur demande
+Tarif export · QMC 50 flacon
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+Purity ≥ 99.0% (HPLC)
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+Peptides de recherche (RUO)
+En stock
+AOD9604 Acetate Research Peptide
+
+Réf : AKP-RP-02 · CAS 221231-10-3
+
+AOD9604 Acetate (AKP-RP-02, CAS 221231-10-3) — flacon lyophilisé haute pureté (HPLC ≥ 99,0 % + CoA MS), strictement réservé à la recherche en laboratoire in vitro (RUO).
+
+Devis sur demande
+Tarif export · QMC 10 flacon
+B2B
+Research Grade (RUO)
+Purity ≥ 99.0% (HPLC)
+HPLC & MS CoA Included
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+API peptidiques pharmaceutiques
+En stock
+Liraglutide Peptide API
+
+Réf : AKP-API-03 · CAS 204656-20-2
+
+Liraglutide (AKP-API-03, CAS 204656-20-2) — API peptidique pharmaceutique OMS-BPF (API peptidiques pharmaceutiques), pureté HPLC ≥ 99,0 % avec CoA et dossier réglementaire pour l'Afrique et l'international.
+
+Devis sur demande
+Tarif export · QMC 50 flacon
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+Purity ≥ 99.0% (HPLC)
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+Peptides de recherche (RUO)
+En stock
+BPC-157 Research Peptide
+
+Réf : AKP-RP-03 · CAS 137525-51-0
+
+BPC-157 (AKP-RP-03, CAS 137525-51-0) — flacon lyophilisé haute pureté (HPLC ≥ 99,0 % + CoA MS), strictement réservé à la recherche en laboratoire in vitro (RUO).
+
+Devis sur demande
+Tarif export · QMC 10 flacon
+B2B
+Research Grade (RUO)
+Purity ≥ 99.0% (HPLC)
+HPLC & MS CoA Included
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+API peptidiques pharmaceutiques
+En stock
+Tirzepatide Peptide API
+
+Réf : AKP-API-04 · CAS 2023788-19-2
+
+Tirzepatide (AKP-API-04, CAS 2023788-19-2) — API peptidique pharmaceutique OMS-BPF (API peptidiques pharmaceutiques), pureté HPLC ≥ 99,0 % avec CoA et dossier réglementaire pour l'Afrique et l'international.
+
+Devis sur demande
+Tarif export · QMC 50 flacon
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+Purity ≥ 99.0% (HPLC)
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+Peptides de recherche (RUO)
+En stock
+BPC-157 (Arginate) Research Peptide
+
+Réf : AKP-RP-04 · CAS N/A
+
+BPC-157 (Arginate) (AKP-RP-04) — flacon lyophilisé haute pureté (HPLC ≥ 99,0 % + CoA MS), strictement réservé à la recherche en laboratoire in vitro (RUO).
+
+Devis sur demande
+Tarif export · QMC 10 flacon
+B2B
+Research Grade (RUO)
+Purity ≥ 99.0% (HPLC)
+HPLC & MS CoA Included
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+API peptidiques pharmaceutiques
+En stock
+Linaclotide Peptide API
+
+Réf : AKP-API-05 · CAS 851199-59-2
+
+Linaclotide (AKP-API-05, CAS 851199-59-2) — API peptidique pharmaceutique OMS-BPF (API peptidiques pharmaceutiques), pureté HPLC ≥ 99,0 % avec CoA et dossier réglementaire pour l'Afrique et l'international.
+
+Devis sur demande
+Tarif export · QMC 50 flacon
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+Purity ≥ 99.0% (HPLC)
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+Peptides de recherche (RUO)
+En stock
+Kisspeptin-10 Acetate Research Peptide
+
+Réf : AKP-RP-05 · CAS 388138-21-4
+
+Kisspeptin-10 Acetate (AKP-RP-05, CAS 388138-21-4) — flacon lyophilisé haute pureté (HPLC ≥ 99,0 % + CoA MS), strictement réservé à la recherche en laboratoire in vitro (RUO).
+
+Devis sur demande
+Tarif export · QMC 10 flacon
+B2B
+Research Grade (RUO)
+Purity ≥ 99.0% (HPLC)
+HPLC & MS CoA Included
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+API peptidiques pharmaceutiques
+En stock
+Ganirelix Peptide API
+
+Réf : AKP-API-06 · CAS 123246-29-7
+
+Ganirelix (AKP-API-06, CAS 123246-29-7) — API peptidique pharmaceutique OMS-BPF (API peptidiques pharmaceutiques), pureté HPLC ≥ 99,0 % avec CoA et dossier réglementaire pour l'Afrique et l'international.
+
+Devis sur demande
+Tarif export · QMC 50 flacon
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+Purity ≥ 99.0% (HPLC)
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+Peptides de recherche (RUO)
+En stock
+Epithalon Research Peptide
+
+Réf : AKP-RP-06 · CAS 307297-39-8
+
+Epithalon (AKP-RP-06, CAS 307297-39-8) — flacon lyophilisé haute pureté (HPLC ≥ 99,0 % + CoA MS), strictement réservé à la recherche en laboratoire in vitro (RUO).
+
+Devis sur demande
+Tarif export · QMC 10 flacon
+B2B
+Research Grade (RUO)
+Purity ≥ 99.0% (HPLC)
+HPLC & MS CoA Included
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+API peptidiques pharmaceutiques
+En stock
+Lanreotide Peptide API
+
+Réf : AKP-API-07 · CAS 108736-35-2
+
+Lanreotide (AKP-API-07, CAS 108736-35-2) — API peptidique pharmaceutique OMS-BPF (API peptidiques pharmaceutiques), pureté HPLC ≥ 99,0 % avec CoA et dossier réglementaire pour l'Afrique et l'international.
+
+Devis sur demande
+Tarif export · QMC 50 flacon
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+Purity ≥ 99.0% (HPLC)
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+Peptides de recherche (RUO)
+En stock
+GHK-Cu Research Peptide
+
+Réf : AKP-RP-07 · CAS 49557-75-7
+
+GHK-Cu (AKP-RP-07, CAS 49557-75-7) — flacon lyophilisé haute pureté (HPLC ≥ 99,0 % + CoA MS), strictement réservé à la recherche en laboratoire in vitro (RUO).
+
+Devis sur demande
+Tarif export · QMC 10 flacon
+B2B
+Research Grade (RUO)
+Purity ≥ 99.0% (HPLC)
+HPLC & MS CoA Included
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+API peptidiques pharmaceutiques
+En stock
+Abaloparatide Peptide API
+
+Réf : AKP-API-08 · CAS 247062-33-5
+
+Abaloparatide (AKP-API-08, CAS 247062-33-5) — API peptidique pharmaceutique OMS-BPF (API peptidiques pharmaceutiques), pureté HPLC ≥ 99,0 % avec CoA et dossier réglementaire pour l'Afrique et l'international.
+
+Devis sur demande
+Tarif export · QMC 50 flacon
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+Purity ≥ 99.0% (HPLC)
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+Peptides de recherche (RUO)
+En stock
+KPV Research Peptide
+
+Réf : AKP-RP-08 · CAS 243152-09-6
+
+KPV (AKP-RP-08, CAS 243152-09-6) — flacon lyophilisé haute pureté (HPLC ≥ 99,0 % + CoA MS), strictement réservé à la recherche en laboratoire in vitro (RUO).
+
+Devis sur demande
+Tarif export · QMC 10 flacon
+B2B
+Research Grade (RUO)
+Purity ≥ 99.0% (HPLC)
+HPLC & MS CoA Included
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+API peptidiques pharmaceutiques
+En stock
+Etelcalcetide HCl Peptide API
+
+Réf : AKP-API-09 · CAS 1334237-71-6
+
+Etelcalcetide HCl (AKP-API-09, CAS 1334237-71-6) — API peptidique pharmaceutique OMS-BPF (API peptidiques pharmaceutiques), pureté HPLC ≥ 99,0 % avec CoA et dossier réglementaire pour l'Afrique et l'international.
+
+Devis sur demande
+Tarif export · QMC 50 flacon
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+Purity ≥ 99.0% (HPLC)
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+Peptides de recherche (RUO)
+En stock
+LL-37 Research Peptide
+
+Réf : AKP-RP-09 · CAS 154947-66-7
+
+LL-37 (AKP-RP-09, CAS 154947-66-7) — flacon lyophilisé haute pureté (HPLC ≥ 99,0 % + CoA MS), strictement réservé à la recherche en laboratoire in vitro (RUO).
+
+Devis sur demande
+Tarif export · QMC 10 flacon
+B2B
+Research Grade (RUO)
+Purity ≥ 99.0% (HPLC)
+HPLC & MS CoA Included
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+API peptidiques pharmaceutiques
+En stock
+Difelikefalin Peptide API
+
+Réf : AKP-API-10 · CAS 1024828-77-0
+
+Difelikefalin (AKP-API-10, CAS 1024828-77-0) — API peptidique pharmaceutique OMS-BPF (API peptidiques pharmaceutiques), pureté HPLC ≥ 99,0 % avec CoA et dossier réglementaire pour l'Afrique et l'international.
+
+Devis sur demande
+Tarif export · QMC 50 flacon
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+Purity ≥ 99.0% (HPLC)
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+Peptides de recherche (RUO)
+En stock
+Ipamorelin Acetate Research Peptide
+
+Réf : AKP-RP-10 · CAS 170851-70-4
+
+Ipamorelin Acetate (AKP-RP-10, CAS 170851-70-4) — flacon lyophilisé haute pureté (HPLC ≥ 99,0 % + CoA MS), strictement réservé à la recherche en laboratoire in vitro (RUO).
+
+Devis sur demande
+Tarif export · QMC 10 flacon
+B2B
+Research Grade (RUO)
+Purity ≥ 99.0% (HPLC)
+HPLC & MS CoA Included
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+API peptidiques pharmaceutiques
+En stock
+Dasiglucagon Peptide API
+
+Réf : AKP-API-11 · CAS 1544300-84-6
+
+Dasiglucagon (AKP-API-11, CAS 1544300-84-6) — API peptidique pharmaceutique OMS-BPF (API peptidiques pharmaceutiques), pureté HPLC ≥ 99,0 % avec CoA et dossier réglementaire pour l'Afrique et l'international.
+
+Devis sur demande
+Tarif export · QMC 50 flacon
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+Purity ≥ 99.0% (HPLC)
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+Peptides de recherche (RUO)
+En stock
+MOTS-C Research Peptide
+
+Réf : AKP-RP-11 · CAS 1627580-64-6
+
+MOTS-C (AKP-RP-11, CAS 1627580-64-6) — flacon lyophilisé haute pureté (HPLC ≥ 99,0 % + CoA MS), strictement réservé à la recherche en laboratoire in vitro (RUO).
+
+Devis sur demande
+Tarif export · QMC 10 flacon
+B2B
+Research Grade (RUO)
+Purity ≥ 99.0% (HPLC)
+HPLC & MS CoA Included
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+API peptidiques pharmaceutiques
+En stock
+Glucagon HCl Peptide API
+
+Réf : AKP-API-12 · CAS 16941-32-5
+
+Glucagon HCl (AKP-API-12, CAS 16941-32-5) — API peptidique pharmaceutique OMS-BPF (API peptidiques pharmaceutiques), pureté HPLC ≥ 99,0 % avec CoA et dossier réglementaire pour l'Afrique et l'international.
+
+Devis sur demande
+Tarif export · QMC 50 flacon
+B2B
+Certifié OMS-BPF
+ISO 9001:2015
+Purity ≥ 99.0% (HPLC)
++1 autres
+Détails
+FDS
+Devis
+Peptides (API & RUO)
+Peptides de recherche (RUO)
+En stock
+PE 22-28 Research Peptide
+
+Réf : AKP-RP-12 · CAS 1801959-12-5
+
+PE 22-28 (AKP-RP-12, CAS 1801959-12-5) — flacon lyophilisé haute pureté (HPLC ≥ 99,0 % + CoA MS), strictement réservé à la recherche en laboratoire in vitro (RUO).
+
+Devis sur demande
+Tarif export · QMC 10 flacon
+B2B
+Research Grade (RUO)
+Purity ≥ 99.0% (HPLC)
+HPLC & MS CoA Included
++1 autres
+Détails
+FDS
+Devis
+
+Affichage de 1–24 sur 72
+
+Précédent
+Page 1 sur 3
+Suivant
+Akuma Enterprise Pharma Pvt. Ltd.
+Formulations Finies OMS-BPF & Dossiers Réglementaires Afrique
+EN
+FR
+
+Exportateur certifié OMS-BPF depuis l'Asie vers les 54 pays d'Afrique et le monde : formulations finies, API peptidiques, peptides RUO et sourcing sur mesure.
+
+Certifié OMS-BPF
+ISO 9001:2015
+Dossiers ACTD/eCTD & Zone IVb
+FORMULATIONS & PEPTIDES
+Comprimés & Solides oraux
+Gélules à libération modifiée
+Injections poudre sèche
+Injections liquides & Ampoules
+Liquides oraux & Sirops
+Pommades, Crèmes & Collyres
+API Peptidiques & Peptides RUO
+Antipaludiques & Antidiabétiques
+Voir Tout le Catalogue →
+DOSSIERS RÉGLEMENTAIRES
+Dossiers eCTD 5 Modules
+Soumissions au format ACTD
+Stabilité Zone IVb (30°C/75% HR)
+Bioéquivalence & Dissolution f2
+Certificat d'Analyse (CoA)
+CoPP OMS & Libre Vente (CLV)
+Catalogue PDF 2026 ↓
+Demander un dossier ANR →
+AFRIQUE & MARCHÉS EXPORT
+Afrique de l'Ouest (NAFDAC, AIRP, ARP, OOAS)
+Afrique de l'Est (PPB, TMDA, NDA, EFDA)
+Afrique Australe (SAHPRA, ZAZIBONA)
+Afrique Centrale (ACOREP RDC, Cameroun)
+Afrique du Nord (Maroc DMP, Égypte EDA)
+Fiches Réglementaires par Pays (26)
+Demander un échantillon analytique →
+ENTREPRISE & CONTACT DIRECT
+À propos d'Akuma Enterprise Pharma
+Lignes stériles & Conditionnement
+Actualités & Guides ANR
+WhatsApp : +91 07986147827
+sales@akumaenterprises-pharma.com
+Devis Export & Appels d'offres 24h →
+
+© 2026 Akuma Enterprise Pharma Pvt. Ltd. Tous droits réservés. · SAS Nagar, Pendjab, Inde
+
+Confidentialité · Politique de retour · Contact
+
+Aide / Suivi commande
+Toutes les catégories
+Comprimés
+Gélules
+Injections poudre sèche
+Injections liquides
+Peptides (API & RUO)
+Pommades & Crèmes
+Liquides oraux
+Collyres & Gouttes auriculaires
+Sprays nasaux
+Sirops secs pédiatriques
+Gouttes pédiatriques
+Antiseptiques & Solutions
+Tous les secteurs thérapeutiques
+Anti-infectieux & Antibiotiques
+Gastro-entérologie & IPP
+Santé sexuelle & Urologie
+Médicaments antidiabétiques
+Respiratoire & Allergie
+Médicaments antipaludiques
+Dermatologie & Topiques
+Ophtalmologie & ORL
+Antiseptiques & Hygiène hospitalière
+Douleur, Inflammation & AINS
+Nutrition & Toniques métaboliques
+Endocrinologie & Soins de support
+Antirétroviraux / Antiviraux
+API peptidiques pharmaceutiques
+Peptides de recherche (RUO)
+Toutes disponibilités
+En stock
+Sur demande
+Sur mesure
+Pertinence
+Nom A–Z
+Catégorie
+Secteur thérapeutique
+Disponibilité
+Prix croissant
+Prix décroissant
+
+## IMG ALT
+Akuma Enterprise Pharma Logo <= /logo.svg
+Leuprorelin Acetate — WHO-GMP / RUO Lyophilized Peptide · Code AKP-API-01 · Peptides <= /product-images/products/akp-api-01-leuprorelin-acetate.webp
+Retatrutide — WHO-GMP / RUO Lyophilized Peptide · Code AKP-RP-01 · Peptides <= /product-images/products/akp-rp-01-retatrutide.webp
+Semaglutide — WHO-GMP / RUO Lyophilized Peptide · Code AKP-API-02 · Peptides <= /product-images/products/akp-api-02-semaglutide.webp
+AOD9604 Acetate — WHO-GMP / RUO Lyophilized Peptide · Code AKP-RP-02 · Peptides <= /product-images/products/akp-rp-02-aod9604-acetate.webp
+Liraglutide — WHO-GMP / RUO Lyophilized Peptide · Code AKP-API-03 · Peptides <= /product-images/products/akp-api-03-liraglutide.webp
+BPC-157 — WHO-GMP / RUO Lyophilized Peptide · Code AKP-RP-03 · Peptides <= /product-images/products/akp-rp-03-bpc-157.webp
+Tirzepatide — WHO-GMP / RUO Lyophilized Peptide · Code AKP-API-04 · Peptides <= /product-images/products/akp-api-04-tirzepatide.webp
+BPC-157 (Arginate) — WHO-GMP / RUO Lyophilized Peptide · Code AKP-RP-04 · Peptides <= /product-images/products/akp-rp-04-bpc-157-arginate.webp
+Linaclotide — WHO-GMP / RUO Lyophilized Peptide · Code AKP-API-05 · Peptides <= /product-images/products/akp-api-05-linaclotide.webp
+Kisspeptin-10 Acetate — WHO-GMP / RUO Lyophilized Peptide · Code AKP-RP-05 · Peptides <= /product-images/products/akp-rp-05-kisspeptin-10-acetate.webp
+Ganirelix — WHO-GMP / RUO Lyophilized Peptide · Code AKP-API-06 · Peptides <= /product-images/products/akp-api-06-ganirelix.webp
+Epithalon — WHO-GMP / RUO Lyophilized Peptide · Code AKP-RP-06 · Peptides <= /product-images/products/akp-rp-06-epithalon.webp
+Lanreotide — WHO-GMP / RUO Lyophilized Peptide · Code AKP-API-07 · Peptides <= /product-images/products/akp-api-07-lanreotide.webp
+GHK-Cu — WHO-GMP / RUO Lyophilized Peptide · Code AKP-RP-07 · Peptides <= /product-images/products/akp-rp-07-ghk-cu.webp
+Abaloparatide — WHO-GMP / RUO Lyophilized Peptide · Code AKP-API-08 · Peptides <= /product-images/products/akp-api-08-abaloparatide.webp
+KPV — WHO-GMP / RUO Lyophilized Peptide · Code AKP-RP-08 · Peptides <= /product-images/products/akp-rp-08-kpv.webp
+Etelcalcetide HCl — WHO-GMP / RUO Lyophilized Peptide · Code AKP-API-09 · Peptides <= /product-images/products/akp-api-09-etelcalcetide-hcl.webp
+LL-37 — WHO-GMP / RUO Lyophilized Peptide · Code AKP-RP-09 · Peptides <= /product-images/products/akp-rp-09-ll-37.webp
+Difelikefalin — WHO-GMP / RUO Lyophilized Peptide · Code AKP-API-10 · Peptides <= /product-images/products/akp-api-10-difelikefalin.webp
+Ipamorelin Acetate — WHO-GMP / RUO Lyophilized Peptide · Code AKP-RP-10 · Peptides <= /product-images/products/akp-rp-10-ipamorelin-acetate.webp
+Dasiglucagon — WHO-GMP / RUO Lyophilized Peptide · Code AKP-API-11 · Peptides <= /product-images/products/akp-api-11-dasiglucagon.webp
+MOTS-C — WHO-GMP / RUO Lyophilized Peptide · Code AKP-RP-11 · Peptides <= /product-images/products/akp-rp-11-mots-c.webp
+Glucagon HCl — WHO-GMP / RUO Lyophilized Peptide · Code AKP-API-12 · Peptides <= /product-images/products/akp-api-12-glucagon-hcl.webp
+PE 22-28 — WHO-GMP / RUO Lyophilized Peptide · Code AKP-RP-12 · Peptides <= /product-images/products/akp-rp-12-pe-22-28.webp
+Akuma Enterprise Pharma <= /logo.svg
+
+## FORMS
+
+
+## HREFS
+mailto:sales@akumaenterprises-pharma.com
+mailto:dalle@akumaenterprises-pharma.com
+tel:+9107986147827
+https://wa.me/9107986147827
+/
+/products
+/compliance
+/supply
+/solutions
+/knowledge
+/company
+/downloads/catalog/akuma-pharma-catalog-2026.pdf
+/product/leuprorelin-acetate-peptide-api-akp-api-01
+/product/retatrutide-research-peptide-akp-rp-01
+/product/semaglutide-peptide-api-akp-api-02
+/product/aod9604-acetate-research-peptide-akp-rp-02
+/product/liraglutide-peptide-api-akp-api-03
+/product/bpc-157-research-peptide-akp-rp-03
+/product/tirzepatide-peptide-api-akp-api-04
+/product/bpc-157-arginate-research-peptide-akp-rp-04
+/product/linaclotide-peptide-api-akp-api-05
+/product/kisspeptin-10-acetate-research-peptide-akp-rp-05
+/product/ganirelix-peptide-api-akp-api-06
+/product/epithalon-research-peptide-akp-rp-06
+/product/lanreotide-peptide-api-akp-api-07
+/product/ghk-cu-research-peptide-akp-rp-07
+/product/abaloparatide-peptide-api-akp-api-08
+/product/kpv-research-peptide-akp-rp-08
+/product/etelcalcetide-hcl-peptide-api-akp-api-09
+/product/ll-37-research-peptide-akp-rp-09
+/product/difelikefalin-peptide-api-akp-api-10
+/product/ipamorelin-acetate-research-peptide-akp-rp-10
+/product/dasiglucagon-peptide-api-akp-api-11
+/product/mots-c-research-peptide-akp-rp-11
+/product/glucagon-hcl-peptide-api-akp-api-12
+/product/pe-22-28-research-peptide-akp-rp-12
+/products/tablets
+/products/capsules
+/products/dry-powder-injections
+/products/liquid-injections
+/products/oral-liquids
+/products/ointments-creams
+/products/peptides
+/products?sector=Antimalarials%20Medication
+/quality
+/certifications
+/contact
+/markets/west-africa
+/markets/east-africa
+/markets/southern-africa
+/markets/central-africa
+/markets/north-africa
+/country
+/sample-request
+/about
+/capabilities
+/news
+/privacy-policy
+/return-policy
+https://wa.me/9107986147827?text=Hello%20Akuma%20Enterprise%20Pharma,%20I%20have%20an%20inquiry
+
+## JSON-LD
+
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": ["Organization", "LocalBusiness", "Manufacturer"],
+            "@id": "https://www.akumaenterprises-pharma.com/#org",
+            "name": "Akuma Enterprise Pharma Pvt. Ltd.",
+            "alternateName": ["Akuma Enterprise Pharma", "Akuma Pharma"],
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "logo": "https://www.akumaenterprises-pharma.com/icon-512.png",
+            "image": "https://www.akumaenterprises-pharma.com/og-image.jpg",
+            "description": "ISO 9001:2015 and WHO-GMP certified exporter shipping from Asia to all 54 African countries & global markets across commercial finished formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules requested by clients, backed by Zone IVb stability and eCTD/ACTD dossiers.",
+            "foundingDate": "2009",
+            "slogan": "Pharmaceutical supply, engineered for confidence.",
+            "vatID": "03ACLFA6940J1ZB",
+            "taxID": "ACLFA6940J",
+            "numberOfEmployees": { "@type": "QuantitativeValue", "value": "200+" },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1st Floor, Cabin 101 #2609, Vinod Accounting Solutions, Landran Road, Adarsh Nagar, Kharar",
+              "addressLocality": "SAS Nagar",
+              "addressRegion": "Punjab",
+              "postalCode": "140301",
+              "addressCountry": "IN"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 30.7499,
+              "longitude": 76.6411
+            },
+            "openingHoursSpecification": [
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "09:00", "closes": "18:00" },
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "09:00", "closes": "13:00" }
+            ],
+            "contactPoint": [
+              {
+                "@type": "ContactPoint",
+                "contactType": "sales",
+                "telephone": "+91-07986147827",
+                "email": "sales@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "areaServed": ["NG","KE","GH","TZ","UG","ET","RW","ZA","EG","MA","CI","SN","CM","CD","ZM","ZW","AO","MZ","DZ","TN","US","CA","MX","BR","DE","FR","GB","IN","JP","AU","AE","SA"],
+                "availableLanguage": ["English","French","Portuguese","Arabic","Swahili","Spanish","Hindi"]
+              },
+              {
+                "@type": "ContactPoint",
+                "contactType": "executive and regulatory desk",
+                "telephone": "+91-07986147827",
+                "email": "dalle@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "availableLanguage": ["English","French","Portuguese","Arabic"]
+              }
+            ],
+            "hasCredential": [
+              { "@type": "EducationalOccupationalCredential", "name": "WHO-GMP", "credentialCategory": "Good Manufacturing Practice", "recognizedBy": { "@type": "Organization", "name": "World Health Organization" } },
+              { "@type": "EducationalOccupationalCredential", "name": "ISO 9001:2015", "credentialCategory": "Quality Management System" },
+              { "@type": "EducationalOccupationalCredential", "name": "ACTD / eCTD Regulatory Dossiers", "credentialCategory": "Modules 1-5 Technical Dossier" },
+              { "@type": "EducationalOccupationalCredential", "name": "ICH Zone IVb Tropical Stability", "credentialCategory": "30C / 75% RH Climatic Stability" },
+              { "@type": "EducationalOccupationalCredential", "name": "CDSCO Manufacturing Licence", "credentialCategory": "Pharmaceutical Manufacturing Licence", "recognizedBy": { "@type": "Organization", "name": "Central Drugs Standard Control Organization (India)" } }
+            ],
+            "knowsAbout": [
+              "Commercial Finished Formulations",
+              "Antimalarial Injections & ACT Tablets (Artesunate IV, Artemether-Lumefantrine)",
+              "Sexual Wellness & Urology Formulations",
+              "Anti-Diabetic SGLT2 & Gliptin Combinations",
+              "Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin)",
+              "Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu)",
+              "African NRA Regulatory Filings (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana, EFDA, WAHO)",
+              "ICH Zone IVb Tropical Stability & Cold-Chain Export",
+              "Dry Powder Injections & Lyophilized Vials",
+              "Liquid Injections & Sterile Ampoules",
+              "Oral Liquids & Paediatric Dry Syrups",
+              "Topical Ointments, Eye-Ear Drops & Nasal Sprays",
+              "WHO-GMP Quality Compliance"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.akumaenterprises-pharma.com/#website",
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "name": "Akuma Enterprise Pharma",
+            "publisher": { "@id": "https://www.akumaenterprises-pharma.com/#org" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": { "@type": "EntryPoint", "urlTemplate": "https://www.akumaenterprises-pharma.com/products?search={search_term_string}" },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": ["en", "fr"]
+          }
+        ]
+      }
+    
+-----
+
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What pharmaceutical products and peptide portfolios does Akuma Enterprise Pharma supply?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Akuma Enterprise Pharma exports from Asia across all 54 countries of Africa and global markets. Our featured portfolio covers WHO-GMP commercial finished formulations (Tablets, Capsules, Dry Powder Injections, Liquid Injections, Oral Liquids, Ointments & Creams, Eye-Ear Drops, Nasal Sprays, Dry Syrups, Paediatric Drops, and Sanitizers), Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin, Leuprorelin), and Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu) \u2014 while accepting every custom molecule, dosage, and tender specification on request."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Do you provide ACTD/eCTD dossiers and Zone IVb stability for African National Regulatory Authorities (NRAs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Yes. Every finished formulation and Pharmaceutical Peptide API is backed by 5-Module ACTD/eCTD dossiers, WHO-Format Certificates of Pharmaceutical Product (CoPP), Free Sale Certificates (FSC), CoA, bilingual EN/FR/PT/AR packaging support, and ICH Zone IVb tropical stability studies (30\u00b0C/75% RH & 40\u00b0C/75% RH) tailored for NAFDAC (Nigeria), PPB (Kenya), SAHPRA (South Africa), TMDA (Tanzania), FDA Ghana, AIRP (Cote d'Ivoire), ARP (Senegal), EFDA, NDA, WAHO, and SADC ZAZIBONA."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "How are Pharmaceutical Peptide APIs separated from Research Peptides (RUO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Our Pharmaceutical Peptide APIs (AKP-API series) are manufactured to >=99.0% HPLC purity for licensed formulators and clinical supply chains, whereas our Research Peptides (AKP-RP series) are strictly labeled and restricted to in-vitro laboratory Research Use Only (RUO \u2014 Not for Human or Veterinary Consumption). Custom peptide syntheses are also available."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What are the minimum order quantities (MOQ) and export freight corridors from India to Africa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Standard export MOQs are 1,000 packs for finished formulations, 50 vials for Pharmaceutical Peptide APIs, and 10 vials for RUO Research Peptides. Consignments dispatch via Mumbai (BOM/JNPT) and New Delhi (DEL) air/sea corridors into Lagos, Mombasa, Tema, Durban, Dar es Salaam, Djibouti, Abidjan, and Dakar with validated cold-chain loggers where required."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Which antimalarial, sexual wellness, anti-diabetic, and hospital antibiotic formulations are in stock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "In-stock flagship export lines include Artesunate IV/IM lyophilized vials (30\u2013240 mg), Artemether & \u03b1-\u03b2 Arteether ampoules, Artemether 80/Lumefantrine 480 mg tablets, Chloroquine tablets & suspension, Dapoxetine + Sildenafil/Tadalafil/Vardenafil and Silodosin urology generics, Dapagliflozin & Glimepiride triple combos, Ceftriaxone-Sulbactam, and Cefixime paediatric dry syrups."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Fournissez-vous des m\u00e9dicaments certifi\u00e9s OMS-BPF et des dossiers CTD en fran\u00e7ais pour l'Afrique francophone ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Oui. Akuma Enterprise Pharma exporte depuis l'Asie vers les 54 pays d'Afrique (formulations finies OMS-BPF, API peptidiques, peptides RUO et demandes sur mesure) avec dossiers ACTD/eCTD 5 Modules, CoPP OMS, stabilit\u00e9 ICH Zone IVb et notices RCP/Patient en fran\u00e7ais pour l'AIRP (C\u00f4te d'Ivoire), l'ARP (S\u00e9n\u00e9gal), la DPML (Cameroun), l'ACOREP (RD Congo), la DMP (Maroc) et l'espace WAHO/CEDEAO."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Comment demander un devis export CIF/FOB sous 24 heures vers l'Afrique ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Contactez notre bureau export Afrique par e-mail \u00e0 sales@akumaenterprises-pharma.com ou dalle@akumaenterprises-pharma.com, sur WhatsApp au +91 07986147827, ou directement via le formulaire de devis bilingue sur akumaenterprises-pharma.com/contact."
+      }
+    }
+  ]
+}
+
+-----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":2,"name":"","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":3,"name":"Produits","item":"https://www.akumaenterprises-pharma.com//products"},{"@type":"ListItem","position":4,"name":"Peptides","item":"https://www.akumaenterprises-pharma.com//products/peptides"}]}
+-----
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"API Peptidiques Pharmaceutiques & Peptides de Recherche (RUO)","description":"Deux divisions réglementaires strictement séparées (plus synthèses à façon sur demande) : API peptidiques pharmaceutiques pour fabricants agréés et peptides RUO destinés exclusivement à la recherche en laboratoire.","inLanguage":"fr","isPartOf":{"@id":"https://www.akumaenterprises-pharma.com/#website"},"about":"Formulations pharmaceutiques finies OMS-BPF, API Peptidiques et Peptides RUO pour l'Afrique et les marchés mondiaux","mainEntity":{"@type":"ItemList","numberOfItems":72,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Product","name":"Leuprorelin Acetate","sku":"AKP-API-01","mpn":"74381-53-6","category":"Peptides — Pharmaceutical Peptide APIs","url":"https://www.akumaenterprises-pharma.com/product/leuprorelin-acetate-peptide-api-akp-api-01","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-api-01-leuprorelin-acetate.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":2,"item":{"@type":"Product","name":"Retatrutide","sku":"AKP-RP-01","mpn":"2381089-83-2","category":"Peptides — Research Peptides (RUO)","url":"https://www.akumaenterprises-pharma.com/product/retatrutide-research-peptide-akp-rp-01","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-rp-01-retatrutide.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":3,"item":{"@type":"Product","name":"Semaglutide","sku":"AKP-API-02","mpn":"910463-68-2","category":"Peptides — Pharmaceutical Peptide APIs","url":"https://www.akumaenterprises-pharma.com/product/semaglutide-peptide-api-akp-api-02","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-api-02-semaglutide.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":4,"item":{"@type":"Product","name":"AOD9604 Acetate","sku":"AKP-RP-02","mpn":"221231-10-3","category":"Peptides — Research Peptides (RUO)","url":"https://www.akumaenterprises-pharma.com/product/aod9604-acetate-research-peptide-akp-rp-02","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-rp-02-aod9604-acetate.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":5,"item":{"@type":"Product","name":"Liraglutide","sku":"AKP-API-03","mpn":"204656-20-2","category":"Peptides — Pharmaceutical Peptide APIs","url":"https://www.akumaenterprises-pharma.com/product/liraglutide-peptide-api-akp-api-03","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-api-03-liraglutide.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":6,"item":{"@type":"Product","name":"BPC-157","sku":"AKP-RP-03","mpn":"137525-51-0","category":"Peptides — Research Peptides (RUO)","url":"https://www.akumaenterprises-pharma.com/product/bpc-157-research-peptide-akp-rp-03","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-rp-03-bpc-157.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":7,"item":{"@type":"Product","name":"Tirzepatide","sku":"AKP-API-04","mpn":"2023788-19-2","category":"Peptides — Pharmaceutical Peptide APIs","url":"https://www.akumaenterprises-pharma.com/product/tirzepatide-peptide-api-akp-api-04","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-api-04-tirzepatide.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":8,"item":{"@type":"Product","name":"BPC-157 (Arginate)","sku":"AKP-RP-04","category":"Peptides — Research Peptides (RUO)","url":"https://www.akumaenterprises-pharma.com/product/bpc-157-arginate-research-peptide-akp-rp-04","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-rp-04-bpc-157-arginate.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":9,"item":{"@type":"Product","name":"Linaclotide","sku":"AKP-API-05","mpn":"851199-59-2","category":"Peptides — Pharmaceutical Peptide APIs","url":"https://www.akumaenterprises-pharma.com/product/linaclotide-peptide-api-akp-api-05","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-api-05-linaclotide.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":10,"item":{"@type":"Product","name":"Kisspeptin-10 Acetate","sku":"AKP-RP-05","mpn":"388138-21-4","category":"Peptides — Research Peptides (RUO)","url":"https://www.akumaenterprises-pharma.com/product/kisspeptin-10-acetate-research-peptide-akp-rp-05","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-rp-05-kisspeptin-10-acetate.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":11,"item":{"@type":"Product","name":"Ganirelix","sku":"AKP-API-06","mpn":"123246-29-7","category":"Peptides — Pharmaceutical Peptide APIs","url":"https://www.akumaenterprises-pharma.com/product/ganirelix-peptide-api-akp-api-06","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-api-06-ganirelix.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":12,"item":{"@type":"Product","name":"Epithalon","sku":"AKP-RP-06","mpn":"307297-39-8","category":"Peptides — Research Peptides (RUO)","url":"https://www.akumaenterprises-pharma.com/product/epithalon-research-peptide-akp-rp-06","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-rp-06-epithalon.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":13,"item":{"@type":"Product","name":"Lanreotide","sku":"AKP-API-07","mpn":"108736-35-2","category":"Peptides — Pharmaceutical Peptide APIs","url":"https://www.akumaenterprises-pharma.com/product/lanreotide-peptide-api-akp-api-07","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-api-07-lanreotide.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":14,"item":{"@type":"Product","name":"GHK-Cu","sku":"AKP-RP-07","mpn":"49557-75-7","category":"Peptides — Research Peptides (RUO)","url":"https://www.akumaenterprises-pharma.com/product/ghk-cu-research-peptide-akp-rp-07","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-rp-07-ghk-cu.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":15,"item":{"@type":"Product","name":"Abaloparatide","sku":"AKP-API-08","mpn":"247062-33-5","category":"Peptides — Pharmaceutical Peptide APIs","url":"https://www.akumaenterprises-pharma.com/product/abaloparatide-peptide-api-akp-api-08","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-api-08-abaloparatide.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":16,"item":{"@type":"Product","name":"KPV","sku":"AKP-RP-08","mpn":"243152-09-6","category":"Peptides — Research Peptides (RUO)","url":"https://www.akumaenterprises-pharma.com/product/kpv-research-peptide-akp-rp-08","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-rp-08-kpv.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":17,"item":{"@type":"Product","name":"Etelcalcetide HCl","sku":"AKP-API-09","mpn":"1334237-71-6","category":"Peptides — Pharmaceutical Peptide APIs","url":"https://www.akumaenterprises-pharma.com/product/etelcalcetide-hcl-peptide-api-akp-api-09","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-api-09-etelcalcetide-hcl.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":18,"item":{"@type":"Product","name":"LL-37","sku":"AKP-RP-09","mpn":"154947-66-7","category":"Peptides — Research Peptides (RUO)","url":"https://www.akumaenterprises-pharma.com/product/ll-37-research-peptide-akp-rp-09","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-rp-09-ll-37.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":19,"item":{"@type":"Product","name":"Difelikefalin","sku":"AKP-API-10","mpn":"1024828-77-0","category":"Peptides — Pharmaceutical Peptide APIs","url":"https://www.akumaenterprises-pharma.com/product/difelikefalin-peptide-api-akp-api-10","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-api-10-difelikefalin.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":20,"item":{"@type":"Product","name":"Ipamorelin Acetate","sku":"AKP-RP-10","mpn":"170851-70-4","category":"Peptides — Research Peptides (RUO)","url":"https://www.akumaenterprises-pharma.com/product/ipamorelin-acetate-research-peptide-akp-rp-10","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-rp-10-ipamorelin-acetate.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":21,"item":{"@type":"Product","name":"Dasiglucagon","sku":"AKP-API-11","mpn":"1544300-84-6","category":"Peptides — Pharmaceutical Peptide APIs","url":"https://www.akumaenterprises-pharma.com/product/dasiglucagon-peptide-api-akp-api-11","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-api-11-dasiglucagon.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":22,"item":{"@type":"Product","name":"MOTS-C","sku":"AKP-RP-11","mpn":"1627580-64-6","category":"Peptides — Research Peptides (RUO)","url":"https://www.akumaenterprises-pharma.com/product/mots-c-research-peptide-akp-rp-11","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-rp-11-mots-c.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":23,"item":{"@type":"Product","name":"Glucagon HCl","sku":"AKP-API-12","mpn":"16941-32-5","category":"Peptides — Pharmaceutical Peptide APIs","url":"https://www.akumaenterprises-pharma.com/product/glucagon-hcl-peptide-api-akp-api-12","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-api-12-glucagon-hcl.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":24,"item":{"@type":"Product","name":"PE 22-28","sku":"AKP-RP-12","mpn":"1801959-12-5","category":"Peptides — Research Peptides (RUO)","url":"https://www.akumaenterprises-pharma.com/product/pe-22-28-research-peptide-akp-rp-12","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-rp-12-pe-22-28.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}}]}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":2,"name":"Produits","item":"https://www.akumaenterprises-pharma.com/products"},{"@type":"ListItem","position":3,"name":"Peptides (API & RUO)"}]}]}

@@ -1,0 +1,1208 @@
+URL: https://www.akumaenterprises-pharma.com/news/tag/latin-america?lang=fr
+FINAL: https://www.akumaenterprises-pharma.com/news/tag/latin-america?lang=fr
+STATUS: 200
+LANG: fr
+TITLE: Amérique Latine — Akuma Enterprise Pharma
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #B3122B
+msapplication-TileColor = #B3122B
+msapplication-TileImage = /icon-192.png
+robots = index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+google-site-verification = VERIFY-ME-GOOGLE
+msvalidate.01 = VERIFY-ME-BING
+yandex-verification = VERIFY-ME-YANDEX
+baidu-site-verification = VERIFY-ME-BAIDU
+naver-site-verification = VERIFY-ME-NAVER
+description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished pharmaceutical formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules manufactured or sourced on request with Zone IVb stability & bilingual EN/FR Africa dossiers.
+author = Akuma Enterprise Pharma Pvt. Ltd.
+keywords = pharmaceutical exporter Africa India, NAFDAC registered medicines supplier, PPB Kenya SAHPRA TMDA FDA Ghana dossiers, WHO-GMP finished pharmaceutical formulations, Zone IVb stability medicines Africa, Artesunate IV Artemether Lumefantrine India, Semaglutide Tirzepatide Peptide API India, BPC-157 TB-500 Retatrutide RUO peptides, tablets capsules injectables manufacturer Punjab, eCTD ACTD dossiers India
+og:type = website
+og:site_name = Akuma Enterprise Pharma
+og:title = Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global
+og:description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished formulations, Peptide APIs, Research Peptides, and custom sourcing for every buyer request with Zone IVb stability and Africa eCTD/ACTD dossiers.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:image:type = image/jpeg
+og:image:width = 1200
+og:image:height = 630
+og:image:alt = Akuma Enterprise Pharma finished formulations and dossiers
+og:url = https://www.akumaenterprises-pharma.com
+og:locale = en_US
+og:locale:alternate = fr_CI
+og:locale:alternate = fr_SN
+og:locale:alternate = fr_FR
+og:locale:alternate = en_NG
+og:locale:alternate = en_KE
+og:locale:alternate = en_ZA
+twitter:card = summary_large_image
+twitter:title = Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global
+twitter:description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & globally across finished formulations, Peptide APIs, RUO peptides, and custom molecules on request with bilingual EN/FR Africa dossiers.
+twitter:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+twitter:image:alt = Akuma Enterprise Pharma finished formulations and dossiers
+geo.region = IN-PB
+geo.placename = SAS Nagar, Punjab, India
+geo.position = 30.7499;76.6411
+ICBM = 30.7499, 76.6411
+description = Spanish and Portuguese technical dossiers, WHO-GMP finished formulations, and GLP-1/RUO lyophilized peptides exported from India to LATAM.
+keywords = LATAM pharma exporter India, Spanish CTD dossier, Portuguese pharma documentation, Semaglutide peptide LATAM
+author = Akuma Enterprise Pharma Pvt. Ltd.
+application-name = Akuma Enterprise Pharma
+apple-mobile-web-app-title = Akuma Enterprise Pharma
+theme-color = #B3122B
+robots = index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+language = fr
+geo.region = IN-PB
+geo.placename = SAS Nagar, Punjab, India
+geo.position = 30.7499;76.6411
+ICBM = 30.7499, 76.6411
+industry = Pharmaceutical Manufacturing & Africa Healthcare Export
+business-type = B2B Pharmaceutical Manufacturer & Exporter
+og:type = website
+og:title = Amérique Latine — Akuma Enterprise Pharma
+og:description = Spanish and Portuguese technical dossiers, WHO-GMP finished formulations, and GLP-1/RUO lyophilized peptides exported from India to LATAM.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:image:type = image/jpeg
+og:image:width = 1920
+og:image:height = 1080
+og:image:alt = Amérique Latine — Akuma Enterprise Pharma
+og:site_name = Akuma Enterprise Pharma
+og:locale = fr_FR
+og:locale:alternate = fr_FR
+og:locale:alternate = fr_CI
+og:locale:alternate = fr_SN
+og:locale:alternate = en_NG
+og:locale:alternate = en_KE
+og:locale:alternate = en_ZA
+og:url = https://www.akumaenterprises-pharma.com/news/tag/latin-america
+twitter:card = summary_large_image
+twitter:title = Amérique Latine — Akuma Enterprise Pharma
+twitter:description = Spanish and Portuguese technical dossiers, WHO-GMP finished formulations, and GLP-1/RUO lyophilized peptides exported from India to LATAM.
+twitter:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+twitter:image:alt = Amérique Latine — Akuma Enterprise Pharma
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/news/tag/latin-america
+alternate x-default https://www.akumaenterprises-pharma.com/
+alternate en https://www.akumaenterprises-pharma.com/
+alternate en-NG https://www.akumaenterprises-pharma.com/en-ng/
+alternate en-KE https://www.akumaenterprises-pharma.com/en-ke/
+alternate en-GH https://www.akumaenterprises-pharma.com/en-gh/
+alternate en-ZA https://www.akumaenterprises-pharma.com/en-za/
+alternate en-TZ https://www.akumaenterprises-pharma.com/en-tz/
+alternate en-UG https://www.akumaenterprises-pharma.com/en-ug/
+alternate fr https://www.akumaenterprises-pharma.com/?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/fr-ci/
+alternate fr-SN https://www.akumaenterprises-pharma.com/fr-sn/
+alternate fr-CM https://www.akumaenterprises-pharma.com/fr-cm/
+alternate fr-CD https://www.akumaenterprises-pharma.com/fr-cd/
+alternate fr-MA https://www.akumaenterprises-pharma.com/fr-ma/
+alternate en-US https://www.akumaenterprises-pharma.com/
+alternate en-GB https://www.akumaenterprises-pharma.com/en-gb/
+alternate en-IN https://www.akumaenterprises-pharma.com/en-in/
+alternate en-AU https://www.akumaenterprises-pharma.com/en-au/
+alternate en-CA https://www.akumaenterprises-pharma.com/en-ca/
+alternate en-NZ https://www.akumaenterprises-pharma.com/en-nz/
+alternate de-DE https://www.akumaenterprises-pharma.com/de-de/
+alternate fr-FR https://www.akumaenterprises-pharma.com/fr-fr/
+alternate es-ES https://www.akumaenterprises-pharma.com/es-es/
+alternate it-IT https://www.akumaenterprises-pharma.com/it-it/
+alternate nl-NL https://www.akumaenterprises-pharma.com/nl-nl/
+alternate pt-BR https://www.akumaenterprises-pharma.com/pt-br/
+alternate es-MX https://www.akumaenterprises-pharma.com/es-mx/
+alternate fr-CA https://www.akumaenterprises-pharma.com/fr-ca/
+alternate ja-JP https://www.akumaenterprises-pharma.com/ja-jp/
+alternate ko-KR https://www.akumaenterprises-pharma.com/ko-kr/
+alternate  https://www.akumaenterprises-pharma.com/news.rss
+alternate  https://www.akumaenterprises-pharma.com/dmf-updates.rss
+alternate  https://www.akumaenterprises-pharma.com/llms.txt
+alternate  https://www.akumaenterprises-pharma.com/products.json
+canonical  https://www.akumaenterprises-pharma.com/news/tag/latin-america
+alternate en https://www.akumaenterprises-pharma.com/news/tag/latin-america
+alternate en-NG https://www.akumaenterprises-pharma.com/news/tag/latin-america
+alternate en-KE https://www.akumaenterprises-pharma.com/news/tag/latin-america
+alternate en-GH https://www.akumaenterprises-pharma.com/news/tag/latin-america
+alternate en-ZA https://www.akumaenterprises-pharma.com/news/tag/latin-america
+alternate en-TZ https://www.akumaenterprises-pharma.com/news/tag/latin-america
+alternate en-UG https://www.akumaenterprises-pharma.com/news/tag/latin-america
+alternate en-GB https://www.akumaenterprises-pharma.com/news/tag/latin-america
+alternate en-US https://www.akumaenterprises-pharma.com/news/tag/latin-america
+alternate fr https://www.akumaenterprises-pharma.com/news/tag/latin-america?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/news/tag/latin-america?lang=fr
+alternate fr-SN https://www.akumaenterprises-pharma.com/news/tag/latin-america?lang=fr
+alternate fr-CM https://www.akumaenterprises-pharma.com/news/tag/latin-america?lang=fr
+alternate fr-CD https://www.akumaenterprises-pharma.com/news/tag/latin-america?lang=fr
+alternate fr-MA https://www.akumaenterprises-pharma.com/news/tag/latin-america?lang=fr
+alternate fr-FR https://www.akumaenterprises-pharma.com/news/tag/latin-america?lang=fr
+alternate x-default https://www.akumaenterprises-pharma.com/news/tag/latin-america
+
+## TEXT
+sales@akumaenterprises-pharma.com
+|
+dalle@akumaenterprises-pharma.com
++91 07986147827
+|
+WhatsApp Export : +91 07986147827
+Akuma Enterprise Pharma
+FORMULATIONS FINIES & DOSSIERS AFRIQUE
+Produits
+Conformité
+Capacités
+Qualité
+Actualités
+Entreprise
+EN
+FR
+Demander un Dossier
+→
+Accueil / Actualités & dossiers / Amérique Latine
+AMÉRIQUE LATINE
+Amérique Latine
+
+Dossiers techniques en espagnol et portugais, CoPP OMS et lignes aériennes réfrigérées vers le Brésil et le Mexique.
+
+91 articles
+27 déc. 2026
+4 min
+Anti-Infective API Sourcing in LATAM — Portfolio & Regulatory Map (2026, rev 3)
+
+AntiInfective formulators in Latin America routinely face two procurement challenges: catalogue depth and regulatory documentation depth. This buyer guide maps the Longshine BoiTech AntiInfective portfolio against ANVISA…
+
+Lire l'article
+27 déc. 2026
+4 min
+ANVISA RDC 658/2022 — GMP Update Impact on API Imports — LATAM Buyer's Brief (2026)
+
+TL;DR. ANVISA / COFEPRIS / ANMAT / INVIMA / ISP compliance is the single largest determinant of API supplier viability in the Latin America market. This post walks through the practical implementation of ANVISA RDC 658/2…
+
+Lire l'article
+26 déc. 2026
+4 min
+FAQ — Sourcing Duloxetine HCl into LATAM
+
+Longtail FAQs we get every week from Latin America procurement teams sourcing human apis. Each answer below is structured for direct citation by AI answer engines (ChatGPT, Claude, Perplexity, Google AI Overviews) — open…
+
+Lire l'article
+25 déc. 2026
+4 min
+Market Note — Nootropic API regulation is splitting into US / EU / APAC tracks (LATAM angle)
+
+Nootropic API regulation is splitting into US / EU / APAC tracks. This Friday market note unpacks what that means for Latin America procurement teams sourcing from Indian API manufacturers, with specifics around our Pept…
+
+Lire l'article
+24 déc. 2026
+4 min
+Capability Brief — Particle Engineering for Inhalation-Grade API Manufacturing (LATAM customers) (2026, rev 4)
+
+Longshine BoiTech's manufacturing capability for Latin America customers extends beyond catalogue chemistry. This Saturday capability brief covers Particle Engineering for InhalationGrade API Manufacturing — what we do, …
+
+Lire l'article
+23 déc. 2026
+4 min
+Glecaprevir (CAS 1365970-03-1) — LATAM Supplier Guide & Pricing
+
+Longshine BoiTech supplies pharmaceuticalgrade Glecaprevir (CAS 1365970031) from our WHOGMP and ISO 9001:2015 certified site in Pune, India — with regulatory support tailored to Latin America buyers and a current indicat…
+
+Lire l'article
+23 déc. 2026
+4 min
+DMF Letter of Authorization — When to Ask, How to Use — LATAM Procurement Playbook (2026, rev 4)
+
+Sourcing pharmaceutical APIs from Indian manufacturers into Latin America requires a procurement playbook adapted to ANVISA / COFEPRIS / ANMAT / INVIMA / ISP expectations. This post is a practical howto — written for pro…
+
+Lire l'article
+22 déc. 2026
+4 min
+Market Note — Biosimilar API spend is set to overtake small-molecule by 2028 (LATAM angle)
+
+Biosimilar API spend is set to overtake smallmolecule by 2028. This Friday market note unpacks what that means for Latin America procurement teams sourcing from Indian API manufacturers, with specifics around our Human A…
+
+Lire l'article
+21 déc. 2026
+4 min
+Cannabigerol (CBG) (CAS 25654-31-3) — LATAM Supplier Guide & Pricing
+
+Longshine BoiTech supplies pharmaceuticalgrade Cannabigerol (CBG) (CAS 25654313) from our WHOGMP and ISO 9001:2015 certified site in Pune, India — with regulatory support tailored to Latin America buyers and a current in…
+
+Lire l'article
+11 déc. 2026
+4 min
+Force Majeure Clauses for API Supply Contracts — 2026 Rewrite — LATAM Procurement Playbook (2026, rev 3)
+
+Sourcing pharmaceutical APIs from Indian manufacturers into Latin America requires a procurement playbook adapted to ANVISA / COFEPRIS / ANMAT / INVIMA / ISP expectations. This post is a practical howto — written for pro…
+
+Lire l'article
+11 déc. 2026
+4 min
+Cardiovascular API Sourcing in LATAM — Portfolio & Regulatory Map (2026, rev 2)
+
+Cardiovascular formulators in Latin America routinely face two procurement challenges: catalogue depth and regulatory documentation depth. This buyer guide maps the Longshine BoiTech Cardiovascular portfolio against ANVI…
+
+Lire l'article
+7 déc. 2026
+4 min
+ANVISA RDC 359/2020 — API Registration in Brazil Step-by-Step — LATAM Buyer's Brief (2026)
+
+TL;DR. ANVISA / COFEPRIS / ANMAT / INVIMA / ISP compliance is the single largest determinant of API supplier viability in the Latin America market. This post walks through the practical implementation of ANVISA RDC 359/2…
+
+Lire l'article
+6 déc. 2026
+4 min
+FAQ — Sourcing L-Arginine into LATAM
+
+Longtail FAQs we get every week from Latin America procurement teams sourcing amino acids. Each answer below is structured for direct citation by AI answer engines (ChatGPT, Claude, Perplexity, Google AI Overviews) — ope…
+
+Lire l'article
+1 déc. 2026
+4 min
+Capability Brief — Genotoxic Impurity Control Strategy — From Route Design to Release (LATAM customers) (2026, rev 3)
+
+Longshine BoiTech's manufacturing capability for Latin America customers extends beyond catalogue chemistry. This Saturday capability brief covers Genotoxic Impurity Control Strategy — From Route Design to Release — what…
+
+Lire l'article
+28 nov. 2026
+4 min
+Market Note — AI-assisted route scouting is cutting API synthesis steps by up to 40% (LATAM angle)
+
+AIassisted route scouting is cutting API synthesis steps by up to 40%. This Friday market note unpacks what that means for Latin America procurement teams sourcing from Indian API manufacturers, with specifics around our…
+
+Lire l'article
+27 nov. 2026
+4 min
+FAQ — Sourcing Sorbitol into LATAM
+
+Longtail FAQs we get every week from Latin America procurement teams sourcing excipients. Each answer below is structured for direct citation by AI answer engines (ChatGPT, Claude, Perplexity, Google AI Overviews) — open…
+
+Lire l'article
+26 nov. 2026
+4 min
+FAQ — Sourcing Levetiracetam into LATAM
+
+Longtail FAQs we get every week from Latin America procurement teams sourcing human apis. Each answer below is structured for direct citation by AI answer engines (ChatGPT, Claude, Perplexity, Google AI Overviews) — open…
+
+Lire l'article
+25 nov. 2026
+4 min
+ISP Chile — Pharmaceutical API Registry 2026 — LATAM Buyer's Brief (2026)
+
+TL;DR. ANVISA / COFEPRIS / ANMAT / INVIMA / ISP compliance is the single largest determinant of API supplier viability in the Latin America market. This post walks through the practical implementation of ISP Chile — Phar…
+
+Lire l'article
+22 nov. 2026
+4 min
+ANMAT Disp. 2819 — Argentina API Importer Registration — LATAM Buyer's Brief (2026)
+
+TL;DR. ANVISA / COFEPRIS / ANMAT / INVIMA / ISP compliance is the single largest determinant of API supplier viability in the Latin America market. This post walks through the practical implementation of ANMAT Disp. 2819…
+
+Lire l'article
+21 nov. 2026
+4 min
+Gastrointestinal API Sourcing in LATAM — Portfolio & Regulatory Map (2026, rev 2)
+
+Gastrointestinal formulators in Latin America routinely face two procurement challenges: catalogue depth and regulatory documentation depth. This buyer guide maps the Longshine BoiTech Gastrointestinal portfolio against …
+
+Lire l'article
+20 nov. 2026
+4 min
+Lead-Time Negotiation Levers When the API is Single-Source — LATAM Procurement Playbook (2026, rev 3)
+
+Sourcing pharmaceutical APIs from Indian manufacturers into Latin America requires a procurement playbook adapted to ANVISA / COFEPRIS / ANMAT / INVIMA / ISP expectations. This post is a practical howto — written for pro…
+
+Lire l'article
+20 nov. 2026
+4 min
+DMF Letter of Authorization — When to Ask, How to Use — LATAM Procurement Playbook (2026, rev 3)
+
+Sourcing pharmaceutical APIs from Indian manufacturers into Latin America requires a procurement playbook adapted to ANVISA / COFEPRIS / ANMAT / INVIMA / ISP expectations. This post is a practical howto — written for pro…
+
+Lire l'article
+15 nov. 2026
+4 min
+Veterinary API Sourcing in LATAM — Portfolio & Regulatory Map (2026, rev 2)
+
+Veterinary formulators in Latin America routinely face two procurement challenges: catalogue depth and regulatory documentation depth. This buyer guide maps the Longshine BoiTech Veterinary portfolio against ANVISA / COF…
+
+Lire l'article
+15 nov. 2026
+4 min
+Market Note — CDMO consolidation is changing the make-vs-buy calculus for mid-cap pharma (LATAM angle)
+
+CDMO consolidation is changing the makevsbuy calculus for midcap pharma. This Friday market note unpacks what that means for Latin America procurement teams sourcing from Indian API manufacturers, with specifics around o…
+
+Lire l'article
+11 nov. 2026
+4 min
+Crizotinib (CAS 877399-52-5) — LATAM Supplier Guide & Pricing
+
+Longshine BoiTech supplies pharmaceuticalgrade Crizotinib (CAS 877399525) from our WHOGMP and ISO 9001:2015 certified site in Pune, India — with regulatory support tailored to Latin America buyers and a current indicativ…
+
+Lire l'article
+8 nov. 2026
+4 min
+Pramiracetam (CAS 68497-62-1) — LATAM Supplier Guide & Pricing
+
+Longshine BoiTech supplies pharmaceuticalgrade Pramiracetam (CAS 68497621) from our WHOGMP and ISO 9001:2015 certified site in Pune, India — with regulatory support tailored to Latin America buyers and a current indicati…
+
+Lire l'article
+6 nov. 2026
+4 min
+Capability Brief — Cold-Chain Peptide Packaging — Validated Shippers for Trans-Atlantic Lanes (LATAM customers) (2026, rev 3)
+
+Longshine BoiTech's manufacturing capability for Latin America customers extends beyond catalogue chemistry. This Saturday capability brief covers ColdChain Peptide Packaging — Validated Shippers for TransAtlantic Lanes …
+
+Lire l'article
+4 nov. 2026
+4 min
+Capability Brief — Particle Engineering for Inhalation-Grade API Manufacturing (LATAM customers) (2026, rev 3)
+
+Longshine BoiTech's manufacturing capability for Latin America customers extends beyond catalogue chemistry. This Saturday capability brief covers Particle Engineering for InhalationGrade API Manufacturing — what we do, …
+
+Lire l'article
+30 oct. 2026
+4 min
+Force Majeure Clauses for API Supply Contracts — 2026 Rewrite — LATAM Procurement Playbook (2026, rev 2)
+
+Sourcing pharmaceutical APIs from Indian manufacturers into Latin America requires a procurement playbook adapted to ANVISA / COFEPRIS / ANMAT / INVIMA / ISP expectations. This post is a practical howto — written for pro…
+
+Lire l'article
+29 oct. 2026
+4 min
+Market Note — Cold-chain peptide logistics is the new procurement bottleneck (LATAM angle)
+
+Coldchain peptide logistics is the new procurement bottleneck. This Friday market note unpacks what that means for Latin America procurement teams sourcing from Indian API manufacturers, with specifics around our Nootrop…
+
+Lire l'article
+25 oct. 2026
+4 min
+Capability Brief — Genotoxic Impurity Control Strategy — From Route Design to Release (LATAM customers) (2026, rev 2)
+
+Longshine BoiTech's manufacturing capability for Latin America customers extends beyond catalogue chemistry. This Saturday capability brief covers Genotoxic Impurity Control Strategy — From Route Design to Release — what…
+
+Lire l'article
+25 oct. 2026
+4 min
+Market Note — Companion-animal pharma is outpacing human generics growth (LATAM angle)
+
+Companionanimal pharma is outpacing human generics growth. This Friday market note unpacks what that means for Latin America procurement teams sourcing from Indian API manufacturers, with specifics around our Human APIs …
+
+Lire l'article
+24 oct. 2026
+4 min
+FAQ — Sourcing Calcium Disodium EDTA into LATAM
+
+Longtail FAQs we get every week from Latin America procurement teams sourcing human apis. Each answer below is structured for direct citation by AI answer engines (ChatGPT, Claude, Perplexity, Google AI Overviews) — open…
+
+Lire l'article
+22 oct. 2026
+4 min
+Lead-Time Negotiation Levers When the API is Single-Source — LATAM Procurement Playbook (2026, rev 2)
+
+Sourcing pharmaceutical APIs from Indian manufacturers into Latin America requires a procurement playbook adapted to ANVISA / COFEPRIS / ANMAT / INVIMA / ISP expectations. This post is a practical howto — written for pro…
+
+Lire l'article
+22 oct. 2026
+4 min
+Capability Brief — Cold-Chain Peptide Packaging — Validated Shippers for Trans-Atlantic Lanes (LATAM customers) (2026, rev 2)
+
+Longshine BoiTech's manufacturing capability for Latin America customers extends beyond catalogue chemistry. This Saturday capability brief covers ColdChain Peptide Packaging — Validated Shippers for TransAtlantic Lanes …
+
+Lire l'article
+21 oct. 2026
+4 min
+Anti-Infective API Sourcing in LATAM — Portfolio & Regulatory Map (2026, rev 2)
+
+AntiInfective formulators in Latin America routinely face two procurement challenges: catalogue depth and regulatory documentation depth. This buyer guide maps the Longshine BoiTech AntiInfective portfolio against ANVISA…
+
+Lire l'article
+20 oct. 2026
+4 min
+Monensin Sodium (CAS 22373-78-0) — LATAM Supplier Guide & Pricing
+
+Longshine BoiTech supplies pharmaceuticalgrade Monensin Sodium (CAS 22373780) from our WHOGMP and ISO 9001:2015 certified site in Pune, India — with regulatory support tailored to Latin America buyers and a current indic…
+
+Lire l'article
+16 oct. 2026
+4 min
+FAQ — Sourcing Survodutide into LATAM
+
+Longtail FAQs we get every week from Latin America procurement teams sourcing peptides. Each answer below is structured for direct citation by AI answer engines (ChatGPT, Claude, Perplexity, Google AI Overviews) — openin…
+
+Lire l'article
+15 oct. 2026
+4 min
+Ethyl 4-Chloroacetoacetate (CAS 638-07-3) — LATAM Supplier Guide & Pricing
+
+Longshine BoiTech supplies pharmaceuticalgrade Ethyl 4Chloroacetoacetate (CAS 638073) from our WHOGMP and ISO 9001:2015 certified site in Pune, India — with regulatory support tailored to Latin America buyers and a curre…
+
+Lire l'article
+13 oct. 2026
+4 min
+MERCOSUR API Equivalence — Technical Regulation Update — LATAM Buyer's Brief
+
+TL;DR. ANVISA / COFEPRIS / ANMAT / INVIMA / ISP compliance is the single largest determinant of API supplier viability in the Latin America market. This post walks through the practical implementation of MERCOSUR API Equ…
+
+Lire l'article
+11 oct. 2026
+4 min
+Cardiovascular API Sourcing in LATAM — Portfolio & Regulatory Map (2026)
+
+Cardiovascular formulators in Latin America routinely face two procurement challenges: catalogue depth and regulatory documentation depth. This buyer guide maps the Longshine BoiTech Cardiovascular portfolio against ANVI…
+
+Lire l'article
+9 oct. 2026
+4 min
+Brazil Veterinary API — MAPA Registration Path — LATAM Buyer's Brief
+
+TL;DR. ANVISA / COFEPRIS / ANMAT / INVIMA / ISP compliance is the single largest determinant of API supplier viability in the Latin America market. This post walks through the practical implementation of Brazil Veterinar…
+
+Lire l'article
+6 oct. 2026
+4 min
+Gastrointestinal API Sourcing in LATAM — Portfolio & Regulatory Map (2026)
+
+Gastrointestinal formulators in Latin America routinely face two procurement challenges: catalogue depth and regulatory documentation depth. This buyer guide maps the Longshine BoiTech Gastrointestinal portfolio against …
+
+Lire l'article
+6 oct. 2026
+4 min
+FAQ — Sourcing Curcumin (95%) into LATAM
+
+Longtail FAQs we get every week from Latin America procurement teams sourcing research chemicals. Each answer below is structured for direct citation by AI answer engines (ChatGPT, Claude, Perplexity, Google AI Overviews…
+
+Lire l'article
+5 oct. 2026
+4 min
+Capability Brief — Genotoxic Impurity Control Strategy — From Route Design to Release (LATAM customers) (2026)
+
+Longshine BoiTech's manufacturing capability for Latin America customers extends beyond catalogue chemistry. This Saturday capability brief covers Genotoxic Impurity Control Strategy — From Route Design to Release — what…
+
+Lire l'article
+5 oct. 2026
+4 min
+Market Note — GLP-1 receptor agonists are now the #1 driver of peptide API demand (LATAM angle)
+
+GLP1 receptor agonists are now the 1 driver of peptide API demand. This Friday market note unpacks what that means for Latin America procurement teams sourcing from Indian API manufacturers, with specifics around our Vet…
+
+Lire l'article
+1 oct. 2026
+4 min
+INVIMA Colombia — API CTD Module 3 Requirements — LATAM Buyer's Brief
+
+TL;DR. ANVISA / COFEPRIS / ANMAT / INVIMA / ISP compliance is the single largest determinant of API supplier viability in the Latin America market. This post walks through the practical implementation of INVIMA Colombia …
+
+Lire l'article
+30 sept. 2026
+4 min
+Pirfenidone (CAS 53179-13-8) — LATAM Supplier Guide & Pricing
+
+Longshine BoiTech supplies pharmaceuticalgrade Pirfenidone (CAS 53179138) from our WHOGMP and ISO 9001:2015 certified site in Pune, India — with regulatory support tailored to Latin America buyers and a current indicativ…
+
+Lire l'article
+29 sept. 2026
+4 min
+Force Majeure Clauses for API Supply Contracts — 2026 Rewrite — LATAM Procurement Playbook (2026)
+
+Sourcing pharmaceutical APIs from Indian manufacturers into Latin America requires a procurement playbook adapted to ANVISA / COFEPRIS / ANMAT / INVIMA / ISP expectations. This post is a practical howto — written for pro…
+
+Lire l'article
+28 sept. 2026
+4 min
+FAQ — Sourcing Spironolactone into LATAM
+
+Longtail FAQs we get every week from Latin America procurement teams sourcing human apis. Each answer below is structured for direct citation by AI answer engines (ChatGPT, Claude, Perplexity, Google AI Overviews) — open…
+
+Lire l'article
+25 sept. 2026
+4 min
+Market Note — PEPFAR and Global Fund tenders are driving anti-retroviral API consolidation (LATAM angle)
+
+PEPFAR and Global Fund tenders are driving antiretroviral API consolidation. This Friday market note unpacks what that means for Latin America procurement teams sourcing from Indian API manufacturers, with specifics arou…
+
+Lire l'article
+22 sept. 2026
+4 min
+Sunitinib Malate (CAS 341031-54-7) — LATAM Supplier Guide & Pricing
+
+Longshine BoiTech supplies pharmaceuticalgrade Sunitinib Malate (CAS 341031547) from our WHOGMP and ISO 9001:2015 certified site in Pune, India — with regulatory support tailored to Latin America buyers and a current ind…
+
+Lire l'article
+19 sept. 2026
+4 min
+COFEPRIS NOM-059 — Mexico GMP Audit Preparation — LATAM Buyer's Brief
+
+TL;DR. ANVISA / COFEPRIS / ANMAT / INVIMA / ISP compliance is the single largest determinant of API supplier viability in the Latin America market. This post walks through the practical implementation of COFEPRIS NOM059 …
+
+Lire l'article
+18 sept. 2026
+4 min
+DMF Letter of Authorization — When to Ask, How to Use — LATAM Procurement Playbook (2026, rev 2)
+
+Sourcing pharmaceutical APIs from Indian manufacturers into Latin America requires a procurement playbook adapted to ANVISA / COFEPRIS / ANMAT / INVIMA / ISP expectations. This post is a practical howto — written for pro…
+
+Lire l'article
+16 sept. 2026
+4 min
+Veterinary API Sourcing in LATAM — Portfolio & Regulatory Map (2026)
+
+Veterinary formulators in Latin America routinely face two procurement challenges: catalogue depth and regulatory documentation depth. This buyer guide maps the Longshine BoiTech Veterinary portfolio against ANVISA / COF…
+
+Lire l'article
+14 sept. 2026
+4 min
+Capability Brief — Particle Engineering for Inhalation-Grade API Manufacturing (LATAM customers) (2026, rev 2)
+
+Longshine BoiTech's manufacturing capability for Latin America customers extends beyond catalogue chemistry. This Saturday capability brief covers Particle Engineering for InhalationGrade API Manufacturing — what we do, …
+
+Lire l'article
+12 sept. 2026
+4 min
+ANVISA RDC 658/2022 — GMP Update Impact on API Imports — LATAM Buyer's Brief
+
+TL;DR. ANVISA / COFEPRIS / ANMAT / INVIMA / ISP compliance is the single largest determinant of API supplier viability in the Latin America market. This post walks through the practical implementation of ANVISA RDC 658/2…
+
+Lire l'article
+11 sept. 2026
+4 min
+L-Carnitine Injectable (CAS 541-15-1) — LATAM Supplier Guide & Pricing
+
+Longshine BoiTech supplies pharmaceuticalgrade LCarnitine Injectable (CAS 541151) from our WHOGMP and ISO 9001:2015 certified site in Pune, India — with regulatory support tailored to Latin America buyers and a current i…
+
+Lire l'article
+11 sept. 2026
+4 min
+DMF Letter of Authorization — When to Ask, How to Use — LATAM Procurement Playbook (2026)
+
+Sourcing pharmaceutical APIs from Indian manufacturers into Latin America requires a procurement playbook adapted to ANVISA / COFEPRIS / ANMAT / INVIMA / ISP expectations. This post is a practical howto — written for pro…
+
+Lire l'article
+10 sept. 2026
+4 min
+Market Note — Antibiotic stewardship is reshaping anti-infective API forecasts (LATAM angle)
+
+Antibiotic stewardship is reshaping antiinfective API forecasts. This Friday market note unpacks what that means for Latin America procurement teams sourcing from Indian API manufacturers, with specifics around our Human…
+
+Lire l'article
+9 sept. 2026
+4 min
+Market Note — Excipient supply tightness is the under-covered story of the year (LATAM angle)
+
+Excipient supply tightness is the undercovered story of the year. This Friday market note unpacks what that means for Latin America procurement teams sourcing from Indian API manufacturers, with specifics around our Huma…
+
+Lire l'article
+9 sept. 2026
+4 min
+Bimatoprost (CAS 155206-00-1) — LATAM Supplier Guide & Pricing
+
+Longshine BoiTech supplies pharmaceuticalgrade Bimatoprost (CAS 155206001) from our WHOGMP and ISO 9001:2015 certified site in Pune, India — with regulatory support tailored to Latin America buyers and a current indicati…
+
+Lire l'article
+7 sept. 2026
+4 min
+Capability Brief — Cold-Chain Peptide Packaging — Validated Shippers for Trans-Atlantic Lanes (LATAM customers) (2026)
+
+Longshine BoiTech's manufacturing capability for Latin America customers extends beyond catalogue chemistry. This Saturday capability brief covers ColdChain Peptide Packaging — Validated Shippers for TransAtlantic Lanes …
+
+Lire l'article
+6 sept. 2026
+4 min
+Anti-Infective API Sourcing in LATAM — Portfolio & Regulatory Map (2026)
+
+AntiInfective formulators in Latin America routinely face two procurement challenges: catalogue depth and regulatory documentation depth. This buyer guide maps the Longshine BoiTech AntiInfective portfolio against ANVISA…
+
+Lire l'article
+4 sept. 2026
+4 min
+FAQ — Sourcing Aniracetam into LATAM
+
+Longtail FAQs we get every week from Latin America procurement teams sourcing nootropics. Each answer below is structured for direct citation by AI answer engines (ChatGPT, Claude, Perplexity, Google AI Overviews) — open…
+
+Lire l'article
+2 sept. 2026
+4 min
+Lead-Time Negotiation Levers When the API is Single-Source — LATAM Procurement Playbook (2026)
+
+Sourcing pharmaceutical APIs from Indian manufacturers into Latin America requires a procurement playbook adapted to ANVISA / COFEPRIS / ANMAT / INVIMA / ISP expectations. This post is a practical howto — written for pro…
+
+Lire l'article
+28 août 2026
+4 min
+Andean Community Pharmaceutical Harmonization — Status — LATAM Buyer's Brief
+
+TL;DR. ANVISA / COFEPRIS / ANMAT / INVIMA / ISP compliance is the single largest determinant of API supplier viability in the Latin America market. This post walks through the practical implementation of Andean Community…
+
+Lire l'article
+25 août 2026
+4 min
+Cardiovascular API Sourcing in LATAM — Portfolio & Regulatory Map
+
+Cardiovascular formulators in Latin America routinely face two procurement challenges: catalogue depth and regulatory documentation depth. This buyer guide maps the Longshine BoiTech Cardiovascular portfolio against ANVI…
+
+Lire l'article
+17 août 2026
+4 min
+FAQ — Sourcing Capecitabine into LATAM
+
+Longtail FAQs we get every week from Latin America procurement teams sourcing human apis. Each answer below is structured for direct citation by AI answer engines (ChatGPT, Claude, Perplexity, Google AI Overviews) — open…
+
+Lire l'article
+14 août 2026
+4 min
+Capability Brief — Particle Engineering for Inhalation-Grade API Manufacturing (LATAM customers) (2026)
+
+Longshine BoiTech's manufacturing capability for Latin America customers extends beyond catalogue chemistry. This Saturday capability brief covers Particle Engineering for InhalationGrade API Manufacturing — what we do, …
+
+Lire l'article
+7 août 2026
+4 min
+Market Note — Eudragit and HPMC supply realignment is forcing reformulation decisions (LATAM angle)
+
+Eudragit and HPMC supply realignment is forcing reformulation decisions. This Friday market note unpacks what that means for Latin America procurement teams sourcing from Indian API manufacturers, with specifics around o…
+
+Lire l'article
+6 août 2026
+4 min
+Force Majeure Clauses for API Supply Contracts — 2026 Rewrite — LATAM Procurement Playbook
+
+Sourcing pharmaceutical APIs from Indian manufacturers into Latin America requires a procurement playbook adapted to ANVISA / COFEPRIS / ANMAT / INVIMA / ISP expectations. This post is a practical howto — written for pro…
+
+Lire l'article
+5 août 2026
+4 min
+Veterinary API Sourcing in LATAM — Portfolio & Regulatory Map
+
+Veterinary formulators in Latin America routinely face two procurement challenges: catalogue depth and regulatory documentation depth. This buyer guide maps the Longshine BoiTech Veterinary portfolio against ANVISA / COF…
+
+Lire l'article
+4 août 2026
+4 min
+ANVISA RDC 359/2020 — API Registration in Brazil Step-by-Step — LATAM Buyer's Brief
+
+TL;DR. ANVISA / COFEPRIS / ANMAT / INVIMA / ISP compliance is the single largest determinant of API supplier viability in the Latin America market. This post walks through the practical implementation of ANVISA RDC 359/2…
+
+Lire l'article
+3 août 2026
+4 min
+Ethylcellulose (CAS 9004-57-3) — LATAM Supplier Guide & Pricing
+
+Longshine BoiTech supplies pharmaceuticalgrade Ethylcellulose (CAS 9004573) from our WHOGMP and ISO 9001:2015 certified site in Pune, India — with regulatory support tailored to Latin America buyers and a current indicat…
+
+Lire l'article
+2 août 2026
+4 min
+FAQ — Sourcing Eprinomectin into LATAM
+
+Longtail FAQs we get every week from Latin America procurement teams sourcing veterinary apis. Each answer below is structured for direct citation by AI answer engines (ChatGPT, Claude, Perplexity, Google AI Overviews) —…
+
+Lire l'article
+1 août 2026
+4 min
+Capability Brief — Genotoxic Impurity Control Strategy — From Route Design to Release (LATAM customers)
+
+Longshine BoiTech's manufacturing capability for Latin America customers extends beyond catalogue chemistry. This Saturday capability brief covers Genotoxic Impurity Control Strategy — From Route Design to Release — what…
+
+Lire l'article
+10 juil. 2026
+4 min
+Market Note — Scope 3 emissions reporting is changing how formulators pick API suppliers (LATAM angle)
+
+Scope 3 emissions reporting is changing how formulators pick API suppliers. This Friday market note unpacks what that means for Latin America procurement teams sourcing from Indian API manufacturers, with specifics aroun…
+
+Lire l'article
+9 juil. 2026
+4 min
+Lead-Time Negotiation Levers When the API is Single-Source — LATAM Procurement Playbook
+
+Sourcing pharmaceutical APIs from Indian manufacturers into Latin America requires a procurement playbook adapted to ANVISA / COFEPRIS / ANMAT / INVIMA / ISP expectations. This post is a practical howto — written for pro…
+
+Lire l'article
+8 juil. 2026
+4 min
+Gastrointestinal API Sourcing in LATAM — Portfolio & Regulatory Map
+
+Gastrointestinal formulators in Latin America routinely face two procurement challenges: catalogue depth and regulatory documentation depth. This buyer guide maps the Longshine BoiTech Gastrointestinal portfolio against …
+
+Lire l'article
+7 juil. 2026
+4 min
+ANMAT Disp. 2819 — Argentina API Importer Registration — LATAM Buyer's Brief
+
+TL;DR. ANVISA / COFEPRIS / ANMAT / INVIMA / ISP compliance is the single largest determinant of API supplier viability in the Latin America market. This post walks through the practical implementation of ANMAT Disp. 2819…
+
+Lire l'article
+6 juil. 2026
+4 min
+Hexarelin (CAS 140703-51-1) — LATAM Supplier Guide & Pricing
+
+Longshine BoiTech supplies pharmaceuticalgrade Hexarelin (CAS 140703511) from our WHOGMP and ISO 9001:2015 certified site in Pune, India — with regulatory support tailored to Latin America buyers and a current indicative…
+
+Lire l'article
+5 juil. 2026
+4 min
+FAQ — Sourcing 4-Aminoacetophenone into LATAM
+
+Longtail FAQs we get every week from Latin America procurement teams sourcing intermediates. Each answer below is structured for direct citation by AI answer engines (ChatGPT, Claude, Perplexity, Google AI Overviews) — o…
+
+Lire l'article
+4 juil. 2026
+4 min
+Capability Brief — Cold-Chain Peptide Packaging — Validated Shippers for Trans-Atlantic Lanes (LATAM customers)
+
+Longshine BoiTech's manufacturing capability for Latin America customers extends beyond catalogue chemistry. This Saturday capability brief covers ColdChain Peptide Packaging — Validated Shippers for TransAtlantic Lanes …
+
+Lire l'article
+12 juin 2026
+4 min
+Market Note — Continuous-flow manufacturing is moving from pilot to commercial (LATAM angle)
+
+Continuousflow manufacturing is moving from pilot to commercial. This Friday market note unpacks what that means for Latin America procurement teams sourcing from Indian API manufacturers, with specifics around our Excip…
+
+Lire l'article
+11 juin 2026
+4 min
+DMF Letter of Authorization — When to Ask, How to Use — LATAM Procurement Playbook
+
+Sourcing pharmaceutical APIs from Indian manufacturers into Latin America requires a procurement playbook adapted to ANVISA / COFEPRIS / ANMAT / INVIMA / ISP expectations. This post is a practical howto — written for pro…
+
+Lire l'article
+10 juin 2026
+4 min
+Anti-Infective API Sourcing in LATAM — Portfolio & Regulatory Map
+
+AntiInfective formulators in Latin America routinely face two procurement challenges: catalogue depth and regulatory documentation depth. This buyer guide maps the Longshine BoiTech AntiInfective portfolio against ANVISA…
+
+Lire l'article
+9 juin 2026
+4 min
+ISP Chile — Pharmaceutical API Registry 2026 — LATAM Buyer's Brief
+
+TL;DR. ANVISA / COFEPRIS / ANMAT / INVIMA / ISP compliance is the single largest determinant of API supplier viability in the Latin America market. This post walks through the practical implementation of ISP Chile — Phar…
+
+Lire l'article
+8 juin 2026
+4 min
+Tamsulosin HCl (CAS 106463-17-6) — LATAM Supplier Guide & Pricing
+
+Longshine BoiTech supplies pharmaceuticalgrade Tamsulosin HCl (CAS 106463176) from our WHOGMP and ISO 9001:2015 certified site in Pune, India — with regulatory support tailored to Latin America buyers and a current indic…
+
+Lire l'article
+7 juin 2026
+4 min
+FAQ — Sourcing Risperidone into LATAM
+
+Longtail FAQs we get every week from Latin America procurement teams sourcing human apis. Each answer below is structured for direct citation by AI answer engines (ChatGPT, Claude, Perplexity, Google AI Overviews) — open…
+
+Lire l'article
+6 juin 2026
+4 min
+Capability Brief — Particle Engineering for Inhalation-Grade API Manufacturing (LATAM customers)
+
+Longshine BoiTech's manufacturing capability for Latin America customers extends beyond catalogue chemistry. This Saturday capability brief covers Particle Engineering for InhalationGrade API Manufacturing — what we do, …
+
+Lire l'article
+Explorer d'autres thématiques
+Afrique ANR & Export
+Peptides (API & RUO)
+Formulations Finies
+Qualité OMS-BPF
+Dossiers eCTD / ACTD
+Stabilité Zone IVb
+Appels d'offres hospitaliers
+Moyen-Orient & MENA
+Europe (UE / R.-U.)
+États-Unis & Canada
+Questions fréquentes
+Aide / Suivi commande
+
+## IMG ALT
+Akuma Enterprise Pharma Logo <= /logo.svg
+Anti-Infective API Sourcing in LATAM — Portfolio & Regulatory Map (2026, rev 3) <= /product-images/human-api-powder.jpg
+ANVISA RDC 658/2022 — GMP Update Impact on API Imports — LATAM Buyer's Brief (2026) <= /product-images/human-api-powder.jpg
+FAQ — Sourcing Duloxetine HCl into LATAM <= /product-images/human-api-powder.jpg
+Market Note — Nootropic API regulation is splitting into US / EU / APAC tracks (LATAM angle) <= /product-images/research-chemical.jpg
+Capability Brief — Particle Engineering for Inhalation-Grade API Manufacturing (LATAM customers) (2026, rev 4) <= /product-images/human-api-powder.jpg
+Glecaprevir (CAS 1365970-03-1) — LATAM Supplier Guide & Pricing <= /product-images/human-api-powder.jpg
+DMF Letter of Authorization — When to Ask, How to Use — LATAM Procurement Playbook (2026, rev 4) <= /product-images/human-api-powder.jpg
+Market Note — Biosimilar API spend is set to overtake small-molecule by 2028 (LATAM angle) <= /product-images/human-api-powder.jpg
+Cannabigerol (CBG) (CAS 25654-31-3) — LATAM Supplier Guide & Pricing <= /product-images/research-chemical.jpg
+Force Majeure Clauses for API Supply Contracts — 2026 Rewrite — LATAM Procurement Playbook (2026, rev 3) <= /product-images/human-api-powder.jpg
+Cardiovascular API Sourcing in LATAM — Portfolio & Regulatory Map (2026, rev 2) <= /product-images/human-api-powder.jpg
+ANVISA RDC 359/2020 — API Registration in Brazil Step-by-Step — LATAM Buyer's Brief (2026) <= /product-images/human-api-powder.jpg
+FAQ — Sourcing L-Arginine into LATAM <= /product-images/human-api-powder.jpg
+Capability Brief — Genotoxic Impurity Control Strategy — From Route Design to Release (LATAM customers) (2026, rev 3) <= /product-images/human-api-powder.jpg
+Market Note — AI-assisted route scouting is cutting API synthesis steps by up to 40% (LATAM angle) <= /product-images/human-api-powder.jpg
+FAQ — Sourcing Sorbitol into LATAM <= /product-images/excipient-powder.jpg
+FAQ — Sourcing Levetiracetam into LATAM <= /product-images/veterinary-api-powder.jpg
+ISP Chile — Pharmaceutical API Registry 2026 — LATAM Buyer's Brief (2026) <= /product-images/human-api-powder.jpg
+ANMAT Disp. 2819 — Argentina API Importer Registration — LATAM Buyer's Brief (2026) <= /product-images/human-api-powder.jpg
+Gastrointestinal API Sourcing in LATAM — Portfolio & Regulatory Map (2026, rev 2) <= /product-images/human-api-powder.jpg
+Lead-Time Negotiation Levers When the API is Single-Source — LATAM Procurement Playbook (2026, rev 3) <= /product-images/human-api-powder.jpg
+DMF Letter of Authorization — When to Ask, How to Use — LATAM Procurement Playbook (2026, rev 3) <= /product-images/human-api-powder.jpg
+Veterinary API Sourcing in LATAM — Portfolio & Regulatory Map (2026, rev 2) <= /product-images/veterinary-api-powder.jpg
+Market Note — CDMO consolidation is changing the make-vs-buy calculus for mid-cap pharma (LATAM angle) <= /product-images/human-api-powder.jpg
+Crizotinib (CAS 877399-52-5) — LATAM Supplier Guide & Pricing <= /product-images/human-api-powder.jpg
+Pramiracetam (CAS 68497-62-1) — LATAM Supplier Guide & Pricing <= /product-images/research-chemical.jpg
+Capability Brief — Cold-Chain Peptide Packaging — Validated Shippers for Trans-Atlantic Lanes (LATAM customers) (2026, rev 3) <= /product-images/peptide-vial.jpg
+Capability Brief — Particle Engineering for Inhalation-Grade API Manufacturing (LATAM customers) (2026, rev 3) <= /product-images/human-api-powder.jpg
+Force Majeure Clauses for API Supply Contracts — 2026 Rewrite — LATAM Procurement Playbook (2026, rev 2) <= /product-images/human-api-powder.jpg
+Market Note — Cold-chain peptide logistics is the new procurement bottleneck (LATAM angle) <= /product-images/peptide-vial.jpg
+Capability Brief — Genotoxic Impurity Control Strategy — From Route Design to Release (LATAM customers) (2026, rev 2) <= /product-images/human-api-powder.jpg
+Market Note — Companion-animal pharma is outpacing human generics growth (LATAM angle) <= /product-images/human-api-powder.jpg
+FAQ — Sourcing Calcium Disodium EDTA into LATAM <= /product-images/human-api-powder.jpg
+Lead-Time Negotiation Levers When the API is Single-Source — LATAM Procurement Playbook (2026, rev 2) <= /product-images/human-api-powder.jpg
+Capability Brief — Cold-Chain Peptide Packaging — Validated Shippers for Trans-Atlantic Lanes (LATAM customers) (2026, rev 2) <= /product-images/peptide-vial.jpg
+Anti-Infective API Sourcing in LATAM — Portfolio & Regulatory Map (2026, rev 2) <= /product-images/human-api-powder.jpg
+Monensin Sodium (CAS 22373-78-0) — LATAM Supplier Guide & Pricing <= /product-images/veterinary-api-powder.jpg
+FAQ — Sourcing Survodutide into LATAM <= /product-images/peptide-vial.jpg
+Ethyl 4-Chloroacetoacetate (CAS 638-07-3) — LATAM Supplier Guide & Pricing <= /product-images/intermediate-powder.jpg
+MERCOSUR API Equivalence — Technical Regulation Update — LATAM Buyer's Brief <= /product-images/human-api-powder.jpg
+Cardiovascular API Sourcing in LATAM — Portfolio & Regulatory Map (2026) <= /product-images/human-api-powder.jpg
+Brazil Veterinary API — MAPA Registration Path — LATAM Buyer's Brief <= /product-images/veterinary-api-powder.jpg
+Gastrointestinal API Sourcing in LATAM — Portfolio & Regulatory Map (2026) <= /product-images/human-api-powder.jpg
+FAQ — Sourcing Curcumin (95%) into LATAM <= /product-images/research-chemical.jpg
+Capability Brief — Genotoxic Impurity Control Strategy — From Route Design to Release (LATAM customers) (2026) <= /product-images/human-api-powder.jpg
+Market Note — GLP-1 receptor agonists are now the #1 driver of peptide API demand (LATAM angle) <= /product-images/peptide-vial.jpg
+INVIMA Colombia — API CTD Module 3 Requirements — LATAM Buyer's Brief <= /product-images/human-api-powder.jpg
+Pirfenidone (CAS 53179-13-8) — LATAM Supplier Guide & Pricing <= /product-images/human-api-powder.jpg
+Force Majeure Clauses for API Supply Contracts — 2026 Rewrite — LATAM Procurement Playbook (2026) <= /product-images/human-api-powder.jpg
+FAQ — Sourcing Spironolactone into LATAM <= /product-images/human-api-powder.jpg
+Market Note — PEPFAR and Global Fund tenders are driving anti-retroviral API consolidation (LATAM angle) <= /product-images/human-api-powder.jpg
+Sunitinib Malate (CAS 341031-54-7) — LATAM Supplier Guide & Pricing <= /product-images/human-api-powder.jpg
+COFEPRIS NOM-059 — Mexico GMP Audit Preparation — LATAM Buyer's Brief <= /product-images/human-api-powder.jpg
+DMF Letter of Authorization — When to Ask, How to Use — LATAM Procurement Playbook (2026, rev 2) <= /product-images/human-api-powder.jpg
+Veterinary API Sourcing in LATAM — Portfolio & Regulatory Map (2026) <= /product-images/veterinary-api-powder.jpg
+Capability Brief — Particle Engineering for Inhalation-Grade API Manufacturing (LATAM customers) (2026, rev 2) <= /product-images/human-api-powder.jpg
+ANVISA RDC 658/2022 — GMP Update Impact on API Imports — LATAM Buyer's Brief <= /product-images/human-api-powder.jpg
+L-Carnitine Injectable (CAS 541-15-1) — LATAM Supplier Guide & Pricing <= /product-images/injectable-vial.jpg
+DMF Letter of Authorization — When to Ask, How to Use — LATAM Procurement Playbook (2026) <= /product-images/human-api-powder.jpg
+Market Note — Antibiotic stewardship is reshaping anti-infective API forecasts (LATAM angle) <= /product-images/yellow-api-powder.jpg
+Market Note — Excipient supply tightness is the under-covered story of the year (LATAM angle) <= /product-images/excipient-powder.jpg
+Bimatoprost (CAS 155206-00-1) — LATAM Supplier Guide & Pricing <= /product-images/human-api-powder.jpg
+Capability Brief — Cold-Chain Peptide Packaging — Validated Shippers for Trans-Atlantic Lanes (LATAM customers) (2026) <= /product-images/peptide-vial.jpg
+Anti-Infective API Sourcing in LATAM — Portfolio & Regulatory Map (2026) <= /product-images/human-api-powder.jpg
+FAQ — Sourcing Aniracetam into LATAM <= /product-images/research-chemical.jpg
+Lead-Time Negotiation Levers When the API is Single-Source — LATAM Procurement Playbook (2026) <= /product-images/human-api-powder.jpg
+Andean Community Pharmaceutical Harmonization — Status — LATAM Buyer's Brief <= /product-images/human-api-powder.jpg
+Cardiovascular API Sourcing in LATAM — Portfolio & Regulatory Map <= /product-images/human-api-powder.jpg
+FAQ — Sourcing Capecitabine into LATAM <= /product-images/human-api-powder.jpg
+Capability Brief — Particle Engineering for Inhalation-Grade API Manufacturing (LATAM customers) (2026) <= /product-images/human-api-powder.jpg
+Market Note — Eudragit and HPMC supply realignment is forcing reformulation decisions (LATAM angle) <= /product-images/excipient-powder.jpg
+Force Majeure Clauses for API Supply Contracts — 2026 Rewrite — LATAM Procurement Playbook <= /product-images/human-api-powder.jpg
+Veterinary API Sourcing in LATAM — Portfolio & Regulatory Map <= /product-images/veterinary-api-powder.jpg
+ANVISA RDC 359/2020 — API Registration in Brazil Step-by-Step — LATAM Buyer's Brief <= /product-images/human-api-powder.jpg
+Ethylcellulose (CAS 9004-57-3) — LATAM Supplier Guide & Pricing <= /product-images/excipient-powder.jpg
+FAQ — Sourcing Eprinomectin into LATAM <= /product-images/veterinary-api-powder.jpg
+Capability Brief — Genotoxic Impurity Control Strategy — From Route Design to Release (LATAM customers) <= /product-images/human-api-powder.jpg
+Market Note — Scope 3 emissions reporting is changing how formulators pick API suppliers (LATAM angle) <= /product-images/human-api-powder.jpg
+Lead-Time Negotiation Levers When the API is Single-Source — LATAM Procurement Playbook <= /product-images/human-api-powder.jpg
+Gastrointestinal API Sourcing in LATAM — Portfolio & Regulatory Map <= /product-images/human-api-powder.jpg
+ANMAT Disp. 2819 — Argentina API Importer Registration — LATAM Buyer's Brief <= /product-images/human-api-powder.jpg
+Hexarelin (CAS 140703-51-1) — LATAM Supplier Guide & Pricing <= /product-images/peptide-vial.jpg
+FAQ — Sourcing 4-Aminoacetophenone into LATAM <= /product-images/intermediate-powder.jpg
+Capability Brief — Cold-Chain Peptide Packaging — Validated Shippers for Trans-Atlantic Lanes (LATAM customers) <= /product-images/peptide-vial.jpg
+Market Note — Continuous-flow manufacturing is moving from pilot to commercial (LATAM angle) <= /product-images/human-api-powder.jpg
+DMF Letter of Authorization — When to Ask, How to Use — LATAM Procurement Playbook <= /product-images/human-api-powder.jpg
+Anti-Infective API Sourcing in LATAM — Portfolio & Regulatory Map <= /product-images/human-api-powder.jpg
+ISP Chile — Pharmaceutical API Registry 2026 — LATAM Buyer's Brief <= /product-images/human-api-powder.jpg
+Tamsulosin HCl (CAS 106463-17-6) — LATAM Supplier Guide & Pricing <= /product-images/human-api-powder.jpg
+FAQ — Sourcing Risperidone into LATAM <= /product-images/human-api-powder.jpg
+Capability Brief — Particle Engineering for Inhalation-Grade API Manufacturing (LATAM customers) <= /product-images/human-api-powder.jpg
+
+## FORMS
+
+
+## HREFS
+mailto:sales@akumaenterprises-pharma.com
+mailto:dalle@akumaenterprises-pharma.com
+tel:+9107986147827
+https://wa.me/9107986147827
+/
+/products
+/compliance
+/supply
+/solutions
+/knowledge
+/company
+/news
+/news/2027-05-12-anti-infective-api-sourcing-in-latam-portfolio-regulatory-map
+/news/2027-05-11-anvisa-rdc-658-2022-gmp-update-impact-on-api-imports-latam-buyer-s-brief-2026
+/news/2027-05-09-faq-sourcing-duloxetine-hcl-into-latam
+/news/2027-05-14-market-note-nootropic-api-regulation-is-splitting-into-us-eu-apac-tracks-latam-angle
+/news/2027-05-08-capability-brief-particle-engineering-for-inhalation-grade-api-manufa
+/news/2027-05-10-glecaprevir-cas-1365970-03-1-latam-supplier-guide-pricing
+/news/2027-05-13-dmf-letter-of-authorization-when-to-ask-how-to-use-latam-procurement-
+/news/2027-04-16-market-note-biosimilar-api-spend-is-set-to-overtake-small-molecule-by
+/news/2027-04-12-cannabigerol-cbg-cas-25654-31-3-latam-supplier-guide-pricing
+/news/2027-04-15-force-majeure-clauses-for-api-supply-contracts-2026-rewrite-latam-procurement-playbook-2026-rev-3
+/news/2027-04-14-cardiovascular-api-sourcing-in-latam-portfolio-regulatory-map
+/news/2027-04-13-anvisa-rdc-359-2020-api-registration-in-brazil-step-by-step-latam-buyer-s-brief-2026
+/news/2027-04-11-faq-sourcing-l-arginine-into-latam
+/news/2027-04-10-capability-brief-genotoxic-impurity-control-strategy-from-route-desig
+/news/2027-03-19-market-note-ai-assisted-route-scouting-is-cutting-api-synthesis-steps
+/news/2027-02-14-faq-sourcing-sorbitol-into-latam
+/news/2027-03-14-faq-sourcing-levetiracetam-into-latam
+/news/2027-02-16-isp-chile-pharmaceutical-api-registry-2026-latam-buyer-s-brief
+/news/2027-03-16-anmat-disp-2819-argentina-api-importer-registration-latam-buyer-s-brief-2026
+/news/2027-02-17-gastrointestinal-api-sourcing-in-latam-portfolio-regulatory-map
+/news/2027-03-18-lead-time-negotiation-levers-when-the-api-is-single-source-latam-proc
+/news/2027-02-18-dmf-letter-of-authorization-when-to-ask-how-to-use-latam-procurement-
+/news/2027-03-17-veterinary-api-sourcing-in-latam-portfolio-regulatory-map
+/news/2027-02-19-market-note-cdmo-consolidation-is-changing-the-make-vs-buy-calculus-for-mid-cap-pharma-latam-angle
+/news/2027-02-15-crizotinib-cas-877399-52-5-latam-supplier-guide-pricing
+/news/2027-03-15-pramiracetam-cas-68497-62-1-latam-supplier-guide-pricing
+/news/2027-03-13-capability-brief-cold-chain-peptide-packaging-validated-shippers-for-
+/news/2027-02-13-capability-brief-particle-engineering-for-inhalation-grade-api-manufa
+/news/2027-01-21-force-majeure-clauses-for-api-supply-contracts-2026-rewrite-latam-procurement-playbook-2026-rev-2
+/news/2027-01-22-market-note-cold-chain-peptide-logistics-is-the-new-procurement-bottl
+/news/2027-01-16-capability-brief-genotoxic-impurity-control-strategy-from-route-desig
+/news/2026-12-25-market-note-companion-animal-pharma-is-outpacing-human-generics-growt
+/news/2026-12-20-faq-sourcing-calcium-disodium-edta-into-latam
+/news/2026-12-24-lead-time-negotiation-levers-when-the-api-is-single-source-latam-proc
+/news/2026-12-19-capability-brief-cold-chain-peptide-packaging-validated-shippers-for-
+/news/2027-01-20-anti-infective-api-sourcing-in-latam-portfolio-regulatory-map
+/news/2027-01-18-monensin-sodium-cas-22373-78-0-latam-supplier-guide-pricing
+/news/2027-01-17-faq-sourcing-survodutide-into-latam
+/news/2026-12-21-ethyl-4-chloroacetoacetate-cas-638-07-3-latam-supplier-guide-pricing
+/news/2027-01-19-mercosur-api-equivalence-technical-regulation-update-latam-buyer-s-brief
+/news/2026-12-23-cardiovascular-api-sourcing-in-latam-portfolio-regulatory-map
+/news/2026-12-22-brazil-veterinary-api-mapa-registration-path-latam-buyer-s-brief
+/news/2026-10-28-gastrointestinal-api-sourcing-in-latam-portfolio-regulatory-map
+/news/2026-10-25-faq-sourcing-curcumin-95-into-latam
+/news/2026-10-24-capability-brief-genotoxic-impurity-control-strategy-from-route-desig
+/news/2026-11-27-market-note-glp-1-receptor-agonists-are-now-the-1-driver-of-peptide-api-demand-latam-angle
+/news/2026-10-27-invima-colombia-api-ctd-module-3-requirements-latam-buyer-s-brief
+/news/2026-11-23-pirfenidone-cas-53179-13-8-latam-supplier-guide-pricing
+/news/2026-10-29-force-majeure-clauses-for-api-supply-contracts-2026-rewrite-latam-procurement-playbook-2026
+/news/2026-11-22-faq-sourcing-spironolactone-into-latam
+/news/2026-10-30-market-note-pepfar-and-global-fund-tenders-are-driving-anti-retrovira
+/news/2026-10-26-sunitinib-malate-cas-341031-54-7-latam-supplier-guide-pricing
+/news/2026-11-24-cofepris-nom-059-mexico-gmp-audit-preparation-latam-buyer-s-brief
+/news/2026-11-26-dmf-letter-of-authorization-when-to-ask-how-to-use-latam-procurement-
+/news/2026-11-25-veterinary-api-sourcing-in-latam-portfolio-regulatory-map
+/news/2026-11-21-capability-brief-particle-engineering-for-inhalation-grade-api-manufa
+/news/2026-09-01-anvisa-rdc-658-2022-gmp-update-impact-on-api-imports-latam-buyer-s-brief
+/news/2026-09-28-l-carnitine-injectable-cas-541-15-1-latam-supplier-guide-pricing
+/news/2026-09-03-dmf-letter-of-authorization-when-to-ask-how-to-use-latam-procurement-
+/news/2026-09-04-market-note-antibiotic-stewardship-is-reshaping-anti-infective-api-forecasts-latam-angle
+/news/2026-10-02-market-note-excipient-supply-tightness-is-the-under-covered-story-of-
+/news/2026-08-31-bimatoprost-cas-155206-00-1-latam-supplier-guide-pricing
+/news/2026-09-26-capability-brief-cold-chain-peptide-packaging-validated-shippers-for-
+/news/2026-09-30-anti-infective-api-sourcing-in-latam-portfolio-regulatory-map
+/news/2026-09-27-faq-sourcing-aniracetam-into-latam
+/news/2026-10-01-lead-time-negotiation-levers-when-the-api-is-single-source-latam-proc
+/news/2026-09-29-andean-community-pharmaceutical-harmonization-status-latam-buyer-s-brief
+/news/2026-09-02-cardiovascular-api-sourcing-in-latam-portfolio-regulatory-map
+/news/2026-08-30-faq-sourcing-capecitabine-into-latam
+/news/2026-08-29-capability-brief-particle-engineering-for-inhalation-grade-api-manufa
+/news/2026-08-07-market-note-eudragit-and-hpmc-supply-realignment-is-forcing-reformula
+/news/2026-08-06-force-majeure-clauses-for-api-supply-contracts-2026-rewrite-latam-procurement-playbook
+/news/2026-08-05-veterinary-api-sourcing-in-latam-portfolio-regulatory-map
+/news/2026-08-04-anvisa-rdc-359-2020-api-registration-in-brazil-step-by-step-latam-buyer-s-brief
+/news/2026-08-03-ethylcellulose-cas-9004-57-3-latam-supplier-guide-pricing
+/news/2026-08-02-faq-sourcing-eprinomectin-into-latam
+/news/2026-08-01-capability-brief-genotoxic-impurity-control-strategy-from-route-desig
+/news/2026-07-10-market-note-scope-3-emissions-reporting-is-changing-how-formulators-pick-api-suppliers-latam-angle
+/news/2026-07-09-lead-time-negotiation-levers-when-the-api-is-single-source-latam-proc
+/news/2026-07-08-gastrointestinal-api-sourcing-in-latam-portfolio-regulatory-map
+/news/2026-07-07-anmat-disp-2819-argentina-api-importer-registration-latam-buyer-s-brief
+/news/2026-07-06-hexarelin-cas-140703-51-1-latam-supplier-guide-pricing
+/news/2026-07-05-faq-sourcing-4-aminoacetophenone-into-latam
+/news/2026-07-04-capability-brief-cold-chain-peptide-packaging-validated-shippers-for-
+/news/2026-06-12-market-note-continuous-flow-manufacturing-is-moving-from-pilot-to-commercial-latam-angle
+/news/2026-06-11-dmf-letter-of-authorization-when-to-ask-how-to-use-latam-procurement-
+/news/2026-06-10-anti-infective-api-sourcing-in-latam-portfolio-regulatory-map
+/news/2026-06-09-isp-chile-pharmaceutical-api-registry-2026-latam-buyer-s-brief
+/news/2026-06-08-tamsulosin-hcl-cas-106463-17-6-latam-supplier-guide-pricing
+/news/2026-06-07-faq-sourcing-risperidone-into-latam
+/news/2026-06-06-capability-brief-particle-engineering-for-inhalation-grade-api-manufa
+/news/tag/africa
+/news/tag/peptides
+/news/tag/formulations
+/news/tag/who-gmp
+/news/tag/dossiers
+/news/tag/stability
+/news/tag/tenders
+/news/tag/middle-east
+/news/tag/europe
+/news/tag/north-america
+/news/tag/faq
+https://wa.me/9107986147827?text=Hello%20Akuma%20Enterprise%20Pharma,%20I%20have%20an%20inquiry
+
+## JSON-LD
+
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": ["Organization", "LocalBusiness", "Manufacturer"],
+            "@id": "https://www.akumaenterprises-pharma.com/#org",
+            "name": "Akuma Enterprise Pharma Pvt. Ltd.",
+            "alternateName": ["Akuma Enterprise Pharma", "Akuma Pharma"],
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "logo": "https://www.akumaenterprises-pharma.com/icon-512.png",
+            "image": "https://www.akumaenterprises-pharma.com/og-image.jpg",
+            "description": "ISO 9001:2015 and WHO-GMP certified exporter shipping from Asia to all 54 African countries & global markets across commercial finished formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules requested by clients, backed by Zone IVb stability and eCTD/ACTD dossiers.",
+            "foundingDate": "2009",
+            "slogan": "Pharmaceutical supply, engineered for confidence.",
+            "vatID": "03ACLFA6940J1ZB",
+            "taxID": "ACLFA6940J",
+            "numberOfEmployees": { "@type": "QuantitativeValue", "value": "200+" },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1st Floor, Cabin 101 #2609, Vinod Accounting Solutions, Landran Road, Adarsh Nagar, Kharar",
+              "addressLocality": "SAS Nagar",
+              "addressRegion": "Punjab",
+              "postalCode": "140301",
+              "addressCountry": "IN"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 30.7499,
+              "longitude": 76.6411
+            },
+            "openingHoursSpecification": [
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "09:00", "closes": "18:00" },
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "09:00", "closes": "13:00" }
+            ],
+            "contactPoint": [
+              {
+                "@type": "ContactPoint",
+                "contactType": "sales",
+                "telephone": "+91-07986147827",
+                "email": "sales@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "areaServed": ["NG","KE","GH","TZ","UG","ET","RW","ZA","EG","MA","CI","SN","CM","CD","ZM","ZW","AO","MZ","DZ","TN","US","CA","MX","BR","DE","FR","GB","IN","JP","AU","AE","SA"],
+                "availableLanguage": ["English","French","Portuguese","Arabic","Swahili","Spanish","Hindi"]
+              },
+              {
+                "@type": "ContactPoint",
+                "contactType": "executive and regulatory desk",
+                "telephone": "+91-07986147827",
+                "email": "dalle@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "availableLanguage": ["English","French","Portuguese","Arabic"]
+              }
+            ],
+            "hasCredential": [
+              { "@type": "EducationalOccupationalCredential", "name": "WHO-GMP", "credentialCategory": "Good Manufacturing Practice", "recognizedBy": { "@type": "Organization", "name": "World Health Organization" } },
+              { "@type": "EducationalOccupationalCredential", "name": "ISO 9001:2015", "credentialCategory": "Quality Management System" },
+              { "@type": "EducationalOccupationalCredential", "name": "ACTD / eCTD Regulatory Dossiers", "credentialCategory": "Modules 1-5 Technical Dossier" },
+              { "@type": "EducationalOccupationalCredential", "name": "ICH Zone IVb Tropical Stability", "credentialCategory": "30C / 75% RH Climatic Stability" },
+              { "@type": "EducationalOccupationalCredential", "name": "CDSCO Manufacturing Licence", "credentialCategory": "Pharmaceutical Manufacturing Licence", "recognizedBy": { "@type": "Organization", "name": "Central Drugs Standard Control Organization (India)" } }
+            ],
+            "knowsAbout": [
+              "Commercial Finished Formulations",
+              "Antimalarial Injections & ACT Tablets (Artesunate IV, Artemether-Lumefantrine)",
+              "Sexual Wellness & Urology Formulations",
+              "Anti-Diabetic SGLT2 & Gliptin Combinations",
+              "Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin)",
+              "Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu)",
+              "African NRA Regulatory Filings (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana, EFDA, WAHO)",
+              "ICH Zone IVb Tropical Stability & Cold-Chain Export",
+              "Dry Powder Injections & Lyophilized Vials",
+              "Liquid Injections & Sterile Ampoules",
+              "Oral Liquids & Paediatric Dry Syrups",
+              "Topical Ointments, Eye-Ear Drops & Nasal Sprays",
+              "WHO-GMP Quality Compliance"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.akumaenterprises-pharma.com/#website",
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "name": "Akuma Enterprise Pharma",
+            "publisher": { "@id": "https://www.akumaenterprises-pharma.com/#org" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": { "@type": "EntryPoint", "urlTemplate": "https://www.akumaenterprises-pharma.com/products?search={search_term_string}" },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": ["en", "fr"]
+          }
+        ]
+      }
+    
+-----
+
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What pharmaceutical products and peptide portfolios does Akuma Enterprise Pharma supply?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Akuma Enterprise Pharma exports from Asia across all 54 countries of Africa and global markets. Our featured portfolio covers WHO-GMP commercial finished formulations (Tablets, Capsules, Dry Powder Injections, Liquid Injections, Oral Liquids, Ointments & Creams, Eye-Ear Drops, Nasal Sprays, Dry Syrups, Paediatric Drops, and Sanitizers), Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin, Leuprorelin), and Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu) \u2014 while accepting every custom molecule, dosage, and tender specification on request."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Do you provide ACTD/eCTD dossiers and Zone IVb stability for African National Regulatory Authorities (NRAs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Yes. Every finished formulation and Pharmaceutical Peptide API is backed by 5-Module ACTD/eCTD dossiers, WHO-Format Certificates of Pharmaceutical Product (CoPP), Free Sale Certificates (FSC), CoA, bilingual EN/FR/PT/AR packaging support, and ICH Zone IVb tropical stability studies (30\u00b0C/75% RH & 40\u00b0C/75% RH) tailored for NAFDAC (Nigeria), PPB (Kenya), SAHPRA (South Africa), TMDA (Tanzania), FDA Ghana, AIRP (Cote d'Ivoire), ARP (Senegal), EFDA, NDA, WAHO, and SADC ZAZIBONA."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "How are Pharmaceutical Peptide APIs separated from Research Peptides (RUO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Our Pharmaceutical Peptide APIs (AKP-API series) are manufactured to >=99.0% HPLC purity for licensed formulators and clinical supply chains, whereas our Research Peptides (AKP-RP series) are strictly labeled and restricted to in-vitro laboratory Research Use Only (RUO \u2014 Not for Human or Veterinary Consumption). Custom peptide syntheses are also available."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What are the minimum order quantities (MOQ) and export freight corridors from India to Africa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Standard export MOQs are 1,000 packs for finished formulations, 50 vials for Pharmaceutical Peptide APIs, and 10 vials for RUO Research Peptides. Consignments dispatch via Mumbai (BOM/JNPT) and New Delhi (DEL) air/sea corridors into Lagos, Mombasa, Tema, Durban, Dar es Salaam, Djibouti, Abidjan, and Dakar with validated cold-chain loggers where required."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Which antimalarial, sexual wellness, anti-diabetic, and hospital antibiotic formulations are in stock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "In-stock flagship export lines include Artesunate IV/IM lyophilized vials (30\u2013240 mg), Artemether & \u03b1-\u03b2 Arteether ampoules, Artemether 80/Lumefantrine 480 mg tablets, Chloroquine tablets & suspension, Dapoxetine + Sildenafil/Tadalafil/Vardenafil and Silodosin urology generics, Dapagliflozin & Glimepiride triple combos, Ceftriaxone-Sulbactam, and Cefixime paediatric dry syrups."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Fournissez-vous des m\u00e9dicaments certifi\u00e9s OMS-BPF et des dossiers CTD en fran\u00e7ais pour l'Afrique francophone ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Oui. Akuma Enterprise Pharma exporte depuis l'Asie vers les 54 pays d'Afrique (formulations finies OMS-BPF, API peptidiques, peptides RUO et demandes sur mesure) avec dossiers ACTD/eCTD 5 Modules, CoPP OMS, stabilit\u00e9 ICH Zone IVb et notices RCP/Patient en fran\u00e7ais pour l'AIRP (C\u00f4te d'Ivoire), l'ARP (S\u00e9n\u00e9gal), la DPML (Cameroun), l'ACOREP (RD Congo), la DMP (Maroc) et l'espace WAHO/CEDEAO."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Comment demander un devis export CIF/FOB sous 24 heures vers l'Afrique ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Contactez notre bureau export Afrique par e-mail \u00e0 sales@akumaenterprises-pharma.com ou dalle@akumaenterprises-pharma.com, sur WhatsApp au +91 07986147827, ou directement via le formulaire de devis bilingue sur akumaenterprises-pharma.com/contact."
+      }
+    }
+  ]
+}
+
+-----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":2,"name":"","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":3,"name":"Actualités","item":"https://www.akumaenterprises-pharma.com//news"},{"@type":"ListItem","position":4,"name":"Tag","item":"https://www.akumaenterprises-pharma.com//news/tag"},{"@type":"ListItem","position":5,"name":"Latin America","item":"https://www.akumaenterprises-pharma.com//news/tag/latin-america"}]}
+-----
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://www.akumaenterprises-pharma.com/news/tag/latin-america#collection","url":"https://www.akumaenterprises-pharma.com/news/tag/latin-america","name":"Amérique Latine — Actualités & Dossiers","description":"Spanish and Portuguese technical dossiers, WHO-GMP finished formulations, and GLP-1/RUO lyophilized peptides exported from India to LATAM.","isPartOf":{"@id":"https://www.akumaenterprises-pharma.com/#website"},"about":{"@id":"https://www.akumaenterprises-pharma.com/#org"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":2,"name":"Actualités & dossiers","item":"https://www.akumaenterprises-pharma.com/news"},{"@type":"ListItem","position":3,"name":"Amérique Latine","item":"https://www.akumaenterprises-pharma.com/news/tag/latin-america"}]},{"@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://www.akumaenterprises-pharma.com/news/2027-05-12-anti-infective-api-sourcing-in-latam-portfolio-regulatory-map","name":"Anti-Infective API Sourcing in LATAM — Portfolio & Regulatory Map (2026, rev 3)"},{"@type":"ListItem","position":2,"url":"https://www.akumaenterprises-pharma.com/news/2027-05-11-anvisa-rdc-658-2022-gmp-update-impact-on-api-imports-latam-buyer-s-brief-2026","name":"ANVISA RDC 658/2022 — GMP Update Impact on API Imports — LATAM Buyer's Brief (2026)"},{"@type":"ListItem","position":3,"url":"https://www.akumaenterprises-pharma.com/news/2027-05-09-faq-sourcing-duloxetine-hcl-into-latam","name":"FAQ — Sourcing Duloxetine HCl into LATAM"},{"@type":"ListItem","position":4,"url":"https://www.akumaenterprises-pharma.com/news/2027-05-14-market-note-nootropic-api-regulation-is-splitting-into-us-eu-apac-tracks-latam-angle","name":"Market Note — Nootropic API regulation is splitting into US / EU / APAC tracks (LATAM angle)"},{"@type":"ListItem","position":5,"url":"https://www.akumaenterprises-pharma.com/news/2027-05-08-capability-brief-particle-engineering-for-inhalation-grade-api-manufa","name":"Capability Brief — Particle Engineering for Inhalation-Grade API Manufacturing (LATAM customers) (2026, rev 4)"},{"@type":"ListItem","position":6,"url":"https://www.akumaenterprises-pharma.com/news/2027-05-10-glecaprevir-cas-1365970-03-1-latam-supplier-guide-pricing","name":"Glecaprevir (CAS 1365970-03-1) — LATAM Supplier Guide & Pricing"},{"@type":"ListItem","position":7,"url":"https://www.akumaenterprises-pharma.com/news/2027-05-13-dmf-letter-of-authorization-when-to-ask-how-to-use-latam-procurement-","name":"DMF Letter of Authorization — When to Ask, How to Use — LATAM Procurement Playbook (2026, rev 4)"},{"@type":"ListItem","position":8,"url":"https://www.akumaenterprises-pharma.com/news/2027-04-16-market-note-biosimilar-api-spend-is-set-to-overtake-small-molecule-by","name":"Market Note — Biosimilar API spend is set to overtake small-molecule by 2028 (LATAM angle)"},{"@type":"ListItem","position":9,"url":"https://www.akumaenterprises-pharma.com/news/2027-04-12-cannabigerol-cbg-cas-25654-31-3-latam-supplier-guide-pricing","name":"Cannabigerol (CBG) (CAS 25654-31-3) — LATAM Supplier Guide & Pricing"},{"@type":"ListItem","position":10,"url":"https://www.akumaenterprises-pharma.com/news/2027-04-15-force-majeure-clauses-for-api-supply-contracts-2026-rewrite-latam-procurement-playbook-2026-rev-3","name":"Force Majeure Clauses for API Supply Contracts — 2026 Rewrite — LATAM Procurement Playbook (2026, rev 3)"},{"@type":"ListItem","position":11,"url":"https://www.akumaenterprises-pharma.com/news/2027-04-14-cardiovascular-api-sourcing-in-latam-portfolio-regulatory-map","name":"Cardiovascular API Sourcing in LATAM — Portfolio & Regulatory Map (2026, rev 2)"},{"@type":"ListItem","position":12,"url":"https://www.akumaenterprises-pharma.com/news/2027-04-13-anvisa-rdc-359-2020-api-registration-in-brazil-step-by-step-latam-buyer-s-brief-2026","name":"ANVISA RDC 359/2020 — API Registration in Brazil Step-by-Step — LATAM Buyer's Brief (2026)"},{"@type":"ListItem","position":13,"url":"https://www.akumaenterprises-pharma.com/news/2027-04-11-faq-sourcing-l-arginine-into-latam","name":"FAQ — Sourcing L-Arginine into LATAM"},{"@type":"ListItem","position":14,"url":"https://www.akumaenterprises-pharma.com/news/2027-04-10-capability-brief-genotoxic-impurity-control-strategy-from-route-desig","name":"Capability Brief — Genotoxic Impurity Control Strategy — From Route Design to Release (LATAM customers) (2026, rev 3)"},{"@type":"ListItem","position":15,"url":"https://www.akumaenterprises-pharma.com/news/2027-03-19-market-note-ai-assisted-route-scouting-is-cutting-api-synthesis-steps","name":"Market Note — AI-assisted route scouting is cutting API synthesis steps by up to 40% (LATAM angle)"},{"@type":"ListItem","position":16,"url":"https://www.akumaenterprises-pharma.com/news/2027-02-14-faq-sourcing-sorbitol-into-latam","name":"FAQ — Sourcing Sorbitol into LATAM"},{"@type":"ListItem","position":17,"url":"https://www.akumaenterprises-pharma.com/news/2027-03-14-faq-sourcing-levetiracetam-into-latam","name":"FAQ — Sourcing Levetiracetam into LATAM"},{"@type":"ListItem","position":18,"url":"https://www.akumaenterprises-pharma.com/news/2027-02-16-isp-chile-pharmaceutical-api-registry-2026-latam-buyer-s-brief","name":"ISP Chile — Pharmaceutical API Registry 2026 — LATAM Buyer's Brief (2026)"},{"@type":"ListItem","position":19,"url":"https://www.akumaenterprises-pharma.com/news/2027-03-16-anmat-disp-2819-argentina-api-importer-registration-latam-buyer-s-brief-2026","name":"ANMAT Disp. 2819 — Argentina API Importer Registration — LATAM Buyer's Brief (2026)"},{"@type":"ListItem","position":20,"url":"https://www.akumaenterprises-pharma.com/news/2027-02-17-gastrointestinal-api-sourcing-in-latam-portfolio-regulatory-map","name":"Gastrointestinal API Sourcing in LATAM — Portfolio & Regulatory Map (2026, rev 2)"},{"@type":"ListItem","position":21,"url":"https://www.akumaenterprises-pharma.com/news/2027-03-18-lead-time-negotiation-levers-when-the-api-is-single-source-latam-proc","name":"Lead-Time Negotiation Levers When the API is Single-Source — LATAM Procurement Playbook (2026, rev 3)"},{"@type":"ListItem","position":22,"url":"https://www.akumaenterprises-pharma.com/news/2027-02-18-dmf-letter-of-authorization-when-to-ask-how-to-use-latam-procurement-","name":"DMF Letter of Authorization — When to Ask, How to Use — LATAM Procurement Playbook (2026, rev 3)"},{"@type":"ListItem","position":23,"url":"https://www.akumaenterprises-pharma.com/news/2027-03-17-veterinary-api-sourcing-in-latam-portfolio-regulatory-map","name":"Veterinary API Sourcing in LATAM — Portfolio & Regulatory Map (2026, rev 2)"},{"@type":"ListItem","position":24,"url":"https://www.akumaenterprises-pharma.com/news/2027-02-19-market-note-cdmo-consolidation-is-changing-the-make-vs-buy-calculus-for-mid-cap-pharma-latam-angle","name":"Market Note — CDMO consolidation is changing the make-vs-buy calculus for mid-cap pharma (LATAM angle)"},{"@type":"ListItem","position":25,"url":"https://www.akumaenterprises-pharma.com/news/2027-02-15-crizotinib-cas-877399-52-5-latam-supplier-guide-pricing","name":"Crizotinib (CAS 877399-52-5) — LATAM Supplier Guide & Pricing"},{"@type":"ListItem","position":26,"url":"https://www.akumaenterprises-pharma.com/news/2027-03-15-pramiracetam-cas-68497-62-1-latam-supplier-guide-pricing","name":"Pramiracetam (CAS 68497-62-1) — LATAM Supplier Guide & Pricing"},{"@type":"ListItem","position":27,"url":"https://www.akumaenterprises-pharma.com/news/2027-03-13-capability-brief-cold-chain-peptide-packaging-validated-shippers-for-","name":"Capability Brief — Cold-Chain Peptide Packaging — Validated Shippers for Trans-Atlantic Lanes (LATAM customers) (2026, rev 3)"},{"@type":"ListItem","position":28,"url":"https://www.akumaenterprises-pharma.com/news/2027-02-13-capability-brief-particle-engineering-for-inhalation-grade-api-manufa","name":"Capability Brief — Particle Engineering for Inhalation-Grade API Manufacturing (LATAM customers) (2026, rev 3)"},{"@type":"ListItem","position":29,"url":"https://www.akumaenterprises-pharma.com/news/2027-01-21-force-majeure-clauses-for-api-supply-contracts-2026-rewrite-latam-procurement-playbook-2026-rev-2","name":"Force Majeure Clauses for API Supply Contracts — 2026 Rewrite — LATAM Procurement Playbook (2026, rev 2)"},{"@type":"ListItem","position":30,"url":"https://www.akumaenterprises-pharma.com/news/2027-01-22-market-note-cold-chain-peptide-logistics-is-the-new-procurement-bottl","name":"Market Note — Cold-chain peptide logistics is the new procurement bottleneck (LATAM angle)"},{"@type":"ListItem","position":31,"url":"https://www.akumaenterprises-pharma.com/news/2027-01-16-capability-brief-genotoxic-impurity-control-strategy-from-route-desig","name":"Capability Brief — Genotoxic Impurity Control Strategy — From Route Design to Release (LATAM customers) (2026, rev 2)"},{"@type":"ListItem","position":32,"url":"https://www.akumaenterprises-pharma.com/news/2026-12-25-market-note-companion-animal-pharma-is-outpacing-human-generics-growt","name":"Market Note — Companion-animal pharma is outpacing human generics growth (LATAM angle)"},{"@type":"ListItem","position":33,"url":"https://www.akumaenterprises-pharma.com/news/2026-12-20-faq-sourcing-calcium-disodium-edta-into-latam","name":"FAQ — Sourcing Calcium Disodium EDTA into LATAM"},{"@type":"ListItem","position":34,"url":"https://www.akumaenterprises-pharma.com/news/2026-12-24-lead-time-negotiation-levers-when-the-api-is-single-source-latam-proc","name":"Lead-Time Negotiation Levers When the API is Single-Source — LATAM Procurement Playbook (2026, rev 2)"},{"@type":"ListItem","position":35,"url":"https://www.akumaenterprises-pharma.com/news/2026-12-19-capability-brief-cold-chain-peptide-packaging-validated-shippers-for-","name":"Capability Brief — Cold-Chain Peptide Packaging — Validated Shippers for Trans-Atlantic Lanes (LATAM customers) (2026, rev 2)"},{"@type":"ListItem","position":36,"url":"https://www.akumaenterprises-pharma.com/news/2027-01-20-anti-infective-api-sourcing-in-latam-portfolio-regulatory-map","name":"Anti-Infective API Sourcing in LATAM — Portfolio & Regulatory Map (2026, rev 2)"},{"@type":"ListItem","position":37,"url":"https://www.akumaenterprises-pharma.com/news/2027-01-18-monensin-sodium-cas-22373-78-0-latam-supplier-guide-pricing","name":"Monensin Sodium (CAS 22373-78-0) — LATAM Supplier Guide & Pricing"},{"@type":"ListItem","position":38,"url":"https://www.akumaenterprises-pharma.com/news/2027-01-17-faq-sourcing-survodutide-into-latam","name":"FAQ — Sourcing Survodutide into LATAM"},{"@type":"ListItem","position":39,"url":"https://www.akumaenterprises-pharma.com/news/2026-12-21-ethyl-4-chloroacetoacetate-cas-638-07-3-latam-supplier-guide-pricing","name":"Ethyl 4-Chloroacetoacetate (CAS 638-07-3) — LATAM Supplier Guide & Pricing"},{"@type":"ListItem","position":40,"url":"https://www.akumaenterprises-pharma.com/news/2027-01-19-mercosur-api-equivalence-technical-regulation-update-latam-buyer-s-brief","name":"MERCOSUR API Equivalence — Technical Regulation Update — LATAM Buyer's Brief"},{"@type":"ListItem","position":41,"url":"https://www.akumaenterprises-pharma.com/news/2026-12-23-cardiovascular-api-sourcing-in-latam-portfolio-regulatory-map","name":"Cardiovascular API Sourcing in LATAM — Portfolio & Regulatory Map (2026)"},{"@type":"ListItem","position":42,"url":"https://www.akumaenterprises-pharma.com/news/2026-12-22-brazil-veterinary-api-mapa-registration-path-latam-buyer-s-brief","name":"Brazil Veterinary API — MAPA Registration Path — LATAM Buyer's Brief"},{"@type":"ListItem","position":43,"url":"https://www.akumaenterprises-pharma.com/news/2026-10-28-gastrointestinal-api-sourcing-in-latam-portfolio-regulatory-map","name":"Gastrointestinal API Sourcing in LATAM — Portfolio & Regulatory Map (2026)"},{"@type":"ListItem","position":44,"url":"https://www.akumaenterprises-pharma.com/news/2026-10-25-faq-sourcing-curcumin-95-into-latam","name":"FAQ — Sourcing Curcumin (95%) into LATAM"},{"@type":"ListItem","position":45,"url":"https://www.akumaenterprises-pharma.com/news/2026-10-24-capability-brief-genotoxic-impurity-control-strategy-from-route-desig","name":"Capability Brief — Genotoxic Impurity Control Strategy — From Route Design to Release (LATAM customers) (2026)"},{"@type":"ListItem","position":46,"url":"https://www.akumaenterprises-pharma.com/news/2026-11-27-market-note-glp-1-receptor-agonists-are-now-the-1-driver-of-peptide-api-demand-latam-angle","name":"Market Note — GLP-1 receptor agonists are now the #1 driver of peptide API demand (LATAM angle)"},{"@type":"ListItem","position":47,"url":"https://www.akumaenterprises-pharma.com/news/2026-10-27-invima-colombia-api-ctd-module-3-requirements-latam-buyer-s-brief","name":"INVIMA Colombia — API CTD Module 3 Requirements — LATAM Buyer's Brief"},{"@type":"ListItem","position":48,"url":"https://www.akumaenterprises-pharma.com/news/2026-11-23-pirfenidone-cas-53179-13-8-latam-supplier-guide-pricing","name":"Pirfenidone (CAS 53179-13-8) — LATAM Supplier Guide & Pricing"},{"@type":"ListItem","position":49,"url":"https://www.akumaenterprises-pharma.com/news/2026-10-29-force-majeure-clauses-for-api-supply-contracts-2026-rewrite-latam-procurement-playbook-2026","name":"Force Majeure Clauses for API Supply Contracts — 2026 Rewrite — LATAM Procurement Playbook (2026)"},{"@type":"ListItem","position":50,"url":"https://www.akumaenterprises-pharma.com/news/2026-11-22-faq-sourcing-spironolactone-into-latam","name":"FAQ — Sourcing Spironolactone into LATAM"}]}]}

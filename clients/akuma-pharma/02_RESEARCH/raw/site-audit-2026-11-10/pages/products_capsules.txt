@@ -1,0 +1,860 @@
+URL: https://www.akumaenterprises-pharma.com/products/capsules
+FINAL: https://www.akumaenterprises-pharma.com/products/capsules
+STATUS: 200
+LANG: en
+TITLE: Capsules — Modified Release & Enteric Coated Pellets | Akuma Enterprise Pharma
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #B3122B
+msapplication-TileColor = #B3122B
+msapplication-TileImage = /icon-192.png
+robots = index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+google-site-verification = VERIFY-ME-GOOGLE
+msvalidate.01 = VERIFY-ME-BING
+yandex-verification = VERIFY-ME-YANDEX
+baidu-site-verification = VERIFY-ME-BAIDU
+naver-site-verification = VERIFY-ME-NAVER
+description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished pharmaceutical formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules manufactured or sourced on request with Zone IVb stability & bilingual EN/FR Africa dossiers.
+author = Akuma Enterprise Pharma Pvt. Ltd.
+keywords = pharmaceutical exporter Africa India, NAFDAC registered medicines supplier, PPB Kenya SAHPRA TMDA FDA Ghana dossiers, WHO-GMP finished pharmaceutical formulations, Zone IVb stability medicines Africa, Artesunate IV Artemether Lumefantrine India, Semaglutide Tirzepatide Peptide API India, BPC-157 TB-500 Retatrutide RUO peptides, tablets capsules injectables manufacturer Punjab, eCTD ACTD dossiers India
+og:type = website
+og:site_name = Akuma Enterprise Pharma
+og:title = Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global
+og:description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished formulations, Peptide APIs, Research Peptides, and custom sourcing for every buyer request with Zone IVb stability and Africa eCTD/ACTD dossiers.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:image:type = image/jpeg
+og:image:width = 1200
+og:image:height = 630
+og:image:alt = Akuma Enterprise Pharma finished formulations and dossiers
+og:url = https://www.akumaenterprises-pharma.com
+og:locale = en_US
+og:locale:alternate = fr_CI
+og:locale:alternate = fr_SN
+og:locale:alternate = fr_FR
+og:locale:alternate = en_NG
+og:locale:alternate = en_KE
+og:locale:alternate = en_ZA
+twitter:card = summary_large_image
+twitter:title = Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global
+twitter:description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & globally across finished formulations, Peptide APIs, RUO peptides, and custom molecules on request with bilingual EN/FR Africa dossiers.
+twitter:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+twitter:image:alt = Akuma Enterprise Pharma finished formulations and dossiers
+geo.region = IN-PB
+geo.placename = SAS Nagar, Punjab, India
+geo.position = 30.7499;76.6411
+ICBM = 30.7499, 76.6411
+description = High-stability hard gelatin and HPMC capsules containing sustained-release and enteric-coated pellets. WHO-GMP export standard with stability data.
+keywords = pharmaceutical capsules, omeprazole capsules, itraconazole pellets, rabeprazole domperidone SR, sustained release pellets, WHO-GMP capsules
+author = Akuma Enterprise Pharma Pvt. Ltd.
+application-name = Akuma Enterprise Pharma
+apple-mobile-web-app-title = Akuma Enterprise Pharma
+theme-color = #B3122B
+robots = index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+language = en
+geo.region = IN-PB
+geo.placename = SAS Nagar, Punjab, India
+geo.position = 30.7499;76.6411
+ICBM = 30.7499, 76.6411
+industry = Pharmaceutical Manufacturing & Africa Healthcare Export
+business-type = B2B Pharmaceutical Manufacturer & Exporter
+og:type = website
+og:title = Capsules — Modified Release & Enteric Coated Pellets | Akuma Enterprise Pharma
+og:description = High-stability hard gelatin and HPMC capsules containing sustained-release and enteric-coated pellets. WHO-GMP export standard with stability data.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:image:type = image/jpeg
+og:image:width = 1920
+og:image:height = 1080
+og:image:alt = Capsules — Modified Release & Enteric Coated Pellets
+og:site_name = Akuma Enterprise Pharma
+og:locale = en_US
+og:locale:alternate = fr_FR
+og:locale:alternate = fr_CI
+og:locale:alternate = fr_SN
+og:locale:alternate = en_NG
+og:locale:alternate = en_KE
+og:locale:alternate = en_ZA
+og:url = https://www.akumaenterprises-pharma.com/products/capsules
+twitter:card = summary_large_image
+twitter:title = Capsules — Modified Release & Enteric Coated Pellets | Akuma Enterprise Pharma
+twitter:description = High-stability hard gelatin and HPMC capsules containing sustained-release and enteric-coated pellets. WHO-GMP export standard with stability data.
+twitter:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+twitter:image:alt = Capsules — Modified Release & Enteric Coated Pellets
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/products/capsules
+alternate x-default https://www.akumaenterprises-pharma.com/
+alternate en https://www.akumaenterprises-pharma.com/
+alternate en-NG https://www.akumaenterprises-pharma.com/en-ng/
+alternate en-KE https://www.akumaenterprises-pharma.com/en-ke/
+alternate en-GH https://www.akumaenterprises-pharma.com/en-gh/
+alternate en-ZA https://www.akumaenterprises-pharma.com/en-za/
+alternate en-TZ https://www.akumaenterprises-pharma.com/en-tz/
+alternate en-UG https://www.akumaenterprises-pharma.com/en-ug/
+alternate fr https://www.akumaenterprises-pharma.com/?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/fr-ci/
+alternate fr-SN https://www.akumaenterprises-pharma.com/fr-sn/
+alternate fr-CM https://www.akumaenterprises-pharma.com/fr-cm/
+alternate fr-CD https://www.akumaenterprises-pharma.com/fr-cd/
+alternate fr-MA https://www.akumaenterprises-pharma.com/fr-ma/
+alternate en-US https://www.akumaenterprises-pharma.com/
+alternate en-GB https://www.akumaenterprises-pharma.com/en-gb/
+alternate en-IN https://www.akumaenterprises-pharma.com/en-in/
+alternate en-AU https://www.akumaenterprises-pharma.com/en-au/
+alternate en-CA https://www.akumaenterprises-pharma.com/en-ca/
+alternate en-NZ https://www.akumaenterprises-pharma.com/en-nz/
+alternate de-DE https://www.akumaenterprises-pharma.com/de-de/
+alternate fr-FR https://www.akumaenterprises-pharma.com/fr-fr/
+alternate es-ES https://www.akumaenterprises-pharma.com/es-es/
+alternate it-IT https://www.akumaenterprises-pharma.com/it-it/
+alternate nl-NL https://www.akumaenterprises-pharma.com/nl-nl/
+alternate pt-BR https://www.akumaenterprises-pharma.com/pt-br/
+alternate es-MX https://www.akumaenterprises-pharma.com/es-mx/
+alternate fr-CA https://www.akumaenterprises-pharma.com/fr-ca/
+alternate ja-JP https://www.akumaenterprises-pharma.com/ja-jp/
+alternate ko-KR https://www.akumaenterprises-pharma.com/ko-kr/
+alternate  https://www.akumaenterprises-pharma.com/news.rss
+alternate  https://www.akumaenterprises-pharma.com/dmf-updates.rss
+alternate  https://www.akumaenterprises-pharma.com/llms.txt
+alternate  https://www.akumaenterprises-pharma.com/products.json
+canonical  https://www.akumaenterprises-pharma.com/products/capsules
+alternate en https://www.akumaenterprises-pharma.com/products/capsules
+alternate en-NG https://www.akumaenterprises-pharma.com/products/capsules
+alternate en-KE https://www.akumaenterprises-pharma.com/products/capsules
+alternate en-GH https://www.akumaenterprises-pharma.com/products/capsules
+alternate en-ZA https://www.akumaenterprises-pharma.com/products/capsules
+alternate en-TZ https://www.akumaenterprises-pharma.com/products/capsules
+alternate en-UG https://www.akumaenterprises-pharma.com/products/capsules
+alternate en-GB https://www.akumaenterprises-pharma.com/products/capsules
+alternate en-US https://www.akumaenterprises-pharma.com/products/capsules
+alternate fr https://www.akumaenterprises-pharma.com/products/capsules?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/products/capsules?lang=fr
+alternate fr-SN https://www.akumaenterprises-pharma.com/products/capsules?lang=fr
+alternate fr-CM https://www.akumaenterprises-pharma.com/products/capsules?lang=fr
+alternate fr-CD https://www.akumaenterprises-pharma.com/products/capsules?lang=fr
+alternate fr-MA https://www.akumaenterprises-pharma.com/products/capsules?lang=fr
+alternate fr-FR https://www.akumaenterprises-pharma.com/products/capsules?lang=fr
+alternate x-default https://www.akumaenterprises-pharma.com/products/capsules
+
+## TEXT
+sales@akumaenterprises-pharma.com
+|
+dalle@akumaenterprises-pharma.com
++91 07986147827
+|
+WhatsApp: +91 07986147827
+Akuma Enterprise Pharma
+FINISHED FORMULATIONS & GLOBAL DOSSIERS
+Products
+Compliance
+Supply
+Solutions
+Knowledge
+Company
+EN
+FR
+Request a Dossier
+→
+
+WHO-GMP Formulations, Peptide APIs & RUO Research Peptides — Africa & Global Export
+
+Commercial medicines & Peptide APIs are manufactured under WHO-GMP and ISO 9001:2015 systems (IP, BP, USP, EP) with Zone IVb stability, CoA, and eCTD/ACTD dossiers for African NRAs (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana) & global tenders. Lyophilized Research Peptides (RUO) are ≥99.0% HPLC/MS verified strictly for laboratory use.
+
+Modified Release & Pelletized Pharmaceutical Capsules
+
+Akuma Enterprise Pharma supplies commercial oral capsules with multi-particulate pellet technology for enhanced bioavailability and targeted GI release.
+
+17 Showcased Results
+2026 PDF Catalog ↓
+WhatsApp Export Desk
+Filter by:
+Capsules
+All Therapeutic Sectors
+All Availability
+Export Catalog
+REGULATORY:
+WHO-GMP Certified
+(17)
+eCTD Dossier Ready
+(17)
+Zone IVb Stability
+(17)
+Research Use Only (RUO)
+(0)
+Capsules
+
+Showing 17 showcased catalog products · Custom molecules & strengths sourced on request
+
+Relevance
+Capsules
+Gastroenterology & PPIs
+In Stock
+Omeprazole 20mg Capsules (Enteric Coated Pellets)
+
+Code: AKP-011
+
+Hard gelatin capsule filled with acid-resistant enteric-coated omeprazole pellets to ensure uniform gastric bypass and reliable duodenal absorption in acid-peptic disorders. Active: Omeprazole IP (as Enteric-Coated Pellets) (20 mg). Indication: Peptic ulcer disease, GERD, maintenance of healed erosive esophagitis, and acid hypersecretion.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Capsules
+Anti-Infectives & Antibiotics
+In Stock
+Itraconazole 100mg Capsules (Pellets)
+
+Code: AKP-017
+
+Triazole antifungal capsule utilizing solid-dispersion sugar-sphere pellet technology to overcome poor aqueous solubility and maximize systemic absorption in dermatophytic and deep mycoses. Active: Itraconazole BP / IP 100 mg (Pelletized) (100 mg). Indication: Onychomycosis, systemic candidiasis, tinea corporis, histoplasmosis, and sporotrichosis.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Capsules
+Nutrition & Metabolic Tonics
+In Stock
+Becosules Capsules (Vitamin B-Complex with Vitamin C & Zinc)
+
+Code: AKP-096
+
+High-potency therapeutic water-soluble vitamin B-complex, vitamin C 150 mg, and zinc hard gelatin capsules engineered for tissue repair, oral ulcer healing, and post-antibiotic recovery. Active: Thiamine Mononitrate, Riboflavin, Pyridoxine HCl, B12, Niacinamide, Calcium Pantothenate, Folic Acid, Ascorbic Acid, Zinc (High-potency Therapeutic B-Complex + 150mg Vit C + Zinc). Indication: Mouth ulcers, convalescence, nutritional deficiency, post-antibiotic recovery.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Capsules
+Sexual Wellness Medication
+In Stock
+Silodosin Capsules 2 mg
+
+Code: AKP-076-SW
+
+Precision-filled hard gelatin capsule containing uroselective alpha-1A adrenoceptor antagonist silodosin (2 mg) tailored for renal-adjusted (2 mg), standard (4 mg), or high-efficacy (8 mg) BPH regimens. Active: Silodosin 2 mg (2 mg). Indication: Dose-titrated symptomatic management of benign prostatic hyperplasia (BPH) and bladder outlet obstruction.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Capsules
+Antiretrovirals / Antivirals
+In Stock
+Oseltamivir Capsules IP 45 mg
+
+Code: AKP-049-AV
+
+Potent oral neuraminidase inhibitor antiviral capsule (45 mg oseltamivir phosphate) arresting influenza A & B virion shedding and accelerating recovery when initiated within 48 hours of symptom onset. Active: Oseltamivir IP 45 mg (45 mg). Indication: Treatment and post-exposure prophylaxis of acute Influenza A and B viral infections (listed under Antiretrovirals / Antivirals sector per master product schedule).
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Capsules
+Gastroenterology & PPIs
+In Stock
+Omeprazole 20mg & Domperidone 10mg Capsules
+
+Code: AKP-012
+
+Fixed-dose PPI and peripheral prokinetic hard gelatin capsule offering dual symptomatic control of gastric hyperacidity, heartburn, and delayed gastric emptying. Active: Omeprazole IP 20 mg + Domperidone IP 10 mg (20 mg + 10 mg). Indication: Acid reflux with nausea, diabetic gastroparesis symptoms, and chronic gastritis.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Capsules
+Anti-Infectives & Antibiotics
+In Stock
+Itraconazole 200mg Capsules (Pellets)
+
+Code: AKP-018
+
+High-strength 200 mg multi-particulate triazole antifungal capsule formulated for convenient once-daily systemic eradication of recalcitrant cutaneous and deep fungal pathogens. Active: Itraconazole BP / IP 200 mg (Pelletized) (200 mg). Indication: Pulse therapy for fungal nail infections, invasive aspergillosis, blastomycosis, and recurrent dermatophytosis.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Capsules
+Sexual Wellness Medication
+In Stock
+Silodosin Capsules 4 mg
+
+Code: AKP-077-SW
+
+Precision-filled hard gelatin capsule containing uroselective alpha-1A adrenoceptor antagonist silodosin (4 mg) tailored for renal-adjusted (2 mg), standard (4 mg), or high-efficacy (8 mg) BPH regimens. Active: Silodosin 4 mg (4 mg). Indication: Dose-titrated symptomatic management of benign prostatic hyperplasia (BPH) and bladder outlet obstruction.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Capsules
+Antiretrovirals / Antivirals
+In Stock
+Oseltamivir Capsules IP 75 mg
+
+Code: AKP-050-AV
+
+Potent oral neuraminidase inhibitor antiviral capsule (75 mg oseltamivir phosphate) arresting influenza A & B virion shedding and accelerating recovery when initiated within 48 hours of symptom onset. Active: Oseltamivir IP 75 mg (75 mg). Indication: Treatment and post-exposure prophylaxis of acute Influenza A and B viral infections (listed under Antiretrovirals / Antivirals sector per master product schedule).
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Capsules
+Gastroenterology & PPIs
+In Stock
+Pantoprazole Sodium (eq. Pantoprazole 40mg) & Domperidone 30mg Capsules (Prolonged Release Pellets)
+
+Code: AKP-013
+
+Multi-particulate hard gelatin capsule combining enteric-coated pantoprazole 40 mg pellets with biphasic immediate- and sustained-release domperidone 30 mg pellets for once-daily 24-hour reflux control. Active: Pantoprazole Sodium (eq. 40 mg EC) + Domperidone IP 30 mg (10 mg IR + 20 mg SR Pellets) (40 mg + 30 mg (SR)). Indication: Severe GERD, nocturnal acid breakthrough, reflux esophagitis, and chronic functional dyspepsia.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Capsules
+Sexual Wellness Medication
+In Stock
+Silodosin Capsules 8 mg
+
+Code: AKP-078-SW
+
+Precision-filled hard gelatin capsule containing uroselective alpha-1A adrenoceptor antagonist silodosin (8 mg) tailored for renal-adjusted (2 mg), standard (4 mg), or high-efficacy (8 mg) BPH regimens. Active: Silodosin 8 mg (8 mg). Indication: Dose-titrated symptomatic management of benign prostatic hyperplasia (BPH) and bladder outlet obstruction.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Capsules
+Gastroenterology & PPIs
+In Stock
+Rabeprazole Sodium 20mg & Domperidone 30mg Capsules (Sustained Release Pellets)
+
+Code: AKP-014
+
+Once-daily capsule delivering enteric-coated rabeprazole sodium alongside extended-release domperidone pellets for rapid acid-pH elevation and continuous antiemetic prokinetic action. Active: Rabeprazole Sodium IP 20 mg (EC) + Domperidone IP 30 mg (SR Pellets) (20 mg + 30 mg (SR)). Indication: Erosive GERD, laryngopharyngeal reflux, and acid-related upper GI motility disorders.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Capsules
+Sexual Wellness Medication
+In Stock
+Herbal Sex Booster Capsules
+
+Code: AKP-030-AYUR
+
+Standardized Ayurvedic proprietary herbal blend encapsulated under GMP quality controls to support physiological vigor, reproductive wellness, and physical endurance. Active: Ayurvedic Proprietary Formula (Standardized Herbal Extract). Indication: Male vitality, stamina support, adaptogenic stress resilience, and sexual wellness.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Capsules
+Gastroenterology & PPIs
+In Stock
+Rabeprazole Sodium 20mg & Levosulpiride 75mg Capsules (Sustained Release Pellets)
+
+Code: AKP-015
+
+Advanced prokinetic-PPI capsule pairing enteric-coated rabeprazole with sustained-release levosulpiride 75 mg to enhance lower esophageal sphincter tone and accelerate antroduodenal coordination. Active: Rabeprazole Sodium IP 20 mg (EC) + Levosulpiride 75 mg (SR Pellets) (20 mg + 75 mg (SR)). Indication: Refractory GERD, diabetic gastroparesis, and irritable bowel-associated upper dyspepsia.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Capsules
+Gastroenterology & PPIs
+In Stock
+Cinitapride 3mg (Sustained Release) & Pantoprazole Sodium (eq. Pantoprazole 40mg) Capsules
+
+Code: AKP-016
+
+5-HT4 receptor agonist prokinetic and proton pump inhibitor capsule engineered to stimulate acetylcholine-mediated GI peristalsis while suppressing 24-hour gastric acid secretion. Active: Cinitapride Hydrogen Tartrate 3 mg (SR) + Pantoprazole Sodium (eq. 40 mg EC) (3 mg (SR) + 40 mg). Indication: Motility-associated GERD, delayed gastric emptying, and non-ulcer functional dyspepsia.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Capsules
+Gastroenterology & PPIs
+In Stock
+Rabeprazole Sodium 20mg & Domperidone 10mg Capsules (Coated Pellets)
+
+Code: AKP-019
+
+Dual-pellet hard gelatin capsule engineered for stable dissolution kinetics and reliable acid neutralization in chronic gastritis and gastroesophageal reflux. Active: Rabeprazole Sodium IP 20 mg + Domperidone IP 10 mg (Coated Pellets) (20 mg + 10 mg). Indication: Postprandial heartburn, NSAID-induced gastropathy, and acid reflux with nausea.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Capsules
+Gastroenterology & PPIs
+In Stock
+Rabeprazole Sodium 20mg & Itopride Hydrochloride 150mg Capsules (Sustained Release Pellets)
+
+Code: AKP-020
+
+Synergistic PPI and acetylcholinesterase/D2-receptor prokinetic sustained-release capsule restoring physiological gastric motility without QT-prolongation risk. Active: Rabeprazole Sodium IP 20 mg + Itopride Hydrochloride 150 mg (SR Pellets) (20 mg + 150 mg (SR)). Indication: Functional dyspepsia, chronic GERD, early satiety, and bloating syndromes.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Akuma Enterprise Pharma Pvt. Ltd.
+WHO-GMP Certified Commercial Formulations & Africa Dossiers
+EN
+FR
+
+Leading manufacturer and exporter of WHO-GMP certified commercial finished pharmaceutical formulations across 12 product categories & 15 sectors with complete eCTD dossiers for global healthcare markets.
+
+WHO-GMP Certified
+ISO 9001:2015
+eCTD Dossiers & Zone IVb Ready
+FORMULATIONS & PEPTIDES
+Tablets & Solid Orals
+Capsules & Modified Release
+Dry Powder Injections
+Liquid Injections & Ampoules
+Oral Liquids & Suspensions
+Ointments, Creams & Drops
+Peptide APIs & Research (RUO)
+Antimalarials & Anti-Diabetics
+Explore Full Catalog →
+REGULATORY DOSSIERS
+eCTD 5-Module Dossiers
+ACTD Format Submissions
+Zone IVb Stability Validation
+Bioequivalence (BE) Studies
+Certificate of Analysis (CoA)
+WHO-Format CoPP & FSC
+Download 2026 Catalog PDF ↓
+Request Regulatory Dossier →
+AFRICA & GLOBAL MARKETS
+West Africa (NAFDAC, FDA Ghana, AIRP)
+East Africa (PPB, TMDA, NDA, EFDA)
+Southern Africa (SAHPRA, ZAZIBONA)
+Central Africa (ACOREP, DPML, CEMAC)
+North Africa (EDA, DMP Morocco)
+Country Regulatory Profiles (26)
+Request Analytical Sample →
+COMPANY & DIRECT EXPORT
+About Akuma Enterprise Pharma
+Manufacturing & Packaging Lines
+Pharma Newsroom & Briefs
+WhatsApp : +91 07986147827
+sales@akumaenterprises-pharma.com
+24h Export Quote & Tenders →
+
+© 2026 Akuma Enterprise Pharma Pvt. Ltd. All rights reserved. · SAS Nagar, Punjab, India
+
+Privacy Policy · Return Policy · Contact
+
+Help / Track order
+All Categories
+Tablets
+Capsules
+Dry Powder Injections
+Liquid Injections
+Peptides
+Ointments & Creams
+Oral Liquids
+Eye-Ear Drops
+Nasal Spray
+Dry Syrup
+Drops
+Sanitizer
+All Therapeutic Sectors
+Anti-Infectives & Antibiotics
+Gastroenterology & PPIs
+Sexual Wellness Medication
+Anti-Diabetic Medication
+Respiratory & Allergy
+Antimalarials Medication
+Dermatology & Topicals
+Ophthalmic & Otic Care
+Hospital Antiseptics & Sanitization
+Pain, Inflammation & NSAIDs
+Nutrition & Metabolic Tonics
+Endocrine & Supportive Care
+Antiretrovirals / Antivirals
+Pharmaceutical Peptide APIs
+Research Peptides (RUO)
+All Availability
+In Stock
+On Demand
+Custom
+Relevance
+Name A-Z
+Category
+Therapeutic Sector
+Availability
+Price: low to high
+Price: high to low
+
+## IMG ALT
+Akuma Enterprise Pharma Logo <= /logo.svg
+Omeprazole 20mg Capsules (Enteric Coated Pellets) — WHO-GMP Finished Formulation · Code AKP-011 · Capsules <= /product-images/products/akp-011-omeprazole-20mg-capsules-enteric-coated.webp
+Itraconazole 100mg Capsules (Pellets) — WHO-GMP Finished Formulation · Code AKP-017 · Capsules <= /product-images/products/akp-017-itraconazole-100mg-capsules-pellets.webp
+Becosules Capsules (B-Complex, Vit C & Zinc) — WHO-GMP Finished Formulation · Code AKP-096 · Capsules <= /product-images/products/akp-096-becosules-capsules-vitamin-b-complex-wit.webp
+Silodosin Capsules 2 mg — WHO-GMP Finished Formulation · Code AKP-076-SW · Capsules <= /product-images/products/akp-076-silodosin-2mg-capsules.webp
+Oseltamivir Capsules IP 45 mg — WHO-GMP Finished Formulation · Code AKP-049-AV · Capsules <= /product-images/products/akp-049-oseltamivir-45mg-capsules.webp
+Omeprazole 20mg & Domperidone 10mg Capsules — WHO-GMP Finished Formulation · Code AKP-012 · Capsules <= /product-images/products/akp-012-omeprazole-20mg-domperidone-10mg-capsule.webp
+Itraconazole 200mg Capsules (Pellets) — WHO-GMP Finished Formulation · Code AKP-018 · Capsules <= /product-images/products/akp-018-itraconazole-200mg-capsules-pellets.webp
+Silodosin Capsules 4 mg — WHO-GMP Finished Formulation · Code AKP-077-SW · Capsules <= /product-images/products/akp-077-silodosin-4mg-capsules.webp
+Oseltamivir Capsules IP 75 mg — WHO-GMP Finished Formulation · Code AKP-050-AV · Capsules <= /product-images/products/akp-050-oseltamivir-75mg-capsules.webp
+Pantoprazole Sodium (eq. Pantoprazole 40mg) & Domperidone 30mg Capsules (Prolonged Release Pellets) — WHO-GMP Finished Formulation · Code AKP-013 · Capsules <= /product-images/products/akp-013-pantoprazole-sodium-eq-pantoprazole-40mg.webp
+Silodosin Capsules 8 mg — WHO-GMP Finished Formulation · Code AKP-078-SW · Capsules <= /product-images/products/akp-078-silodosin-8mg-capsules.webp
+Rabeprazole Sodium 20mg & Domperidone 30mg Capsules (Sustained Release Pellets) — WHO-GMP Finished Formulation · Code AKP-014 · Capsules <= /product-images/products/akp-014-rabeprazole-sodium-20mg-domperidone-30mg.webp
+Herbal Sex Booster Capsules — WHO-GMP Finished Formulation · Code AKP-030-AYUR · Capsules <= /product-images/products/akp-030-ayur-herbal-sex-booster-capsules.webp
+Rabeprazole Sodium 20mg & Levosulpiride 75mg Capsules (Sustained Release Pellets) — WHO-GMP Finished Formulation · Code AKP-015 · Capsules <= /product-images/products/akp-015-rabeprazole-sodium-20mg-levosulpiride-75.webp
+Cinitapride 3mg (Sustained Release) & Pantoprazole Sodium (eq. Pantoprazole 40mg) Capsules — WHO-GMP Finished Formulation · Code AKP-016 · Capsules <= /product-images/products/akp-016-cinitapride-3mg-sustained-release-pantop.webp
+Rabeprazole Sodium 20mg & Domperidone 10mg Capsules (Coated Pellets) — WHO-GMP Finished Formulation · Code AKP-019 · Capsules <= /product-images/products/akp-019-rabeprazole-sodium-20mg-domperidone-10mg.webp
+Rabeprazole Sodium 20mg & Itopride Hydrochloride 150mg Capsules (Sustained Release Pellets) — WHO-GMP Finished Formulation · Code AKP-020 · Capsules <= /product-images/products/akp-020-rabeprazole-sodium-20mg-itopride-hydroch.webp
+Akuma Enterprise Pharma <= /logo.svg
+
+## FORMS
+
+
+## HREFS
+mailto:sales@akumaenterprises-pharma.com
+mailto:dalle@akumaenterprises-pharma.com
+tel:+9107986147827
+https://wa.me/9107986147827
+/
+/products
+/compliance
+/supply
+/solutions
+/knowledge
+/company
+/downloads/catalog/akuma-pharma-catalog-2026.pdf
+/product/omeprazole-20mg-capsules-enteric-coated-pellets-akp-011
+/product/itraconazole-100mg-capsules-pellets-akp-017
+/product/becosules-capsules-vitamin-b-complex-with-vitamin-c-zinc-akp-096
+/product/silodosin-capsules-2-mg-akp-076-sw
+/product/oseltamivir-capsules-ip-45-mg-akp-049-av
+/product/omeprazole-20mg-domperidone-10mg-capsules-akp-012
+/product/itraconazole-200mg-capsules-pellets-akp-018
+/product/silodosin-capsules-4-mg-akp-077-sw
+/product/oseltamivir-capsules-ip-75-mg-akp-050-av
+/product/pantoprazole-sodium-eq-pantoprazole-40mg-domperidone-30mg-ca-akp-013
+/product/silodosin-capsules-8-mg-akp-078-sw
+/product/rabeprazole-sodium-20mg-domperidone-30mg-capsules-sustained-akp-014
+/product/herbal-sex-booster-capsules-akp-030-ayur
+/product/rabeprazole-sodium-20mg-levosulpiride-75mg-capsules-sustaine-akp-015
+/product/cinitapride-3mg-sustained-release-pantoprazole-sodium-eq-pan-akp-016
+/product/rabeprazole-sodium-20mg-domperidone-10mg-capsules-coated-pel-akp-019
+/product/rabeprazole-sodium-20mg-itopride-hydrochloride-150mg-capsule-akp-020
+/products/tablets
+/products/capsules
+/products/dry-powder-injections
+/products/liquid-injections
+/products/oral-liquids
+/products/ointments-creams
+/products/peptides
+/products?sector=Antimalarials%20Medication
+/quality
+/certifications
+/contact
+/markets/west-africa
+/markets/east-africa
+/markets/southern-africa
+/markets/central-africa
+/markets/north-africa
+/country
+/sample-request
+/about
+/capabilities
+/news
+/privacy-policy
+/return-policy
+https://wa.me/9107986147827?text=Hello%20Akuma%20Enterprise%20Pharma,%20I%20have%20an%20inquiry
+
+## JSON-LD
+
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": ["Organization", "LocalBusiness", "Manufacturer"],
+            "@id": "https://www.akumaenterprises-pharma.com/#org",
+            "name": "Akuma Enterprise Pharma Pvt. Ltd.",
+            "alternateName": ["Akuma Enterprise Pharma", "Akuma Pharma"],
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "logo": "https://www.akumaenterprises-pharma.com/icon-512.png",
+            "image": "https://www.akumaenterprises-pharma.com/og-image.jpg",
+            "description": "ISO 9001:2015 and WHO-GMP certified exporter shipping from Asia to all 54 African countries & global markets across commercial finished formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules requested by clients, backed by Zone IVb stability and eCTD/ACTD dossiers.",
+            "foundingDate": "2009",
+            "slogan": "Pharmaceutical supply, engineered for confidence.",
+            "vatID": "03ACLFA6940J1ZB",
+            "taxID": "ACLFA6940J",
+            "numberOfEmployees": { "@type": "QuantitativeValue", "value": "200+" },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1st Floor, Cabin 101 #2609, Vinod Accounting Solutions, Landran Road, Adarsh Nagar, Kharar",
+              "addressLocality": "SAS Nagar",
+              "addressRegion": "Punjab",
+              "postalCode": "140301",
+              "addressCountry": "IN"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 30.7499,
+              "longitude": 76.6411
+            },
+            "openingHoursSpecification": [
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "09:00", "closes": "18:00" },
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "09:00", "closes": "13:00" }
+            ],
+            "contactPoint": [
+              {
+                "@type": "ContactPoint",
+                "contactType": "sales",
+                "telephone": "+91-07986147827",
+                "email": "sales@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "areaServed": ["NG","KE","GH","TZ","UG","ET","RW","ZA","EG","MA","CI","SN","CM","CD","ZM","ZW","AO","MZ","DZ","TN","US","CA","MX","BR","DE","FR","GB","IN","JP","AU","AE","SA"],
+                "availableLanguage": ["English","French","Portuguese","Arabic","Swahili","Spanish","Hindi"]
+              },
+              {
+                "@type": "ContactPoint",
+                "contactType": "executive and regulatory desk",
+                "telephone": "+91-07986147827",
+                "email": "dalle@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "availableLanguage": ["English","French","Portuguese","Arabic"]
+              }
+            ],
+            "hasCredential": [
+              { "@type": "EducationalOccupationalCredential", "name": "WHO-GMP", "credentialCategory": "Good Manufacturing Practice", "recognizedBy": { "@type": "Organization", "name": "World Health Organization" } },
+              { "@type": "EducationalOccupationalCredential", "name": "ISO 9001:2015", "credentialCategory": "Quality Management System" },
+              { "@type": "EducationalOccupationalCredential", "name": "ACTD / eCTD Regulatory Dossiers", "credentialCategory": "Modules 1-5 Technical Dossier" },
+              { "@type": "EducationalOccupationalCredential", "name": "ICH Zone IVb Tropical Stability", "credentialCategory": "30C / 75% RH Climatic Stability" },
+              { "@type": "EducationalOccupationalCredential", "name": "CDSCO Manufacturing Licence", "credentialCategory": "Pharmaceutical Manufacturing Licence", "recognizedBy": { "@type": "Organization", "name": "Central Drugs Standard Control Organization (India)" } }
+            ],
+            "knowsAbout": [
+              "Commercial Finished Formulations",
+              "Antimalarial Injections & ACT Tablets (Artesunate IV, Artemether-Lumefantrine)",
+              "Sexual Wellness & Urology Formulations",
+              "Anti-Diabetic SGLT2 & Gliptin Combinations",
+              "Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin)",
+              "Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu)",
+              "African NRA Regulatory Filings (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana, EFDA, WAHO)",
+              "ICH Zone IVb Tropical Stability & Cold-Chain Export",
+              "Dry Powder Injections & Lyophilized Vials",
+              "Liquid Injections & Sterile Ampoules",
+              "Oral Liquids & Paediatric Dry Syrups",
+              "Topical Ointments, Eye-Ear Drops & Nasal Sprays",
+              "WHO-GMP Quality Compliance"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.akumaenterprises-pharma.com/#website",
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "name": "Akuma Enterprise Pharma",
+            "publisher": { "@id": "https://www.akumaenterprises-pharma.com/#org" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": { "@type": "EntryPoint", "urlTemplate": "https://www.akumaenterprises-pharma.com/products?search={search_term_string}" },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": ["en", "fr"]
+          }
+        ]
+      }
+    
+-----
+
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What pharmaceutical products and peptide portfolios does Akuma Enterprise Pharma supply?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Akuma Enterprise Pharma exports from Asia across all 54 countries of Africa and global markets. Our featured portfolio covers WHO-GMP commercial finished formulations (Tablets, Capsules, Dry Powder Injections, Liquid Injections, Oral Liquids, Ointments & Creams, Eye-Ear Drops, Nasal Sprays, Dry Syrups, Paediatric Drops, and Sanitizers), Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin, Leuprorelin), and Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu) \u2014 while accepting every custom molecule, dosage, and tender specification on request."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Do you provide ACTD/eCTD dossiers and Zone IVb stability for African National Regulatory Authorities (NRAs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Yes. Every finished formulation and Pharmaceutical Peptide API is backed by 5-Module ACTD/eCTD dossiers, WHO-Format Certificates of Pharmaceutical Product (CoPP), Free Sale Certificates (FSC), CoA, bilingual EN/FR/PT/AR packaging support, and ICH Zone IVb tropical stability studies (30\u00b0C/75% RH & 40\u00b0C/75% RH) tailored for NAFDAC (Nigeria), PPB (Kenya), SAHPRA (South Africa), TMDA (Tanzania), FDA Ghana, AIRP (Cote d'Ivoire), ARP (Senegal), EFDA, NDA, WAHO, and SADC ZAZIBONA."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "How are Pharmaceutical Peptide APIs separated from Research Peptides (RUO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Our Pharmaceutical Peptide APIs (AKP-API series) are manufactured to >=99.0% HPLC purity for licensed formulators and clinical supply chains, whereas our Research Peptides (AKP-RP series) are strictly labeled and restricted to in-vitro laboratory Research Use Only (RUO \u2014 Not for Human or Veterinary Consumption). Custom peptide syntheses are also available."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What are the minimum order quantities (MOQ) and export freight corridors from India to Africa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Standard export MOQs are 1,000 packs for finished formulations, 50 vials for Pharmaceutical Peptide APIs, and 10 vials for RUO Research Peptides. Consignments dispatch via Mumbai (BOM/JNPT) and New Delhi (DEL) air/sea corridors into Lagos, Mombasa, Tema, Durban, Dar es Salaam, Djibouti, Abidjan, and Dakar with validated cold-chain loggers where required."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Which antimalarial, sexual wellness, anti-diabetic, and hospital antibiotic formulations are in stock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "In-stock flagship export lines include Artesunate IV/IM lyophilized vials (30\u2013240 mg), Artemether & \u03b1-\u03b2 Arteether ampoules, Artemether 80/Lumefantrine 480 mg tablets, Chloroquine tablets & suspension, Dapoxetine + Sildenafil/Tadalafil/Vardenafil and Silodosin urology generics, Dapagliflozin & Glimepiride triple combos, Ceftriaxone-Sulbactam, and Cefixime paediatric dry syrups."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Fournissez-vous des m\u00e9dicaments certifi\u00e9s OMS-BPF et des dossiers CTD en fran\u00e7ais pour l'Afrique francophone ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Oui. Akuma Enterprise Pharma exporte depuis l'Asie vers les 54 pays d'Afrique (formulations finies OMS-BPF, API peptidiques, peptides RUO et demandes sur mesure) avec dossiers ACTD/eCTD 5 Modules, CoPP OMS, stabilit\u00e9 ICH Zone IVb et notices RCP/Patient en fran\u00e7ais pour l'AIRP (C\u00f4te d'Ivoire), l'ARP (S\u00e9n\u00e9gal), la DPML (Cameroun), l'ACOREP (RD Congo), la DMP (Maroc) et l'espace WAHO/CEDEAO."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Comment demander un devis export CIF/FOB sous 24 heures vers l'Afrique ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Contactez notre bureau export Afrique par e-mail \u00e0 sales@akumaenterprises-pharma.com ou dalle@akumaenterprises-pharma.com, sur WhatsApp au +91 07986147827, ou directement via le formulaire de devis bilingue sur akumaenterprises-pharma.com/contact."
+      }
+    }
+  ]
+}
+
+-----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":2,"name":"","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":3,"name":"Products","item":"https://www.akumaenterprises-pharma.com//products"},{"@type":"ListItem","position":4,"name":"Capsules","item":"https://www.akumaenterprises-pharma.com//products/capsules"}]}
+-----
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Modified Release & Pelletized Pharmaceutical Capsules","description":"Akuma Enterprise Pharma supplies commercial oral capsules with multi-particulate pellet technology for enhanced bioavailability and targeted GI release.","inLanguage":"en","isPartOf":{"@id":"https://www.akumaenterprises-pharma.com/#website"},"about":"Commercial Finished Pharmaceutical Formulations, Pharmaceutical Peptide APIs, and Research Peptides across 12 categories and 15 therapeutic sectors for Africa and global markets","mainEntity":{"@type":"ItemList","numberOfItems":17,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Product","name":"Omeprazole 20mg Capsules (Enteric Coated Pellets)","sku":"AKP-011","category":"Capsules — Gastroenterology & PPIs","url":"https://www.akumaenterprises-pharma.com/product/omeprazole-20mg-capsules-enteric-coated-pellets-akp-011","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-011-omeprazole-20mg-capsules-enteric-coated.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":2,"item":{"@type":"Product","name":"Itraconazole 100mg Capsules (Pellets)","sku":"AKP-017","category":"Capsules — Anti-Infectives & Antibiotics","url":"https://www.akumaenterprises-pharma.com/product/itraconazole-100mg-capsules-pellets-akp-017","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-017-itraconazole-100mg-capsules-pellets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":3,"item":{"@type":"Product","name":"Becosules Capsules (B-Complex, Vit C & Zinc)","sku":"AKP-096","category":"Capsules — Nutrition & Metabolic Tonics","url":"https://www.akumaenterprises-pharma.com/product/becosules-capsules-vitamin-b-complex-with-vitamin-c-zinc-akp-096","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-096-becosules-capsules-vitamin-b-complex-wit.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":4,"item":{"@type":"Product","name":"Silodosin Capsules 2 mg","sku":"AKP-076-SW","category":"Capsules — Sexual Wellness Medication","url":"https://www.akumaenterprises-pharma.com/product/silodosin-capsules-2-mg-akp-076-sw","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-076-silodosin-2mg-capsules.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":5,"item":{"@type":"Product","name":"Oseltamivir Capsules IP 45 mg","sku":"AKP-049-AV","category":"Capsules — Antiretrovirals / Antivirals","url":"https://www.akumaenterprises-pharma.com/product/oseltamivir-capsules-ip-45-mg-akp-049-av","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-049-oseltamivir-45mg-capsules.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":6,"item":{"@type":"Product","name":"Omeprazole 20mg & Domperidone 10mg Capsules","sku":"AKP-012","category":"Capsules — Gastroenterology & PPIs","url":"https://www.akumaenterprises-pharma.com/product/omeprazole-20mg-domperidone-10mg-capsules-akp-012","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-012-omeprazole-20mg-domperidone-10mg-capsule.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":7,"item":{"@type":"Product","name":"Itraconazole 200mg Capsules (Pellets)","sku":"AKP-018","category":"Capsules — Anti-Infectives & Antibiotics","url":"https://www.akumaenterprises-pharma.com/product/itraconazole-200mg-capsules-pellets-akp-018","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-018-itraconazole-200mg-capsules-pellets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":8,"item":{"@type":"Product","name":"Silodosin Capsules 4 mg","sku":"AKP-077-SW","category":"Capsules — Sexual Wellness Medication","url":"https://www.akumaenterprises-pharma.com/product/silodosin-capsules-4-mg-akp-077-sw","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-077-silodosin-4mg-capsules.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":9,"item":{"@type":"Product","name":"Oseltamivir Capsules IP 75 mg","sku":"AKP-050-AV","category":"Capsules — Antiretrovirals / Antivirals","url":"https://www.akumaenterprises-pharma.com/product/oseltamivir-capsules-ip-75-mg-akp-050-av","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-050-oseltamivir-75mg-capsules.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":10,"item":{"@type":"Product","name":"Pantoprazole Sodium (eq. Pantoprazole 40mg) & Domperidone 30mg Capsules (Prolonged Release Pellets)","sku":"AKP-013","category":"Capsules — Gastroenterology & PPIs","url":"https://www.akumaenterprises-pharma.com/product/pantoprazole-sodium-eq-pantoprazole-40mg-domperidone-30mg-ca-akp-013","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-013-pantoprazole-sodium-eq-pantoprazole-40mg.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":11,"item":{"@type":"Product","name":"Silodosin Capsules 8 mg","sku":"AKP-078-SW","category":"Capsules — Sexual Wellness Medication","url":"https://www.akumaenterprises-pharma.com/product/silodosin-capsules-8-mg-akp-078-sw","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-078-silodosin-8mg-capsules.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":12,"item":{"@type":"Product","name":"Rabeprazole Sodium 20mg & Domperidone 30mg Capsules (Sustained Release Pellets)","sku":"AKP-014","category":"Capsules — Gastroenterology & PPIs","url":"https://www.akumaenterprises-pharma.com/product/rabeprazole-sodium-20mg-domperidone-30mg-capsules-sustained-akp-014","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-014-rabeprazole-sodium-20mg-domperidone-30mg.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":13,"item":{"@type":"Product","name":"Herbal Sex Booster Capsules","sku":"AKP-030-AYUR","category":"Capsules — Sexual Wellness Medication","url":"https://www.akumaenterprises-pharma.com/product/herbal-sex-booster-capsules-akp-030-ayur","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-030-ayur-herbal-sex-booster-capsules.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":14,"item":{"@type":"Product","name":"Rabeprazole Sodium 20mg & Levosulpiride 75mg Capsules (Sustained Release Pellets)","sku":"AKP-015","category":"Capsules — Gastroenterology & PPIs","url":"https://www.akumaenterprises-pharma.com/product/rabeprazole-sodium-20mg-levosulpiride-75mg-capsules-sustaine-akp-015","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-015-rabeprazole-sodium-20mg-levosulpiride-75.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":15,"item":{"@type":"Product","name":"Cinitapride 3mg (Sustained Release) & Pantoprazole Sodium (eq. Pantoprazole 40mg) Capsules","sku":"AKP-016","category":"Capsules — Gastroenterology & PPIs","url":"https://www.akumaenterprises-pharma.com/product/cinitapride-3mg-sustained-release-pantoprazole-sodium-eq-pan-akp-016","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-016-cinitapride-3mg-sustained-release-pantop.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":16,"item":{"@type":"Product","name":"Rabeprazole Sodium 20mg & Domperidone 10mg Capsules (Coated Pellets)","sku":"AKP-019","category":"Capsules — Gastroenterology & PPIs","url":"https://www.akumaenterprises-pharma.com/product/rabeprazole-sodium-20mg-domperidone-10mg-capsules-coated-pel-akp-019","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-019-rabeprazole-sodium-20mg-domperidone-10mg.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":17,"item":{"@type":"Product","name":"Rabeprazole Sodium 20mg & Itopride Hydrochloride 150mg Capsules (Sustained Release Pellets)","sku":"AKP-020","category":"Capsules — Gastroenterology & PPIs","url":"https://www.akumaenterprises-pharma.com/product/rabeprazole-sodium-20mg-itopride-hydrochloride-150mg-capsule-akp-020","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-020-rabeprazole-sodium-20mg-itopride-hydroch.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}}]}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":2,"name":"Products","item":"https://www.akumaenterprises-pharma.com/products"},{"@type":"ListItem","position":3,"name":"Capsules"}]}]}

@@ -1,0 +1,1013 @@
+URL: https://www.akumaenterprises-pharma.com/products/tablets
+FINAL: https://www.akumaenterprises-pharma.com/products/tablets
+STATUS: 200
+LANG: en
+TITLE: Tablets — Commercial Finished Solid Dosage Formulations | Akuma Enterprise Pharma
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #B3122B
+msapplication-TileColor = #B3122B
+msapplication-TileImage = /icon-192.png
+robots = index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+google-site-verification = VERIFY-ME-GOOGLE
+msvalidate.01 = VERIFY-ME-BING
+yandex-verification = VERIFY-ME-YANDEX
+baidu-site-verification = VERIFY-ME-BAIDU
+naver-site-verification = VERIFY-ME-NAVER
+description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished pharmaceutical formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules manufactured or sourced on request with Zone IVb stability & bilingual EN/FR Africa dossiers.
+author = Akuma Enterprise Pharma Pvt. Ltd.
+keywords = pharmaceutical exporter Africa India, NAFDAC registered medicines supplier, PPB Kenya SAHPRA TMDA FDA Ghana dossiers, WHO-GMP finished pharmaceutical formulations, Zone IVb stability medicines Africa, Artesunate IV Artemether Lumefantrine India, Semaglutide Tirzepatide Peptide API India, BPC-157 TB-500 Retatrutide RUO peptides, tablets capsules injectables manufacturer Punjab, eCTD ACTD dossiers India
+og:type = website
+og:site_name = Akuma Enterprise Pharma
+og:title = Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global
+og:description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished formulations, Peptide APIs, Research Peptides, and custom sourcing for every buyer request with Zone IVb stability and Africa eCTD/ACTD dossiers.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:image:type = image/jpeg
+og:image:width = 1200
+og:image:height = 630
+og:image:alt = Akuma Enterprise Pharma finished formulations and dossiers
+og:url = https://www.akumaenterprises-pharma.com
+og:locale = en_US
+og:locale:alternate = fr_CI
+og:locale:alternate = fr_SN
+og:locale:alternate = fr_FR
+og:locale:alternate = en_NG
+og:locale:alternate = en_KE
+og:locale:alternate = en_ZA
+twitter:card = summary_large_image
+twitter:title = Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global
+twitter:description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & globally across finished formulations, Peptide APIs, RUO peptides, and custom molecules on request with bilingual EN/FR Africa dossiers.
+twitter:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+twitter:image:alt = Akuma Enterprise Pharma finished formulations and dossiers
+geo.region = IN-PB
+geo.placename = SAS Nagar, Punjab, India
+geo.position = 30.7499;76.6411
+ICBM = 30.7499, 76.6411
+description = Commercial finished pharmaceutical tablets: film-coated, uncoated, and enteric-coated formulations (antimalarials, anti-diabetics, antibiotics, sexual wellness). Manufactured under WHO-GMP with Zone IVb stability and NAFDAC/PPB/SAHPRA/TMDA CTD dossiers.
+keywords = pharmaceutical tablets exporter Africa, artemether lumefantrine tablets NAFDAC, dapagliflozin metformin tablets Kenya, sildenafil tadalafil tablets India, ofloxacin ornidazole tablets, WHO-GMP tablets India, finished formulation export
+author = Akuma Enterprise Pharma Pvt. Ltd.
+application-name = Akuma Enterprise Pharma
+apple-mobile-web-app-title = Akuma Enterprise Pharma
+theme-color = #B3122B
+robots = index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+language = en
+geo.region = IN-PB
+geo.placename = SAS Nagar, Punjab, India
+geo.position = 30.7499;76.6411
+ICBM = 30.7499, 76.6411
+industry = Pharmaceutical Manufacturing & Africa Healthcare Export
+business-type = B2B Pharmaceutical Manufacturer & Exporter
+og:type = website
+og:title = Tablets — Commercial Finished Solid Dosage Formulations | Akuma Enterprise Pharma
+og:description = Commercial finished pharmaceutical tablets: film-coated, uncoated, and enteric-coated formulations (antimalarials, anti-diabetics, antibiotics, sexual wellness). Manufactured under WHO-GMP with Zone IVb stability and NAFDAC/PPB/SAHPRA/TMDA CTD dossiers.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:image:type = image/jpeg
+og:image:width = 1920
+og:image:height = 1080
+og:image:alt = Tablets — Commercial Finished Solid Dosage Formulations
+og:site_name = Akuma Enterprise Pharma
+og:locale = en_US
+og:locale:alternate = fr_FR
+og:locale:alternate = fr_CI
+og:locale:alternate = fr_SN
+og:locale:alternate = en_NG
+og:locale:alternate = en_KE
+og:locale:alternate = en_ZA
+og:url = https://www.akumaenterprises-pharma.com/products/tablets
+twitter:card = summary_large_image
+twitter:title = Tablets — Commercial Finished Solid Dosage Formulations | Akuma Enterprise Pharma
+twitter:description = Commercial finished pharmaceutical tablets: film-coated, uncoated, and enteric-coated formulations (antimalarials, anti-diabetics, antibiotics, sexual wellness). Manufactured under WHO-GMP with Zone IVb stability and NAFDAC/PPB/SAHPRA/TMDA CTD dossiers.
+twitter:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+twitter:image:alt = Tablets — Commercial Finished Solid Dosage Formulations
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/products/tablets
+alternate x-default https://www.akumaenterprises-pharma.com/
+alternate en https://www.akumaenterprises-pharma.com/
+alternate en-NG https://www.akumaenterprises-pharma.com/en-ng/
+alternate en-KE https://www.akumaenterprises-pharma.com/en-ke/
+alternate en-GH https://www.akumaenterprises-pharma.com/en-gh/
+alternate en-ZA https://www.akumaenterprises-pharma.com/en-za/
+alternate en-TZ https://www.akumaenterprises-pharma.com/en-tz/
+alternate en-UG https://www.akumaenterprises-pharma.com/en-ug/
+alternate fr https://www.akumaenterprises-pharma.com/?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/fr-ci/
+alternate fr-SN https://www.akumaenterprises-pharma.com/fr-sn/
+alternate fr-CM https://www.akumaenterprises-pharma.com/fr-cm/
+alternate fr-CD https://www.akumaenterprises-pharma.com/fr-cd/
+alternate fr-MA https://www.akumaenterprises-pharma.com/fr-ma/
+alternate en-US https://www.akumaenterprises-pharma.com/
+alternate en-GB https://www.akumaenterprises-pharma.com/en-gb/
+alternate en-IN https://www.akumaenterprises-pharma.com/en-in/
+alternate en-AU https://www.akumaenterprises-pharma.com/en-au/
+alternate en-CA https://www.akumaenterprises-pharma.com/en-ca/
+alternate en-NZ https://www.akumaenterprises-pharma.com/en-nz/
+alternate de-DE https://www.akumaenterprises-pharma.com/de-de/
+alternate fr-FR https://www.akumaenterprises-pharma.com/fr-fr/
+alternate es-ES https://www.akumaenterprises-pharma.com/es-es/
+alternate it-IT https://www.akumaenterprises-pharma.com/it-it/
+alternate nl-NL https://www.akumaenterprises-pharma.com/nl-nl/
+alternate pt-BR https://www.akumaenterprises-pharma.com/pt-br/
+alternate es-MX https://www.akumaenterprises-pharma.com/es-mx/
+alternate fr-CA https://www.akumaenterprises-pharma.com/fr-ca/
+alternate ja-JP https://www.akumaenterprises-pharma.com/ja-jp/
+alternate ko-KR https://www.akumaenterprises-pharma.com/ko-kr/
+alternate  https://www.akumaenterprises-pharma.com/news.rss
+alternate  https://www.akumaenterprises-pharma.com/dmf-updates.rss
+alternate  https://www.akumaenterprises-pharma.com/llms.txt
+alternate  https://www.akumaenterprises-pharma.com/products.json
+canonical  https://www.akumaenterprises-pharma.com/products/tablets
+alternate en https://www.akumaenterprises-pharma.com/products/tablets
+alternate en-NG https://www.akumaenterprises-pharma.com/products/tablets
+alternate en-KE https://www.akumaenterprises-pharma.com/products/tablets
+alternate en-GH https://www.akumaenterprises-pharma.com/products/tablets
+alternate en-ZA https://www.akumaenterprises-pharma.com/products/tablets
+alternate en-TZ https://www.akumaenterprises-pharma.com/products/tablets
+alternate en-UG https://www.akumaenterprises-pharma.com/products/tablets
+alternate en-GB https://www.akumaenterprises-pharma.com/products/tablets
+alternate en-US https://www.akumaenterprises-pharma.com/products/tablets
+alternate fr https://www.akumaenterprises-pharma.com/products/tablets?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/products/tablets?lang=fr
+alternate fr-SN https://www.akumaenterprises-pharma.com/products/tablets?lang=fr
+alternate fr-CM https://www.akumaenterprises-pharma.com/products/tablets?lang=fr
+alternate fr-CD https://www.akumaenterprises-pharma.com/products/tablets?lang=fr
+alternate fr-MA https://www.akumaenterprises-pharma.com/products/tablets?lang=fr
+alternate fr-FR https://www.akumaenterprises-pharma.com/products/tablets?lang=fr
+alternate x-default https://www.akumaenterprises-pharma.com/products/tablets
+
+## TEXT
+sales@akumaenterprises-pharma.com
+|
+dalle@akumaenterprises-pharma.com
++91 07986147827
+|
+WhatsApp: +91 07986147827
+Akuma Enterprise Pharma
+FINISHED FORMULATIONS & GLOBAL DOSSIERS
+Products
+Compliance
+Supply
+Solutions
+Knowledge
+Company
+EN
+FR
+Request a Dossier
+→
+
+WHO-GMP Formulations, Peptide APIs & RUO Research Peptides — Africa & Global Export
+
+Commercial medicines & Peptide APIs are manufactured under WHO-GMP and ISO 9001:2015 systems (IP, BP, USP, EP) with Zone IVb stability, CoA, and eCTD/ACTD dossiers for African NRAs (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana) & global tenders. Lyophilized Research Peptides (RUO) are ≥99.0% HPLC/MS verified strictly for laboratory use.
+
+Pharmaceutical Tablets Formulation Portfolio
+
+Akuma Enterprise Pharma delivers WHO-GMP oral solid dosage tablets covering Artemether-Lumefantrine antimalarials, Dapagliflozin/Glimepiride anti-diabetics, Sildenafil/Tadalafil/Dapoxetine sexual wellness, anti-infectives, PPIs, and respiratory formulations with ACTD/eCTD dossiers for Africa & global markets.
+
+45 Showcased Results
+2026 PDF Catalog ↓
+WhatsApp Export Desk
+Filter by:
+Tablets
+All Therapeutic Sectors
+All Availability
+Export Catalog
+REGULATORY:
+WHO-GMP Certified
+(45)
+eCTD Dossier Ready
+(45)
+Zone IVb Stability
+(45)
+Research Use Only (RUO)
+(0)
+Tablets
+
+Showing 45 showcased catalog products · Custom molecules & strengths sourced on request
+
+Relevance
+Tablets
+Anti-Infectives & Antibiotics
+In Stock
+Ofloxacin 200mg Tablets
+
+Code: AKP-001
+
+Broad-spectrum second-generation fluoroquinolone antibacterial tablet engineered for rapid oral bioavailability and consistent dissolution across uncomplicated respiratory, urinary, and soft-tissue bacterial infections. Active: Ofloxacin IP (200 mg). Indication: Urinary tract infections (UTI), acute bacterial bronchitis, pneumonia, and uncomplicated gonorrhea.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Respiratory & Allergy
+In Stock
+Levocetirizine Hydrochloride 5mg Tablets
+
+Code: AKP-003
+
+Third-generation non-sedating H1-receptor antagonist film-coated tablet providing 24-hour histamine blockade for rapid relief of sneezing, rhinorrhea, nasal pruritus, and chronic hives. Active: Levocetirizine Hydrochloride IP (5 mg). Indication: Perennial and seasonal allergic rhinitis, chronic idiopathic urticaria, and allergic conjunctivitis.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Pain, Inflammation & NSAIDs
+In Stock
+Aceclofenac 100mg & Paracetamol 325mg Tablets (Film Coated)
+
+Code: AKP-004
+
+Synergistic analgesic, anti-inflammatory, and antipyretic film-coated tablet combining selective COX-2 inhibition with central analgesia for acute musculoskeletal pain, joint stiffness, and post-operative recovery. Active: Aceclofenac IP + Paracetamol IP (100 mg + 325 mg). Indication: Osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, dental pain, and post-traumatic musculoskeletal inflammation.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Gastroenterology & PPIs
+In Stock
+Pantoprazole (eq. 20mg) & Domperidone 10mg Tablets (Enteric Coated)
+
+Code: AKP-006
+
+Balanced gastro-prokinetic enteric-coated tablet shielding acid-labile pantoprazole through gastric transit while domperidone accelerates gastric emptying to curb reflux, nausea, and early satiety. Active: Pantoprazole Sodium (eq. Pantoprazole 20 mg) + Domperidone IP 10 mg (20 mg + 10 mg). Indication: Mild-to-moderate gastroesophageal reflux disease (GERD), functional dyspepsia, and NSAID-associated gastritis.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Sexual Wellness Medication
+In Stock
+Dapoxetine 30 mg & Sildenafil 50 mg Tablets
+
+Code: AKP-103
+
+Dual-mechanism male sexual wellness tablet combining selective PDE5 vasodilator Dapoxetine 30 mg & Sildenafil 50 mg with rapid-acting SSRI dapoxetine 30 mg to enhance erectile rigidity and ejaculatory latency. Active: Dapoxetine 30 mg + Sildenafil 50 mg (30 mg + 50 mg). Indication: Simultaneous treatment of erectile dysfunction (ED) and premature ejaculation (PE) in adult men.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Antimalarials Medication
+In Stock
+Artemether 80 mg & Lumefantrine 480 mg Tablets
+
+Code: AKP-030-MAL
+
+WHO-recommended 3-day fixed-dose artemisinin-based combination therapy (ACT) pairing fast-acting artemether 80 mg parasite clearance with long-acting lumefantrine 480 mg recrudescence prevention. Active: Artemether 80 mg + Lumefantrine 480 mg (80 mg + 480 mg). Indication: First-line oral treatment of acute uncomplicated Plasmodium falciparum malaria (including multidrug-resistant strains).
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Anti-Diabetic Medication
+In Stock
+Dapagliflozin 10 mg & Metformin HCl 1000 mg ER Tablets
+
+Code: AKP-100-DM
+
+Once-daily insulin-independent SGLT2 inhibitor dapagliflozin 10 mg combined with extended-release metformin HCl (1000 mg) promoting urinary glucose excretion alongside hepatic gluconeogenesis suppression. Active: Dapagliflozin 10 mg + Metformin HCl 1000 mg (ER) (10 mg + 1000 mg (ER)). Indication: Type 2 diabetes mellitus glycemic control, cardiovascular-renal risk reduction, and weight-favorable glucose lowering.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Anti-Infectives & Antibiotics
+In Stock
+Ofloxacin 200mg & Ornidazole 500mg Tablets
+
+Code: AKP-002
+
+Dual-action antimicrobial fixed-dose combination pairing fluoroquinolone bactericidal coverage with nitroimidazole anaerobic and antiprotozoal activity for mixed gastrointestinal and gynecological infections. Active: Ofloxacin IP + Ornidazole IP (200 mg + 500 mg). Indication: Mixed aerobic and anaerobic GI infections, infectious diarrhea, dysentery, and pelvic inflammatory disease.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Respiratory & Allergy
+In Stock
+Montelukast Sodium 10mg & Levocetirizine Hydrochloride 5mg Tablets
+
+Code: AKP-010
+
+Dual-pathway anti-allergic and anti-leukotriene film-coated tablet combining cysteinyl leukotriene receptor antagonism with H1 blockade to relieve nasal congestion, wheezing, and airway inflammation. Active: Montelukast Sodium IP 10 mg + Levocetirizine Hydrochloride IP 5 mg (10 mg + 5 mg). Indication: Persistent allergic rhinitis, chronic bronchial asthma prophylaxis, and exercise-induced bronchospasm.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Pain, Inflammation & NSAIDs
+In Stock
+Aceclofenac 100mg & Paracetamol 325mg Tablets (Uncoated)
+
+Code: AKP-005
+
+Cost-effective uncoated oral analgesic tablet formulated for rapid disintegration in hospital tenders and high-turnover primary care relief of fever, soft-tissue inflammation, and orthopedic pain. Active: Aceclofenac IP + Paracetamol IP (100 mg + 325 mg). Indication: Acute inflammatory joint pain, myalgia, lumbago, and institutional general pain management.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Gastroenterology & PPIs
+In Stock
+Rabeprazole Sodium 20mg & Domperidone 10mg Tablets (Enteric Coated)
+
+Code: AKP-007
+
+Fast-onset enteric-coated proton pump inhibitor and dopamine D2 antagonist tablet engineered for predictable intragastric acid suppression and coordinated upper GI motility. Active: Rabeprazole Sodium IP 20 mg + Domperidone IP 10 mg (20 mg + 10 mg). Indication: Acid reflux esophagitis, hyperacidity, bloating, and non-ulcer dyspepsia.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Sexual Wellness Medication
+In Stock
+Dapoxetine 30 mg & Tadalafil 10 mg Tablets
+
+Code: AKP-104
+
+Long-duration dual-action formulation uniting tadalafil (10 mg) with rapid-onset dapoxetine 30 mg for sustained hemodynamic response and improved ejaculatory control. Active: Dapoxetine 30 mg + Tadalafil 10 mg (30 mg + 10 mg). Indication: Co-existing erectile dysfunction and premature ejaculation requiring extended 36-hour therapeutic window.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Antimalarials Medication
+In Stock
+Chloroquine Phosphate Tablets IP 250 mg
+
+Code: AKP-086-MAL
+
+Compendial 4-aminoquinoline antimalarial and antiprotozoal tablet (250 mg chloroquine phosphate) supporting malaria radical cure protocols and hepatic amoebic abscess therapy. Active: Chloroquine Phosphate IP 250 mg (250 mg). Indication: Acute vivax, ovale, and chloroquine-susceptible malaria; extraintestinal hepatic amoebiasis.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Anti-Diabetic Medication
+In Stock
+Dapagliflozin 10 mg & Metformin HCl 500 mg ER Tablets
+
+Code: AKP-101
+
+Once-daily insulin-independent SGLT2 inhibitor dapagliflozin 10 mg combined with extended-release metformin HCl (500 mg) promoting urinary glucose excretion alongside hepatic gluconeogenesis suppression. Active: Dapagliflozin 10 mg + Metformin HCl 500 mg (ER) (10 mg + 500 mg (ER)). Indication: Type 2 diabetes mellitus glycemic control, cardiovascular-renal risk reduction, and weight-favorable glucose lowering.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Anti-Infectives & Antibiotics
+In Stock
+Cefixime 200mg Film-Coated Tablets IP
+
+Code: AKP-100
+
+Broad-spectrum oral third-generation cephalosporin film-coated tablet providing potent bactericidal coverage against community respiratory tract pathogens, enteric fever, and uncomplicated UTIs. Active: Cefixime IP (Trihydrate) (200mg). Indication: Upper & lower respiratory tract infections, typhoid, uncomplicated UTI.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Respiratory & Allergy
+In Stock
+Mucolite Tablets (Ambroxol Hydrochloride 30mg)
+
+Code: AKP-099
+
+Systemic secretolytic mucolytic tablet thinning tenacious bronchial secretions and activating mucociliary clearance in productive cough, acute bronchitis, and exacerbations of COPD. Active: Ambroxol Hydrochloride IP (30mg). Indication: Productive cough, chronic bronchitis, bronchiectasis, secretolytic therapy.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Gastroenterology & PPIs
+In Stock
+Pantoprazole Sodium (eq. Pantoprazole 40mg) Tablets (Enteric Coated)
+
+Code: AKP-008
+
+Standard 40 mg delayed-release gastro-resistant tablet delivering sustained H+/K+-ATPase blockade for healing peptic ulcers and preventing NSAID-induced mucosal injury. Active: Pantoprazole Sodium Sesquihydrate IP (eq. Pantoprazole 40 mg) (40 mg). Indication: Erosive esophagitis, duodenal and gastric ulcers, Zollinger-Ellison syndrome, and H. pylori eradication regimens.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Sexual Wellness Medication
+In Stock
+Dapoxetine 30 mg & Tadalafil 20 mg Tablets
+
+Code: AKP-105
+
+Long-duration dual-action formulation uniting tadalafil (20 mg) with rapid-onset dapoxetine 30 mg for sustained hemodynamic response and improved ejaculatory control. Active: Dapoxetine 30 mg + Tadalafil 20 mg (30 mg + 20 mg). Indication: Co-existing erectile dysfunction and premature ejaculation requiring extended 36-hour therapeutic window.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Anti-Diabetic Medication
+In Stock
+Dapagliflozin Tablets 10 mg
+
+Code: AKP-102
+
+Highly selective SGLT2 inhibitor tablet (10 mg) reducing renal glucose reabsorption, lowering HbA1c without hypoglycemia, and conferring proven cardiorenal protection. Active: Dapagliflozin 10 mg (10 mg). Indication: Type 2 diabetes mellitus (monotherapy or add-on), HFrEF heart failure hospitalization reduction, and CKD progression slowing.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Gastroenterology & PPIs
+In Stock
+Pantoprazole (eq. 40mg) & Domperidone 10mg Tablets (Enteric Coated)
+
+Code: AKP-009
+
+Full-strength acid-suppressive and prokinetic enteric-coated tablet designed for moderate-to-severe reflux esophagitis accompanied by postprandial fullness, belching, and nausea. Active: Pantoprazole Sodium (eq. Pantoprazole 40 mg) + Domperidone IP 10 mg (40 mg + 10 mg). Indication: Refractory GERD, acid regurgitation, epigastric heartburn, and dysmotility-related dyspepsia.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Sexual Wellness Medication
+In Stock
+Sildenafil Citrate Tablets 100 mg
+
+Code: AKP-340
+
+Compendial selective phosphodiesterase type-5 (PDE5) inhibitor film-coated tablet (100 mg) restoring nitric-oxide-driven penile blood flow within 30–60 minutes under sexual stimulation. Active: Sildenafil Citrate IP 100 mg (100 mg). Indication: Erectile dysfunction (ED) via cGMP-mediated corpus cavernosum smooth muscle relaxation.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Anti-Diabetic Medication
+In Stock
+Gliclazide Extended Release Tablets 80 mg
+
+Code: AKP-166
+
+Second-generation pancreatic beta-cell selective sulfonylurea extended-release tablet (80 mg) restoring physiological first-phase insulin secretion with lower nocturnal hypoglycemia risk. Active: Gliclazide 80 mg (ER) (80 mg (ER)). Indication: Non-insulin-dependent Type 2 diabetes mellitus uncontrolled by diet and exercise alone.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Sexual Wellness Medication
+In Stock
+Sildenafil Citrate Tablets 50 mg
+
+Code: AKP-341
+
+Compendial selective phosphodiesterase type-5 (PDE5) inhibitor film-coated tablet (50 mg) restoring nitric-oxide-driven penile blood flow within 30–60 minutes under sexual stimulation. Active: Sildenafil Citrate IP 50 mg (50 mg). Indication: Erectile dysfunction (ED) via cGMP-mediated corpus cavernosum smooth muscle relaxation.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Tablets
+Anti-Diabetic Medication
+In Stock
+Glimepiride Tablets IP 1 mg
+
+Code: AKP-167
+
+Once-daily modern sulfonylurea oral hypoglycemic tablet (1 mg) delivering predictable 24-hour fasting and postprandial blood glucose reduction. Active: Glimepiride IP 1 mg (1 mg). Indication: Type 2 diabetes mellitus glycemic control via enhanced endogenous insulin release and peripheral sensitivity.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+
+Showing 1–24 of 45
+
+Previous
+Page 1 of 2
+Next
+Akuma Enterprise Pharma Pvt. Ltd.
+WHO-GMP Certified Commercial Formulations & Africa Dossiers
+EN
+FR
+
+Leading manufacturer and exporter of WHO-GMP certified commercial finished pharmaceutical formulations across 12 product categories & 15 sectors with complete eCTD dossiers for global healthcare markets.
+
+WHO-GMP Certified
+ISO 9001:2015
+eCTD Dossiers & Zone IVb Ready
+FORMULATIONS & PEPTIDES
+Tablets & Solid Orals
+Capsules & Modified Release
+Dry Powder Injections
+Liquid Injections & Ampoules
+Oral Liquids & Suspensions
+Ointments, Creams & Drops
+Peptide APIs & Research (RUO)
+Antimalarials & Anti-Diabetics
+Explore Full Catalog →
+REGULATORY DOSSIERS
+eCTD 5-Module Dossiers
+ACTD Format Submissions
+Zone IVb Stability Validation
+Bioequivalence (BE) Studies
+Certificate of Analysis (CoA)
+WHO-Format CoPP & FSC
+Download 2026 Catalog PDF ↓
+Request Regulatory Dossier →
+AFRICA & GLOBAL MARKETS
+West Africa (NAFDAC, FDA Ghana, AIRP)
+East Africa (PPB, TMDA, NDA, EFDA)
+Southern Africa (SAHPRA, ZAZIBONA)
+Central Africa (ACOREP, DPML, CEMAC)
+North Africa (EDA, DMP Morocco)
+Country Regulatory Profiles (26)
+Request Analytical Sample →
+COMPANY & DIRECT EXPORT
+About Akuma Enterprise Pharma
+Manufacturing & Packaging Lines
+Pharma Newsroom & Briefs
+WhatsApp : +91 07986147827
+sales@akumaenterprises-pharma.com
+24h Export Quote & Tenders →
+
+© 2026 Akuma Enterprise Pharma Pvt. Ltd. All rights reserved. · SAS Nagar, Punjab, India
+
+Privacy Policy · Return Policy · Contact
+
+Help / Track order
+All Categories
+Tablets
+Capsules
+Dry Powder Injections
+Liquid Injections
+Peptides
+Ointments & Creams
+Oral Liquids
+Eye-Ear Drops
+Nasal Spray
+Dry Syrup
+Drops
+Sanitizer
+All Therapeutic Sectors
+Anti-Infectives & Antibiotics
+Gastroenterology & PPIs
+Sexual Wellness Medication
+Anti-Diabetic Medication
+Respiratory & Allergy
+Antimalarials Medication
+Dermatology & Topicals
+Ophthalmic & Otic Care
+Hospital Antiseptics & Sanitization
+Pain, Inflammation & NSAIDs
+Nutrition & Metabolic Tonics
+Endocrine & Supportive Care
+Antiretrovirals / Antivirals
+Pharmaceutical Peptide APIs
+Research Peptides (RUO)
+All Availability
+In Stock
+On Demand
+Custom
+Relevance
+Name A-Z
+Category
+Therapeutic Sector
+Availability
+Price: low to high
+Price: high to low
+
+## IMG ALT
+Akuma Enterprise Pharma Logo <= /logo.svg
+Ofloxacin 200mg Tablets — WHO-GMP Finished Formulation · Code AKP-001 · Tablets <= /product-images/products/akp-001-ofloxacin-200mg-tablets.webp
+Levocetirizine Hydrochloride 5mg Tablets — WHO-GMP Finished Formulation · Code AKP-003 · Tablets <= /product-images/products/akp-003-levocetirizine-hydrochloride-5mg-tablets.webp
+Aceclofenac 100mg & Paracetamol 325mg Tablets (Film Coated) — WHO-GMP Finished Formulation · Code AKP-004 · Tablets <= /product-images/products/akp-004-aceclofenac-100mg-paracetamol-325mg-tabl.webp
+Pantoprazole (eq. 20mg) & Domperidone 10mg Tablets (Enteric Coated) — WHO-GMP Finished Formulation · Code AKP-006 · Tablets <= /product-images/products/akp-006-pantoprazole-eq-20mg-domperidone-10mg-ta.webp
+Dapoxetine 30 mg & Sildenafil 50 mg Tablets — WHO-GMP Finished Formulation · Code AKP-103 · Tablets <= /product-images/products/akp-103-dapoxetine-30mg-sildenafil-50mg-tablets.webp
+Artemether 80 mg & Lumefantrine 480 mg Tablets — WHO-GMP Finished Formulation · Code AKP-030-MAL · Tablets <= /product-images/products/akp-030-artemether-80mg-lumefantrine-480mg-tablets.webp
+Dapagliflozin 10 mg & Metformin HCl 1000 mg ER Tablets — WHO-GMP Finished Formulation · Code AKP-100-DM · Tablets <= /product-images/products/akp-100-dapagliflozin-10mg-metformin-1000mg-er-tablets.webp
+Ofloxacin 200mg & Ornidazole 500mg Tablets — WHO-GMP Finished Formulation · Code AKP-002 · Tablets <= /product-images/products/akp-002-ofloxacin-200mg-ornidazole-500mg-tablets.webp
+Montelukast Sodium 10mg & Levocetirizine Hydrochloride 5mg Tablets — WHO-GMP Finished Formulation · Code AKP-010 · Tablets <= /product-images/products/akp-010-montelukast-sodium-10mg-levocetirizine-h.webp
+Aceclofenac 100mg & Paracetamol 325mg Tablets (Uncoated) — WHO-GMP Finished Formulation · Code AKP-005 · Tablets <= /product-images/products/akp-005-aceclofenac-100mg-paracetamol-325mg-tabl.webp
+Rabeprazole Sodium 20mg & Domperidone 10mg Tablets (Enteric Coated) — WHO-GMP Finished Formulation · Code AKP-007 · Tablets <= /product-images/products/akp-007-rabeprazole-sodium-20mg-domperidone-10mg.webp
+Dapoxetine 30 mg & Tadalafil 10 mg Tablets — WHO-GMP Finished Formulation · Code AKP-104 · Tablets <= /product-images/products/akp-104-dapoxetine-30mg-tadalafil-10mg-tablets.webp
+Chloroquine Phosphate Tablets IP 250 mg — WHO-GMP Finished Formulation · Code AKP-086-MAL · Tablets <= /product-images/products/akp-086-chloroquine-phosphate-250mg-tablets.webp
+Dapagliflozin 10 mg & Metformin HCl 500 mg ER Tablets — WHO-GMP Finished Formulation · Code AKP-101 · Tablets <= /product-images/products/akp-101-dapagliflozin-10mg-metformin-500mg-er-tablets.webp
+Cefixime 200mg Tablets — WHO-GMP Finished Formulation · Code AKP-100 · Tablets <= /product-images/products/akp-100-cefixime-200mg-film-coated-tablets-ip.webp
+Mucolite Tablets (Ambroxol HCl 30mg) — WHO-GMP Finished Formulation · Code AKP-099 · Tablets <= /product-images/products/akp-099-mucolite-tablets-ambroxol-hydrochloride.webp
+Pantoprazole Sodium (eq. Pantoprazole 40mg) Tablets (Enteric Coated) — WHO-GMP Finished Formulation · Code AKP-008 · Tablets <= /product-images/products/akp-008-pantoprazole-sodium-eq-pantoprazole-40mg.webp
+Dapoxetine 30 mg & Tadalafil 20 mg Tablets — WHO-GMP Finished Formulation · Code AKP-105 · Tablets <= /product-images/products/akp-105-dapoxetine-30mg-tadalafil-20mg-tablets.webp
+Dapagliflozin Tablets 10 mg — WHO-GMP Finished Formulation · Code AKP-102 · Tablets <= /product-images/products/akp-102-dapagliflozin-10mg-tablets.webp
+Pantoprazole (eq. 40mg) & Domperidone 10mg Tablets (Enteric Coated) — WHO-GMP Finished Formulation · Code AKP-009 · Tablets <= /product-images/products/akp-009-pantoprazole-eq-40mg-domperidone-10mg-ta.webp
+Sildenafil Citrate Tablets 100 mg — WHO-GMP Finished Formulation · Code AKP-340 · Tablets <= /product-images/products/akp-340-sildenafil-citrate-100mg-tablets.webp
+Gliclazide Extended Release Tablets 80 mg — WHO-GMP Finished Formulation · Code AKP-166 · Tablets <= /product-images/products/akp-166-gliclazide-80mg-er-tablets.webp
+Sildenafil Citrate Tablets 50 mg — WHO-GMP Finished Formulation · Code AKP-341 · Tablets <= /product-images/products/akp-341-sildenafil-citrate-50mg-tablets.webp
+Glimepiride Tablets IP 1 mg — WHO-GMP Finished Formulation · Code AKP-167 · Tablets <= /product-images/products/akp-167-glimepiride-1mg-tablets.webp
+Akuma Enterprise Pharma <= /logo.svg
+
+## FORMS
+
+
+## HREFS
+mailto:sales@akumaenterprises-pharma.com
+mailto:dalle@akumaenterprises-pharma.com
+tel:+9107986147827
+https://wa.me/9107986147827
+/
+/products
+/compliance
+/supply
+/solutions
+/knowledge
+/company
+/downloads/catalog/akuma-pharma-catalog-2026.pdf
+/product/ofloxacin-200mg-tablets-akp-001
+/product/levocetirizine-hydrochloride-5mg-tablets-akp-003
+/product/aceclofenac-100mg-paracetamol-325mg-tablets-film-coated-akp-004
+/product/pantoprazole-eq-20mg-domperidone-10mg-tablets-enteric-coated-akp-006
+/product/dapoxetine-30-mg-sildenafil-50-mg-tablets-akp-103
+/product/artemether-80-mg-lumefantrine-480-mg-tablets-akp-030-mal
+/product/dapagliflozin-10-mg-metformin-hcl-1000-mg-er-tablets-akp-100-dm
+/product/ofloxacin-200mg-ornidazole-500mg-tablets-akp-002
+/product/montelukast-sodium-10mg-levocetirizine-hydrochloride-5mg-tab-akp-010
+/product/aceclofenac-100mg-paracetamol-325mg-tablets-uncoated-akp-005
+/product/rabeprazole-sodium-20mg-domperidone-10mg-tablets-enteric-coa-akp-007
+/product/dapoxetine-30-mg-tadalafil-10-mg-tablets-akp-104
+/product/chloroquine-phosphate-tablets-ip-250-mg-akp-086-mal
+/product/dapagliflozin-10-mg-metformin-hcl-500-mg-er-tablets-akp-101
+/product/cefixime-200mg-film-coated-tablets-ip-akp-100
+/product/mucolite-tablets-ambroxol-hydrochloride-30mg-akp-099
+/product/pantoprazole-sodium-eq-pantoprazole-40mg-tablets-enteric-coa-akp-008
+/product/dapoxetine-30-mg-tadalafil-20-mg-tablets-akp-105
+/product/dapagliflozin-tablets-10-mg-akp-102
+/product/pantoprazole-eq-40mg-domperidone-10mg-tablets-enteric-coated-akp-009
+/product/sildenafil-citrate-tablets-100-mg-akp-340
+/product/gliclazide-extended-release-tablets-80-mg-akp-166
+/product/sildenafil-citrate-tablets-50-mg-akp-341
+/product/glimepiride-tablets-ip-1-mg-akp-167
+/products/tablets
+/products/capsules
+/products/dry-powder-injections
+/products/liquid-injections
+/products/oral-liquids
+/products/ointments-creams
+/products/peptides
+/products?sector=Antimalarials%20Medication
+/quality
+/certifications
+/contact
+/markets/west-africa
+/markets/east-africa
+/markets/southern-africa
+/markets/central-africa
+/markets/north-africa
+/country
+/sample-request
+/about
+/capabilities
+/news
+/privacy-policy
+/return-policy
+https://wa.me/9107986147827?text=Hello%20Akuma%20Enterprise%20Pharma,%20I%20have%20an%20inquiry
+
+## JSON-LD
+
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": ["Organization", "LocalBusiness", "Manufacturer"],
+            "@id": "https://www.akumaenterprises-pharma.com/#org",
+            "name": "Akuma Enterprise Pharma Pvt. Ltd.",
+            "alternateName": ["Akuma Enterprise Pharma", "Akuma Pharma"],
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "logo": "https://www.akumaenterprises-pharma.com/icon-512.png",
+            "image": "https://www.akumaenterprises-pharma.com/og-image.jpg",
+            "description": "ISO 9001:2015 and WHO-GMP certified exporter shipping from Asia to all 54 African countries & global markets across commercial finished formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules requested by clients, backed by Zone IVb stability and eCTD/ACTD dossiers.",
+            "foundingDate": "2009",
+            "slogan": "Pharmaceutical supply, engineered for confidence.",
+            "vatID": "03ACLFA6940J1ZB",
+            "taxID": "ACLFA6940J",
+            "numberOfEmployees": { "@type": "QuantitativeValue", "value": "200+" },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1st Floor, Cabin 101 #2609, Vinod Accounting Solutions, Landran Road, Adarsh Nagar, Kharar",
+              "addressLocality": "SAS Nagar",
+              "addressRegion": "Punjab",
+              "postalCode": "140301",
+              "addressCountry": "IN"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 30.7499,
+              "longitude": 76.6411
+            },
+            "openingHoursSpecification": [
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "09:00", "closes": "18:00" },
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "09:00", "closes": "13:00" }
+            ],
+            "contactPoint": [
+              {
+                "@type": "ContactPoint",
+                "contactType": "sales",
+                "telephone": "+91-07986147827",
+                "email": "sales@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "areaServed": ["NG","KE","GH","TZ","UG","ET","RW","ZA","EG","MA","CI","SN","CM","CD","ZM","ZW","AO","MZ","DZ","TN","US","CA","MX","BR","DE","FR","GB","IN","JP","AU","AE","SA"],
+                "availableLanguage": ["English","French","Portuguese","Arabic","Swahili","Spanish","Hindi"]
+              },
+              {
+                "@type": "ContactPoint",
+                "contactType": "executive and regulatory desk",
+                "telephone": "+91-07986147827",
+                "email": "dalle@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "availableLanguage": ["English","French","Portuguese","Arabic"]
+              }
+            ],
+            "hasCredential": [
+              { "@type": "EducationalOccupationalCredential", "name": "WHO-GMP", "credentialCategory": "Good Manufacturing Practice", "recognizedBy": { "@type": "Organization", "name": "World Health Organization" } },
+              { "@type": "EducationalOccupationalCredential", "name": "ISO 9001:2015", "credentialCategory": "Quality Management System" },
+              { "@type": "EducationalOccupationalCredential", "name": "ACTD / eCTD Regulatory Dossiers", "credentialCategory": "Modules 1-5 Technical Dossier" },
+              { "@type": "EducationalOccupationalCredential", "name": "ICH Zone IVb Tropical Stability", "credentialCategory": "30C / 75% RH Climatic Stability" },
+              { "@type": "EducationalOccupationalCredential", "name": "CDSCO Manufacturing Licence", "credentialCategory": "Pharmaceutical Manufacturing Licence", "recognizedBy": { "@type": "Organization", "name": "Central Drugs Standard Control Organization (India)" } }
+            ],
+            "knowsAbout": [
+              "Commercial Finished Formulations",
+              "Antimalarial Injections & ACT Tablets (Artesunate IV, Artemether-Lumefantrine)",
+              "Sexual Wellness & Urology Formulations",
+              "Anti-Diabetic SGLT2 & Gliptin Combinations",
+              "Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin)",
+              "Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu)",
+              "African NRA Regulatory Filings (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana, EFDA, WAHO)",
+              "ICH Zone IVb Tropical Stability & Cold-Chain Export",
+              "Dry Powder Injections & Lyophilized Vials",
+              "Liquid Injections & Sterile Ampoules",
+              "Oral Liquids & Paediatric Dry Syrups",
+              "Topical Ointments, Eye-Ear Drops & Nasal Sprays",
+              "WHO-GMP Quality Compliance"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.akumaenterprises-pharma.com/#website",
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "name": "Akuma Enterprise Pharma",
+            "publisher": { "@id": "https://www.akumaenterprises-pharma.com/#org" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": { "@type": "EntryPoint", "urlTemplate": "https://www.akumaenterprises-pharma.com/products?search={search_term_string}" },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": ["en", "fr"]
+          }
+        ]
+      }
+    
+-----
+
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What pharmaceutical products and peptide portfolios does Akuma Enterprise Pharma supply?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Akuma Enterprise Pharma exports from Asia across all 54 countries of Africa and global markets. Our featured portfolio covers WHO-GMP commercial finished formulations (Tablets, Capsules, Dry Powder Injections, Liquid Injections, Oral Liquids, Ointments & Creams, Eye-Ear Drops, Nasal Sprays, Dry Syrups, Paediatric Drops, and Sanitizers), Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin, Leuprorelin), and Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu) \u2014 while accepting every custom molecule, dosage, and tender specification on request."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Do you provide ACTD/eCTD dossiers and Zone IVb stability for African National Regulatory Authorities (NRAs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Yes. Every finished formulation and Pharmaceutical Peptide API is backed by 5-Module ACTD/eCTD dossiers, WHO-Format Certificates of Pharmaceutical Product (CoPP), Free Sale Certificates (FSC), CoA, bilingual EN/FR/PT/AR packaging support, and ICH Zone IVb tropical stability studies (30\u00b0C/75% RH & 40\u00b0C/75% RH) tailored for NAFDAC (Nigeria), PPB (Kenya), SAHPRA (South Africa), TMDA (Tanzania), FDA Ghana, AIRP (Cote d'Ivoire), ARP (Senegal), EFDA, NDA, WAHO, and SADC ZAZIBONA."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "How are Pharmaceutical Peptide APIs separated from Research Peptides (RUO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Our Pharmaceutical Peptide APIs (AKP-API series) are manufactured to >=99.0% HPLC purity for licensed formulators and clinical supply chains, whereas our Research Peptides (AKP-RP series) are strictly labeled and restricted to in-vitro laboratory Research Use Only (RUO \u2014 Not for Human or Veterinary Consumption). Custom peptide syntheses are also available."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What are the minimum order quantities (MOQ) and export freight corridors from India to Africa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Standard export MOQs are 1,000 packs for finished formulations, 50 vials for Pharmaceutical Peptide APIs, and 10 vials for RUO Research Peptides. Consignments dispatch via Mumbai (BOM/JNPT) and New Delhi (DEL) air/sea corridors into Lagos, Mombasa, Tema, Durban, Dar es Salaam, Djibouti, Abidjan, and Dakar with validated cold-chain loggers where required."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Which antimalarial, sexual wellness, anti-diabetic, and hospital antibiotic formulations are in stock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "In-stock flagship export lines include Artesunate IV/IM lyophilized vials (30\u2013240 mg), Artemether & \u03b1-\u03b2 Arteether ampoules, Artemether 80/Lumefantrine 480 mg tablets, Chloroquine tablets & suspension, Dapoxetine + Sildenafil/Tadalafil/Vardenafil and Silodosin urology generics, Dapagliflozin & Glimepiride triple combos, Ceftriaxone-Sulbactam, and Cefixime paediatric dry syrups."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Fournissez-vous des m\u00e9dicaments certifi\u00e9s OMS-BPF et des dossiers CTD en fran\u00e7ais pour l'Afrique francophone ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Oui. Akuma Enterprise Pharma exporte depuis l'Asie vers les 54 pays d'Afrique (formulations finies OMS-BPF, API peptidiques, peptides RUO et demandes sur mesure) avec dossiers ACTD/eCTD 5 Modules, CoPP OMS, stabilit\u00e9 ICH Zone IVb et notices RCP/Patient en fran\u00e7ais pour l'AIRP (C\u00f4te d'Ivoire), l'ARP (S\u00e9n\u00e9gal), la DPML (Cameroun), l'ACOREP (RD Congo), la DMP (Maroc) et l'espace WAHO/CEDEAO."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Comment demander un devis export CIF/FOB sous 24 heures vers l'Afrique ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Contactez notre bureau export Afrique par e-mail \u00e0 sales@akumaenterprises-pharma.com ou dalle@akumaenterprises-pharma.com, sur WhatsApp au +91 07986147827, ou directement via le formulaire de devis bilingue sur akumaenterprises-pharma.com/contact."
+      }
+    }
+  ]
+}
+
+-----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":2,"name":"","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":3,"name":"Products","item":"https://www.akumaenterprises-pharma.com//products"},{"@type":"ListItem","position":4,"name":"Tablets","item":"https://www.akumaenterprises-pharma.com//products/tablets"}]}
+-----
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Pharmaceutical Tablets Formulation Portfolio","description":"Akuma Enterprise Pharma delivers WHO-GMP oral solid dosage tablets covering Artemether-Lumefantrine antimalarials, Dapagliflozin/Glimepiride anti-diabetics, Sildenafil/Tadalafil/Dapoxetine sexual wellness, anti-infectives, PPIs, and respiratory formulations with ACTD/eCTD dossiers for Africa & global markets.","inLanguage":"en","isPartOf":{"@id":"https://www.akumaenterprises-pharma.com/#website"},"about":"Commercial Finished Pharmaceutical Formulations, Pharmaceutical Peptide APIs, and Research Peptides across 12 categories and 15 therapeutic sectors for Africa and global markets","mainEntity":{"@type":"ItemList","numberOfItems":45,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Product","name":"Ofloxacin 200mg Tablets","sku":"AKP-001","category":"Tablets — Anti-Infectives & Antibiotics","url":"https://www.akumaenterprises-pharma.com/product/ofloxacin-200mg-tablets-akp-001","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-001-ofloxacin-200mg-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":2,"item":{"@type":"Product","name":"Levocetirizine Hydrochloride 5mg Tablets","sku":"AKP-003","category":"Tablets — Respiratory & Allergy","url":"https://www.akumaenterprises-pharma.com/product/levocetirizine-hydrochloride-5mg-tablets-akp-003","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-003-levocetirizine-hydrochloride-5mg-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":3,"item":{"@type":"Product","name":"Aceclofenac 100mg & Paracetamol 325mg Tablets (Film Coated)","sku":"AKP-004","category":"Tablets — Pain, Inflammation & NSAIDs","url":"https://www.akumaenterprises-pharma.com/product/aceclofenac-100mg-paracetamol-325mg-tablets-film-coated-akp-004","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-004-aceclofenac-100mg-paracetamol-325mg-tabl.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":4,"item":{"@type":"Product","name":"Pantoprazole (eq. 20mg) & Domperidone 10mg Tablets (Enteric Coated)","sku":"AKP-006","category":"Tablets — Gastroenterology & PPIs","url":"https://www.akumaenterprises-pharma.com/product/pantoprazole-eq-20mg-domperidone-10mg-tablets-enteric-coated-akp-006","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-006-pantoprazole-eq-20mg-domperidone-10mg-ta.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":5,"item":{"@type":"Product","name":"Dapoxetine 30 mg & Sildenafil 50 mg Tablets","sku":"AKP-103","category":"Tablets — Sexual Wellness Medication","url":"https://www.akumaenterprises-pharma.com/product/dapoxetine-30-mg-sildenafil-50-mg-tablets-akp-103","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-103-dapoxetine-30mg-sildenafil-50mg-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":6,"item":{"@type":"Product","name":"Artemether 80 mg & Lumefantrine 480 mg Tablets","sku":"AKP-030-MAL","category":"Tablets — Antimalarials Medication","url":"https://www.akumaenterprises-pharma.com/product/artemether-80-mg-lumefantrine-480-mg-tablets-akp-030-mal","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-030-artemether-80mg-lumefantrine-480mg-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":7,"item":{"@type":"Product","name":"Dapagliflozin 10 mg & Metformin HCl 1000 mg ER Tablets","sku":"AKP-100-DM","category":"Tablets — Anti-Diabetic Medication","url":"https://www.akumaenterprises-pharma.com/product/dapagliflozin-10-mg-metformin-hcl-1000-mg-er-tablets-akp-100-dm","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-100-dapagliflozin-10mg-metformin-1000mg-er-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":8,"item":{"@type":"Product","name":"Ofloxacin 200mg & Ornidazole 500mg Tablets","sku":"AKP-002","category":"Tablets — Anti-Infectives & Antibiotics","url":"https://www.akumaenterprises-pharma.com/product/ofloxacin-200mg-ornidazole-500mg-tablets-akp-002","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-002-ofloxacin-200mg-ornidazole-500mg-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":9,"item":{"@type":"Product","name":"Montelukast Sodium 10mg & Levocetirizine Hydrochloride 5mg Tablets","sku":"AKP-010","category":"Tablets — Respiratory & Allergy","url":"https://www.akumaenterprises-pharma.com/product/montelukast-sodium-10mg-levocetirizine-hydrochloride-5mg-tab-akp-010","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-010-montelukast-sodium-10mg-levocetirizine-h.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":10,"item":{"@type":"Product","name":"Aceclofenac 100mg & Paracetamol 325mg Tablets (Uncoated)","sku":"AKP-005","category":"Tablets — Pain, Inflammation & NSAIDs","url":"https://www.akumaenterprises-pharma.com/product/aceclofenac-100mg-paracetamol-325mg-tablets-uncoated-akp-005","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-005-aceclofenac-100mg-paracetamol-325mg-tabl.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":11,"item":{"@type":"Product","name":"Rabeprazole Sodium 20mg & Domperidone 10mg Tablets (Enteric Coated)","sku":"AKP-007","category":"Tablets — Gastroenterology & PPIs","url":"https://www.akumaenterprises-pharma.com/product/rabeprazole-sodium-20mg-domperidone-10mg-tablets-enteric-coa-akp-007","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-007-rabeprazole-sodium-20mg-domperidone-10mg.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":12,"item":{"@type":"Product","name":"Dapoxetine 30 mg & Tadalafil 10 mg Tablets","sku":"AKP-104","category":"Tablets — Sexual Wellness Medication","url":"https://www.akumaenterprises-pharma.com/product/dapoxetine-30-mg-tadalafil-10-mg-tablets-akp-104","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-104-dapoxetine-30mg-tadalafil-10mg-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":13,"item":{"@type":"Product","name":"Chloroquine Phosphate Tablets IP 250 mg","sku":"AKP-086-MAL","category":"Tablets — Antimalarials Medication","url":"https://www.akumaenterprises-pharma.com/product/chloroquine-phosphate-tablets-ip-250-mg-akp-086-mal","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-086-chloroquine-phosphate-250mg-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":14,"item":{"@type":"Product","name":"Dapagliflozin 10 mg & Metformin HCl 500 mg ER Tablets","sku":"AKP-101","category":"Tablets — Anti-Diabetic Medication","url":"https://www.akumaenterprises-pharma.com/product/dapagliflozin-10-mg-metformin-hcl-500-mg-er-tablets-akp-101","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-101-dapagliflozin-10mg-metformin-500mg-er-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":15,"item":{"@type":"Product","name":"Cefixime 200mg Tablets","sku":"AKP-100","category":"Tablets — Anti-Infectives & Antibiotics","url":"https://www.akumaenterprises-pharma.com/product/cefixime-200mg-film-coated-tablets-ip-akp-100","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-100-cefixime-200mg-film-coated-tablets-ip.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":16,"item":{"@type":"Product","name":"Mucolite Tablets (Ambroxol HCl 30mg)","sku":"AKP-099","category":"Tablets — Respiratory & Allergy","url":"https://www.akumaenterprises-pharma.com/product/mucolite-tablets-ambroxol-hydrochloride-30mg-akp-099","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-099-mucolite-tablets-ambroxol-hydrochloride.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":17,"item":{"@type":"Product","name":"Pantoprazole Sodium (eq. Pantoprazole 40mg) Tablets (Enteric Coated)","sku":"AKP-008","category":"Tablets — Gastroenterology & PPIs","url":"https://www.akumaenterprises-pharma.com/product/pantoprazole-sodium-eq-pantoprazole-40mg-tablets-enteric-coa-akp-008","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-008-pantoprazole-sodium-eq-pantoprazole-40mg.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":18,"item":{"@type":"Product","name":"Dapoxetine 30 mg & Tadalafil 20 mg Tablets","sku":"AKP-105","category":"Tablets — Sexual Wellness Medication","url":"https://www.akumaenterprises-pharma.com/product/dapoxetine-30-mg-tadalafil-20-mg-tablets-akp-105","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-105-dapoxetine-30mg-tadalafil-20mg-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":19,"item":{"@type":"Product","name":"Dapagliflozin Tablets 10 mg","sku":"AKP-102","category":"Tablets — Anti-Diabetic Medication","url":"https://www.akumaenterprises-pharma.com/product/dapagliflozin-tablets-10-mg-akp-102","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-102-dapagliflozin-10mg-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":20,"item":{"@type":"Product","name":"Pantoprazole (eq. 40mg) & Domperidone 10mg Tablets (Enteric Coated)","sku":"AKP-009","category":"Tablets — Gastroenterology & PPIs","url":"https://www.akumaenterprises-pharma.com/product/pantoprazole-eq-40mg-domperidone-10mg-tablets-enteric-coated-akp-009","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-009-pantoprazole-eq-40mg-domperidone-10mg-ta.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":21,"item":{"@type":"Product","name":"Sildenafil Citrate Tablets 100 mg","sku":"AKP-340","category":"Tablets — Sexual Wellness Medication","url":"https://www.akumaenterprises-pharma.com/product/sildenafil-citrate-tablets-100-mg-akp-340","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-340-sildenafil-citrate-100mg-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":22,"item":{"@type":"Product","name":"Gliclazide Extended Release Tablets 80 mg","sku":"AKP-166","category":"Tablets — Anti-Diabetic Medication","url":"https://www.akumaenterprises-pharma.com/product/gliclazide-extended-release-tablets-80-mg-akp-166","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-166-gliclazide-80mg-er-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":23,"item":{"@type":"Product","name":"Sildenafil Citrate Tablets 50 mg","sku":"AKP-341","category":"Tablets — Sexual Wellness Medication","url":"https://www.akumaenterprises-pharma.com/product/sildenafil-citrate-tablets-50-mg-akp-341","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-341-sildenafil-citrate-50mg-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":24,"item":{"@type":"Product","name":"Glimepiride Tablets IP 1 mg","sku":"AKP-167","category":"Tablets — Anti-Diabetic Medication","url":"https://www.akumaenterprises-pharma.com/product/glimepiride-tablets-ip-1-mg-akp-167","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-167-glimepiride-1mg-tablets.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}}]}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":2,"name":"Products","item":"https://www.akumaenterprises-pharma.com/products"},{"@type":"ListItem","position":3,"name":"Tablets"}]}]}

@@ -1,0 +1,191 @@
+URL: https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html?lang=fr
+FINAL: https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda?lang=fr
+STATUS: 200
+LANG: fr
+TITLE: African NRA Pharma Registration Playbook: NAFDAC, PPB, SAHPRA, TMDA & FDA Ghana
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #0D9488
+robots = index,follow,max-image-preview:large,max-snippet:-1
+description = Country-by-country African pharmaceutical import & NRA registration guide for Nigeria (NAFDAC), Kenya (PPB), South Africa (SAHPRA), Tanzania (TMDA), Ghana (FDA Ghana), Ethiopia (EFDA), WAHO & ZAZIBONA.
+keywords = NAFDAC registration India pharma, PPB Kenya ACTD dossier, SAHPRA eCTD India exporter, TMDA Tanzania medicines supplier, FDA Ghana pharma import, WAHO ECOWAS dossier
+author = Akuma Enterprise Pharma Pvt. Ltd.
+og:type = article
+og:site_name = Akuma Enterprise Pharma
+og:title = African NRA Pharma Registration Playbook: NAFDAC, PPB, SAHPRA, TMDA & FDA Ghana
+og:description = Country-by-country African pharmaceutical import & NRA registration guide for Nigeria (NAFDAC), Kenya (PPB), South Africa (SAHPRA), Tanzania (TMDA), Ghana (FDA Ghana), Ethiopia (EFDA), WAHO & ZAZIBONA.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:url = https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html
+twitter:card = summary_large_image
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html
+alternate x-default https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html
+alternate en https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html
+alternate en-NG https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html
+alternate en-KE https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html
+alternate en-GH https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html
+alternate en-ZA https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html
+alternate en-TZ https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html
+alternate en-UG https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html
+alternate en-GB https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html
+alternate en-US https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html
+alternate fr https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html?lang=fr
+alternate fr-SN https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html?lang=fr
+alternate fr-CM https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html?lang=fr
+alternate fr-CD https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html?lang=fr
+alternate fr-MA https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html?lang=fr
+alternate fr-FR https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html?lang=fr
+alternate fr-CA https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html?lang=fr
+
+## TEXT
+Accueil / Guides / Guide d'Enregistrement Pharmaceutique ANR en Afrique (AIRP, ARP, NAFDAC, PPB, SAHPRA, TMDA)
+EN
+FR
+Export Asie vers 54 Pays d'Afrique · Demandes Sur Mesure
+Guide d'Enregistrement Pharmaceutique ANR en Afrique (AIRP, ARP, NAFDAC, PPB, SAHPRA, TMDA)
+
+Feuille de route réglementaire et logistique pour importateurs licenciés et soumissionnaires publics enregistrant nos médicaments indiens OMS-BPF auprès des Autorités Nationales de Réglementation en Afrique.
+
+Synthèse Directe : L'enregistrement pharmaceutique auprès des ANR africaines — AIRP (Côte d'Ivoire), ARP (Sénégal), DPML (Cameroun), ACOREP (RDC), DMP (Maroc), WAHO/CEDEAO, NAFDAC (Nigeria), PPB (Kenya), SAHPRA (Afrique du Sud), TMDA (Tanzanie) et FDA Ghana — exige certificat OMS-BPF, CoPP, dossier ACTD/eCTD 5 Modules, stabilité Zone IVb et étiquetage bilingue. Akuma Enterprise Pharma fournit cet accompagnement clé en main.
+Voies Réglementaires Africaines Prises en Charge
+Afrique Francophone (AIRP, ARP, DPML, ACOREP, DMP, WAHO) : Dossiers CTD complets en français, Résumé des Caractéristiques du Produit (RCP), notices patients FR et traçabilité.
+Afrique Anglophone & Australe (NAFDAC, FDA Ghana, PPB, TMDA, NDA, EFDA, SAHPRA, ZAZIBONA) : Dossiers ACTD/eCTD Modules 1–5 et stabilité Zone IVb.
+Afrique Lusophone & Arabe : Notices bilingues portugais/anglais (Angola, Mozambique) et arabe/français (Égypte, Afrique du Nord).
+Formulations à Forte Demande Hospitalière & Officinale en Afrique
+
+Disponibilité immédiate en stock : Artésunate IV/IM 30–240 mg, Artéméther-Luméfantrine 80/480 mg, α-β Artééther 150 mg, Ceftriaxone-Sulbactam, Céfixime sirops secs, antidiabétiques Dapagliflozine/Glimépiride, Sildénafil/Tadalafil/Dapoxétine et SRO OMS.
+
+Questions Fréquentes
+Fournissez-vous des boîtes et notices en français pour la Côte d'Ivoire, le Sénégal et la RDC ?
+
+Oui. Notre service infographie réglementaire prépare étuis, foils et notices patients (Notice / RCP) conformes AIRP, ARP, DPML, ACOREP et WAHO.
+
+Vos antipaludiques disposent-ils de la stabilité Zone IVb (30 °C / 75 % HR) ?
+
+Oui, tous nos flacons d'Artésunate, ampoules d'Artéméther, comprimés ACT et suspensions sont appuyés par des études Zone IVb temps réel et accéléré.
+
+Quels aéroports et ports africains desservez-vous régulièrement ?
+
+Abidjan, Dakar, Douala, Matadi, Casablanca, Lagos, Tema, Mombasa, Dar es Salaam, Entebbe, Addis-Abeba, Kigali, Durban, Luanda et Maputo.
+
+Devenez Partenaire d'Akuma Enterprise Pharma
+
+Contactez notre bureau export Afrique & Monde pour recevoir sous 24 h vos cotations CIF/FOB, catalogues et dossiers eCTD/ACTD.
+
+Explorer Tout le Catalogue Export Demander Dossier ANR & Devis 24h
+sales@akumaenterprises-pharma.com dalle@akumaenterprises-pharma.com
+
+Contact Direct & WhatsApp : +91 07986147827 · Akuma Enterprise Pharma Pvt. Ltd. · SAS Nagar, Punjab - 140301, India.
+
+## IMG ALT
+
+
+## FORMS
+
+
+## HREFS
+/
+/guides/
+/products
+/contact
+mailto:sales@akumaenterprises-pharma.com?subject=Inquiry%20via%20african-pharma-registration-nafdac-ppb-sahpra-tmda.html
+mailto:dalle@akumaenterprises-pharma.com
+https://wa.me/9107986147827
+
+## JSON-LD
+
+  {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html#webpage",
+      "url": "https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html",
+      "name": "African NRA Pharma Registration Playbook: NAFDAC, PPB, SAHPRA, TMDA & FDA Ghana",
+      "description": "Country-by-country African pharmaceutical import & NRA registration guide for Nigeria (NAFDAC), Kenya (PPB), South Africa (SAHPRA), Tanzania (TMDA), Ghana (FDA Ghana), Ethiopia (EFDA), WAHO & ZAZIBONA.",
+      "inLanguage": [
+        "en",
+        "fr"
+      ],
+      "isPartOf": {
+        "@id": "https://www.akumaenterprises-pharma.com/#website"
+      },
+      "about": {
+        "@id": "https://www.akumaenterprises-pharma.com/#org"
+      },
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-11-10"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.akumaenterprises-pharma.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Guides",
+          "item": "https://www.akumaenterprises-pharma.com/guides/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "African NRA Pharma Registration Playbook: NAFDAC, PPB, SAHPRA, TMDA & FDA Ghana",
+          "item": "https://www.akumaenterprises-pharma.com/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.akumaenterprises-pharma.com/#org",
+      "name": "Akuma Enterprise Pharma Pvt. Ltd.",
+      "url": "https://www.akumaenterprises-pharma.com",
+      "logo": "https://www.akumaenterprises-pharma.com/icon-512.png",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1st Floor, Cabin 101 #2609, Vinod Accounting Solutions, Landran Road, Adarsh Nagar, Kharar",
+        "addressLocality": "SAS Nagar",
+        "addressRegion": "Punjab",
+        "postalCode": "140301",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do you supply bilingual English/French and English/Portuguese packaging for Africa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We customize unit cartons, foil printing, and Patient Information Leaflets (PIL / Notice) in English, French, Portuguese, and Arabic to meet AIRP, ARP, ARMED, ANARME, EDA, and DMP regulations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are antimalarials and hospital antibiotics backed by Zone IVb stability data?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Artesunate vials, Artemether ampoules, Artemether-Lumefantrine tablets, Chloroquine suspension, and sterile cephalosporins all carry validated 30\u00b0C/75% RH and 40\u00b0C/75% RH stability reports."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which African ports & airports do you ship into regularly?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We dispatch weekly from Mumbai (BOM/JNPT) and Delhi (DEL) into Lagos/Apapa, Tema/Accra, Abidjan, Dakar, Douala, Mombasa/Nairobi, Dar es Salaam, Entebbe, Djibouti/Addis, Kigali, Durban/Johannesburg, Luanda, Maputo, Cairo, and Casablanca."
+          }
+        }
+      ]
+    }
+  ]
+}
+  

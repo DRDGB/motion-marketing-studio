@@ -1,0 +1,734 @@
+URL: https://www.akumaenterprises-pharma.com/products/nasal-spray
+FINAL: https://www.akumaenterprises-pharma.com/products/nasal-spray
+STATUS: 200
+LANG: en
+TITLE: Nasal Spray — Metered-Dose Intranasal Formulations | Akuma Enterprise Pharma
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #B3122B
+msapplication-TileColor = #B3122B
+msapplication-TileImage = /icon-192.png
+robots = index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+google-site-verification = VERIFY-ME-GOOGLE
+msvalidate.01 = VERIFY-ME-BING
+yandex-verification = VERIFY-ME-YANDEX
+baidu-site-verification = VERIFY-ME-BAIDU
+naver-site-verification = VERIFY-ME-NAVER
+description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished pharmaceutical formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules manufactured or sourced on request with Zone IVb stability & bilingual EN/FR Africa dossiers.
+author = Akuma Enterprise Pharma Pvt. Ltd.
+keywords = pharmaceutical exporter Africa India, NAFDAC registered medicines supplier, PPB Kenya SAHPRA TMDA FDA Ghana dossiers, WHO-GMP finished pharmaceutical formulations, Zone IVb stability medicines Africa, Artesunate IV Artemether Lumefantrine India, Semaglutide Tirzepatide Peptide API India, BPC-157 TB-500 Retatrutide RUO peptides, tablets capsules injectables manufacturer Punjab, eCTD ACTD dossiers India
+og:type = website
+og:site_name = Akuma Enterprise Pharma
+og:title = Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global
+og:description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished formulations, Peptide APIs, Research Peptides, and custom sourcing for every buyer request with Zone IVb stability and Africa eCTD/ACTD dossiers.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:image:type = image/jpeg
+og:image:width = 1200
+og:image:height = 630
+og:image:alt = Akuma Enterprise Pharma finished formulations and dossiers
+og:url = https://www.akumaenterprises-pharma.com
+og:locale = en_US
+og:locale:alternate = fr_CI
+og:locale:alternate = fr_SN
+og:locale:alternate = fr_FR
+og:locale:alternate = en_NG
+og:locale:alternate = en_KE
+og:locale:alternate = en_ZA
+twitter:card = summary_large_image
+twitter:title = Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global
+twitter:description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & globally across finished formulations, Peptide APIs, RUO peptides, and custom molecules on request with bilingual EN/FR Africa dossiers.
+twitter:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+twitter:image:alt = Akuma Enterprise Pharma finished formulations and dossiers
+geo.region = IN-PB
+geo.placename = SAS Nagar, Punjab, India
+geo.position = 30.7499;76.6411
+ICBM = 30.7499, 76.6411
+description = Ergonomic metered-dose nasal pump sprays for allergic rhinitis, acute migraine relief, and nasal decongestion with uniform droplet distribution.
+keywords = nasal spray, fluticasone nasal spray, xylometazoline spray, zolmitriptan nasal spray, metered dose nasal pump, intranasal formulation
+author = Akuma Enterprise Pharma Pvt. Ltd.
+application-name = Akuma Enterprise Pharma
+apple-mobile-web-app-title = Akuma Enterprise Pharma
+theme-color = #B3122B
+robots = index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+language = en
+geo.region = IN-PB
+geo.placename = SAS Nagar, Punjab, India
+geo.position = 30.7499;76.6411
+ICBM = 30.7499, 76.6411
+industry = Pharmaceutical Manufacturing & Africa Healthcare Export
+business-type = B2B Pharmaceutical Manufacturer & Exporter
+og:type = website
+og:title = Nasal Spray — Metered-Dose Intranasal Formulations | Akuma Enterprise Pharma
+og:description = Ergonomic metered-dose nasal pump sprays for allergic rhinitis, acute migraine relief, and nasal decongestion with uniform droplet distribution.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:image:type = image/jpeg
+og:image:width = 1920
+og:image:height = 1080
+og:image:alt = Nasal Spray — Metered-Dose Intranasal Formulations
+og:site_name = Akuma Enterprise Pharma
+og:locale = en_US
+og:locale:alternate = fr_FR
+og:locale:alternate = fr_CI
+og:locale:alternate = fr_SN
+og:locale:alternate = en_NG
+og:locale:alternate = en_KE
+og:locale:alternate = en_ZA
+og:url = https://www.akumaenterprises-pharma.com/products/nasal-spray
+twitter:card = summary_large_image
+twitter:title = Nasal Spray — Metered-Dose Intranasal Formulations | Akuma Enterprise Pharma
+twitter:description = Ergonomic metered-dose nasal pump sprays for allergic rhinitis, acute migraine relief, and nasal decongestion with uniform droplet distribution.
+twitter:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+twitter:image:alt = Nasal Spray — Metered-Dose Intranasal Formulations
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/products/nasal-spray
+alternate x-default https://www.akumaenterprises-pharma.com/
+alternate en https://www.akumaenterprises-pharma.com/
+alternate en-NG https://www.akumaenterprises-pharma.com/en-ng/
+alternate en-KE https://www.akumaenterprises-pharma.com/en-ke/
+alternate en-GH https://www.akumaenterprises-pharma.com/en-gh/
+alternate en-ZA https://www.akumaenterprises-pharma.com/en-za/
+alternate en-TZ https://www.akumaenterprises-pharma.com/en-tz/
+alternate en-UG https://www.akumaenterprises-pharma.com/en-ug/
+alternate fr https://www.akumaenterprises-pharma.com/?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/fr-ci/
+alternate fr-SN https://www.akumaenterprises-pharma.com/fr-sn/
+alternate fr-CM https://www.akumaenterprises-pharma.com/fr-cm/
+alternate fr-CD https://www.akumaenterprises-pharma.com/fr-cd/
+alternate fr-MA https://www.akumaenterprises-pharma.com/fr-ma/
+alternate en-US https://www.akumaenterprises-pharma.com/
+alternate en-GB https://www.akumaenterprises-pharma.com/en-gb/
+alternate en-IN https://www.akumaenterprises-pharma.com/en-in/
+alternate en-AU https://www.akumaenterprises-pharma.com/en-au/
+alternate en-CA https://www.akumaenterprises-pharma.com/en-ca/
+alternate en-NZ https://www.akumaenterprises-pharma.com/en-nz/
+alternate de-DE https://www.akumaenterprises-pharma.com/de-de/
+alternate fr-FR https://www.akumaenterprises-pharma.com/fr-fr/
+alternate es-ES https://www.akumaenterprises-pharma.com/es-es/
+alternate it-IT https://www.akumaenterprises-pharma.com/it-it/
+alternate nl-NL https://www.akumaenterprises-pharma.com/nl-nl/
+alternate pt-BR https://www.akumaenterprises-pharma.com/pt-br/
+alternate es-MX https://www.akumaenterprises-pharma.com/es-mx/
+alternate fr-CA https://www.akumaenterprises-pharma.com/fr-ca/
+alternate ja-JP https://www.akumaenterprises-pharma.com/ja-jp/
+alternate ko-KR https://www.akumaenterprises-pharma.com/ko-kr/
+alternate  https://www.akumaenterprises-pharma.com/news.rss
+alternate  https://www.akumaenterprises-pharma.com/dmf-updates.rss
+alternate  https://www.akumaenterprises-pharma.com/llms.txt
+alternate  https://www.akumaenterprises-pharma.com/products.json
+canonical  https://www.akumaenterprises-pharma.com/products/nasal-spray
+alternate en https://www.akumaenterprises-pharma.com/products/nasal-spray
+alternate en-NG https://www.akumaenterprises-pharma.com/products/nasal-spray
+alternate en-KE https://www.akumaenterprises-pharma.com/products/nasal-spray
+alternate en-GH https://www.akumaenterprises-pharma.com/products/nasal-spray
+alternate en-ZA https://www.akumaenterprises-pharma.com/products/nasal-spray
+alternate en-TZ https://www.akumaenterprises-pharma.com/products/nasal-spray
+alternate en-UG https://www.akumaenterprises-pharma.com/products/nasal-spray
+alternate en-GB https://www.akumaenterprises-pharma.com/products/nasal-spray
+alternate en-US https://www.akumaenterprises-pharma.com/products/nasal-spray
+alternate fr https://www.akumaenterprises-pharma.com/products/nasal-spray?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/products/nasal-spray?lang=fr
+alternate fr-SN https://www.akumaenterprises-pharma.com/products/nasal-spray?lang=fr
+alternate fr-CM https://www.akumaenterprises-pharma.com/products/nasal-spray?lang=fr
+alternate fr-CD https://www.akumaenterprises-pharma.com/products/nasal-spray?lang=fr
+alternate fr-MA https://www.akumaenterprises-pharma.com/products/nasal-spray?lang=fr
+alternate fr-FR https://www.akumaenterprises-pharma.com/products/nasal-spray?lang=fr
+alternate x-default https://www.akumaenterprises-pharma.com/products/nasal-spray
+
+## TEXT
+sales@akumaenterprises-pharma.com
+|
+dalle@akumaenterprises-pharma.com
++91 07986147827
+|
+WhatsApp: +91 07986147827
+Akuma Enterprise Pharma
+FINISHED FORMULATIONS & GLOBAL DOSSIERS
+Products
+Compliance
+Supply
+Solutions
+Knowledge
+Company
+EN
+FR
+Request a Dossier
+→
+
+WHO-GMP Formulations, Peptide APIs & RUO Research Peptides — Africa & Global Export
+
+Commercial medicines & Peptide APIs are manufactured under WHO-GMP and ISO 9001:2015 systems (IP, BP, USP, EP) with Zone IVb stability, CoA, and eCTD/ACTD dossiers for African NRAs (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana) & global tenders. Lyophilized Research Peptides (RUO) are ≥99.0% HPLC/MS verified strictly for laboratory use.
+
+Metered-Dose Nasal Sprays & Decongestants
+
+Precision-valved nasal spray devices engineered to deliver consistent 50µl–100µl dose volumes with minimal systemic irritation.
+
+11 Showcased Results
+2026 PDF Catalog ↓
+WhatsApp Export Desk
+Filter by:
+Nasal Spray
+All Therapeutic Sectors
+All Availability
+Export Catalog
+REGULATORY:
+WHO-GMP Certified
+(11)
+eCTD Dossier Ready
+(11)
+Zone IVb Stability
+(11)
+Research Use Only (RUO)
+(0)
+Nasal Spray
+
+Showing 11 showcased catalog products · Custom molecules & strengths sourced on request
+
+Relevance
+Nasal Spray
+Respiratory & Allergy
+In Stock
+Fluticasone Furoate 0.0275% w/v Nasal Spray
+
+Code: AKP-071
+
+High-affinity corticosteroid fine-mist nasal spray providing 24-hour suppression of nasal congestion, rhinorrhea, and ocular allergy symptoms with ultra-low systemic bioavailability. Active: Fluticasone Furoate 0.0275% w/v (0.0275% w/v (27.5 mcg/spray)). Indication: Seasonal and perennial allergic rhinitis in adults and children aged 2+ years.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Nasal Spray
+Endocrine & Supportive Care
+In Stock
+Calcitonin (Salmon) 2200 IU Nasal Spray
+
+Code: AKP-073
+
+Intranasal polypeptide calcium-regulating spray inhibiting osteoclastic bone resorption and providing centrally mediated analgesia in painful osteoporotic vertebral compression fractures. Active: Calcitonin (Salmon) Synthetic BP / USP 2200 IU/ml (2200 IU/ml (200 IU/spray)). Indication: Postmenopausal osteoporosis pain & vertebral bone loss, Paget's bone disease, and hypercalcemia.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Nasal Spray
+Pain, Inflammation & NSAIDs
+In Stock
+Zolmitriptan 5.0% w/v Nasal Spray
+
+Code: AKP-074
+
+Fast-acting selective 5-HT1B/1D agonist intranasal spray bypassing gastric stasis during migraine nausea to achieve headache relief within 15 minutes via direct nasopharyngeal absorption. Active: Zolmitriptan 5.0% w/v (5 mg per 0.1 ml actuation) (5.0% w/v (5 mg/spray)). Indication: Acute migraine attacks with or without aura and cluster headaches requiring rapid non-oral onset.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Nasal Spray
+Respiratory & Allergy
+In Stock
+Fluticasone Propionate 0.05% w/v Nasal Spray
+
+Code: AKP-072
+
+Proven aqueous microsuspension intranasal glucocorticoid spray delivering precise 50 mcg metered doses to downregulate eosinophil-driven allergic mucosal edema. Active: Fluticasone Propionate BP / IP 0.05% w/v (0.05% w/v (50 mcg/spray)). Indication: Allergic rhinitis, non-allergic vasomotor rhinitis, and nasal polyp prophylaxis.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Nasal Spray
+Respiratory & Allergy
+In Stock
+Sodium Chloride 0.65% w/v Nasal Spray
+
+Code: AKP-075
+
+Gentle drug-free isotonic buffered saline mist restoring physiological mucociliary clearance and hydrating dry inflamed nasal mucosa without rebound congestion. Active: Sodium Chloride IP 0.65% w/v (Isotonic Buffered Saline) (0.65% w/v). Indication: Infant and adult dry nasal passages, crusted mucus clearance, post-sinus surgery irrigation, and coryza.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Nasal Spray
+Respiratory & Allergy
+In Stock
+Xylometazoline Hydrochloride 0.05% w/v Nasal Spray
+
+Code: AKP-076
+
+Paediatric-strength alpha-adrenergic topical vasoconstrictor nasal solution relieving blocked pediatric nasal airways within 5 minutes for up to 10 hours. Active: Xylometazoline Hydrochloride IP 0.05% w/v (0.05% w/v). Indication: Paediatric nasal congestion due to common cold, sinusitis, and allergic rhinitis (children 2–12 years).
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Nasal Spray
+Respiratory & Allergy
+In Stock
+Xylometazoline Hydrochloride 0.1% w/v Nasal Spray
+
+Code: AKP-077
+
+Adult-strength rapid intranasal decongestant spray shrinking engorged nasal turbinate arterioles to facilitate sinus drainage and restorative sleep. Active: Xylometazoline Hydrochloride IP 0.1% w/v (0.1% w/v). Indication: Acute nasal congestion in adults caused by viral coryza, acute sinusitis, and allergic rhinitis.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Nasal Spray
+Respiratory & Allergy
+In Stock
+Oxymetazoline HCl 0.01% w/v Nasal Spray
+
+Code: AKP-078
+
+Ultra-mild 0.01% neonatal sympathomimetic nasal formulation engineered for delicate infant nasal mucosa to restore effortless breathing before feeds. Active: Oxymetazoline Hydrochloride USP / IP 0.01% w/v (0.01% w/v). Indication: Neonatal and infant nasal blockage interfering with feeding and breathing.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Nasal Spray
+Respiratory & Allergy
+In Stock
+Oxymetazoline HCl 0.025% w/v Nasal Spray
+
+Code: AKP-079
+
+Long-acting 12-hour paediatric decongestant nasal solution offering gentle sustained mucosal shrinkage with minimal reactive hyperemia. Active: Oxymetazoline Hydrochloride IP 0.025% w/v (0.025% w/v). Indication: Childhood nasal congestion in upper respiratory viral infections and sinusitis.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Nasal Spray
+Respiratory & Allergy
+In Stock
+Oxymetazoline HCl 0.05% w/v Nasal Spray
+
+Code: AKP-080
+
+Twice-daily sustained-duration adult intranasal decongestant pump providing 12-hour clear nasal airflow and rapid sinus pressure relief. Active: Oxymetazoline Hydrochloride IP / USP 0.05% w/v (0.05% w/v). Indication: Adult nasal mucosal congestion in colds, hay fever, sinusitis, and Eustachian tube dysfunction.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Nasal Spray
+Respiratory & Allergy
+In Stock
+Ventolin Inhaler (Salbutamol Metered Dose Inhaler 100mcg)
+
+Code: AKP-097
+
+Pressurized metered-dose short-acting beta-2 agonist bronchodilator inhaler delivering 100 mcg salbutamol per actuation for rapid relief of acute bronchospasm, asthma, and COPD wheezing. Active: Salbutamol Sulfate BP / USP (Albuterol) (100mcg per actuation (200 metered doses)). Indication: Bronchospasm, acute asthma, COPD bronchoconstriction.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Akuma Enterprise Pharma Pvt. Ltd.
+WHO-GMP Certified Commercial Formulations & Africa Dossiers
+EN
+FR
+
+Leading manufacturer and exporter of WHO-GMP certified commercial finished pharmaceutical formulations across 12 product categories & 15 sectors with complete eCTD dossiers for global healthcare markets.
+
+WHO-GMP Certified
+ISO 9001:2015
+eCTD Dossiers & Zone IVb Ready
+FORMULATIONS & PEPTIDES
+Tablets & Solid Orals
+Capsules & Modified Release
+Dry Powder Injections
+Liquid Injections & Ampoules
+Oral Liquids & Suspensions
+Ointments, Creams & Drops
+Peptide APIs & Research (RUO)
+Antimalarials & Anti-Diabetics
+Explore Full Catalog →
+REGULATORY DOSSIERS
+eCTD 5-Module Dossiers
+ACTD Format Submissions
+Zone IVb Stability Validation
+Bioequivalence (BE) Studies
+Certificate of Analysis (CoA)
+WHO-Format CoPP & FSC
+Download 2026 Catalog PDF ↓
+Request Regulatory Dossier →
+AFRICA & GLOBAL MARKETS
+West Africa (NAFDAC, FDA Ghana, AIRP)
+East Africa (PPB, TMDA, NDA, EFDA)
+Southern Africa (SAHPRA, ZAZIBONA)
+Central Africa (ACOREP, DPML, CEMAC)
+North Africa (EDA, DMP Morocco)
+Country Regulatory Profiles (26)
+Request Analytical Sample →
+COMPANY & DIRECT EXPORT
+About Akuma Enterprise Pharma
+Manufacturing & Packaging Lines
+Pharma Newsroom & Briefs
+WhatsApp : +91 07986147827
+sales@akumaenterprises-pharma.com
+24h Export Quote & Tenders →
+
+© 2026 Akuma Enterprise Pharma Pvt. Ltd. All rights reserved. · SAS Nagar, Punjab, India
+
+Privacy Policy · Return Policy · Contact
+
+Help / Track order
+All Categories
+Tablets
+Capsules
+Dry Powder Injections
+Liquid Injections
+Peptides
+Ointments & Creams
+Oral Liquids
+Eye-Ear Drops
+Nasal Spray
+Dry Syrup
+Drops
+Sanitizer
+All Therapeutic Sectors
+Anti-Infectives & Antibiotics
+Gastroenterology & PPIs
+Sexual Wellness Medication
+Anti-Diabetic Medication
+Respiratory & Allergy
+Antimalarials Medication
+Dermatology & Topicals
+Ophthalmic & Otic Care
+Hospital Antiseptics & Sanitization
+Pain, Inflammation & NSAIDs
+Nutrition & Metabolic Tonics
+Endocrine & Supportive Care
+Antiretrovirals / Antivirals
+Pharmaceutical Peptide APIs
+Research Peptides (RUO)
+All Availability
+In Stock
+On Demand
+Custom
+Relevance
+Name A-Z
+Category
+Therapeutic Sector
+Availability
+Price: low to high
+Price: high to low
+
+## IMG ALT
+Akuma Enterprise Pharma Logo <= /logo.svg
+Fluticasone Furoate 0.0275% w/v Nasal Spray — WHO-GMP Finished Formulation · Code AKP-071 · Nasal Spray <= /product-images/products/akp-071-fluticasone-furoate-0-0275-w-v-nasal-spr.webp
+Calcitonin (Salmon) 2200 IU Nasal Spray — WHO-GMP Finished Formulation · Code AKP-073 · Nasal Spray <= /product-images/products/akp-073-calcitonin-salmon-2200-iu-nasal-spray.webp
+Zolmitriptan 5.0% w/v Nasal Spray — WHO-GMP Finished Formulation · Code AKP-074 · Nasal Spray <= /product-images/products/akp-074-zolmitriptan-5-0-w-v-nasal-spray.webp
+Fluticasone Propionate 0.05% w/v Nasal Spray — WHO-GMP Finished Formulation · Code AKP-072 · Nasal Spray <= /product-images/products/akp-072-fluticasone-propionate-0-05-w-v-nasal-sp.webp
+Sodium Chloride 0.65% w/v Nasal Spray — WHO-GMP Finished Formulation · Code AKP-075 · Nasal Spray <= /product-images/products/akp-075-sodium-chloride-0-65-w-v-nasal-spray.webp
+Xylometazoline Hydrochloride 0.05% w/v Nasal Spray — WHO-GMP Finished Formulation · Code AKP-076 · Nasal Spray <= /product-images/products/akp-076-xylometazoline-hydrochloride-0-05-w-v-na.webp
+Xylometazoline Hydrochloride 0.1% w/v Nasal Spray — WHO-GMP Finished Formulation · Code AKP-077 · Nasal Spray <= /product-images/products/akp-077-xylometazoline-hydrochloride-0-1-w-v-nas.webp
+Oxymetazoline HCl 0.01% w/v Nasal Spray — WHO-GMP Finished Formulation · Code AKP-078 · Nasal Spray <= /product-images/products/akp-078-oxymetazoline-hcl-0-01-w-v-nasal-spray.webp
+Oxymetazoline HCl 0.025% w/v Nasal Spray — WHO-GMP Finished Formulation · Code AKP-079 · Nasal Spray <= /product-images/products/akp-079-oxymetazoline-hcl-0-025-w-v-nasal-spray.webp
+Oxymetazoline HCl 0.05% w/v Nasal Spray — WHO-GMP Finished Formulation · Code AKP-080 · Nasal Spray <= /product-images/products/akp-080-oxymetazoline-hcl-0-05-w-v-nasal-spray.webp
+Ventolin Inhaler (Salbutamol 100mcg) — WHO-GMP Finished Formulation · Code AKP-097 · Nasal Spray <= /product-images/products/akp-097-ventolin-inhaler-salbutamol-metered-dose.webp
+Akuma Enterprise Pharma <= /logo.svg
+
+## FORMS
+
+
+## HREFS
+mailto:sales@akumaenterprises-pharma.com
+mailto:dalle@akumaenterprises-pharma.com
+tel:+9107986147827
+https://wa.me/9107986147827
+/
+/products
+/compliance
+/supply
+/solutions
+/knowledge
+/company
+/downloads/catalog/akuma-pharma-catalog-2026.pdf
+/product/fluticasone-furoate-0-0275-w-v-nasal-spray-akp-071
+/product/calcitonin-salmon-2200-iu-nasal-spray-akp-073
+/product/zolmitriptan-5-0-w-v-nasal-spray-akp-074
+/product/fluticasone-propionate-0-05-w-v-nasal-spray-akp-072
+/product/sodium-chloride-0-65-w-v-nasal-spray-akp-075
+/product/xylometazoline-hydrochloride-0-05-w-v-nasal-spray-akp-076
+/product/xylometazoline-hydrochloride-0-1-w-v-nasal-spray-akp-077
+/product/oxymetazoline-hcl-0-01-w-v-nasal-spray-akp-078
+/product/oxymetazoline-hcl-0-025-w-v-nasal-spray-akp-079
+/product/oxymetazoline-hcl-0-05-w-v-nasal-spray-akp-080
+/product/ventolin-inhaler-salbutamol-metered-dose-inhaler-100mcg-akp-097
+/products/tablets
+/products/capsules
+/products/dry-powder-injections
+/products/liquid-injections
+/products/oral-liquids
+/products/ointments-creams
+/products/peptides
+/products?sector=Antimalarials%20Medication
+/quality
+/certifications
+/contact
+/markets/west-africa
+/markets/east-africa
+/markets/southern-africa
+/markets/central-africa
+/markets/north-africa
+/country
+/sample-request
+/about
+/capabilities
+/news
+/privacy-policy
+/return-policy
+https://wa.me/9107986147827?text=Hello%20Akuma%20Enterprise%20Pharma,%20I%20have%20an%20inquiry
+
+## JSON-LD
+
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": ["Organization", "LocalBusiness", "Manufacturer"],
+            "@id": "https://www.akumaenterprises-pharma.com/#org",
+            "name": "Akuma Enterprise Pharma Pvt. Ltd.",
+            "alternateName": ["Akuma Enterprise Pharma", "Akuma Pharma"],
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "logo": "https://www.akumaenterprises-pharma.com/icon-512.png",
+            "image": "https://www.akumaenterprises-pharma.com/og-image.jpg",
+            "description": "ISO 9001:2015 and WHO-GMP certified exporter shipping from Asia to all 54 African countries & global markets across commercial finished formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules requested by clients, backed by Zone IVb stability and eCTD/ACTD dossiers.",
+            "foundingDate": "2009",
+            "slogan": "Pharmaceutical supply, engineered for confidence.",
+            "vatID": "03ACLFA6940J1ZB",
+            "taxID": "ACLFA6940J",
+            "numberOfEmployees": { "@type": "QuantitativeValue", "value": "200+" },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1st Floor, Cabin 101 #2609, Vinod Accounting Solutions, Landran Road, Adarsh Nagar, Kharar",
+              "addressLocality": "SAS Nagar",
+              "addressRegion": "Punjab",
+              "postalCode": "140301",
+              "addressCountry": "IN"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 30.7499,
+              "longitude": 76.6411
+            },
+            "openingHoursSpecification": [
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "09:00", "closes": "18:00" },
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "09:00", "closes": "13:00" }
+            ],
+            "contactPoint": [
+              {
+                "@type": "ContactPoint",
+                "contactType": "sales",
+                "telephone": "+91-07986147827",
+                "email": "sales@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "areaServed": ["NG","KE","GH","TZ","UG","ET","RW","ZA","EG","MA","CI","SN","CM","CD","ZM","ZW","AO","MZ","DZ","TN","US","CA","MX","BR","DE","FR","GB","IN","JP","AU","AE","SA"],
+                "availableLanguage": ["English","French","Portuguese","Arabic","Swahili","Spanish","Hindi"]
+              },
+              {
+                "@type": "ContactPoint",
+                "contactType": "executive and regulatory desk",
+                "telephone": "+91-07986147827",
+                "email": "dalle@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "availableLanguage": ["English","French","Portuguese","Arabic"]
+              }
+            ],
+            "hasCredential": [
+              { "@type": "EducationalOccupationalCredential", "name": "WHO-GMP", "credentialCategory": "Good Manufacturing Practice", "recognizedBy": { "@type": "Organization", "name": "World Health Organization" } },
+              { "@type": "EducationalOccupationalCredential", "name": "ISO 9001:2015", "credentialCategory": "Quality Management System" },
+              { "@type": "EducationalOccupationalCredential", "name": "ACTD / eCTD Regulatory Dossiers", "credentialCategory": "Modules 1-5 Technical Dossier" },
+              { "@type": "EducationalOccupationalCredential", "name": "ICH Zone IVb Tropical Stability", "credentialCategory": "30C / 75% RH Climatic Stability" },
+              { "@type": "EducationalOccupationalCredential", "name": "CDSCO Manufacturing Licence", "credentialCategory": "Pharmaceutical Manufacturing Licence", "recognizedBy": { "@type": "Organization", "name": "Central Drugs Standard Control Organization (India)" } }
+            ],
+            "knowsAbout": [
+              "Commercial Finished Formulations",
+              "Antimalarial Injections & ACT Tablets (Artesunate IV, Artemether-Lumefantrine)",
+              "Sexual Wellness & Urology Formulations",
+              "Anti-Diabetic SGLT2 & Gliptin Combinations",
+              "Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin)",
+              "Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu)",
+              "African NRA Regulatory Filings (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana, EFDA, WAHO)",
+              "ICH Zone IVb Tropical Stability & Cold-Chain Export",
+              "Dry Powder Injections & Lyophilized Vials",
+              "Liquid Injections & Sterile Ampoules",
+              "Oral Liquids & Paediatric Dry Syrups",
+              "Topical Ointments, Eye-Ear Drops & Nasal Sprays",
+              "WHO-GMP Quality Compliance"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.akumaenterprises-pharma.com/#website",
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "name": "Akuma Enterprise Pharma",
+            "publisher": { "@id": "https://www.akumaenterprises-pharma.com/#org" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": { "@type": "EntryPoint", "urlTemplate": "https://www.akumaenterprises-pharma.com/products?search={search_term_string}" },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": ["en", "fr"]
+          }
+        ]
+      }
+    
+-----
+
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What pharmaceutical products and peptide portfolios does Akuma Enterprise Pharma supply?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Akuma Enterprise Pharma exports from Asia across all 54 countries of Africa and global markets. Our featured portfolio covers WHO-GMP commercial finished formulations (Tablets, Capsules, Dry Powder Injections, Liquid Injections, Oral Liquids, Ointments & Creams, Eye-Ear Drops, Nasal Sprays, Dry Syrups, Paediatric Drops, and Sanitizers), Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin, Leuprorelin), and Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu) \u2014 while accepting every custom molecule, dosage, and tender specification on request."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Do you provide ACTD/eCTD dossiers and Zone IVb stability for African National Regulatory Authorities (NRAs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Yes. Every finished formulation and Pharmaceutical Peptide API is backed by 5-Module ACTD/eCTD dossiers, WHO-Format Certificates of Pharmaceutical Product (CoPP), Free Sale Certificates (FSC), CoA, bilingual EN/FR/PT/AR packaging support, and ICH Zone IVb tropical stability studies (30\u00b0C/75% RH & 40\u00b0C/75% RH) tailored for NAFDAC (Nigeria), PPB (Kenya), SAHPRA (South Africa), TMDA (Tanzania), FDA Ghana, AIRP (Cote d'Ivoire), ARP (Senegal), EFDA, NDA, WAHO, and SADC ZAZIBONA."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "How are Pharmaceutical Peptide APIs separated from Research Peptides (RUO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Our Pharmaceutical Peptide APIs (AKP-API series) are manufactured to >=99.0% HPLC purity for licensed formulators and clinical supply chains, whereas our Research Peptides (AKP-RP series) are strictly labeled and restricted to in-vitro laboratory Research Use Only (RUO \u2014 Not for Human or Veterinary Consumption). Custom peptide syntheses are also available."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What are the minimum order quantities (MOQ) and export freight corridors from India to Africa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Standard export MOQs are 1,000 packs for finished formulations, 50 vials for Pharmaceutical Peptide APIs, and 10 vials for RUO Research Peptides. Consignments dispatch via Mumbai (BOM/JNPT) and New Delhi (DEL) air/sea corridors into Lagos, Mombasa, Tema, Durban, Dar es Salaam, Djibouti, Abidjan, and Dakar with validated cold-chain loggers where required."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Which antimalarial, sexual wellness, anti-diabetic, and hospital antibiotic formulations are in stock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "In-stock flagship export lines include Artesunate IV/IM lyophilized vials (30\u2013240 mg), Artemether & \u03b1-\u03b2 Arteether ampoules, Artemether 80/Lumefantrine 480 mg tablets, Chloroquine tablets & suspension, Dapoxetine + Sildenafil/Tadalafil/Vardenafil and Silodosin urology generics, Dapagliflozin & Glimepiride triple combos, Ceftriaxone-Sulbactam, and Cefixime paediatric dry syrups."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Fournissez-vous des m\u00e9dicaments certifi\u00e9s OMS-BPF et des dossiers CTD en fran\u00e7ais pour l'Afrique francophone ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Oui. Akuma Enterprise Pharma exporte depuis l'Asie vers les 54 pays d'Afrique (formulations finies OMS-BPF, API peptidiques, peptides RUO et demandes sur mesure) avec dossiers ACTD/eCTD 5 Modules, CoPP OMS, stabilit\u00e9 ICH Zone IVb et notices RCP/Patient en fran\u00e7ais pour l'AIRP (C\u00f4te d'Ivoire), l'ARP (S\u00e9n\u00e9gal), la DPML (Cameroun), l'ACOREP (RD Congo), la DMP (Maroc) et l'espace WAHO/CEDEAO."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Comment demander un devis export CIF/FOB sous 24 heures vers l'Afrique ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Contactez notre bureau export Afrique par e-mail \u00e0 sales@akumaenterprises-pharma.com ou dalle@akumaenterprises-pharma.com, sur WhatsApp au +91 07986147827, ou directement via le formulaire de devis bilingue sur akumaenterprises-pharma.com/contact."
+      }
+    }
+  ]
+}
+
+-----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":2,"name":"","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":3,"name":"Products","item":"https://www.akumaenterprises-pharma.com//products"},{"@type":"ListItem","position":4,"name":"Nasal Spray","item":"https://www.akumaenterprises-pharma.com//products/nasal-spray"}]}
+-----
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Metered-Dose Nasal Sprays & Decongestants","description":"Precision-valved nasal spray devices engineered to deliver consistent 50µl–100µl dose volumes with minimal systemic irritation.","inLanguage":"en","isPartOf":{"@id":"https://www.akumaenterprises-pharma.com/#website"},"about":"Commercial Finished Pharmaceutical Formulations, Pharmaceutical Peptide APIs, and Research Peptides across 12 categories and 15 therapeutic sectors for Africa and global markets","mainEntity":{"@type":"ItemList","numberOfItems":11,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Product","name":"Fluticasone Furoate 0.0275% w/v Nasal Spray","sku":"AKP-071","category":"Nasal Spray — Respiratory & Allergy","url":"https://www.akumaenterprises-pharma.com/product/fluticasone-furoate-0-0275-w-v-nasal-spray-akp-071","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-071-fluticasone-furoate-0-0275-w-v-nasal-spr.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":2,"item":{"@type":"Product","name":"Calcitonin (Salmon) 2200 IU Nasal Spray","sku":"AKP-073","category":"Nasal Spray — Endocrine & Supportive Care","url":"https://www.akumaenterprises-pharma.com/product/calcitonin-salmon-2200-iu-nasal-spray-akp-073","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-073-calcitonin-salmon-2200-iu-nasal-spray.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":3,"item":{"@type":"Product","name":"Zolmitriptan 5.0% w/v Nasal Spray","sku":"AKP-074","category":"Nasal Spray — Pain, Inflammation & NSAIDs","url":"https://www.akumaenterprises-pharma.com/product/zolmitriptan-5-0-w-v-nasal-spray-akp-074","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-074-zolmitriptan-5-0-w-v-nasal-spray.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":4,"item":{"@type":"Product","name":"Fluticasone Propionate 0.05% w/v Nasal Spray","sku":"AKP-072","category":"Nasal Spray — Respiratory & Allergy","url":"https://www.akumaenterprises-pharma.com/product/fluticasone-propionate-0-05-w-v-nasal-spray-akp-072","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-072-fluticasone-propionate-0-05-w-v-nasal-sp.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":5,"item":{"@type":"Product","name":"Sodium Chloride 0.65% w/v Nasal Spray","sku":"AKP-075","category":"Nasal Spray — Respiratory & Allergy","url":"https://www.akumaenterprises-pharma.com/product/sodium-chloride-0-65-w-v-nasal-spray-akp-075","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-075-sodium-chloride-0-65-w-v-nasal-spray.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":6,"item":{"@type":"Product","name":"Xylometazoline Hydrochloride 0.05% w/v Nasal Spray","sku":"AKP-076","category":"Nasal Spray — Respiratory & Allergy","url":"https://www.akumaenterprises-pharma.com/product/xylometazoline-hydrochloride-0-05-w-v-nasal-spray-akp-076","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-076-xylometazoline-hydrochloride-0-05-w-v-na.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":7,"item":{"@type":"Product","name":"Xylometazoline Hydrochloride 0.1% w/v Nasal Spray","sku":"AKP-077","category":"Nasal Spray — Respiratory & Allergy","url":"https://www.akumaenterprises-pharma.com/product/xylometazoline-hydrochloride-0-1-w-v-nasal-spray-akp-077","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-077-xylometazoline-hydrochloride-0-1-w-v-nas.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":8,"item":{"@type":"Product","name":"Oxymetazoline HCl 0.01% w/v Nasal Spray","sku":"AKP-078","category":"Nasal Spray — Respiratory & Allergy","url":"https://www.akumaenterprises-pharma.com/product/oxymetazoline-hcl-0-01-w-v-nasal-spray-akp-078","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-078-oxymetazoline-hcl-0-01-w-v-nasal-spray.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":9,"item":{"@type":"Product","name":"Oxymetazoline HCl 0.025% w/v Nasal Spray","sku":"AKP-079","category":"Nasal Spray — Respiratory & Allergy","url":"https://www.akumaenterprises-pharma.com/product/oxymetazoline-hcl-0-025-w-v-nasal-spray-akp-079","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-079-oxymetazoline-hcl-0-025-w-v-nasal-spray.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":10,"item":{"@type":"Product","name":"Oxymetazoline HCl 0.05% w/v Nasal Spray","sku":"AKP-080","category":"Nasal Spray — Respiratory & Allergy","url":"https://www.akumaenterprises-pharma.com/product/oxymetazoline-hcl-0-05-w-v-nasal-spray-akp-080","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-080-oxymetazoline-hcl-0-05-w-v-nasal-spray.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":11,"item":{"@type":"Product","name":"Ventolin Inhaler (Salbutamol 100mcg)","sku":"AKP-097","category":"Nasal Spray — Respiratory & Allergy","url":"https://www.akumaenterprises-pharma.com/product/ventolin-inhaler-salbutamol-metered-dose-inhaler-100mcg-akp-097","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-097-ventolin-inhaler-salbutamol-metered-dose.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}}]}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":2,"name":"Products","item":"https://www.akumaenterprises-pharma.com/products"},{"@type":"ListItem","position":3,"name":"Nasal Spray"}]}]}

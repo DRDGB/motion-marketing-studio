@@ -1,0 +1,797 @@
+URL: https://www.akumaenterprises-pharma.com/products/liquid-injections
+FINAL: https://www.akumaenterprises-pharma.com/products/liquid-injections
+STATUS: 200
+LANG: en
+TITLE: Liquid Injections — Small Volume Parenterals & Ampoules | Akuma Enterprise Pharma
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #B3122B
+msapplication-TileColor = #B3122B
+msapplication-TileImage = /icon-192.png
+robots = index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+google-site-verification = VERIFY-ME-GOOGLE
+msvalidate.01 = VERIFY-ME-BING
+yandex-verification = VERIFY-ME-YANDEX
+baidu-site-verification = VERIFY-ME-BAIDU
+naver-site-verification = VERIFY-ME-NAVER
+description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished pharmaceutical formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules manufactured or sourced on request with Zone IVb stability & bilingual EN/FR Africa dossiers.
+author = Akuma Enterprise Pharma Pvt. Ltd.
+keywords = pharmaceutical exporter Africa India, NAFDAC registered medicines supplier, PPB Kenya SAHPRA TMDA FDA Ghana dossiers, WHO-GMP finished pharmaceutical formulations, Zone IVb stability medicines Africa, Artesunate IV Artemether Lumefantrine India, Semaglutide Tirzepatide Peptide API India, BPC-157 TB-500 Retatrutide RUO peptides, tablets capsules injectables manufacturer Punjab, eCTD ACTD dossiers India
+og:type = website
+og:site_name = Akuma Enterprise Pharma
+og:title = Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global
+og:description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished formulations, Peptide APIs, Research Peptides, and custom sourcing for every buyer request with Zone IVb stability and Africa eCTD/ACTD dossiers.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:image:type = image/jpeg
+og:image:width = 1200
+og:image:height = 630
+og:image:alt = Akuma Enterprise Pharma finished formulations and dossiers
+og:url = https://www.akumaenterprises-pharma.com
+og:locale = en_US
+og:locale:alternate = fr_CI
+og:locale:alternate = fr_SN
+og:locale:alternate = fr_FR
+og:locale:alternate = en_NG
+og:locale:alternate = en_KE
+og:locale:alternate = en_ZA
+twitter:card = summary_large_image
+twitter:title = Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global
+twitter:description = WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & globally across finished formulations, Peptide APIs, RUO peptides, and custom molecules on request with bilingual EN/FR Africa dossiers.
+twitter:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+twitter:image:alt = Akuma Enterprise Pharma finished formulations and dossiers
+geo.region = IN-PB
+geo.placename = SAS Nagar, Punjab, India
+geo.position = 30.7499;76.6411
+ICBM = 30.7499, 76.6411
+description = Sterile small volume parenterals (SVP): Artemether & alpha-beta Arteether antimalarial ampoules, aminoglycosides (Amikacin), emergency NSAIDs, and neurotropic vitamin complexes in Type I glass ampoules.
+keywords = liquid injections Africa, artemether 80mg ampoule, alpha beta arteether 150mg, amikacin injection, diclofenac injection, small volume parenterals WHO-GMP
+author = Akuma Enterprise Pharma Pvt. Ltd.
+application-name = Akuma Enterprise Pharma
+apple-mobile-web-app-title = Akuma Enterprise Pharma
+theme-color = #B3122B
+robots = index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+language = en
+geo.region = IN-PB
+geo.placename = SAS Nagar, Punjab, India
+geo.position = 30.7499;76.6411
+ICBM = 30.7499, 76.6411
+industry = Pharmaceutical Manufacturing & Africa Healthcare Export
+business-type = B2B Pharmaceutical Manufacturer & Exporter
+og:type = website
+og:title = Liquid Injections — Small Volume Parenterals & Ampoules | Akuma Enterprise Pharma
+og:description = Sterile small volume parenterals (SVP): Artemether & alpha-beta Arteether antimalarial ampoules, aminoglycosides (Amikacin), emergency NSAIDs, and neurotropic vitamin complexes in Type I glass ampoules.
+og:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+og:image:type = image/jpeg
+og:image:width = 1920
+og:image:height = 1080
+og:image:alt = Liquid Injections — Small Volume Parenterals & Ampoules
+og:site_name = Akuma Enterprise Pharma
+og:locale = en_US
+og:locale:alternate = fr_FR
+og:locale:alternate = fr_CI
+og:locale:alternate = fr_SN
+og:locale:alternate = en_NG
+og:locale:alternate = en_KE
+og:locale:alternate = en_ZA
+og:url = https://www.akumaenterprises-pharma.com/products/liquid-injections
+twitter:card = summary_large_image
+twitter:title = Liquid Injections — Small Volume Parenterals & Ampoules | Akuma Enterprise Pharma
+twitter:description = Sterile small volume parenterals (SVP): Artemether & alpha-beta Arteether antimalarial ampoules, aminoglycosides (Amikacin), emergency NSAIDs, and neurotropic vitamin complexes in Type I glass ampoules.
+twitter:image = https://www.akumaenterprises-pharma.com/og-image.jpg
+twitter:image:alt = Liquid Injections — Small Volume Parenterals & Ampoules
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/products/liquid-injections
+alternate x-default https://www.akumaenterprises-pharma.com/
+alternate en https://www.akumaenterprises-pharma.com/
+alternate en-NG https://www.akumaenterprises-pharma.com/en-ng/
+alternate en-KE https://www.akumaenterprises-pharma.com/en-ke/
+alternate en-GH https://www.akumaenterprises-pharma.com/en-gh/
+alternate en-ZA https://www.akumaenterprises-pharma.com/en-za/
+alternate en-TZ https://www.akumaenterprises-pharma.com/en-tz/
+alternate en-UG https://www.akumaenterprises-pharma.com/en-ug/
+alternate fr https://www.akumaenterprises-pharma.com/?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/fr-ci/
+alternate fr-SN https://www.akumaenterprises-pharma.com/fr-sn/
+alternate fr-CM https://www.akumaenterprises-pharma.com/fr-cm/
+alternate fr-CD https://www.akumaenterprises-pharma.com/fr-cd/
+alternate fr-MA https://www.akumaenterprises-pharma.com/fr-ma/
+alternate en-US https://www.akumaenterprises-pharma.com/
+alternate en-GB https://www.akumaenterprises-pharma.com/en-gb/
+alternate en-IN https://www.akumaenterprises-pharma.com/en-in/
+alternate en-AU https://www.akumaenterprises-pharma.com/en-au/
+alternate en-CA https://www.akumaenterprises-pharma.com/en-ca/
+alternate en-NZ https://www.akumaenterprises-pharma.com/en-nz/
+alternate de-DE https://www.akumaenterprises-pharma.com/de-de/
+alternate fr-FR https://www.akumaenterprises-pharma.com/fr-fr/
+alternate es-ES https://www.akumaenterprises-pharma.com/es-es/
+alternate it-IT https://www.akumaenterprises-pharma.com/it-it/
+alternate nl-NL https://www.akumaenterprises-pharma.com/nl-nl/
+alternate pt-BR https://www.akumaenterprises-pharma.com/pt-br/
+alternate es-MX https://www.akumaenterprises-pharma.com/es-mx/
+alternate fr-CA https://www.akumaenterprises-pharma.com/fr-ca/
+alternate ja-JP https://www.akumaenterprises-pharma.com/ja-jp/
+alternate ko-KR https://www.akumaenterprises-pharma.com/ko-kr/
+alternate  https://www.akumaenterprises-pharma.com/news.rss
+alternate  https://www.akumaenterprises-pharma.com/dmf-updates.rss
+alternate  https://www.akumaenterprises-pharma.com/llms.txt
+alternate  https://www.akumaenterprises-pharma.com/products.json
+canonical  https://www.akumaenterprises-pharma.com/products/liquid-injections
+alternate en https://www.akumaenterprises-pharma.com/products/liquid-injections
+alternate en-NG https://www.akumaenterprises-pharma.com/products/liquid-injections
+alternate en-KE https://www.akumaenterprises-pharma.com/products/liquid-injections
+alternate en-GH https://www.akumaenterprises-pharma.com/products/liquid-injections
+alternate en-ZA https://www.akumaenterprises-pharma.com/products/liquid-injections
+alternate en-TZ https://www.akumaenterprises-pharma.com/products/liquid-injections
+alternate en-UG https://www.akumaenterprises-pharma.com/products/liquid-injections
+alternate en-GB https://www.akumaenterprises-pharma.com/products/liquid-injections
+alternate en-US https://www.akumaenterprises-pharma.com/products/liquid-injections
+alternate fr https://www.akumaenterprises-pharma.com/products/liquid-injections?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/products/liquid-injections?lang=fr
+alternate fr-SN https://www.akumaenterprises-pharma.com/products/liquid-injections?lang=fr
+alternate fr-CM https://www.akumaenterprises-pharma.com/products/liquid-injections?lang=fr
+alternate fr-CD https://www.akumaenterprises-pharma.com/products/liquid-injections?lang=fr
+alternate fr-MA https://www.akumaenterprises-pharma.com/products/liquid-injections?lang=fr
+alternate fr-FR https://www.akumaenterprises-pharma.com/products/liquid-injections?lang=fr
+alternate x-default https://www.akumaenterprises-pharma.com/products/liquid-injections
+
+## TEXT
+sales@akumaenterprises-pharma.com
+|
+dalle@akumaenterprises-pharma.com
++91 07986147827
+|
+WhatsApp: +91 07986147827
+Akuma Enterprise Pharma
+FINISHED FORMULATIONS & GLOBAL DOSSIERS
+Products
+Compliance
+Supply
+Solutions
+Knowledge
+Company
+EN
+FR
+Request a Dossier
+→
+
+WHO-GMP Formulations, Peptide APIs & RUO Research Peptides — Africa & Global Export
+
+Commercial medicines & Peptide APIs are manufactured under WHO-GMP and ISO 9001:2015 systems (IP, BP, USP, EP) with Zone IVb stability, CoA, and eCTD/ACTD dossiers for African NRAs (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana) & global tenders. Lyophilized Research Peptides (RUO) are ≥99.0% HPLC/MS verified strictly for laboratory use.
+
+Sterile Liquid Injections & Antimalarial Ampoules
+
+Aseptically filled and terminally sterilized liquid parenterals in USP Type I glass ampoules and vials with zero endotoxin compliance and Zone IVb shelf-life data for Africa & emerging market hospital tenders.
+
+14 Showcased Results
+2026 PDF Catalog ↓
+WhatsApp Export Desk
+Filter by:
+Liquid Injections
+All Therapeutic Sectors
+All Availability
+Export Catalog
+REGULATORY:
+WHO-GMP Certified
+(14)
+eCTD Dossier Ready
+(14)
+Zone IVb Stability
+(14)
+Research Use Only (RUO)
+(0)
+Liquid Injections
+
+Showing 14 showcased catalog products · Custom molecules & strengths sourced on request
+
+Relevance
+Liquid Injections
+Anti-Infectives & Antibiotics
+In Stock
+Amikacin Sulphate 100mg Injection (per 2ml)
+
+Code: AKP-051
+
+Ready-to-use neonatal/paediatric strength 100 mg/2 ml aminoglycoside sterile solution engineered with strict bacterial endotoxin limits for critical gram-negative infections. Active: Amikacin Sulphate IP (eq. Amikacin 100 mg per 2 ml) (100 mg / 2 ml). Indication: Neonatal sepsis, paediatric serious gram-negative bacteremia, and gentamicin-resistant UTI.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Liquid Injections
+Pain, Inflammation & NSAIDs
+In Stock
+Diclofenac Sodium 75mg Injection (per ml)
+
+Code: AKP-054
+
+Low-viscosity aqueous/solubilized 1 ml high-concentration NSAID injection formulated for painless deep intragluteal IM or diluted IV analgesia in emergency trauma rooms. Active: Diclofenac Sodium IP 75 mg (per 1 ml aqueous base) (75 mg / 1 ml). Indication: Acute renal colic, biliary colic, post-operative severe pain, acute gout flare, and orthopedic trauma.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Liquid Injections
+Nutrition & Metabolic Tonics
+In Stock
+Methylcobalamin 1000mcg, Pyridoxine HCl 100mg, Niacinamide 100mg & D-Panthenol 50mg Injection (per 2ml)
+
+Code: AKP-055
+
+Neuro-regenerative active-coenzyme B12 + B-complex parenteral injection delivering high-dose myelin synthesis support and rapid restoration of peripheral nerve conduction. Active: Methylcobalamin JP 1000 mcg + Pyridoxine HCl IP 100 mg + Niacinamide IP 100 mg + D-Panthenol 50 mg (1000 mcg + 100 mg + 100 mg + 50 mg / 2 ml). Indication: Diabetic peripheral neuropathy, megaloblastic anemia, sciatica, trigeminal neuralgia, and severe B-vitamin depletion.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Liquid Injections
+Endocrine & Supportive Care
+In Stock
+Nandrolone Decanoate 25mg Injection (per ml)
+
+Code: AKP-056
+
+Long-acting anabolic depot steroid IM injection formulated to promote positive nitrogen balance, bone calcium accretion, and erythropoietin stimulation in osteoporosis and chronic wasting. Active: Nandrolone Decanoate IP / BP 25 mg (in Sterile Arachis Oil Base) (25 mg / 1 ml). Indication: Post-menopausal osteoporosis, refractory chronic kidney disease anemia, and catabolic debilitating states.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Liquid Injections
+Gastroenterology & PPIs
+In Stock
+Ondansetron HCl 2mg Injection (per ml)
+
+Code: AKP-058
+
+Selective 5-HT3 serotonin receptor antagonist parenteral antiemetic acting at both chemoreceptor trigger zone and vagal nerve terminals for rapid surgical and emergency emesis arrest. Active: Ondansetron Hydrochloride IP (eq. Ondansetron 2 mg per ml) (2 mg / 1 ml (4 mg / 2 ml pack)). Indication: Post-operative nausea and vomiting (PONV), chemotherapy-induced emesis, and acute refractory gastroenteritis vomiting.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Liquid Injections
+Antimalarials Medication
+In Stock
+Artemether Injection 20 mg / ml
+
+Code: AKP-005-LIQ
+
+Ready-to-inject lipid-soluble artemisinin derivative (20 mg / ml) in USP Type I glass ampoules delivering rapid intra-erythrocytic schizonticidal action for ICU and rural malaria clinics. Active: Artemether 20 mg / ml (20 mg / ml). Indication: Severe chloroquine-resistant Plasmodium falciparum malaria and cerebral malaria emergency care.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Liquid Injections
+Anti-Infectives & Antibiotics
+In Stock
+Amikacin Sulphate 250mg Injection (per 2ml)
+
+Code: AKP-052
+
+Intermediate-strength 250 mg/2 ml aminoglycoside parenteral solution offering stability against aminoglycoside-inactivating enzymes in systemic bacterial sepsis. Active: Amikacin Sulphate IP (eq. Amikacin 250 mg per 2 ml) (250 mg / 2 ml). Indication: Hospital-acquired gram-negative pneumonia, peritonitis, complicated UTI, and bone infections.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Liquid Injections
+Pain, Inflammation & NSAIDs
+In Stock
+Piroxicam 20mg Injection (per ml)
+
+Code: AKP-060
+
+Long-half-life oxicam NSAID intramuscular solution delivering sustained 24-hour anti-inflammatory analgesia from a single daily acute-care dose. Active: Piroxicam USP / IP 20 mg (per ml) (20 mg / 1 ml). Indication: Acute rheumatoid flare-ups, ankylosing spondylitis, acute gout, and intense postoperative musculoskeletal pain.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Liquid Injections
+Nutrition & Metabolic Tonics
+In Stock
+Mecobalamin 500mcg Injection (per ml)
+
+Code: AKP-059
+
+Monocomponent coenzyme vitamin B12 injectable directly crossing the blood-brain barrier without hepatic conversion to repair axonal degeneration and hematopoiesis. Active: Methylcobalamin JP 500 mcg (per ml) (500 mcg / 1 ml). Indication: Vitamin B12 deficiency neuropathy, paresthesia, subacute combined degeneration, and pernicious anemia.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Liquid Injections
+Endocrine & Supportive Care
+In Stock
+Nandrolone Decanoate 50mg Injection (per ml)
+
+Code: AKP-057
+
+High-strength 50 mg/ml sustained-release IM depot injection providing 3-week therapeutic anabolic bone mineralization and erythrocyte support under specialist endocrinology care. Active: Nandrolone Decanoate IP / BP 50 mg (in Sterile Arachis Oil Base) (50 mg / 1 ml). Indication: Severe postmenopausal osteoporosis, chronic corticosteroid-induced osteopenia, and refractory renal anemia.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Liquid Injections
+Antimalarials Medication
+In Stock
+Artemether Injection 40 mg / ml
+
+Code: AKP-006-LIQ
+
+Ready-to-inject lipid-soluble artemisinin derivative (40 mg / ml) in USP Type I glass ampoules delivering rapid intra-erythrocytic schizonticidal action for ICU and rural malaria clinics. Active: Artemether 40 mg / ml (40 mg / ml). Indication: Severe chloroquine-resistant Plasmodium falciparum malaria and cerebral malaria emergency care.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Liquid Injections
+Anti-Infectives & Antibiotics
+In Stock
+Amikacin Sulphate 500mg Injection (per 2ml)
+
+Code: AKP-053
+
+Adult full-strength 500 mg/2 ml broad-spectrum bactericidal aminoglycoside injectable packaged in zero-leach borosilicate glass for hospital IM and slow IV infusion. Active: Amikacin Sulphate IP (eq. Amikacin 500 mg per 2 ml) (500 mg / 2 ml). Indication: Severe Pseudomonas, Klebsiella, and Acinetobacter bacteremia, ICU sepsis, and multidrug-resistant TB adjunct therapy.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Liquid Injections
+Antimalarials Medication
+In Stock
+Artemether Injection 80 mg / ml
+
+Code: AKP-007-LIQ
+
+Ready-to-inject lipid-soluble artemisinin derivative (80 mg / ml) in USP Type I glass ampoules delivering rapid intra-erythrocytic schizonticidal action for ICU and rural malaria clinics. Active: Artemether 80 mg / ml (80 mg / ml). Indication: Severe chloroquine-resistant Plasmodium falciparum malaria and cerebral malaria emergency care.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Liquid Injections
+Antimalarials Medication
+In Stock
+α-β Arteether Injection 150 mg / 2 ml
+
+Code: AKP-009-LIQ
+
+Semi-synthetic ethyl-ether artemisinin derivative (150 mg / 2 ml) formulated in sterile oily vehicle for sustained 24-hour once-daily intramuscular eradication of cerebral malaria parasites. Active: α-β Arteether 150 mg / 2 ml (150 mg / 2 ml). Indication: Severe and cerebral P. falciparum malaria and chloroquine-resistant vivax/falciparum co-infections.
+
+Quote on request
+Bulk pricing · MOQ 1,000 pack
+B2B
+WHO-GMP Certified
+ISO 9001:2015
+CoA Included
++1 more
+Details
+SDS
+Quote
+Akuma Enterprise Pharma Pvt. Ltd.
+WHO-GMP Certified Commercial Formulations & Africa Dossiers
+EN
+FR
+
+Leading manufacturer and exporter of WHO-GMP certified commercial finished pharmaceutical formulations across 12 product categories & 15 sectors with complete eCTD dossiers for global healthcare markets.
+
+WHO-GMP Certified
+ISO 9001:2015
+eCTD Dossiers & Zone IVb Ready
+FORMULATIONS & PEPTIDES
+Tablets & Solid Orals
+Capsules & Modified Release
+Dry Powder Injections
+Liquid Injections & Ampoules
+Oral Liquids & Suspensions
+Ointments, Creams & Drops
+Peptide APIs & Research (RUO)
+Antimalarials & Anti-Diabetics
+Explore Full Catalog →
+REGULATORY DOSSIERS
+eCTD 5-Module Dossiers
+ACTD Format Submissions
+Zone IVb Stability Validation
+Bioequivalence (BE) Studies
+Certificate of Analysis (CoA)
+WHO-Format CoPP & FSC
+Download 2026 Catalog PDF ↓
+Request Regulatory Dossier →
+AFRICA & GLOBAL MARKETS
+West Africa (NAFDAC, FDA Ghana, AIRP)
+East Africa (PPB, TMDA, NDA, EFDA)
+Southern Africa (SAHPRA, ZAZIBONA)
+Central Africa (ACOREP, DPML, CEMAC)
+North Africa (EDA, DMP Morocco)
+Country Regulatory Profiles (26)
+Request Analytical Sample →
+COMPANY & DIRECT EXPORT
+About Akuma Enterprise Pharma
+Manufacturing & Packaging Lines
+Pharma Newsroom & Briefs
+WhatsApp : +91 07986147827
+sales@akumaenterprises-pharma.com
+24h Export Quote & Tenders →
+
+© 2026 Akuma Enterprise Pharma Pvt. Ltd. All rights reserved. · SAS Nagar, Punjab, India
+
+Privacy Policy · Return Policy · Contact
+
+Help / Track order
+All Categories
+Tablets
+Capsules
+Dry Powder Injections
+Liquid Injections
+Peptides
+Ointments & Creams
+Oral Liquids
+Eye-Ear Drops
+Nasal Spray
+Dry Syrup
+Drops
+Sanitizer
+All Therapeutic Sectors
+Anti-Infectives & Antibiotics
+Gastroenterology & PPIs
+Sexual Wellness Medication
+Anti-Diabetic Medication
+Respiratory & Allergy
+Antimalarials Medication
+Dermatology & Topicals
+Ophthalmic & Otic Care
+Hospital Antiseptics & Sanitization
+Pain, Inflammation & NSAIDs
+Nutrition & Metabolic Tonics
+Endocrine & Supportive Care
+Antiretrovirals / Antivirals
+Pharmaceutical Peptide APIs
+Research Peptides (RUO)
+All Availability
+In Stock
+On Demand
+Custom
+Relevance
+Name A-Z
+Category
+Therapeutic Sector
+Availability
+Price: low to high
+Price: high to low
+
+## IMG ALT
+Akuma Enterprise Pharma Logo <= /logo.svg
+Amikacin Sulphate 100mg Injection (per 2ml) — WHO-GMP Finished Formulation · Code AKP-051 · Liquid Injections <= /product-images/products/akp-051-amikacin-sulphate-100mg-injection-per-2m.webp
+Diclofenac Sodium 75mg Injection (per ml) — WHO-GMP Finished Formulation · Code AKP-054 · Liquid Injections <= /product-images/products/akp-054-diclofenac-sodium-75mg-injection-per-ml.webp
+Methylcobalamin 1000mcg, Pyridoxine HCl 100mg, Niacinamide 100mg & D-Panthenol 50mg Injection (per 2ml) — WHO-GMP Finished Formulation · Code AKP-055 · Liquid Injections <= /product-images/products/akp-055-methylcobalamin-1000mcg-pyridoxine-hcl-1.webp
+Nandrolone Decanoate 25mg Injection (per ml) — WHO-GMP Finished Formulation · Code AKP-056 · Liquid Injections <= /product-images/products/akp-056-nandrolone-decanoate-25mg-injection-per.webp
+Ondansetron HCl 2mg Injection (per ml) — WHO-GMP Finished Formulation · Code AKP-058 · Liquid Injections <= /product-images/products/akp-058-ondansetron-hcl-2mg-injection-per-ml.webp
+Artemether Injection 20 mg / ml — WHO-GMP Finished Formulation · Code AKP-005-LIQ · Liquid Injections <= /product-images/products/akp-005-liq-artemether-20mg-injection.webp
+Amikacin Sulphate 250mg Injection (per 2ml) — WHO-GMP Finished Formulation · Code AKP-052 · Liquid Injections <= /product-images/products/akp-052-amikacin-sulphate-250mg-injection-per-2m.webp
+Piroxicam 20mg Injection (per ml) — WHO-GMP Finished Formulation · Code AKP-060 · Liquid Injections <= /product-images/products/akp-060-piroxicam-20mg-injection-per-ml.webp
+Mecobalamin 500mcg Injection (per ml) — WHO-GMP Finished Formulation · Code AKP-059 · Liquid Injections <= /product-images/products/akp-059-mecobalamin-500mcg-injection-per-ml.webp
+Nandrolone Decanoate 50mg Injection (per ml) — WHO-GMP Finished Formulation · Code AKP-057 · Liquid Injections <= /product-images/products/akp-057-nandrolone-decanoate-50mg-injection-per.webp
+Artemether Injection 40 mg / ml — WHO-GMP Finished Formulation · Code AKP-006-LIQ · Liquid Injections <= /product-images/products/akp-006-liq-artemether-40mg-injection.webp
+Amikacin Sulphate 500mg Injection (per 2ml) — WHO-GMP Finished Formulation · Code AKP-053 · Liquid Injections <= /product-images/products/akp-053-amikacin-sulphate-500mg-injection-per-2m.webp
+Artemether Injection 80 mg / ml — WHO-GMP Finished Formulation · Code AKP-007-LIQ · Liquid Injections <= /product-images/products/akp-007-liq-artemether-80mg-injection.webp
+α-β Arteether Injection 150 mg / 2 ml — WHO-GMP Finished Formulation · Code AKP-009-LIQ · Liquid Injections <= /product-images/products/akp-009-liq-alpha-beta-arteether-150mg-2ml-injection.webp
+Akuma Enterprise Pharma <= /logo.svg
+
+## FORMS
+
+
+## HREFS
+mailto:sales@akumaenterprises-pharma.com
+mailto:dalle@akumaenterprises-pharma.com
+tel:+9107986147827
+https://wa.me/9107986147827
+/
+/products
+/compliance
+/supply
+/solutions
+/knowledge
+/company
+/downloads/catalog/akuma-pharma-catalog-2026.pdf
+/product/amikacin-sulphate-100mg-injection-per-2ml-akp-051
+/product/diclofenac-sodium-75mg-injection-per-ml-akp-054
+/product/methylcobalamin-1000mcg-pyridoxine-hcl-100mg-niacinamide-100-akp-055
+/product/nandrolone-decanoate-25mg-injection-per-ml-akp-056
+/product/ondansetron-hcl-2mg-injection-per-ml-akp-058
+/product/artemether-injection-20-mg-ml-akp-005-liq
+/product/amikacin-sulphate-250mg-injection-per-2ml-akp-052
+/product/piroxicam-20mg-injection-per-ml-akp-060
+/product/mecobalamin-500mcg-injection-per-ml-akp-059
+/product/nandrolone-decanoate-50mg-injection-per-ml-akp-057
+/product/artemether-injection-40-mg-ml-akp-006-liq
+/product/amikacin-sulphate-500mg-injection-per-2ml-akp-053
+/product/artemether-injection-80-mg-ml-akp-007-liq
+/product/arteether-injection-150-mg-2-ml-akp-009-liq
+/products/tablets
+/products/capsules
+/products/dry-powder-injections
+/products/liquid-injections
+/products/oral-liquids
+/products/ointments-creams
+/products/peptides
+/products?sector=Antimalarials%20Medication
+/quality
+/certifications
+/contact
+/markets/west-africa
+/markets/east-africa
+/markets/southern-africa
+/markets/central-africa
+/markets/north-africa
+/country
+/sample-request
+/about
+/capabilities
+/news
+/privacy-policy
+/return-policy
+https://wa.me/9107986147827?text=Hello%20Akuma%20Enterprise%20Pharma,%20I%20have%20an%20inquiry
+
+## JSON-LD
+
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": ["Organization", "LocalBusiness", "Manufacturer"],
+            "@id": "https://www.akumaenterprises-pharma.com/#org",
+            "name": "Akuma Enterprise Pharma Pvt. Ltd.",
+            "alternateName": ["Akuma Enterprise Pharma", "Akuma Pharma"],
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "logo": "https://www.akumaenterprises-pharma.com/icon-512.png",
+            "image": "https://www.akumaenterprises-pharma.com/og-image.jpg",
+            "description": "ISO 9001:2015 and WHO-GMP certified exporter shipping from Asia to all 54 African countries & global markets across commercial finished formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules requested by clients, backed by Zone IVb stability and eCTD/ACTD dossiers.",
+            "foundingDate": "2009",
+            "slogan": "Pharmaceutical supply, engineered for confidence.",
+            "vatID": "03ACLFA6940J1ZB",
+            "taxID": "ACLFA6940J",
+            "numberOfEmployees": { "@type": "QuantitativeValue", "value": "200+" },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1st Floor, Cabin 101 #2609, Vinod Accounting Solutions, Landran Road, Adarsh Nagar, Kharar",
+              "addressLocality": "SAS Nagar",
+              "addressRegion": "Punjab",
+              "postalCode": "140301",
+              "addressCountry": "IN"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 30.7499,
+              "longitude": 76.6411
+            },
+            "openingHoursSpecification": [
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "09:00", "closes": "18:00" },
+              { "@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "09:00", "closes": "13:00" }
+            ],
+            "contactPoint": [
+              {
+                "@type": "ContactPoint",
+                "contactType": "sales",
+                "telephone": "+91-07986147827",
+                "email": "sales@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "areaServed": ["NG","KE","GH","TZ","UG","ET","RW","ZA","EG","MA","CI","SN","CM","CD","ZM","ZW","AO","MZ","DZ","TN","US","CA","MX","BR","DE","FR","GB","IN","JP","AU","AE","SA"],
+                "availableLanguage": ["English","French","Portuguese","Arabic","Swahili","Spanish","Hindi"]
+              },
+              {
+                "@type": "ContactPoint",
+                "contactType": "executive and regulatory desk",
+                "telephone": "+91-07986147827",
+                "email": "dalle@akumaenterprises-pharma.com",
+                "url": "https://www.akumaenterprises-pharma.com/contact",
+                "availableLanguage": ["English","French","Portuguese","Arabic"]
+              }
+            ],
+            "hasCredential": [
+              { "@type": "EducationalOccupationalCredential", "name": "WHO-GMP", "credentialCategory": "Good Manufacturing Practice", "recognizedBy": { "@type": "Organization", "name": "World Health Organization" } },
+              { "@type": "EducationalOccupationalCredential", "name": "ISO 9001:2015", "credentialCategory": "Quality Management System" },
+              { "@type": "EducationalOccupationalCredential", "name": "ACTD / eCTD Regulatory Dossiers", "credentialCategory": "Modules 1-5 Technical Dossier" },
+              { "@type": "EducationalOccupationalCredential", "name": "ICH Zone IVb Tropical Stability", "credentialCategory": "30C / 75% RH Climatic Stability" },
+              { "@type": "EducationalOccupationalCredential", "name": "CDSCO Manufacturing Licence", "credentialCategory": "Pharmaceutical Manufacturing Licence", "recognizedBy": { "@type": "Organization", "name": "Central Drugs Standard Control Organization (India)" } }
+            ],
+            "knowsAbout": [
+              "Commercial Finished Formulations",
+              "Antimalarial Injections & ACT Tablets (Artesunate IV, Artemether-Lumefantrine)",
+              "Sexual Wellness & Urology Formulations",
+              "Anti-Diabetic SGLT2 & Gliptin Combinations",
+              "Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin)",
+              "Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu)",
+              "African NRA Regulatory Filings (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana, EFDA, WAHO)",
+              "ICH Zone IVb Tropical Stability & Cold-Chain Export",
+              "Dry Powder Injections & Lyophilized Vials",
+              "Liquid Injections & Sterile Ampoules",
+              "Oral Liquids & Paediatric Dry Syrups",
+              "Topical Ointments, Eye-Ear Drops & Nasal Sprays",
+              "WHO-GMP Quality Compliance"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.akumaenterprises-pharma.com/#website",
+            "url": "https://www.akumaenterprises-pharma.com/",
+            "name": "Akuma Enterprise Pharma",
+            "publisher": { "@id": "https://www.akumaenterprises-pharma.com/#org" },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": { "@type": "EntryPoint", "urlTemplate": "https://www.akumaenterprises-pharma.com/products?search={search_term_string}" },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": ["en", "fr"]
+          }
+        ]
+      }
+    
+-----
+
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What pharmaceutical products and peptide portfolios does Akuma Enterprise Pharma supply?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Akuma Enterprise Pharma exports from Asia across all 54 countries of Africa and global markets. Our featured portfolio covers WHO-GMP commercial finished formulations (Tablets, Capsules, Dry Powder Injections, Liquid Injections, Oral Liquids, Ointments & Creams, Eye-Ear Drops, Nasal Sprays, Dry Syrups, Paediatric Drops, and Sanitizers), Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin, Leuprorelin), and Research Peptides (RUO: Retatrutide, BPC-157, TB-500, GHK-Cu) \u2014 while accepting every custom molecule, dosage, and tender specification on request."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Do you provide ACTD/eCTD dossiers and Zone IVb stability for African National Regulatory Authorities (NRAs)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Yes. Every finished formulation and Pharmaceutical Peptide API is backed by 5-Module ACTD/eCTD dossiers, WHO-Format Certificates of Pharmaceutical Product (CoPP), Free Sale Certificates (FSC), CoA, bilingual EN/FR/PT/AR packaging support, and ICH Zone IVb tropical stability studies (30\u00b0C/75% RH & 40\u00b0C/75% RH) tailored for NAFDAC (Nigeria), PPB (Kenya), SAHPRA (South Africa), TMDA (Tanzania), FDA Ghana, AIRP (Cote d'Ivoire), ARP (Senegal), EFDA, NDA, WAHO, and SADC ZAZIBONA."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "How are Pharmaceutical Peptide APIs separated from Research Peptides (RUO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Our Pharmaceutical Peptide APIs (AKP-API series) are manufactured to >=99.0% HPLC purity for licensed formulators and clinical supply chains, whereas our Research Peptides (AKP-RP series) are strictly labeled and restricted to in-vitro laboratory Research Use Only (RUO \u2014 Not for Human or Veterinary Consumption). Custom peptide syntheses are also available."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "What are the minimum order quantities (MOQ) and export freight corridors from India to Africa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "Standard export MOQs are 1,000 packs for finished formulations, 50 vials for Pharmaceutical Peptide APIs, and 10 vials for RUO Research Peptides. Consignments dispatch via Mumbai (BOM/JNPT) and New Delhi (DEL) air/sea corridors into Lagos, Mombasa, Tema, Durban, Dar es Salaam, Djibouti, Abidjan, and Dakar with validated cold-chain loggers where required."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "en",
+      "name": "Which antimalarial, sexual wellness, anti-diabetic, and hospital antibiotic formulations are in stock?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "en",
+        "text": "In-stock flagship export lines include Artesunate IV/IM lyophilized vials (30\u2013240 mg), Artemether & \u03b1-\u03b2 Arteether ampoules, Artemether 80/Lumefantrine 480 mg tablets, Chloroquine tablets & suspension, Dapoxetine + Sildenafil/Tadalafil/Vardenafil and Silodosin urology generics, Dapagliflozin & Glimepiride triple combos, Ceftriaxone-Sulbactam, and Cefixime paediatric dry syrups."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Fournissez-vous des m\u00e9dicaments certifi\u00e9s OMS-BPF et des dossiers CTD en fran\u00e7ais pour l'Afrique francophone ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Oui. Akuma Enterprise Pharma exporte depuis l'Asie vers les 54 pays d'Afrique (formulations finies OMS-BPF, API peptidiques, peptides RUO et demandes sur mesure) avec dossiers ACTD/eCTD 5 Modules, CoPP OMS, stabilit\u00e9 ICH Zone IVb et notices RCP/Patient en fran\u00e7ais pour l'AIRP (C\u00f4te d'Ivoire), l'ARP (S\u00e9n\u00e9gal), la DPML (Cameroun), l'ACOREP (RD Congo), la DMP (Maroc) et l'espace WAHO/CEDEAO."
+      }
+    },
+    {
+      "@type": "Question",
+      "inLanguage": "fr",
+      "name": "Comment demander un devis export CIF/FOB sous 24 heures vers l'Afrique ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "inLanguage": "fr",
+        "text": "Contactez notre bureau export Afrique par e-mail \u00e0 sales@akumaenterprises-pharma.com ou dalle@akumaenterprises-pharma.com, sur WhatsApp au +91 07986147827, ou directement via le formulaire de devis bilingue sur akumaenterprises-pharma.com/contact."
+      }
+    }
+  ]
+}
+
+-----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":2,"name":"","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":3,"name":"Products","item":"https://www.akumaenterprises-pharma.com//products"},{"@type":"ListItem","position":4,"name":"Liquid Injections","item":"https://www.akumaenterprises-pharma.com//products/liquid-injections"}]}
+-----
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Sterile Liquid Injections & Antimalarial Ampoules","description":"Aseptically filled and terminally sterilized liquid parenterals in USP Type I glass ampoules and vials with zero endotoxin compliance and Zone IVb shelf-life data for Africa & emerging market hospital tenders.","inLanguage":"en","isPartOf":{"@id":"https://www.akumaenterprises-pharma.com/#website"},"about":"Commercial Finished Pharmaceutical Formulations, Pharmaceutical Peptide APIs, and Research Peptides across 12 categories and 15 therapeutic sectors for Africa and global markets","mainEntity":{"@type":"ItemList","numberOfItems":14,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Product","name":"Amikacin Sulphate 100mg Injection (per 2ml)","sku":"AKP-051","category":"Liquid Injections — Anti-Infectives & Antibiotics","url":"https://www.akumaenterprises-pharma.com/product/amikacin-sulphate-100mg-injection-per-2ml-akp-051","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-051-amikacin-sulphate-100mg-injection-per-2m.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":2,"item":{"@type":"Product","name":"Diclofenac Sodium 75mg Injection (per ml)","sku":"AKP-054","category":"Liquid Injections — Pain, Inflammation & NSAIDs","url":"https://www.akumaenterprises-pharma.com/product/diclofenac-sodium-75mg-injection-per-ml-akp-054","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-054-diclofenac-sodium-75mg-injection-per-ml.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":3,"item":{"@type":"Product","name":"Methylcobalamin 1000mcg, Pyridoxine HCl 100mg, Niacinamide 100mg & D-Panthenol 50mg Injection (per 2ml)","sku":"AKP-055","category":"Liquid Injections — Nutrition & Metabolic Tonics","url":"https://www.akumaenterprises-pharma.com/product/methylcobalamin-1000mcg-pyridoxine-hcl-100mg-niacinamide-100-akp-055","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-055-methylcobalamin-1000mcg-pyridoxine-hcl-1.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":4,"item":{"@type":"Product","name":"Nandrolone Decanoate 25mg Injection (per ml)","sku":"AKP-056","category":"Liquid Injections — Endocrine & Supportive Care","url":"https://www.akumaenterprises-pharma.com/product/nandrolone-decanoate-25mg-injection-per-ml-akp-056","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-056-nandrolone-decanoate-25mg-injection-per.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":5,"item":{"@type":"Product","name":"Ondansetron HCl 2mg Injection (per ml)","sku":"AKP-058","category":"Liquid Injections — Gastroenterology & PPIs","url":"https://www.akumaenterprises-pharma.com/product/ondansetron-hcl-2mg-injection-per-ml-akp-058","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-058-ondansetron-hcl-2mg-injection-per-ml.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":6,"item":{"@type":"Product","name":"Artemether Injection 20 mg / ml","sku":"AKP-005-LIQ","category":"Liquid Injections — Antimalarials Medication","url":"https://www.akumaenterprises-pharma.com/product/artemether-injection-20-mg-ml-akp-005-liq","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-005-liq-artemether-20mg-injection.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":7,"item":{"@type":"Product","name":"Amikacin Sulphate 250mg Injection (per 2ml)","sku":"AKP-052","category":"Liquid Injections — Anti-Infectives & Antibiotics","url":"https://www.akumaenterprises-pharma.com/product/amikacin-sulphate-250mg-injection-per-2ml-akp-052","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-052-amikacin-sulphate-250mg-injection-per-2m.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":8,"item":{"@type":"Product","name":"Piroxicam 20mg Injection (per ml)","sku":"AKP-060","category":"Liquid Injections — Pain, Inflammation & NSAIDs","url":"https://www.akumaenterprises-pharma.com/product/piroxicam-20mg-injection-per-ml-akp-060","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-060-piroxicam-20mg-injection-per-ml.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":9,"item":{"@type":"Product","name":"Mecobalamin 500mcg Injection (per ml)","sku":"AKP-059","category":"Liquid Injections — Nutrition & Metabolic Tonics","url":"https://www.akumaenterprises-pharma.com/product/mecobalamin-500mcg-injection-per-ml-akp-059","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-059-mecobalamin-500mcg-injection-per-ml.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":10,"item":{"@type":"Product","name":"Nandrolone Decanoate 50mg Injection (per ml)","sku":"AKP-057","category":"Liquid Injections — Endocrine & Supportive Care","url":"https://www.akumaenterprises-pharma.com/product/nandrolone-decanoate-50mg-injection-per-ml-akp-057","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-057-nandrolone-decanoate-50mg-injection-per.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":11,"item":{"@type":"Product","name":"Artemether Injection 40 mg / ml","sku":"AKP-006-LIQ","category":"Liquid Injections — Antimalarials Medication","url":"https://www.akumaenterprises-pharma.com/product/artemether-injection-40-mg-ml-akp-006-liq","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-006-liq-artemether-40mg-injection.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":12,"item":{"@type":"Product","name":"Amikacin Sulphate 500mg Injection (per 2ml)","sku":"AKP-053","category":"Liquid Injections — Anti-Infectives & Antibiotics","url":"https://www.akumaenterprises-pharma.com/product/amikacin-sulphate-500mg-injection-per-2ml-akp-053","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-053-amikacin-sulphate-500mg-injection-per-2m.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":13,"item":{"@type":"Product","name":"Artemether Injection 80 mg / ml","sku":"AKP-007-LIQ","category":"Liquid Injections — Antimalarials Medication","url":"https://www.akumaenterprises-pharma.com/product/artemether-injection-80-mg-ml-akp-007-liq","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-007-liq-artemether-80mg-injection.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}},{"@type":"ListItem","position":14,"item":{"@type":"Product","name":"α-β Arteether Injection 150 mg / 2 ml","sku":"AKP-009-LIQ","category":"Liquid Injections — Antimalarials Medication","url":"https://www.akumaenterprises-pharma.com/product/arteether-injection-150-mg-2-ml-akp-009-liq","image":"https://www.akumaenterprises-pharma.com/product-images/products/akp-009-liq-alpha-beta-arteether-150mg-2ml-injection.webp","brand":{"@type":"Brand","name":"Akuma Enterprise Pharma"}}}]}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.akumaenterprises-pharma.com/"},{"@type":"ListItem","position":2,"name":"Products","item":"https://www.akumaenterprises-pharma.com/products"},{"@type":"ListItem","position":3,"name":"Liquid Injections"}]}]}

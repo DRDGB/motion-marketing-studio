@@ -1,0 +1,107 @@
+URL: https://www.akumaenterprises-pharma.com/guides
+FINAL: https://www.akumaenterprises-pharma.com/guides/
+STATUS: 200
+LANG: en
+TITLE: 10 Pharmaceutical, Peptide & Africa NRA Export Guides — Akuma Enterprise Pharma
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #0D9488
+description = Technical and regulatory guides for WHO-GMP medicines, Peptide APIs, RUO peptides, and custom sourcing exported from Asia across all 54 African countries (NAFDAC, PPB, SAHPRA, TMDA, FDA Ghana, AIRP, ARP) with Zone IVb stability.
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/guides/
+alternate x-default https://www.akumaenterprises-pharma.com/guides/
+alternate en https://www.akumaenterprises-pharma.com/guides/
+alternate en-NG https://www.akumaenterprises-pharma.com/guides/
+alternate en-KE https://www.akumaenterprises-pharma.com/guides/
+alternate en-GH https://www.akumaenterprises-pharma.com/guides/
+alternate en-ZA https://www.akumaenterprises-pharma.com/guides/
+alternate fr https://www.akumaenterprises-pharma.com/guides/?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/guides/?lang=fr
+alternate fr-SN https://www.akumaenterprises-pharma.com/guides/?lang=fr
+alternate fr-CM https://www.akumaenterprises-pharma.com/guides/?lang=fr
+alternate fr-CD https://www.akumaenterprises-pharma.com/guides/?lang=fr
+alternate fr-MA https://www.akumaenterprises-pharma.com/guides/?lang=fr
+
+## TEXT
+Home / Export Catalog / Guides
+EN
+FR
+Akuma Enterprise Pharma — Africa Export, Peptides & WHO-GMP Guides
+
+10 technical, regulatory, and export playbooks covering WHO-GMP finished formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom sourcing exported from Asia across all 54 African countries.
+
+WHO-GMP Certified Pharmaceutical Formulation & Peptide Manufacturer in India
+
+Akuma Enterprise Pharma is a WHO-GMP and ISO 9001:2015 manufacturer & exporter shipping from Asia across all 54 African countries & global markets — finished formulations, peptides & custom requests.
+
+Read Full Guide →
+Third-Party & Contract Pharmaceutical Manufacturing in India
+
+Certified third-party pharmaceutical manufacturer in India. Akuma Enterprise Pharma offers contract manufacturing & export from Asia to all 54 African countries across finished dosage forms & custom specs.
+
+Read Full Guide →
+Finished Pharmaceutical Formulation Exporter from India to Africa & Global Markets
+
+WHO-GMP exporter shipping finished pharmaceutical formulations, peptides & custom molecules from Asia across all 54 African countries & global markets with Zone IVb & ACTD dossiers.
+
+Read Full Guide →
+PCD Pharma Manufacturing & Exclusive Distributor Supply Partner
+
+Partner with Akuma Enterprise Pharma for exclusive PCD pharma franchise and regional distributor territory rights across WHO-GMP finished formulations & custom sourcing.
+
+Read Full Guide →
+Sterile Injectable, Artesunate & Cephalosporin Dry Powder Vials Manufacturer
+
+WHO-GMP sterile injectable, lyophilized Artesunate (30-240mg), Artemether ampoules, and cephalosporin dry powder vials manufacturer in India for Africa hospital tenders.
+
+Read Full Guide →
+Paediatric Dry Syrup, Oral Suspension & Infant Drops Manufacturer
+
+WHO-GMP paediatric dry syrup, Chloroquine Phosphate suspension, and infant oral drops exporter in India with calibrated dosing devices and Zone IVb tropical stability.
+
+Read Full Guide →
+eCTD & ACTD Regulatory Dossiers (Modules 1–5) for Africa & Global Registrations
+
+Ready-to-file 5-Module ACTD & eCTD regulatory dossiers, WHO-Format CoPP, FSC, CoA, and Zone IVb stability reports from Akuma Enterprise Pharma for NAFDAC, PPB, SAHPRA, TMDA & FDA Ghana.
+
+Read Full Guide →
+India-to-Africa & Global Pharmaceutical Export Logistics
+
+Africa-first Indian pharmaceutical exporter serving exporting from Asia to all 54 African countries, MENA, LATAM & worldwide — finished formulations, peptides & custom requests.
+
+Read Full Guide →
+African NRA Pharma Registration Playbook: NAFDAC, PPB, SAHPRA, TMDA & FDA Ghana
+
+Country-by-country African pharmaceutical import & NRA registration guide for Nigeria (NAFDAC), Kenya (PPB), South Africa (SAHPRA), Tanzania (TMDA), Ghana (FDA Ghana), Ethiopia (EFDA), WAHO & ZAZIBONA.
+
+Read Full Guide →
+Pharmaceutical Peptide APIs & Research Peptides (RUO) — Export Portfolio
+
+Lyophilized Pharmaceutical Peptide APIs (Semaglutide, Tirzepatide, Liraglutide, Carbetocin, Leuprorelin), RUO Research Peptides (Retatrutide, BPC-157, TB-500) & custom peptide synthesis >=99.0% HPLC.
+
+Read Full Guide →
+
+## IMG ALT
+
+
+## FORMS
+
+
+## HREFS
+/
+/products
+/guides/who-gmp-certified-manufacturer.html
+/guides/third-party-pharma-manufacturing-india.html
+/guides/finished-dosage-formulation-exporter-india.html
+/guides/pcd-pharma-manufacturing-supplier-india.html
+/guides/sterile-injectable-dry-powder-vials-manufacturer.html
+/guides/paediatric-dry-syrup-suspension-manufacturer.html
+/guides/ectd-actd-dossier-regulatory-support-india.html
+/guides/pharmaceutical-export-africa-latam-cis-gcc.html
+/guides/african-pharma-registration-nafdac-ppb-sahpra-tmda.html
+/guides/pharmaceutical-peptide-apis-research-peptides-india.html
+
+## JSON-LD
+

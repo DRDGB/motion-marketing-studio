@@ -1,0 +1,192 @@
+URL: https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29?lang=fr
+FINAL: https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29?lang=fr
+STATUS: 200
+LANG: fr
+TITLE: Eptifibatide Peptide API — Pharmaceutical Peptide API, CAS 188627-80-7 | Akuma Enterprise Pharma
+
+## META
+viewport = width=device-width, initial-scale=1.0
+theme-color = #0D9488
+robots = index,follow,max-image-preview:large,max-snippet:-1
+description = WHO-GMP Pharmaceutical Peptide API: Eptifibatide Peptide API (AKP-API-29, CAS 188627-80-7, Purity >=99.0% HPLC). Acute coronary syndrome. HPLC/MS CoA, ICH stability & regulatory dossiers for Africa & global markets.
+og:type = product
+og:site_name = Akuma Enterprise Pharma
+og:title = Eptifibatide Peptide API — Pharmaceutical Peptide API, CAS 188627-80-7 | Akuma Enterprise Pharma
+og:description = WHO-GMP Pharmaceutical Peptide API: Eptifibatide Peptide API (AKP-API-29, CAS 188627-80-7, Purity >=99.0% HPLC). Acute coronary syndrome. HPLC/MS CoA, ICH stability & regulatory dossiers for Africa & global markets.
+og:image = https://www.akumaenterprises-pharma.com/product-images/products/akp-api-29-eptifibatide.webp
+og:url = https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29
+twitter:card = summary_large_image
+twitter:title = Eptifibatide Peptide API — Pharmaceutical Peptide API, CAS 188627-80-7 | Akuma Enterprise Pharma
+twitter:description = WHO-GMP Pharmaceutical Peptide API: Eptifibatide Peptide API (AKP-API-29, CAS 188627-80-7, Purity >=99.0% HPLC). Acute coronary syndrome. HPLC/MS CoA, ICH stability & regulatory dossiers for Africa & global markets.
+twitter:image = https://www.akumaenterprises-pharma.com/product-images/products/akp-api-29-eptifibatide.webp
+
+## LINKS
+canonical  https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29
+alternate x-default https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29
+alternate en https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29
+alternate en-NG https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29
+alternate en-KE https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29
+alternate en-GH https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29
+alternate en-ZA https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29
+alternate en-TZ https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29
+alternate en-UG https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29
+alternate en-GB https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29
+alternate en-US https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29
+alternate fr https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29?lang=fr
+alternate fr-CI https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29?lang=fr
+alternate fr-SN https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29?lang=fr
+alternate fr-CM https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29?lang=fr
+alternate fr-CD https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29?lang=fr
+alternate fr-MA https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29?lang=fr
+alternate fr-FR https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29?lang=fr
+alternate fr-CA https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29?lang=fr
+
+## TEXT
+Accueil / Produits / Peptides (API & RUO) / API peptidiques pharmaceutiques / Eptifibatide Peptide API
+EN
+FR
+Conditionnement Commercial Certifié OMS-BPF · Code : AKP-API-29
+Peptides (API & RUO) · Certifié OMS-BPF
+API peptidiques pharmaceutiques
+Eptifibatide Peptide API
+Aperçu API Peptidique : API peptidique pharmaceutique OMS-BPF : Eptifibatide Peptide API fourni sous forme de Lyophilized Peptide API (Purity ≥ 99.0% (HPLC)) dans le secteur API peptidiques pharmaceutiques. Conforme aux normes EP / USP / ICH Q7 Peptide API Monograph avec CoA HPLC/MS et dossiers pour l'Afrique et l'export mondial.
+Code Produit (SKU)	AKP-API-29
+Numéro CAS	188627-80-7
+Référence Catalogue	AKP-API-29 · SN API-29
+Secteur Thérapeutique	API peptidiques pharmaceutiques
+Forme Galénique	Lyophilized Peptide API
+Principe Actif	Eptifibatide (CAS 188627-80-7)
+Dosage / Pureté	Purity ≥ 99.0% (HPLC)
+Indication Clinique	Acute coronary syndrome
+Norme Pharmacopée	EP / USP / ICH Q7 Peptide API Monograph
+Conditionnement	Sealed Type I Glass Flacon · Nitrogen Headspace (Bulk / Custom Weights)
+Durée de Conservation	24–36 Mois (Lyophilized at -20°C)
+Conditions de Stockage	Store lyophilized at -20°C (short-term 2–8°C); protect from moisture and light
+Quantité Minimum (QMC)	50 Flacons
+Docs Réglementaires / Analytiques	Dossiers eCTD / ACTD Modules 1–5 + Stabilité Zone IVb disponibles
+Conformité ANR Afrique & Monde	NAFDAC (Nigeria), AIRP (Côte d’Ivoire), ARP (Sénégal), PPB (Kenya), SAHPRA, TMDA, FDA Ghana, EFDA
+Disponibilité Stock	En stock · Expédition commerciale immédiate
+Statut d'Approvisionnement	Commercial & Regulatory Export Ready
+Demander Dossier & Devis
+Support WhatsApp
+Produits Associés — Peptides (API & RUO)
+Leuprorelin Acetate Peptide API
+
+API peptidiques pharmaceutiques · Lyophilized Peptide API · CAS 74381-53-6
+
+Voir fiche →
+Semaglutide Peptide API
+
+API peptidiques pharmaceutiques · Lyophilized Peptide API · CAS 910463-68-2
+
+Voir fiche →
+Liraglutide Peptide API
+
+API peptidiques pharmaceutiques · Lyophilized Peptide API · CAS 204656-20-2
+
+Voir fiche →
+Tirzepatide Peptide API
+
+API peptidiques pharmaceutiques · Lyophilized Peptide API · CAS 2023788-19-2
+
+Voir fiche →
+Akuma Enterprise Pharma Pvt. Ltd. · SAS Nagar, Punjab - 140301, India · E-mails officiels : sales@akumaenterprises-pharma.com · dalle@akumaenterprises-pharma.com · Téléphone : +91 07986147827
+
+## IMG ALT
+Eptifibatide Peptide API — Peptides <= /product-images/products/akp-api-29-eptifibatide.webp
+
+## FORMS
+
+
+## HREFS
+/
+/products
+/products/peptides
+/products?sector=Pharmaceutical%20Peptide%20APIs
+mailto:sales@akumaenterprises-pharma.com?subject=Inquiry%20for%20AKP-API-29%20-%20Eptifibatide%20Peptide%20API
+https://wa.me/9107986147827?text=Hello%2C%20I%20am%20inquiring%20about%20Eptifibatide%20Peptide%20API%20%28AKP-API-29%29
+/product/leuprorelin-acetate-peptide-api-akp-api-01
+/product/semaglutide-peptide-api-akp-api-02
+/product/liraglutide-peptide-api-akp-api-03
+/product/tirzepatide-peptide-api-akp-api-04
+mailto:sales@akumaenterprises-pharma.com
+mailto:dalle@akumaenterprises-pharma.com
+tel:+9107986147827
+
+## JSON-LD
+
+  {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Product",
+        "Drug"
+      ],
+      "@id": "https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29#product",
+      "name": "Eptifibatide Peptide API",
+      "url": "https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29",
+      "image": "https://www.akumaenterprises-pharma.com/product-images/products/akp-api-29-eptifibatide.webp",
+      "description": "WHO-GMP Pharmaceutical Peptide API: Eptifibatide Peptide API (AKP-API-29, CAS 188627-80-7, Purity >=99.0% HPLC). Acute coronary syndrome. HPLC/MS CoA, ICH stability & regulatory dossiers for Africa & global markets.",
+      "sku": "AKP-API-29",
+      "mpn": "188627-80-7",
+      "category": "Peptides \u2014 Pharmaceutical Peptide APIs",
+      "brand": {
+        "@type": "Brand",
+        "name": "Akuma Enterprise Pharma"
+      },
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "0.00",
+        "availability": "https://schema.org/InStock",
+        "priceValidUntil": "2027-12-31"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "name": "Akuma Enterprise Pharma Pvt. Ltd.",
+        "url": "https://www.akumaenterprises-pharma.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1st Floor, Cabin 101 #2609, Vinod Accounting Solutions, Landran Road, Adarsh Nagar, Kharar",
+          "addressLocality": "SAS Nagar",
+          "addressRegion": "Punjab",
+          "postalCode": "140301",
+          "addressCountry": "IN"
+        }
+      },
+      "dosageForm": "Lyophilized Peptide API",
+      "activeIngredient": "Eptifibatide (CAS 188627-80-7)"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.akumaenterprises-pharma.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Products",
+          "item": "https://www.akumaenterprises-pharma.com/products"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Peptides",
+          "item": "https://www.akumaenterprises-pharma.com/products/peptides"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Eptifibatide Peptide API",
+          "item": "https://www.akumaenterprises-pharma.com/product/eptifibatide-peptide-api-akp-api-29"
+        }
+      ]
+    }
+  ]
+}
+  
