@@ -39,3 +39,13 @@
 - Clients and founders give feedback as "don't re-edit what's posted": change future videos, not
   published ones.
 - Descriptions: no URLs, no "AI voice" credits unless required; sources in the pinned comment.
+
+## Prospecting (2026-11)
+- Instagram handles are poorly indexed by general web search; a `site:instagram.com "<name>" <city>` query
+  through Firecrawl search finds them reliably. Public business Gmail addresses usually sit in the Facebook
+  page's "contact info" (search `"<name>" "@gmail.com"`).
+- Hidden like counts come back as a constant placeholder (e.g. 3) from feed APIs; judge reach by reel plays.
+- Some variable Didone fonts (Bodoni Moda with an opsz axis) render with broken letter spacing in headless
+  Chrome ("V rais"); check a still before committing to a display face, or use a static font.
+- The Remotion node API (`bundle` + `renderStill`) does not read `remotion.config.ts`: pass `browserExecutable`.
+  One bundle for many stills is ~20× faster than repeated `remotion still` calls.
