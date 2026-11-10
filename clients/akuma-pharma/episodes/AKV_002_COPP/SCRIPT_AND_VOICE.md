@@ -58,7 +58,67 @@ Persona: warm, confident, unhurried business partner; never shouty; slower on th
 | SP-3 | "Akuma Pharma can help" | 03_STRATEGY §3.4; DECISIONS D-014 | SERVICE PROMISE | |
 
 ## Compliance
-- Reviewer: (independent compliance reviewer, next) · Result: PENDING · Required mentions: (proposed) end-card regulatory line + "Reviewed: <date>"; "Illustrative" on the drawn CoPP in every shot; plain-text names only for NAFDAC and CDSCO (no logos, seals or flags) · Notes: no product names; the stamps are generic and wordless; pharma-world visuals only (plant labelled "Illustrative: partner manufacturer", unlabelled cartons and blisters, no red cross, no syringes); faceless drawn QA staff in L08 for the reviewer to confirm against E_PLATFORMS §10; the line does not claim that Akuma arranges legalisation (not a confirmed SP). Writer flags: (1) acronym expansion in L02 needs a ledger note (see Claims); (2) C-024 is a law-firm summary (REPORTED), so re-verify it; (3) no link to the site until D-012 is cleared.
+- **Reviewer:** studio compliance reviewer (AI), 2026-11-10. Checked against `references/10_compliance.md` A, B, D; E_PLATFORMS §2, §7, §8, §10; WEBSITE_CORRECTIONS §0.2–0.5; 03_STRATEGY §3.4; DECISIONS D-012…D-019; RESEARCH_LEDGER. **This is not a legal, medical or regulatory approval.** Human regulatory sign-off by the client's named reviewer is still required before publish (E_PLATFORMS §11, Gate 4) and recommended before the final voice.
+- **Result: CHANGES REQUIRED.** Before voice: apply changes 1 and 3 to the lines table and the voice block, and log the ledger row in change 2. Publish stays blocked by batch conditions B1–B5.
+- **Classification (Gate 0/1):** E_PLATFORMS §2 row B (regulatory education), organic only. No product, INN, disease, price or "order", so Gate 1 passes. Gate 3 fair balance: not applicable. Mandatory text must still stay on screen long enough to read at 2.5 words/s.
+
+**Required changes (line ID → new text)**
+1. **L07, the Switch** (lines table, voice block, Switch header) → `For the products we source, it's issued in the manufacturer's name… not ours.` Keep the on-screen beat: "seller?" struck through, "*manufacturer*" lands.
+   - Why: "It's issued to the manufacturer… not to whoever sells it to you" is a general rule that no ledger row supports. C-024 and C-013 do not say who the holder is. SP-6 and WC §0.2 item 4 cover only Akuma's own partners. WHO's Certification Scheme issues the certificate with the permission of the applicant and the product-licence holder, who may not be the manufacturer (WHO glossary, search excerpt).
+   - The general wording `In India, it's issued to the licensed manufacturer… not to a trader.` is allowed only if Research first logs a primary CDSCO source for it.
+2. **L02:** keep the wording. Before voice, log a ledger row for the expansion and the per-product nature of the certificate. Source: WHO Certification Scheme glossary, https://www.who.int/teams/regulation-prequalification/regulation-and-safety/regulatory-convergence-networks/certification-scheme/glossary ("product certificate… validated and issued for a specific product by the competent authority of the exporting country"). Label it REPORTED: the page was seen only as a search excerpt because who.int is not reachable from this session, so fetch it and upgrade once the domain is allowed. WHO's own term is "Certificate of a Pharmaceutical Product"; India uses "COPP". Either spoken form is acceptable.
+3. **L10** (lines table + voice block) → `Need one for your next registration? Talk to Akuma Pharma's team… visit our website.` Why: "Akuma Pharma can help" implies Akuma can obtain a CoPP, or support a registration, for any product. SP-4 covers only the manufacturer's CoPP "where one exists", and legalisation is not a confirmed service.
+4. **Labels:** CoPP legend `Illustrative` (L02, L04, L09, Visual idea) → `Illustrative example`. Plant and staff legend (L05, L08) → `Illustrative example: partner manufacturer's site`.
+5. **Visual guardrails:**
+   - L03: the plain-text "NAFDAC" sits on the in-tray only, never on the carton. No carton shows a tick, seal or "registered" mark.
+   - L04: the stamp stays wordless. "Nigerian mission" is plain text only: no coat of arms, flag or seal.
+   - L05: "CDSCO" is plain text, with no Indian State Emblem.
+6. **Description, second paragraph** → `A CoPP is a Certificate of Pharmaceutical Product in the WHO format, issued for a specific product. In Nigeria, NAFDAC asks for it to register an imported medicine, authenticated by the Nigerian mission. In India, it is processed by CDSCO with the state licensing authorities. For the products Akuma Pharma sources, it is issued in the manufacturer's name, not ours, so check that the name on it matches the factory that makes your product.`
+7. **Description, closing paragraph** → M3 text.
+8. **Pinned comment:** add `· WHO Certification Scheme (product certificate issued by the competent authority of the exporting country): WHO, n.d., https://www.who.int/teams/regulation-prequalification/regulation-and-safety/regulatory-convergence-networks/certification-scheme/glossary` once the row in change 2 is logged.
+9. **Before publish:** re-verify C-024 (a Mondaq law-firm summary, n.d.) against the current NAFDAC guideline. If NAFDAC now uses different wording (for example "legalised" instead of "authenticated"), update L04 and the description to match.
+
+**Required mentions (E_PLATFORMS §10 as drafted)**
+- **M1, on screen:** in the legend zone (y 1380–1500), from the start of L09 to the end of the end card, for ≥ 8 s, with no competing motion: `For licensed pharmaceutical trade and healthcare professionals. Products are supplied only where registered or authorised by the national regulator.`
+- **M2, end card** (≥ 4 s; replaces the current regulatory line, which moves to the caption): `Akuma Pharma · Akuma Enterprises, Kharar, Punjab, India · Reviewed: DD Mon YYYY`
+- **M3, caption on every platform** (replaces the closing paragraph):
+```
+For licensed pharmaceutical trade and healthcare professionals. Products are supplied only where registered or authorised by the national regulator.
+Akuma Pharma is operated by Akuma Enterprises, Kharar, Punjab, India, a pharmaceutical sourcing and export company. We do not manufacture: products are made by licensed WHO-GMP certified partner manufacturers in India, and the certificates are issued in their names.
+Educational content · Illustrative animation · AI-generated narration · Reviewed: DD Mon YYYY · Sources in the pinned comment.
+```
+- **M4, labels:** `Illustrative example` on every drawn document. `Illustrative example: partner manufacturer's site` on every plant or staff shot.
+- **M5, AI disclosure:** the M3 caption line on every platform. Tick YouTube's "Altered or synthetic content" box. Keep the C2PA metadata on Meta. If AI music is used, YouTube disclosure is mandatory [E-066].
+
+**Claim check (line → source → label → verdict)**
+- L01: question, OK.
+- L02: needs the ledger row in change 2.
+- L03–L04: C-024 REPORTED. Acceptable with the re-check in change 9.
+- L05: C-013 REPORTED. "Processes" matches the source. OK.
+- L06: setup, OK.
+- L07: goes beyond its source. Fixed by change 1.
+- L08: advice derived from SP-6, OK.
+- L09: SP-4/SP-2, OK.
+- L10: fixed by change 3.
+- Not present anywhere: product names, logos, emblems, syringes, red cross. The line does not claim that Akuma arranges legalisation.
+
+**Drawn lab-coat staff (L08): ACCEPTABLE.** These are faceless animated workers at the partner's site, not an HCP endorsement or a customer. Conditions:
+- The M4 label is in the same frame.
+- Working poses only.
+- No face, name, badge, title or "pharmacist"/"doctor" caption.
+- They never present to camera, nod, give a thumbs-up or speak.
+- Never in an Akuma or sourcing-desk scene.
+
+**Platform/CTA:** the website CTA fits every platform, YouTube Shorts included (E-058). Links in Shorts descriptions are not clickable (YouTube change of 31 Aug 2023; re-verify), so use the channel-profile link and keep the URL as plain text. The WhatsApp prefill goes only in the LinkedIn first comment, on Meta and on WhatsApp, never on YouTube (descriptions, pinned comment or replies). On WhatsApp: opt-in only, no catalogue (E-063). TikTok: not used.
+
+**Batch conditions (block publish, not voice; full text in AKV_001 Compliance)**
+- **B1:** D-012, website P0+P1 fixed and re-audited.
+- **B2:** sign-off by the client's named regulatory reviewer. Audio generated before it is a draft; record that in DECISIONS.
+- **B3:** written confirmation reference for SP-1…SP-7, and the partners' WHO-GMP certificates on file.
+- **B4:** voice generated on a plan with commercial rights at generation time, using a designed or library voice; logged.
+- **B5:** questions for counsel: ARCON for organic posts aimed at Nigeria, and Côte d'Ivoire Décret 2016-717.
+
+**Notes:** the voice character count changes with changes 1 and 3; the writer should recount. This episode is good education that fits the "Verify, Then Trust" positioning; the risk was only in the generalised Switch.
 
 ## Package (when published)
 - **Title:** `What is a CoPP, and why does your regulator ask for it?`

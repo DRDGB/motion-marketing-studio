@@ -61,7 +61,66 @@ Persona: warm, confident, unhurried business partner; never shouty; a clear beat
 | SP-7 | CHECKLIST CTA on WhatsApp | 03_STRATEGY §3.4, §6.9 (fallback CTA before `/checklist` exists) | SERVICE PROMISE | The checklist PDF is a studio asset still to produce; it must exist before publish. |
 
 ## Compliance
-- Reviewer: (independent compliance reviewer, next) · Result: PENDING · Required mentions: (proposed) end-card regulatory line + "Reviewed: <date>"; "Illustrative" on every drawn document; legend qualifier on L04 ("for hot, very humid (Zone IVb) markets"); source legends on L03 and L04 · Notes: no product names; no regulator logos (stamps are wordless); pharma-world visuals only (plant labelled "Illustrative: partner manufacturer", unlabelled cartons, no red cross, no syringes); Akuma is not placed at the Pharmexcil meets. Writer flags: (1) the WhatsApp CTA is spoken, so the YouTube Shorts version needs the reviewer's call (E-058, 03_STRATEGY §6.5); (2) the checklist PDF must be ready, and the WhatsApp desk briefed to reply to "CHECKLIST", before publish; (3) C-057 is an OPINION row (the list is advice); (4) no link to the site until D-012 is cleared.
+- **Reviewer:** studio compliance reviewer (AI), 2026-11-10. Checked against `references/10_compliance.md` A, B, D; E_PLATFORMS §2, §7, §8, §10; WEBSITE_CORRECTIONS §0.2–0.5; 03_STRATEGY §3.4; DECISIONS D-012…D-019; RESEARCH_LEDGER. **This is not a legal, medical or regulatory approval.** Human regulatory sign-off by the client's named reviewer is still required before publish (E_PLATFORMS §11, Gate 4) and recommended before the final voice.
+- **Result: CHANGES REQUIRED.** Before voice: apply change 1 to the lines table and the voice block, and record the extra takes in changes 2 and 4. Publish stays blocked by B1–B5 and by change 5.
+- **Classification (Gate 0/1):** E_PLATFORMS §2 row B (regulatory education / supplier due diligence), organic only. No product, disease, price or "order", so Gate 1 passes. Gate 3: not applicable.
+
+**Required changes (line ID → new text)**
+1. **L06, the Switch** (lines table, voice block, Switch header) → `Notice the pattern? Each should trace back to the manufacturer… not the seller.` Why: as a statement of fact, "Each comes from the manufacturer" goes beyond the sources. A dossier can come from the marketing-authorisation holder or the applicant, and an inspection report is issued by the inspecting authority. SP-6 covers only Akuma's partners, and C-057 is OPINION, so the line must read as advice.
+2. **L01, date-bound:** "this season" is true only while the post date is ≤ 8 Dec 2026 (C-049: the last meet is Luanda, 7–8 Dec). Generate a fallback take now: `[warm] Before you sign with any Indian supplier, ask for five documents.` If the post date (which moves with D-012) falls after 8 Dec 2026, use that take, drop the kicker "this *season*?", and change the title to `Before you sign with an Indian supplier: 5 documents to ask for`. Also change the description's first sentence to `Before you sign with an Indian supplier, ask for five documents (our suggested checklist; your national regulator's requirements come first):`.
+3. **OPINION label (C-057):**
+   - On screen at L01–L02, in the legend zone, for ≥ 3 s: `Our suggested checklist, not an official list.`
+   - Description, first paragraph → `Many importers meet Indian exporters this season. Before you sign, ask for five documents (our suggested checklist; your national regulator's requirements come first):`
+4. **L10-YT** (new line, YouTube cut only; generate it in the same session with the same voice and settings): `[reassuring] Want the checklist? Find it on the Akuma Pharma website.` Use it only once `/checklist` is live and reviewed. Until then, AKV-004 does **not** run on YouTube. The spoken WhatsApp CTA is never used there (E-058; 03_STRATEGY §6.5). The YouTube description and pinned comment drop the WhatsApp lines, as the package already says.
+5. **CHECKLIST asset:** the checklist PDF carries regulatory content. It must pass this same compliance review and the client's sign-off before the CTA goes live. The WhatsApp desk replies with the PDF only: no catalogue, price list or product offer (E-063). Licence checks happen before any product conversation, which is a human sales step outside the studio's scope.
+6. **Labels:**
+   - Documents in L02–L05 and L08: `Illustrative` → `Illustrative example`.
+   - Every plant shot (L02 quay, L03 cover drawing, L06–L07 nameplates and gate): `Illustrative example: partner manufacturer's site`.
+   - L02 stamp stays wordless.
+   - L03 legend "e.g. FDA Ghana waiver requirements" stays, held ≥ 3 s, with no FDA Ghana logo.
+   - L04 legend "for hot, very humid (Zone IVb) markets" held ≥ 3 s.
+7. **Description:** `Each comes from the manufacturer, so the manufacturer's name should match on every page.` → `Each should trace back to the manufacturer, so the manufacturer's name should match on every page.` Closing paragraph → M3 text.
+8. **Recommended (not required): L04** → `Three… stability data for hot, very humid markets: thirty degrees, seventy-five percent humidity.` This puts the Zone IVb qualifier in the voice as well as on screen.
+
+**Required mentions (E_PLATFORMS §10 as drafted)**
+- **M1, on screen:** in the legend zone (y 1380–1500), from the start of L09 to the end of the end card, for ≥ 8 s, with no competing motion: `For licensed pharmaceutical trade and healthcare professionals. Products are supplied only where registered or authorised by the national regulator.`
+- **M2, end card** (≥ 4 s; replaces the current regulatory line, which moves to the caption): `Akuma Pharma · Akuma Enterprises, Kharar, Punjab, India · Reviewed: DD Mon YYYY`
+- **M3, caption on every platform** (replaces the closing paragraph):
+```
+For licensed pharmaceutical trade and healthcare professionals. Products are supplied only where registered or authorised by the national regulator.
+Akuma Pharma is operated by Akuma Enterprises, Kharar, Punjab, India, a pharmaceutical sourcing and export company. We do not manufacture: products are made by licensed WHO-GMP certified partner manufacturers in India, and the certificates are issued in their names.
+Educational content · Illustrative animation · AI-generated narration · Reviewed: DD Mon YYYY · Sources in the pinned comment.
+```
+- **M4, labels:** see change 6. **M5, AI disclosure:** the M3 caption line on every platform. Tick YouTube's "Altered or synthetic content" box (if the video runs on YouTube). Keep the C2PA metadata on Meta. If AI music is used, YouTube disclosure is mandatory [E-066].
+
+**Claim check (line → source → label → verdict)**
+- L01: C-049 FACT for the season (see change 2). The list itself is C-057 OPINION, labelled by change 3.
+- L02: C-024 REPORTED. Re-check against the current NAFDAC guideline before publish.
+- L03: C-035 FACT, OK.
+- L04: D-036 and C-036 FACT, OK with the legend.
+- L05: SP-4, OK.
+- L06: fixed by change 1.
+- L07: advice, OK.
+- L08: SP-4, OK.
+- L09: SP-2/SP-4, OK. "Requests" and "where they exist" promise no outcome.
+- L10: SP-7, OK on LinkedIn, Meta and WhatsApp.
+- Akuma is not placed at the Pharmexcil meets. No product names, logos, syringes or red cross.
+
+**Platform/CTA:**
+- **LinkedIn:** the WhatsApp CTA and the prefill in the first comment are OK as a service enquiry (E-057).
+- **Meta FB/IG:** OK. Replies never list products or prices and never say "order" (E-055).
+- **WhatsApp Status/Channel:** opt-in only (E-063).
+- **YouTube Shorts:** change 4. Links in Shorts descriptions are not clickable (YouTube change of 31 Aug 2023; re-verify), so use the channel-profile link.
+- **TikTok:** not used.
+
+**Batch conditions (block publish, not voice; full text in AKV_001 Compliance)**
+- **B1:** D-012, website P0+P1 fixed and re-audited.
+- **B2:** sign-off by the client's named regulatory reviewer. Audio generated before it is a draft; record that in DECISIONS.
+- **B3:** written confirmation reference for SP-1…SP-7, and the partners' WHO-GMP certificates on file.
+- **B4:** voice generated on a plan with commercial rights, using a designed or library voice; logged.
+- **B5:** questions for counsel: ARCON for organic posts aimed at Nigeria, and Côte d'Ivoire Décret 2016-717.
+
+**Notes:** no lab-coat staff appear in this script. If any are added, the AKV-001 conditions apply. The character count changes with change 1; the writer should recount.
 
 ## Package (when published)
 - **Title:** `Meeting Indian suppliers this season? 5 documents to ask for`

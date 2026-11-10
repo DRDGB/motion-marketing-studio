@@ -58,7 +58,60 @@ Persona: warm, confident, unhurried business partner; never shouty; slower on th
 | SP-3, SP-7 | CTA | 03_STRATEGY §3.4 | SERVICE PROMISE | |
 
 ## Compliance
-- Reviewer: (independent compliance reviewer, next) · Result: PENDING · Required mentions: (proposed) end-card regulatory line + "Reviewed: <date>"; "Illustrative" on the stability report and on the plant/QC lab ("Illustrative: partner manufacturer"); source legend on L05–L07 · Notes: no product names; no countries or cities mapped to Zone IVb (the mapping is not in the ledger); no health-fear framing (no "spoiled medicine" or patient imagery); pharma-world visuals only (QC lab, stability chambers, unlabelled blister packs and cartons, cargo plane with medicine cartons; no red cross, no syringes); the QC lab is the partner manufacturer's, never Akuma's (Akuma does not test, WEBSITE_CORRECTIONS R1); faceless drawn QA staff in L08 for the reviewer to confirm against E_PLATFORMS §10; no World AIDS Day tie-in. Writer flag: no link to the site until D-012 is cleared.
+- **Reviewer:** studio compliance reviewer (AI), 2026-11-10. Checked against `references/10_compliance.md` A, B, D; E_PLATFORMS §2, §7, §8, §10; WEBSITE_CORRECTIONS §0.2–0.5; 03_STRATEGY §3.4; DECISIONS D-012…D-019; RESEARCH_LEDGER. **This is not a legal, medical or regulatory approval.** Human regulatory sign-off by the client's named reviewer is still required before publish (E_PLATFORMS §11, Gate 4) and recommended before the final voice.
+- **Result: CHANGES REQUIRED** (minor). Apply change 1 to the lines table and the voice block, then the voice may be generated. Publish stays blocked by B1–B5.
+- **Classification (Gate 0/1):** E_PLATFORMS §2 row B (regulatory education), organic only. No product, disease or country mapping, so Gate 1 passes. Gate 3: not applicable. The content matches WHO guidance (E-059). There is no health-fear framing and no World AIDS Day tie-in.
+
+**Required changes (line ID → new text)**
+1. **L06** (lines table + voice block) → `For four-B markets, W-H-O's guideline sets long-term stability testing at those conditions.` Why: "exactly" contradicts the tolerances in D-036 (30 °C ± 2 °C / 75% RH ± 5% RH). "Should be" also turns WHO guidance into a universal rule, when national regulators set their own requirements.
+2. **L07 on-screen type:** `shelf life ← *30 / 75* data` → `WHO PQ: shelf life ← *30 / 75* data`. The spoken L07 is correct (C-036 FACT), but the type on its own reads as a general rule. The expectation is WHO prequalification's.
+3. **New legend at L08** (legend zone, ≥ 3 s): `Requirements vary: check your national regulator.` Why: the hook and title ("25 °C is not enough") are an inference from WHO guidance (C-036/D-036), not a national rule, and the ledger has no country-by-zone list. The caption and pinned comment already say this; the screen must too, so that the net impression is right.
+4. **Labels:**
+   - Every QC-lab, stability-chamber and staff shot (L01–L08): `Illustrative example: partner manufacturer's site`, for the whole time those shots are on screen, so the lab never reads as Akuma's (Akuma does not test, WC R1).
+   - L06 report legend: `Illustrative` → `Illustrative example`.
+   - The L09 sourcing desk carries no lab equipment.
+5. **Description, closing paragraph** → M3 text. The rest of the description is accurate (C-036, D-036) and stays.
+
+**Required mentions (E_PLATFORMS §10 as drafted)**
+- **M1, on screen:** in the legend zone (y 1380–1500), from the start of L09 to the end of the end card, for ≥ 8 s, with no competing motion: `For licensed pharmaceutical trade and healthcare professionals. Products are supplied only where registered or authorised by the national regulator.`
+- **M2, end card** (≥ 4 s; replaces the current regulatory line, which moves to the caption): `Akuma Pharma · Akuma Enterprises, Kharar, Punjab, India · Reviewed: DD Mon YYYY`
+- **M3, caption on every platform** (replaces the closing paragraph):
+```
+For licensed pharmaceutical trade and healthcare professionals. Products are supplied only where registered or authorised by the national regulator.
+Akuma Pharma is operated by Akuma Enterprises, Kharar, Punjab, India, a pharmaceutical sourcing and export company. We do not manufacture: products are made by licensed WHO-GMP certified partner manufacturers in India, and the certificates are issued in their names.
+Educational content · Illustrative animation · AI-generated narration · Reviewed: DD Mon YYYY · Sources in the pinned comment.
+```
+- **M4, labels:** see change 4. The source legend (WHO TRS 1010 Annex 10, 2018; WHO PQ, 2016) is held ≥ 3 s on L05–L07 as drafted.
+- **M5, AI disclosure:** the M3 caption line on every platform. Tick YouTube's "Altered or synthetic content" box. Keep the C2PA metadata on Meta. If AI music is used, YouTube disclosure is mandatory [E-066].
+
+**Claim check (line → source → label → verdict)**
+- L01: framed intuition, OK.
+- L02: question, OK.
+- L03–L05: C-036 and D-036 FACT, OK.
+- L06: fixed by change 1.
+- L07: C-036 FACT, OK with change 2.
+- L08: advice, OK.
+- L09: SP-4/SP-2. It promises a question, not data. OK.
+- L10: SP-3/SP-7, OK.
+- No countries mapped to Zone IVb, no product names, no "spoiled medicine" or patient imagery, no syringes, no red cross.
+
+**Drawn lab-coat staff (L08): ACCEPTABLE.** The staff are faceless and animated, at the partner's QC lab, holding a generic report. This is not an HCP endorsement or a testimonial. Conditions:
+- The M4 label is in the same frame.
+- Working pose only.
+- No face, name, badge, title or "pharmacist"/"doctor" caption.
+- No presenting to camera, nodding, thumbs-up or speech.
+- Never in an Akuma or sourcing-desk scene.
+
+**Platform/CTA:** the website CTA fits every platform, YouTube Shorts included (E-058). Shorts description links are not clickable (YouTube change of 31 Aug 2023; re-verify), so use the channel-profile link. The WhatsApp prefill goes only in the LinkedIn first comment, on Meta and on WhatsApp, never on YouTube. On WhatsApp: opt-in only, no catalogue (E-063).
+
+**Batch conditions (block publish, not voice; full text in AKV_001 Compliance)**
+- **B1:** D-012, website P0+P1 fixed and re-audited.
+- **B2:** sign-off by the client's named regulatory reviewer. Audio generated before it is a draft; record that in DECISIONS.
+- **B3:** written confirmation reference for SP-1…SP-7, and the partners' WHO-GMP certificates on file.
+- **B4:** voice generated on a plan with commercial rights, using a designed or library voice; logged.
+- **B5:** questions for counsel: ARCON for organic posts aimed at Nigeria, and Côte d'Ivoire Décret 2016-717.
+
+**Notes:** the character count changes with change 1; the writer should recount. Optional: "there" in L07 could become "for those markets" for clarity; this is not required.
 
 ## Package (when published)
 - **Title:** `Why 25 °C data is not enough for hot, humid markets`
