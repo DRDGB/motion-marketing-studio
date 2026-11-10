@@ -1,0 +1,75 @@
+{
+ "id": "DEMO",
+ "fps": 30,
+ "total": 23.96,
+ "note": "Engine demo (no voice, no claims). Timing from text_timing.py.",
+ "clips": [
+  {
+   "id": "L01",
+   "src": [
+    0.3,
+    2.712
+   ],
+   "at": 0.3,
+   "text": "This is your brand… in motion."
+  },
+  {
+   "id": "L02",
+   "src": [
+    3.162,
+    6.279
+   ],
+   "at": 3.162,
+   "text": "Every word lands as it is spoken."
+  },
+  {
+   "id": "L03",
+   "src": [
+    6.729,
+    9.259
+   ],
+   "at": 6.729,
+   "text": "One subject on screen at a time."
+  },
+  {
+   "id": "L04",
+   "src": [
+    9.709,
+    12.238
+   ],
+   "at": 9.709,
+   "text": "Then we open the mechanism…",
+   "world": "dark"
+  },
+  {
+   "id": "L05",
+   "src": [
+    12.688,
+    14.629
+   ],
+   "at": 12.688,
+   "text": "show how it really works,",
+   "world": "dark"
+  },
+  {
+   "id": "L06",
+   "src": [
+    15.079,
+    17.903
+   ],
+   "at": 15.079,
+   "text": "and land the one idea that matters.",
+   "world": "dark"
+  },
+  {
+   "id": "L07",
+   "src": [
+    18.353,
+    19.706
+   ],
+   "at": 18.353,
+   "text": "Follow for more."
+  }
+ ],
+ "audio": false
+}

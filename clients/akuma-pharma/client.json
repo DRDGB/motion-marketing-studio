@@ -1,0 +1,37 @@
+{
+ "slug": "akuma-pharma",
+ "name": "AKUMA PHARMA",
+ "status": "onboarding",
+ "sector": "pharma",
+ "country": "IN",
+ "timezone": "Asia/Kolkata",
+ "language": "en",
+ "platforms": [],
+ "publish_slot": "",
+ "cadence_per_week": 0,
+ "approver": "",
+ "publisher": "client",
+ "drive_parent": null,
+ "voice": {
+  "mode": "TBD",
+  "provider": "",
+  "voice_id": "",
+  "auto_generate_after_batch_approval": false
+ },
+ "regulated": true,
+ "reviewer": "TBD (responsible pharmacist / regulatory affairs lead, to be named by client)",
+ "created": "2026-11-10",
+ "website": "https://akumaenterprises-pharma.com/",
+ "legal_name": "Akuma Enterprise Pharma Pvt. Ltd. (per site meta; to confirm)",
+ "audience_regions": [
+  "Africa (54 countries claimed)",
+  "global"
+ ],
+ "languages_audience": [
+  "en",
+  "fr",
+  "pt",
+  "ar"
+ ],
+ "business_model": "B2B exporter"
+}
