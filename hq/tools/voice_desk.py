@@ -110,7 +110,10 @@ def transcribe(p, lang=None):
         return None
     if _model is None:
         _model = WhisperModel("base", device="cpu", compute_type="int8")
-    segs, _ = _model.transcribe(str(p), language=lang, beam_size=1, vad_filter=True)
+    import numpy as np  # decode with ffmpeg (avoids PyAV version issues), 16 kHz mono float32
+    raw = subprocess.run(["ffmpeg", "-v", "error", "-i", str(p), "-ac", "1", "-ar", "16000", "-f", "s16le", "-"], capture_output=True, check=True).stdout
+    audio = np.frombuffer(raw, dtype=np.int16).astype(np.float32) / 32768.0
+    segs, _ = _model.transcribe(audio, language=lang, beam_size=1, vad_filter=True)
     return " ".join(s.text for s in segs)
 
 

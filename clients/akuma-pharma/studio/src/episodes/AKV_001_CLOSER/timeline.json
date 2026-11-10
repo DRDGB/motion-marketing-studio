@@ -1,39 +1,166 @@
 {
  "id": "AKV_001_CLOSER",
  "fps": 30,
- "total": 12,
- "voSource": "episodes/AKV_001_CLOSER/source/VO_AKV_001_CLOSER_FULL.mp3",
+ "total": 54.18,
+ "voSource": "episodes/AKV_001_CLOSER/source/VO_AKV-001_EN_FULL.mp3",
  "clips": [
   {
    "id": "L01",
    "src": [
     0.0,
-    2.0
+    4.38
    ],
    "at": 0.3,
-   "text": "Replace with the first spoken line."
+   "text": "You run a pharmaceutical business. Your supplier is an ocean away."
+  },
+  {
+   "id": "L02",
+   "src": [
+    4.82,
+    8.34
+   ],
+   "at": 5.12,
+   "text": "Chances are, some of the medicines you need are made in India."
+  },
+  {
+   "id": "L03",
+   "src": [
+    8.72,
+    13.66
+   ],
+   "at": 9.02,
+   "text": "Between you: time zones, emails… and a stack of documents."
+  },
+  {
+   "id": "L04",
+   "src": [
+    14.14,
+    17.46
+   ],
+   "at": 14.44,
+   "text": "From far away, every promise sounds the same."
+  },
+  {
+   "id": "L05",
+   "src": [
+    17.74,
+    21.54
+   ],
+   "at": 18.04,
+   "text": "So we made India closer… one check at a time."
+  },
+  {
+   "id": "L06",
+   "src": [
+    21.74,
+    26.72
+   ],
+   "at": 22.04,
+   "text": "We find W-H-O G-M-P certified partner manufacturers in India."
+  },
+  {
+   "id": "L07",
+   "src": [
+    26.92,
+    28.86
+   ],
+   "at": 27.22,
+   "text": "We check their licences and documents."
+  },
+  {
+   "id": "L08",
+   "src": [
+    28.9,
+    33.72
+   ],
+   "at": 29.2,
+   "text": "We don't make medicines. We make sourcing them from India simple.",
+   "world": "dark"
+  },
+  {
+   "id": "L09",
+   "src": [
+    33.96,
+    37.74
+   ],
+   "at": 34.26,
+   "text": "Each shipment carries the manufacturer's batch certificate of analysis."
+  },
+  {
+   "id": "L10",
+   "src": [
+    38.1,
+    42.32
+   ],
+   "at": 38.4,
+   "text": "Our team assists you from sourcing in India all the way to your door."
+  },
+  {
+   "id": "L11",
+   "src": [
+    42.64,
+    45.74
+   ],
+   "at": 42.94,
+   "text": "One thread… India is closer than you think."
+  },
+  {
+   "id": "L12",
+   "src": [
+    45.92,
+    49.88
+   ],
+   "at": 46.22,
+   "text": "Send us your product list on WhatsApp… our team in India is ready."
   }
  ],
  "music": {
-  "bpm": 96,
+  "bpm": 92,
   "transpose": 0,
   "mech": [
-   3,
-   6
+   14.4,
+   28.6
   ],
   "drop": [
-   6,
-   6.5
+   28.6,
+   29.2
   ],
   "resolve": [
-   6.5,
-   8
+   29.2,
+   46.0
   ],
   "loop": [
-   8,
-   9
+   46.0,
+   50.2
   ],
-  "end": 9
+  "end": 50.2
  },
- "sfx": []
+ "sfx": [
+  {
+   "type": "whoosh",
+   "at": 0.25,
+   "gain": -24
+  },
+  {
+   "type": "lens",
+   "at": 28.7,
+   "gain": -22
+  },
+  {
+   "type": "unlock",
+   "at": 29.2,
+   "gain": -24
+  },
+  {
+   "type": "tick",
+   "at": 27.9,
+   "gain": -24
+  },
+  {
+   "type": "chime",
+   "at": 50.4,
+   "gain": -22
+  }
+ ],
+ "note": "Line map from faster-whisper word timestamps (hq/tools/whisper_timeline.py); 98% of script words matched; gaps > 0.75s tightened; lead 0.3s; end card 4.0s."
 }

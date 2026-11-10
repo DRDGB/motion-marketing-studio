@@ -1,0 +1,2 @@
+voice_code,content_id,lang,version,text_sha8,audio_sha256,duration_s,original_name,stored_path,match_method,transcript_similarity,plan,commercial_licence,received_at,status
+AKV-001-EN-v1,AKV-001,EN,1,7c3e06db,e80c400635e2aa718f198c9c761affc97e14d19708e8feb5070d972245d9b6ec,50.13,66d4ddbd-ElevenLabs_2026-11-10T20_11_32_Amarachi_pvc_s50_sim75_v4.mp3,episodes/AKV_001_CLOSER/source/VO_AKV-001_EN_FULL.mp3,transcript,0.959,user ElevenLabs account (plan TBC),no,2026-11-10 20:18 UTC,VOICE_READY · NOT FOR PUBLICATION (no commercial licence)
