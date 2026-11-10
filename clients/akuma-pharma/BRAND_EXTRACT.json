@@ -1,6 +1,421 @@
 {
  "source": "https://akumaenterprises-pharma.com/",
- "errors": [
-  "fetch failed: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
- ]
+ "retrieved": "2026-11-10",
+ "method": "brand_extract.py + firecrawl",
+ "methods_detail": [
+  "scripts/brand_extract.py (run by coordinator after network opened)",
+  "Firecrawl scrape: branding, screenshot (desktop full page, mobile), rawHtml, links",
+  "curl of logo.svg, icons, site.webmanifest, main CSS assets/index-D_DeLMVN.css",
+  "Playwright screenshots (coordinator): home_desktop/home_mobile/home_full",
+  "pixel sampling of screenshots to verify CSS ranking"
+ ],
+ "title": "WHO-GMP Formulations & Peptides | Export from Asia to 54 African Countries & Worldwide | Akuma Enterprise Pharma",
+ "title_variants": [
+  "Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export from Asia to All 54 Countries of Africa (EN/FR)",
+  "Akuma Enterprise Pharma — WHO-GMP Formulations, Peptides & Custom Export | Africa & Global (og:title)"
+ ],
+ "description": "WHO-GMP & ISO 9001:2015 exporter from Asia to all 54 countries of Africa & worldwide: finished pharmaceutical formulations, Pharmaceutical Peptide APIs, Research Peptides (RUO), and custom molecules manufactured or sourced on request with Zone IVb stability & bilingual EN/FR Africa dossiers.",
+ "slogan_jsonld": "Pharmaceutical supply, engineered for confidence.",
+ "brand_promise_onpage": "Quality medicines and peptides for a healthier Africa & world.",
+ "theme_color": "#B3122B",
+ "msapplication_tile_color": "#B3122B",
+ "manifest_background_color": "#ffffff",
+ "colors_ranked": [
+  {
+   "rank": 1,
+   "hex": "#E31B36",
+   "role": "accent (ONE action colour)",
+   "evidence": "headline emphasis word, eyebrows, links, search/CTA buttons, logo gradient start; 4.3% of visible page pixels (only significant hue)"
+  },
+  {
+   "rank": 2,
+   "hex": "#B3122B",
+   "role": "accentDeep",
+   "evidence": "theme-color, msapplication-TileColor, header 'Request a Dossier' pill, logo gradient end"
+  },
+  {
+   "rank": 3,
+   "hex": "#111318",
+   "role": "ink",
+   "evidence": "headings and primary text (branding textPrimary)"
+  },
+  {
+   "rank": 4,
+   "hex": "#FFFFFF",
+   "role": "surface",
+   "evidence": "cards, header, hero top"
+  },
+  {
+   "rank": 5,
+   "hex": "#FAFAFB",
+   "role": "bg",
+   "evidence": "alternating section background (sampled from screenshot)"
+  },
+  {
+   "rank": 6,
+   "hex": "#64748B",
+   "role": "dim",
+   "evidence": "secondary text (slate-500)"
+  },
+  {
+   "rank": 7,
+   "hex": "#475569",
+   "role": "body text",
+   "evidence": "hero paragraph / card descriptions (slate-600)"
+  },
+  {
+   "rank": 8,
+   "hex": "#E2E8F0",
+   "role": "hairline/border",
+   "evidence": "card and section borders"
+  },
+  {
+   "rank": 9,
+   "hex": "#0D1117",
+   "role": "dark",
+   "evidence": "footer background; top bar renders #06090F"
+  },
+  {
+   "rank": 10,
+   "hex": "#1E293B",
+   "role": "darkSurface",
+   "evidence": "footer chips/borders; branding 'secondary'"
+  },
+  {
+   "rank": 11,
+   "hex": "#670D1C",
+   "role": "support (wine)",
+   "evidence": "pre-footer CTA band gradient #670D1C -> #450A14 -> #30060D; logo hexagon stroke"
+  },
+  {
+   "rank": 12,
+   "hex": "#FEF2F2",
+   "role": "support (rose tint)",
+   "evidence": "icon tiles, quote block tint"
+  },
+  {
+   "rank": 13,
+   "hex": "#94A3B8",
+   "role": "muted on dark",
+   "evidence": "footer text"
+  },
+  {
+   "rank": 14,
+   "hex": "#059669",
+   "role": "status green (not brand)",
+   "evidence": "'In Stock' labels; CSS --accent is green 160 84% 39-45% but used only for status; WhatsApp/Tawk green #03A84E/#25D366 is third-party"
+  },
+  {
+   "rank": 15,
+   "hex": "#F59E0B",
+   "role": "not visible",
+   "evidence": "in CSS (shadow tokens hsl(38 92% 50%)) but ~0.06% of visible pixels; ignore"
+  }
+ ],
+ "css_variables": {
+  "--tw-ring-offset-color": "#dc2626",
+  "--tw-ring-color": "rgb(248 113 113/var(--tw-ring-opacity,1))",
+  "--tw-shadow-colored": "0 0 #0000",
+  "--primary": "350 82% 46%",
+  "--primary-foreground": "0 0% 100%",
+  "--primary-light": "350 85% 56%",
+  "--primary-dark": "350 90% 36%",
+  "--accent": "160 84% 45%",
+  "--accent-foreground": "0 0% 100%",
+  "--accent-light": "160 70% 55%",
+  "--secondary": "218 15% 15%",
+  "--secondary-foreground": "0 0% 95%",
+  "--gradient-primary": "linear-gradient(135deg, hsl(350 82% 46%), hsl(350 85% 56%)), hsl(45 85% 55%))",
+  "--gradient-accent": "linear-gradient(135deg, hsl(var(--accent)), hsl(var(--accent-light)))",
+  "--tw-shadow-color": "hsl(var(--card))",
+  "--background": "0 0% 100%",
+  "--foreground": "218 25% 12%",
+  "--muted-foreground": "218 15% 45%",
+  "--border": "218 20% 90%",
+  "--radius": ".75rem",
+  "--transition-smooth": "all .3s cubic-bezier(.4, 0, .2, 1)"
+ },
+ "colours_ranked_script": [
+  {
+   "hex": "#000000",
+   "count": 94
+  },
+  {
+   "hex": "#ffffff",
+   "count": 59
+  },
+  {
+   "hex": "#e31b36",
+   "count": 46
+  },
+  {
+   "hex": "#e2e8f0",
+   "count": 31
+  },
+  {
+   "hex": "#f59e0b",
+   "count": 21
+  },
+  {
+   "hex": "#0f172a",
+   "count": 18
+  },
+  {
+   "hex": "#1e293b",
+   "count": 17
+  },
+  {
+   "hex": "#b3122b",
+   "count": 15
+  },
+  {
+   "hex": "#111318",
+   "count": 14
+  },
+  {
+   "hex": "#fbbf24",
+   "count": 11
+  },
+  {
+   "hex": "#334155",
+   "count": 10
+  },
+  {
+   "hex": "#94a3b8",
+   "count": 9
+  },
+  {
+   "hex": "#991b1b",
+   "count": 9
+  },
+  {
+   "hex": "#f1f5f9",
+   "count": 9
+  },
+  {
+   "hex": "#cbd5e1",
+   "count": 9
+  },
+  {
+   "hex": "#3b82f6",
+   "count": 8
+  },
+  {
+   "hex": "#1e3a8a",
+   "count": 8
+  },
+  {
+   "hex": "#10b981",
+   "count": 8
+  },
+  {
+   "hex": "#fef2f2",
+   "count": 8
+  },
+  {
+   "hex": "#dc2626",
+   "count": 7
+  },
+  {
+   "hex": "#f8fafc",
+   "count": 7
+  },
+  {
+   "hex": "#22c55e",
+   "count": 7
+  },
+  {
+   "hex": "#cccccc",
+   "count": 6
+  },
+  {
+   "hex": "#fee2e2",
+   "count": 6
+  },
+  {
+   "hex": "#ef4444",
+   "count": 5
+  },
+  {
+   "hex": "#64748b",
+   "count": 5
+  },
+  {
+   "hex": "#475569",
+   "count": 5
+  },
+  {
+   "hex": "#0ea5e9",
+   "count": 4
+  },
+  {
+   "hex": "#a855f7",
+   "count": 4
+  },
+  {
+   "hex": "#16a34a",
+   "count": 4
+  },
+  {
+   "hex": "#7c9a7e",
+   "count": 4
+  },
+  {
+   "hex": "#fafafb",
+   "count": 4
+  },
+  {
+   "hex": "#fecaca",
+   "count": 4
+  },
+  {
+   "hex": "#fca5a5",
+   "count": 4
+  },
+  {
+   "hex": "#f87171",
+   "count": 4
+  },
+  {
+   "hex": "#e5e7eb",
+   "count": 3
+  },
+  {
+   "hex": "#9ca3af",
+   "count": 3
+  },
+  {
+   "hex": "#06b6d4",
+   "count": 3
+  },
+  {
+   "hex": "#fffbeb",
+   "count": 3
+  },
+  {
+   "hex": "#ecfdf5",
+   "count": 3
+  }
+ ],
+ "firecrawl_branding": {
+  "primary": "#E31B36",
+  "secondary": "#1E293B",
+  "accent": "#E31B36",
+  "background": "#FFFFFF",
+  "textPrimary": "#111318",
+  "link": "#E31B36",
+  "buttonPrimary": {
+   "background": "#B3122B",
+   "text": "#FFFFFF",
+   "radius": "9999px"
+  },
+  "borderRadius": "14px",
+  "h1": "58.4px",
+  "h2": "37.6px",
+  "body": "17px"
+ },
+ "fonts": [
+  {
+   "family": "Playfair Display",
+   "role": "display/headings (class .pharma-serif), 700 + 700 italic for the crimson emphasis word",
+   "loaded_from": "Google Fonts @import in assets/index-D_DeLMVN.css (ital,wght 0,500;0,600;0,700;1,400;1,600)",
+   "licence": "SIL OFL 1.1 (Reserved Font Name 'Playfair Display')"
+  },
+  {
+   "family": "Plus Jakarta Sans",
+   "role": "body, UI, wordmark text (300-800)",
+   "loaded_from": "same Google Fonts @import",
+   "licence": "SIL OFL 1.1"
+  },
+  {
+   "family": "ui-monospace (system stack)",
+   "role": "product codes e.g. 'AKP-048 · Sterile Dry Powder Vial'",
+   "licence": "system font, not shippable; use an OFL mono if needed"
+  },
+  {
+   "family": "Lato",
+   "role": "third-party Tawk.to chat widget only, NOT brand",
+   "licence": "OFL (irrelevant)"
+  }
+ ],
+ "fonts_ranked_script": [
+  [
+   "-apple-system",
+   2
+  ],
+  [
+   "ui-sans-serif",
+   2
+  ],
+  [
+   "ui-monospace",
+   2
+  ],
+  [
+   "inherit",
+   1
+  ],
+  [
+   "Plus Jakarta Sans",
+   1
+  ],
+  [
+   "Playfair Display",
+   1
+  ]
+ ],
+ "logo_candidates": [
+  {
+   "url": "https://akumaenterprises-pharma.com/logo.svg",
+   "type": "svg 32x32 viewBox",
+   "note": "site favicon + header logo; hexagon gradient #E31B36->#B3122B, stroke #670D1C, white 'A' with crimson node",
+   "local": "02_RESEARCH/raw/brand/logo.svg"
+  },
+  {
+   "url": "https://akumaenterprises-pharma.com/icon-512.png",
+   "type": "png 512",
+   "note": "JSON-LD Organization.logo; flat #E31B36 hexagon, differently drawn 'A' (compass legs + dot); differs from SVG",
+   "local": "02_RESEARCH/raw/brand/icon-512.png"
+  },
+  {
+   "url": "https://akumaenterprises-pharma.com/icon-192.png",
+   "type": "png 192",
+   "local": "02_RESEARCH/raw/brand/icon-192.png"
+  },
+  {
+   "url": "https://akumaenterprises-pharma.com/apple-touch-icon.png",
+   "type": "png 180",
+   "local": "02_RESEARCH/raw/brand/apple-touch-icon.png"
+  },
+  {
+   "url": "https://akumaenterprises-pharma.com/favicon-32.png",
+   "type": "png 32",
+   "local": "02_RESEARCH/raw/brand/favicon-32.png"
+  },
+  {
+   "url": "https://akumaenterprises-pharma.com/favicon-16.png",
+   "type": "png 16"
+  },
+  {
+   "url": "https://akumaenterprises-pharma.com/favicon.ico",
+   "type": "ico"
+  }
+ ],
+ "wordmark": "No wordmark file; header renders live text 'Akuma Enterprise Pharma' (Plus Jakarta Sans bold, #111318) + 'FINISHED FORMULATIONS & GLOBAL DOSSIERS' (crimson, uppercase, tracked)",
+ "og_image": "https://www.akumaenterprises-pharma.com/og-image.jpg",
+ "social_links": [],
+ "social_note": "No LinkedIn/Facebook/Instagram/X/YouTube/TikTok profiles linked from the home page (checked links + rawHtml). Only WhatsApp.",
+ "contact_links": [
+  "mailto:sales@akumaenterprises-pharma.com",
+  "mailto:dalle@akumaenterprises-pharma.com",
+  "tel:+9107986147827",
+  "https://wa.me/9107986147827"
+ ],
+ "screenshots": [
+  "02_RESEARCH/raw/brand/desktop_fullpage_2026-11-10.png (firecrawl, catalogue modal overlay dims hero)",
+  "02_RESEARCH/raw/brand/mobile_2026-11-10.png (firecrawl 360x800)",
+  "02_RESEARCH/raw/brand/home_desktop.png, home_mobile.png, home_full.png (Playwright)"
+ ],
+ "errors_previous_run": "brand_extract.py first run failed (proxy 403); superseded",
+ "note": "Hints verified against screenshots on 2026-11-10. Request official vector logo + brand guide from client."
 }

@@ -1,26 +1,27 @@
 {
   "name": "AKUMA PHARMA",
-  "tagline": "Your one-line promise goes here.",
-  "handle": "@yourbrand",
-  "cta": "FOLLOW FOR MORE",
+  "tagline": "Pharmaceutical supply, engineered for confidence.",
+  "handle": "akumaenterprises-pharma.com",
+  "cta": "REQUEST A DOSSIER",
   "logo": null,
   "colors": {
-    "bg": "#F5F3EE",
+    "bg": "#FAFAFB",
     "surface": "#FFFFFF",
-    "ink": "#1D2430",
-    "dim": "#7D8592",
-    "accent": "#2F7DF6",
-    "accentDeep": "#1C5BC2",
-    "dark": "#0E131B",
-    "darkSurface": "#1A2230",
-    "light": "#F4F6F9",
-    "support": ["#9FB4C9", "#6E8299", "#46566B"]
+    "ink": "#111318",
+    "dim": "#64748B",
+    "accent": "#E31B36",
+    "accentDeep": "#B3122B",
+    "dark": "#0D1117",
+    "darkSurface": "#1E293B",
+    "light": "#F8FAFC",
+    "support": ["#CBD5E1", "#670D1C", "#334155", "#FEF2F2"]
   },
   "fonts": {
-    "display": { "family": "Inter", "files": [{ "file": "fonts/Inter-Black.otf", "weight": 900 }, { "file": "fonts/Inter-Bold.otf", "weight": 700 }] },
-    "text": { "family": "Inter", "files": [{ "file": "fonts/Inter-Medium.otf", "weight": 500 }, { "file": "fonts/Inter-Bold.otf", "weight": 700 }] }
+    "display": { "family": "Playfair Display", "files": [{ "file": "fonts/PlayfairDisplay-SemiBold.ttf", "weight": 600 }, { "file": "fonts/PlayfairDisplay-Bold.ttf", "weight": 700 }, { "file": "fonts/PlayfairDisplay-BoldItalic.ttf", "weight": 700, "style": "italic" }] },
+    "text": { "family": "Plus Jakarta Sans", "files": [{ "file": "fonts/PlusJakartaSans-Medium.ttf", "weight": 500 }, { "file": "fonts/PlusJakartaSans-Bold.ttf", "weight": 700 }, { "file": "fonts/PlusJakartaSans-ExtraBold.ttf", "weight": 800 }] }
   },
-  "texture": "paper",
+  "texture": "clean",
   "motion": { "energy": "calm", "radius": 24, "shadow": "soft" },
-  "licence_notes": "Default demo tokens. Replace from the client's brand guide / BRAND_EXTRACT.json; log fonts and logo in ASSET_REGISTER.csv."
+  "licence_notes": "Playfair Display (SIL OFL 1.1, Reserved Font Name 'Playfair Display'; licence fonts/OFL-PlayfairDisplay.txt) and Plus Jakarta Sans (SIL OFL 1.1; fonts/OFL-PlusJakartaSans.txt), static TTFs from Google Fonts 2026-11-10, matching the fonts the client's site loads. Logged in 02_RESEARCH/assets_B.csv. Logo intentionally null until the client supplies the official vector (site SVG and PNG icons differ).",
+  "_note": "DRAFT 2026-11-10 (Track B brand analyst), from akumaenterprises-pharma.com CSS + verified screenshots; see 02_RESEARCH/B_BRAND.md. Not client-approved. handle = website (no social profiles found). cta mirrors the site's primary CTA; confirm with client. Engine 'big' text asks for weight 900; Playfair resolves to the 700 face (the site's heaviest), consider setting display weight 700 in Phase 4. Accent on dark (#0D1117) is 4.03:1, so use it for large words only."
 }

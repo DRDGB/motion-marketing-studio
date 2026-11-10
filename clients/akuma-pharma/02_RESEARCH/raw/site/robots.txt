@@ -1,0 +1,277 @@
+# Robots.txt for Akuma Enterprise Pharma (https://www.akumaenterprises-pharma.com/)
+# Tuned for classical search engines, social link-unfurlers, AND AI answer
+# engines. Each user-agent block is explicit because crawlers ignore the
+# generic User-agent: * fallback when their own name is mentioned anywhere
+# in the file, and we want each cohort to see its own explicit Allow.
+
+# ─────────── Classical search engines ───────────
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+Allow: /product-images/
+Allow: /news-images/
+
+User-agent: Googlebot-News
+Allow: /
+Allow: /news/
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Sogou web spider
+Allow: /
+
+User-agent: Naverbot
+Allow: /
+
+User-agent: SeznamBot
+Allow: /
+
+# ─────────── Social link-unfurlers ───────────
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+User-agent: Pinterestbot
+Allow: /
+
+# ─────────── AI / LLM answer-engine crawlers ───────────
+# Explicitly invited so Akuma Enterprise Pharma surfaces when buyers ask
+# ChatGPT / Perplexity / Gemini / Copilot for WHO-GMP finished formulations, Peptide APIs, and African NRA dossier export.
+# llms.txt and ai.txt provide structured citation profiles.
+
+User-agent: GPTBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /products.json
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: AI2Bot
+Allow: /
+
+User-agent: Bingbot-Copilot
+Allow: /
+
+User-agent: ImagesiftBot
+Allow: /
+
+User-agent: omgili
+Allow: /
+
+User-agent: Kagibot
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+# ─────────── Catch-all ───────────
+User-agent: *
+Allow: /
+
+# ─────────── Off-limits to every crawler ───────────
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /checkout/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*?session=
+Disallow: /*?token=
+
+# Tracking-parameter duplicates — these query strings produce the same
+# page content as the bare URL. Crawling them wastes Bingbot's budget
+# (per BWT's "Not yet crawled" guidance) and Google may file them as
+# "Duplicate without user-selected canonical". The inline canonical
+# <link> we emit already strips them, but Disallow keeps crawlers from
+# enumerating the parameter space in the first place.
+Disallow: /*?utm_
+Disallow: /*?ref=
+Disallow: /*?fbclid=
+Disallow: /*?gclid=
+Disallow: /*?msclkid=
+Disallow: /*?source=
+Disallow: /*?campaign=
+Disallow: /*?_gl=
+Disallow: /*?yclid=
+Disallow: /*?mc_cid=
+Disallow: /*?mc_eid=
+
+# Static assets — allow so headless renderers (Googlebot, ChatGPT, Perplexity)
+# can compose pages properly. Crawlers that try to render the SPA need CSS,
+# JS, and images or they see an empty page.
+Allow: /assets/
+Allow: /product-images/
+Allow: /news-images/
+Allow: /guides/
+Allow: /*.css
+Allow: /*.js
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.webp
+Allow: /*.svg
+Allow: /*.ico
+Allow: /*.woff
+Allow: /*.woff2
+
+# ─────────── Sitemaps ───────────
+# Sitemap index — preferred entry point. Crawlers that understand
+# <sitemapindex> (Googlebot, Bingbot, Yandex, AppleBot, GPTBot) fetch
+# this once and pull each child sitemap separately, so news updates
+# don't cache-invalidate the full dynamic URL corpus.
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-index.xml
+
+# Per-segment child sitemaps — listed explicitly so older crawlers
+# that don't follow the <sitemapindex> wrapper still discover each
+# segment. Google docs: list each individually OR via the index — both
+# is supported and idempotent.
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-news.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-products.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-static.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-images.xml
+
+# ─────────── i18n sitemaps ───────────
+# 27 per-locale sitemaps (Africa priority EN/FR + Global) + an i18n index.
+# Each per-locale sitemap carries full <xhtml:link rel="alternate" hreflang="…">
+# matrix per URL, so crawlers honour hreflang at the URL level without depending
+# on client-rendered <head> tags.
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-index-i18n.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-en-ng.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-en-ke.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-en-gh.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-en-za.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-en-tz.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-en-ug.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-fr-ci.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-fr-sn.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-fr-cm.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-fr-cd.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-fr-ma.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-en-us.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-en-gb.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-en-in.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-en-au.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-en-ca.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-en-nz.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-de-de.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-fr-fr.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-es-es.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-it-it.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-nl-nl.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-pt-br.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-es-mx.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-fr-ca.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-ja-jp.xml
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap-ko-kr.xml
+
+# Legacy monolithic sitemap — kept declared for back-compat with any
+# crawler already polling this URL. Safe to remove after 60 days.
+Sitemap: https://www.akumaenterprises-pharma.com/sitemap.xml
+
+# ─────────── Host directive ───────────
+# Tells Yandex (and historically Google) which is the canonical hostname.
+# Cheaper than relying on 301 redirects when the crawler enters via apex.
+Host: https://www.akumaenterprises-pharma.com
+
+# ─────────── IndexNow ───────────
+# IndexNow lets us push-notify Bing, Yandex, Seznam (et al.) when URLs change
+# rather than waiting for the next polite crawl. The key file at the root
+# proves we own the domain. Bing and Yandex both honour it.
+# https://www.indexnow.org/
+# Key: 5638bdace2c3032402c5628f7116955a
+# Key location: https://www.akumaenterprises-pharma.com/5638bdace2c3032402c5628f7116955a.txt
+
+# ─────────── Machine-readable profiles ───────────
+# llms.txt — structured AI-citation profile (llmstxt.org)
+#   https://www.akumaenterprises-pharma.com/llms.txt
+# ai.txt — training & inference policy (Spawning ai.txt)
+#   https://www.akumaenterprises-pharma.com/ai.txt
+# security.txt — vulnerability disclosure (RFC 9116)
+#   https://www.akumaenterprises-pharma.com/.well-known/security.txt
+
+Sitemap: https://www.akumaenterprises-pharma.com/products.rss
+Sitemap: https://www.akumaenterprises-pharma.com/products.json

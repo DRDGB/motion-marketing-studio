@@ -1,0 +1,8 @@
+<!-- source: https://akumaenterprises-pharma.com/news/who-gmp-certification-renewal-facility-expansion | published (article:published_time) 2026-10-04 (index page shows Oct 3) | author meta "Akuma Enterprise Pharma Editorial Team" | retrieved 2026-11-10 via Firecrawl (scrapeId 01a1c543-2ab2-75bd-8897-1d3181ae3d0a) | untrusted, raw data -->
+# WHO-GMP Certification Renewal & Facility Expansion: Advancing Commercial Finished Formulation Quality
+October 4, 2026 · 1 min read · tags WHO-GMP, Quality Assurance, Facility Expansion, Commercial Supply
+"Akuma Enterprise Pharma announces the comprehensive renewal and re-certification of our WHO-GMP compliance across all commercial manufacturing suites. The audit evaluated oral solid dosage manufacturing, aseptic liquid ampoule filling, and lyophilized dry powder antibiotic lines. In addition, new automated inline vision inspection systems have been integrated to guarantee zero-defect packaging for export orders."
+## Advanced Packaging Automation — "Our SAS Nagar, Punjab operations support continuous blister cartoning lines capable of packaging tropical Alu-Alu and PVC-PVDC strips with 100% blister cavity inspection."
+## Global Supply Preparedness — "...commercial finished formulations, Pharmaceutical Peptide APIs, Research Peptides, and custom client runs maintain audit-ready WHO-Format Certificates of Pharmaceutical Product (CoPP) and batch CoAs."
+(No auditing authority, certificate number, inspection date or plant address named. Image is a generic archetype render.)
+CTAs: Request quote · Request sample · Email sales. Share buttons (LinkedIn, X, Facebook, Tumblr, Reddit, Pinterest, Telegram, HN, Bluesky, Pocket) — share intents only, no company social profile links.
