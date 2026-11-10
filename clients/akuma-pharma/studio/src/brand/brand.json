@@ -1,27 +1,69 @@
 {
-  "name": "AKUMA PHARMA",
-  "tagline": "Pharmaceutical supply, engineered for confidence.",
+  "name": "Akuma Pharma",
+  "tagline": "Your sourcing partner in India, all the way to your door.",
   "handle": "akumaenterprises-pharma.com",
-  "cta": "REQUEST A DOSSIER",
-  "logo": null,
+  "cta": "REQUEST A QUOTE",
+  "logo": "brand/logo.svg",
   "colors": {
-    "bg": "#FAFAFB",
+    "bg": "#FFFFFF",
     "surface": "#FFFFFF",
-    "ink": "#111318",
-    "dim": "#64748B",
+    "ink": "#0B0B0C",
+    "dim": "#6B6F76",
     "accent": "#E31B36",
     "accentDeep": "#B3122B",
-    "dark": "#0D1117",
-    "darkSurface": "#1E293B",
-    "light": "#F8FAFC",
-    "support": ["#CBD5E1", "#670D1C", "#334155", "#FEF2F2"]
+    "dark": "#B3122B",
+    "darkSurface": "#E31B36",
+    "light": "#FFFFFF",
+    "support": [
+      "#670D1C",
+      "#F6D5DA",
+      "#1A1A1A"
+    ]
   },
   "fonts": {
-    "display": { "family": "Playfair Display", "files": [{ "file": "fonts/PlayfairDisplay-SemiBold.ttf", "weight": 600 }, { "file": "fonts/PlayfairDisplay-Bold.ttf", "weight": 700 }, { "file": "fonts/PlayfairDisplay-BoldItalic.ttf", "weight": 700, "style": "italic" }] },
-    "text": { "family": "Plus Jakarta Sans", "files": [{ "file": "fonts/PlusJakartaSans-Medium.ttf", "weight": 500 }, { "file": "fonts/PlusJakartaSans-Bold.ttf", "weight": 700 }, { "file": "fonts/PlusJakartaSans-ExtraBold.ttf", "weight": 800 }] }
+    "display": {
+      "family": "Playfair Display",
+      "files": [
+        {
+          "file": "fonts/PlayfairDisplay-SemiBold.ttf",
+          "weight": 600
+        },
+        {
+          "file": "fonts/PlayfairDisplay-Bold.ttf",
+          "weight": 700
+        },
+        {
+          "file": "fonts/PlayfairDisplay-BoldItalic.ttf",
+          "weight": 700,
+          "style": "italic"
+        }
+      ]
+    },
+    "text": {
+      "family": "Plus Jakarta Sans",
+      "files": [
+        {
+          "file": "fonts/PlusJakartaSans-Medium.ttf",
+          "weight": 500
+        },
+        {
+          "file": "fonts/PlusJakartaSans-Bold.ttf",
+          "weight": 700
+        },
+        {
+          "file": "fonts/PlusJakartaSans-ExtraBold.ttf",
+          "weight": 800
+        }
+      ]
+    }
   },
   "texture": "clean",
-  "motion": { "energy": "calm", "radius": 24, "shadow": "soft" },
+  "motion": {
+    "energy": "calm",
+    "radius": 24,
+    "shadow": "soft"
+  },
   "licence_notes": "Playfair Display (SIL OFL 1.1, Reserved Font Name 'Playfair Display'; licence fonts/OFL-PlayfairDisplay.txt) and Plus Jakarta Sans (SIL OFL 1.1; fonts/OFL-PlusJakartaSans.txt), static TTFs from Google Fonts 2026-11-10, matching the fonts the client's site loads. Logged in 02_RESEARCH/assets_B.csv. Logo intentionally null until the client supplies the official vector (site SVG and PNG icons differ).",
-  "_note": "DRAFT 2026-11-10 (Track B brand analyst), from akumaenterprises-pharma.com CSS + verified screenshots; see 02_RESEARCH/B_BRAND.md. Not client-approved. handle = website (no social profiles found). cta mirrors the site's primary CTA; confirm with client. Engine 'big' text asks for weight 900; Playfair resolves to the 700 face (the site's heaviest), consider setting display weight 700 in Phase 4. Accent on dark (#0D1117) is 4.03:1, so use it for large words only."
+  "_note": "BRAND DIRECTION set by user 2026-11-10: red + white backgrounds, black illustrations (same grammar as the engine demo). Light world = white bg, black ink, crimson accent. Red world = engine 'dark' tokens (radial #E31B36 -> #B3122B) with white type; on the red world the accent role must render white/black, never crimson (Phase 4 engine check). Logo = client's site mark (brand/logo.svg) on white; brand/logo-on-red.svg is a colour-inverted version of the same paths for red backgrounds (no redraw). Social name: 'Akuma Pharma'. Tagline and CTA are proposals pending strategy approval.",
+  "logoOnDark": "brand/logo-on-red.svg"
 }

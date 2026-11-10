@@ -3,7 +3,7 @@ import BRAND from "./brand/brand.json";
 
 type FontFile = { file: string; weight: number; style?: "normal" | "italic" };
 export type Brand = {
-  name: string; tagline: string; handle?: string; cta: string; logo: string | null;
+  name: string; tagline: string; handle?: string; cta: string; logo: string | null; logoOnDark?: string | null;
   colors: { bg: string; surface: string; ink: string; dim: string; accent: string; accentDeep: string; dark: string; darkSurface: string; light: string; support: string[] };
   fonts: { display: { family: string; files: FontFile[] }; text: { family: string; files: FontFile[] } };
   texture: "paper" | "clean" | "grid";

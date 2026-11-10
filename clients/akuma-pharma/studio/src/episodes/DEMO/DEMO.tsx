@@ -82,7 +82,7 @@ const Mechanism: React.FC = () => {
         <g opacity={flow}>
           <Building x={250} y={1350} s={0.85 * bld} o={Math.min(1, bld * 2)} kind="office" label="BUSINESS" dark />
           <Person x={830} y={1500} s={0.75 * per} o={Math.min(1, per * 2)} dark />
-          <Arrow d="M 420 1180 Q 560 1020 720 1180" k={arrow} len={420} />
+          <Arrow d="M 420 1180 Q 560 1020 720 1180" k={arrow} len={420} dark />
           {coin > 0 && coin < 1 && <Coin x={420 + 300 * coin} y={1180 - Math.sin(coin * Math.PI) * 150} r={44} />}
         </g>
         <Bar x={540} y={1250} v={0.8 * bar} o={Math.min(1, bar * 3)} label="The one idea" value="↑" w={760} dark />

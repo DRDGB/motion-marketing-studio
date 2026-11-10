@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Akuma Pharma">
+  <title>Akuma Pharma (on red)</title>
+  <!-- Colour-inverted version of the client's own site mark (same paths): white hexagon, crimson A, for red backgrounds -->
+  <path d="M16 2.5 L27.5 9.25 V22.75 L16 29.5 L4.5 22.75 V9.25 Z" fill="#FFFFFF"/>
+  <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M16 6.5 L23.5 24 H19.8 L18.0 19.6 H14.0 L12.2 24 H8.5 L16 6.5 Z
+           M16 11.2 L14.7 16.2 H17.3 L16 11.2 Z"
+        fill="#E31B36"/>
+  <circle cx="16" cy="18" r="1.3" fill="#FFFFFF"/>
+</svg>

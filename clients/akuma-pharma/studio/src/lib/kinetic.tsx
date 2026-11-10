@@ -12,7 +12,7 @@ const STYLE = (dark: boolean): Record<WStyle, React.CSSProperties> => {
     dim: { fontFamily: TEXT, fontSize: 66, fontWeight: 500, color: dim },
     small: { fontFamily: TEXT, fontSize: 52, fontWeight: 500, color: dim, letterSpacing: 1 },
     big: { fontFamily: DISPLAY, fontSize: 132, fontWeight: 900, color: ink, letterSpacing: -3, lineHeight: 0.98 },
-    accent: { fontFamily: DISPLAY, fontSize: 132, fontWeight: 900, color: C.accent, letterSpacing: -3, lineHeight: 0.98 },
+    accent: { fontFamily: DISPLAY, fontSize: 132, fontWeight: 900, color: dark ? C.ink : C.accent, letterSpacing: -3, lineHeight: 0.98 },
     outline: { fontFamily: DISPLAY, fontSize: 132, fontWeight: 900, color: "transparent", WebkitTextStroke: `3px ${ink}`, letterSpacing: -3, lineHeight: 0.98 },
     ghost: { fontFamily: DISPLAY, fontSize: 132, fontWeight: 900, color: alpha(ink, dark ? 0.16 : 0.14), letterSpacing: -3, lineHeight: 0.98 },
   };
