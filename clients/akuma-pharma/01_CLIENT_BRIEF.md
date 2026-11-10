@@ -10,8 +10,10 @@ _Workspace: clients/akuma-pharma/ · created 2026-11-10 · status: DRAFT (pre-fi
 - **What they sell:** B2B export of finished pharmaceutical formulations (224 SKUs, 12 dosage forms:
   anti-infectives, antimalarials, anti-diabetics, oral liquids, eye/ear drops, sterile injectables, creams,
   sanitizers…), peptide APIs and RUO peptides, plus custom sourcing. No public prices. MOQ 1,000 packs; Incoterms
-  FOB/CIF/CFR/CIP/EXW. Model: **likely merchant/trader exporter** using unnamed contract manufacturers (INFERENCE,
-  A-019); TBD.
+  FOB/CIF/CFR/CIP/EXW. Model: **CONFIRMED 2026-11-10 (by the site's developer, for the client): trading /
+  sourcing intermediary.** Akuma manufactures nothing. It sources finished products from WHO-GMP certified contract
+  manufacturers in India and supplies buyers in Africa. WHO-GMP, licences, stability data, dossiers and CoAs belong to
+  the partner manufacturers. Partner names: TBD.
 - **Where:** office in Kharar, SAS Nagar (Mohali), Punjab, India. Target: African importers (Nigeria, Ghana, Kenya,
   Côte d'Ivoire, South Africa, Tanzania, Ethiopia…) and "worldwide". Countries actually supplied: TBD.
 - **B2C / B2B:** B2B (licensed importers, distributors, tender suppliers, formulators).
@@ -91,4 +93,5 @@ _Workspace: clients/akuma-pharma/ · created 2026-11-10 · status: DRAFT (pre-fi
 
 ## Changelog
 - 2026-11-10: workspace created.
+- 2026-11-10: business model confirmed as sourcing intermediary (no own manufacturing, no own WHO-GMP); website to be corrected first (WEBSITE_CORRECTIONS.md) before any content work.
 - 2026-11-10: pre-filled from Phase 2 research (A–E + SYNTHESIS); questions sent via QUESTIONS_FOR_CLIENT.md.
