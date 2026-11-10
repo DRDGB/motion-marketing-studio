@@ -1,0 +1,26 @@
+{
+  "name": "Your Brand",
+  "tagline": "Your one-line promise goes here.",
+  "handle": "@yourbrand",
+  "cta": "FOLLOW FOR MORE",
+  "logo": null,
+  "colors": {
+    "bg": "#F5F3EE",
+    "surface": "#FFFFFF",
+    "ink": "#1D2430",
+    "dim": "#7D8592",
+    "accent": "#2F7DF6",
+    "accentDeep": "#1C5BC2",
+    "dark": "#0E131B",
+    "darkSurface": "#1A2230",
+    "light": "#F4F6F9",
+    "support": ["#9FB4C9", "#6E8299", "#46566B"]
+  },
+  "fonts": {
+    "display": { "family": "Inter", "files": [{ "file": "fonts/Inter-Black.otf", "weight": 900 }, { "file": "fonts/Inter-Bold.otf", "weight": 700 }] },
+    "text": { "family": "Inter", "files": [{ "file": "fonts/Inter-Medium.otf", "weight": 500 }, { "file": "fonts/Inter-Bold.otf", "weight": 700 }] }
+  },
+  "texture": "paper",
+  "motion": { "energy": "calm", "radius": 24, "shadow": "soft" },
+  "licence_notes": "Default demo tokens. Replace from the client's brand guide / BRAND_EXTRACT.json; log fonts and logo in ASSET_REGISTER.csv."
+}

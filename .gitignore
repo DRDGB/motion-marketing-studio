@@ -1,0 +1,8 @@
+**/node_modules
+renders/
+clients/*/renders/
+clients/*/studio/public/episodes/*/*.wav
+clients/*/deliverables/*/*.mp4
+*.env
+.env*
+__pycache__/
