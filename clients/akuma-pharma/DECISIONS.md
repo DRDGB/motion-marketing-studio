@@ -13,3 +13,4 @@
 | D-010 | 2026-11-10 | Owner will apply the website corrections; studio supplies WEBSITE_CORRECTIONS.md | owner (relayed by user) | - | ACTIVE |
 | D-011 | 2026-11-10 | WEBSITE_CORRECTIONS.md issued (387 rows: 262 P0 / 92 P1 / 33 P2; emergency "START HERE" block). Fabricated BV ISO and CDSCO GMP certificates, ~1,000 hidden third-party articles and crypto checkout confirmed live | studio | verified independently 2026-11-10 | ISSUED |
 | D-012 | 2026-11-10 | No content, ads or outreach may link to the site until P0 + P1 are fixed and re-audited | studio | WEBSITE_CORRECTIONS.md §1 | ACTIVE |
+| D-013 | 2026-11-10 | Content goal set: leads/website traffic; videos promote the sourcing service with varied emotional communication; generic drawn medicine visuals allowed, no named products | user | Phase 3 direction | ACTIVE |

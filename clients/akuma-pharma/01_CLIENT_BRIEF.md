@@ -20,8 +20,9 @@ _Workspace: clients/akuma-pharma/ · created 2026-11-10 · status: DRAFT (pre-fi
 - **Regulated sector:** YES, pharma (strict, section B of 10_compliance.md). Licence numbers: **none published; TBD**.
 
 ## 2. Goal (next 60 days)
-- **Primary goal:** TBD (asked 2026-11-10). Studio recommendation: **qualified importer enquiries and dossier
-  requests** in 3–5 priority countries, built on trust-first educational content.
+- **Primary goal (set by user 2026-11-10):** more leads and conversions: website visitors, WhatsApp chats, quote and
+  dossier requests. Videos sell the sourcing service ("your partner in India, from the manufacturer to you") with
+  varied, emotional communication; no named medicines; generic drawn medicine visuals allowed.
 - **Numeric target:** TBD
 - **CTA destination:** TBD. Candidates: WhatsApp desk +91 07986147827, "Request a Dossier" form, sales@ email.
 
