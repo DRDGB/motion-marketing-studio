@@ -29,7 +29,8 @@ One crimson thread (the brand's single accent, B_BRAND) runs through every film:
   on a phone, in any language.
 
 **Visual world:**
-- Two worlds, light and dark (#FAFAFB paper, #0D1117 night ocean), joined by the crimson thread.
+- Two worlds, **white** and **crimson red** (D-015): on white, black illustrations with a crimson thread; on red, white type
+  with black illustrations and a black or white thread (never red on red). Logo + "Akuma Pharma" on every end card.
 - Playfair Display headlines with **one crimson italic word**, Plus Jakarta Sans for everything else.
 - Drawn, unlabelled cartons, blisters, documents, ports, planes and maps. Diagrams instead of stock footage.
 - Calm motion that is never alarmist.
@@ -41,7 +42,7 @@ One crimson thread (the brand's single accent, B_BRAND) runs through every film:
 > We find WHO-GMP certified partner manufacturers. We check their licences and documents. We bring you the manufacturer's
 > batch certificate with every shipment. And our team stays with your order, from sourcing in India to your door.
 > One thread. From their factory to your door.
-> **Akuma. Closer than you think.**
+> **Akuma Pharma. Closer than you think.**
 
 (SP-1…SP-6. FR version written natively, not translated word for word.)
 
