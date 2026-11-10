@@ -9,3 +9,5 @@
 | D-006 | 2026-11-10 | Paid ads on hold until website clean-up and owner approval | studio | E_PLATFORMS §0.5 | PROPOSED |
 | D-007 | 2026-11-10 | Business model confirmed: sourcing/trading intermediary; WHO-GMP and manufacturing belong to Indian partner manufacturers | user (site developer, relaying client) | answers A_BUSINESS §2 | DONE |
 | D-008 | 2026-11-10 | Fix the website first: correction spec WEBSITE_CORRECTIONS.md handed to the site's developer agent; content phases wait | user | site claims would be found by any buyer doing due diligence | ACTIVE |
+| D-009 | 2026-11-10 | All peptide products (RUO + peptide APIs) were listed in error (belong to another platform); remove entirely from this site; out of scope for content | owner (relayed by user) | owner statement | ACTIVE |
+| D-010 | 2026-11-10 | Owner will apply the website corrections; studio supplies WEBSITE_CORRECTIONS.md | owner (relayed by user) | - | ACTIVE |
