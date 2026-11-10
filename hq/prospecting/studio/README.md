@@ -1,6 +1,7 @@
 # Prospect studio (gift videos)
 
-Remotion project for **prospect** spec films (not clients). Uses the shared engine install
+Remotion project for **prospect** spec films (not clients). The current 10 films are **concept drafts**
+(no logo/products yet); real gift videos are rebuilt after the owner's review (`../abidjan-2026-11/REVIEW.md`). Uses the shared engine install
 (`node_modules` → `hq/shared-engine/node_modules`; run `init_studio.py --setup` in a fresh session first).
 
 - `src/kit.tsx`: generic building blocks (kinetic type with `*accent*` / `^accent2^` / `_dim_` markup, scenes,

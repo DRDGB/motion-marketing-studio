@@ -16,7 +16,8 @@ contacts, their gift video source). Never copy one prospect's material into anot
 | Mon | Social audit of ~25–30: Instagram feed (last 12 posts), Facebook, TikTok | `<campaign>/AUDIT.csv` |
 | Mon | Score and pick the 10 most likely to convert | `<campaign>/SHORTLIST.md` |
 | Tue | Contacts: public phone/WhatsApp (Maps, IG bio, captions), public email (FB "contact info", site footer, directories) | `<campaign>/prospects/<slug>.md` |
-| Tue–Wed | One gift video per prospect (20–30 s, 9:16, their palette, their real facts) | `studio/` → `renders/` (not committed) |
+| Tue | **Owner review** of each prospect (visit their pages, collect logo + product photos, keep/swap, concept) | `<campaign>/REVIEW.md`, `<campaign>/assets/<slug>/` |
+| Tue–Wed | Gift video per prospect, built around **their products and logo**, after the review | `studio/` → `renders/` (not committed) |
 | Thu | **Verification call** (owner): "is this your WhatsApp?" | `PIPELINE.csv` → `VERIFIED` |
 | Thu–Fri | Owner sends the WhatsApp message + video (email for those with one) | `PIPELINE.csv` → `SENT` |
 | +2 days | Follow-up 1 if no reply · +7 days: last follow-up, then stop | `PIPELINE.csv` |
@@ -66,6 +67,8 @@ The reference video quotes 15–20K FCFA per video in Abidjan; the packs reward 
 Orange Money / cash, 50% upfront for packs.
 
 ## The gift video
+- **No real video before the owner's review.** Claude may sketch a concept, but the gift is built around the
+  business's own products, logo and style that the owner collected; a generic video does not make them feel it was made for them.
 - 20–30 s, 1080×1920, works **muted** (WhatsApp autoplays silently); an original music bed is optional.
 - Their palette (from their logo/feed), their real facts only (name, address, hours, signature products from
   their own posts, dated). No prices unless taken from a dated post of theirs, no invented reviews, ratings or
@@ -84,7 +87,7 @@ only when the owner asks; they are never sent by Claude.
 
 ## Files
 - `PIPELINE.csv`: every prospect across campaigns, one row each, with its state:
-  `SHORTLISTED → VIDEO_READY → VERIFIED → SENT → FOLLOWUP_1 → FOLLOWUP_2 → REPLIED → CALL → WON | LOST | NO_REPLY`
+  `SHORTLISTED → REVIEWED → VIDEO_READY → VERIFIED → SENT → FOLLOWUP_1 → FOLLOWUP_2 → REPLIED → CALL → WON | LOST | NO_REPLY`
   (the verification call happens just before sending, so a changed number can still be fixed in the film).
 - `<campaign>/LONGLIST.csv` (raw Maps pull) · `AUDIT.csv` (scored) · `SHORTLIST.md` (the 10 + why) ·
   `prospects/<slug>.md` (dossier + messages + video brief).
