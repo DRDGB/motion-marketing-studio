@@ -260,7 +260,9 @@ const PhoneScene: React.FC = () => {
 export const AKV_001_CLOSER: React.FC = () => {
   const f = useCurrentFrame(); const t = f / 30;
   const r = revealRadius(f, fr(RED_A), fr(RED_A + 0.6), fr(RED_B - 0.3), fr(RED_B + 0.3));
-  const tradeO = interpolate(f, [fr(PLANT_A), fr(PLANT_A) + 10, fr(END_A) - 10, fr(END_A)], [0, 1, 1, 0], clamp);
+  const win = (a: number, b: number) => interpolate(f, [fr(a), fr(a) + 8, fr(b) - 8, fr(b)], [0, 1, 1, 0], clamp);
+  const tradeO = Math.max(win(PLANT_A, DOOR_A), win(PHONE_A, END_A)); // only over scenes without people (≈ 11 s total)
+  const tradeTop = t >= PHONE_A - 0.3 ? 1725 : 1470;
   const inRed = t > RED_A + 0.6 && t < RED_B - 0.3;
   return (
     <AbsoluteFill style={{ background: C.bg }}>
@@ -276,7 +278,7 @@ export const AKV_001_CLOSER: React.FC = () => {
       <Span a={FULL_A} b={FULL_B}><FullShop /></Span>
       <Span a={PHONE_A} b={PHONE_B}><PhoneScene /></Span>
       <Reveal r={r} cx={540} cy={1200}><Span a={RED_A} b={RED_B + 0.4}><RedScene /></Span></Reveal>
-      <div style={{ position: "absolute", top: 1470, left: 150, right: 150, padding: "10px 18px", borderRadius: 16, background: alpha("#FFFFFF", 0.88), textAlign: "center", fontFamily: TEXT, fontSize: 23, fontWeight: 500, color: C.dim, opacity: inRed ? 0 : tradeO, lineHeight: 1.3 }}>
+      <div style={{ position: "absolute", top: tradeTop, left: 150, right: 150, padding: "10px 18px", borderRadius: 16, background: alpha("#FFFFFF", 0.88), textAlign: "center", fontFamily: TEXT, fontSize: 23, fontWeight: 500, color: C.dim, opacity: inRed ? 0 : tradeO, lineHeight: 1.3 }}>
         For licensed pharmaceutical trade. Products are supplied only where registered or authorised by the national regulator.
       </div>
       {t > 0.8 && t < END_A && <CornerBug dark={inRed} />}
