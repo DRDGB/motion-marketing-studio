@@ -110,7 +110,7 @@ const DocScene: React.FC = () => {
         <rect x={-300} y={-420} width={600} height={60} rx={18} fill={C.ink} />
         <text x={0} y={-378} textAnchor="middle" fontFamily={TEXT} fontWeight={800} fontSize={24} letterSpacing={4} fill="#FFFFFF">ILLUSTRATIVE</text>
         {[["CERTIFICATE", 5, -270], ["OF A PHARMACEUTICAL", 7, -210], ["PRODUCT", 8, -150]].map(([txt, i, y]) => (
-          <text key={String(txt)} x={0} y={Number(y)} textAnchor="middle" fontFamily={DISPLAY} fontWeight={700} fontSize={50} fill={hl(Number(i)) > 0.5 ? C.accent : C.ink}>{String(txt)}</text>
+          <text key={String(txt)} x={0} y={Number(y)} textAnchor="middle" fontFamily={DISPLAY} fontWeight={700} fontSize={40} fill={hl(Number(i)) > 0.5 ? C.accent : C.ink}>{String(txt)}</text>
         ))}
         {[-60, -10, 40, 90, 140, 190].map((y, i) => <rect key={y} x={-230} y={y} width={i % 2 ? 300 : 420} height={16} rx={8} fill={alpha(C.ink, 0.25)} />)}
         <g transform={`translate(170 300) scale(${who})`}>

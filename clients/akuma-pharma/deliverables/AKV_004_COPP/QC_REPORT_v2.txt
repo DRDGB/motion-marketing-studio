@@ -1,0 +1,39 @@
+## QC: renders/AKV_004_COPP/AKV_004_COPP_v2.mp4  (2026-11-11T13:03:18Z)
+### Streams
+index=0
+codec_name=h264
+profile=High
+codec_type=video
+width=1080
+height=1920
+pix_fmt=yuv420p
+color_range=tv
+color_space=bt709
+r_frame_rate=30/1
+nb_frames=1475
+index=1
+codec_name=aac
+profile=LC
+codec_type=audio
+sample_rate=48000
+channels=2
+r_frame_rate=0/0
+nb_frames=2307
+duration=49.173000
+size=7001749
+bit_rate=1139120
+### Decode integrity
+PASS: full decode, no errors
+### Black (>=0.5 s) / freeze (>=2 s) intervals. Review each by eye; low-motion minimalist scenes trigger freezedetect.
+freeze_start: 43.1333
+freeze_duration: 3.03333
+freeze_end: 46.1667
+freeze_start: 46.1667
+freeze_duration: 2.66667
+freeze_end: 48.8333
+### Loudness (EBU R128). Note the integrated LUFS and true peak; target is set by the audio spec.
+    I:         -16.3 LUFS
+    LRA:         4.0 LU
+    Peak:       -4.2 dBFS
+### Silence (>=2 s at -50 dB)
+none
