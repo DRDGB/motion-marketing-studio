@@ -88,26 +88,67 @@
   }
  ],
  "music": {
-  "bpm": 96,
-  "transpose": 0,
+  "bpm": 98,
+  "transpose": 2,
   "mech": [
-   3,
-   6
+   1.0,
+   31.81
   ],
   "drop": [
-   6,
-   6.5
+   31.81,
+   32.41
   ],
   "resolve": [
-   6.5,
-   8
+   32.41,
+   35.91
   ],
   "loop": [
-   8,
-   9
+   35.91,
+   47.57
   ],
-  "end": 9
+  "end": 47.57
  },
- "sfx": [],
+ "sfx": [
+  {
+   "type": "whoosh",
+   "at": 0.2,
+   "gain": -24
+  },
+  {
+   "type": "hit",
+   "at": 10.9,
+   "gain": -24
+  },
+  {
+   "type": "tick",
+   "at": 12.38,
+   "gain": -26
+  },
+  {
+   "type": "tick",
+   "at": 15.82,
+   "gain": -26
+  },
+  {
+   "type": "tick",
+   "at": 22.19,
+   "gain": -26
+  },
+  {
+   "type": "tick",
+   "at": 26.25,
+   "gain": -26
+  },
+  {
+   "type": "unlock",
+   "at": 32.41,
+   "gain": -24
+  },
+  {
+   "type": "chime",
+   "at": 39.55,
+   "gain": -22
+  }
+ ],
  "note": "Line map from faster-whisper word timestamps (hq/tools/whisper_timeline.py); 94% of script words matched; gaps > 0.55s tightened; lead 1.0s; end card 6.0s."
 }
