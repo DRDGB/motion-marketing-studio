@@ -1,17 +1,90 @@
 {
  "id": "AKV_004_COPP",
  "fps": 30,
- "total": 12,
- "voSource": "episodes/AKV_004_COPP/source/VO_AKV_004_COPP_FULL.mp3",
+ "total": 49.17,
+ "voSource": "episodes/AKV_004_COPP/source/VO_AKV-004_EN_FULL.mp3",
  "clips": [
   {
    "id": "L01",
    "src": [
     0.0,
-    2.0
+    4.76
    ],
-   "at": 0.3,
-   "text": "Replace with the first spoken line."
+   "at": 1.0,
+   "text": "Nairobi, Kenya. Wanjiru runs a pharmaceutical distribution company."
+  },
+  {
+   "id": "L02",
+   "src": [
+    4.84,
+    10.64
+   ],
+   "at": 5.84,
+   "text": "Her registration is stuck. The regulator wants one document: the C-O-P-P."
+  },
+  {
+   "id": "L03",
+   "src": [
+    11.2,
+    17.2
+   ],
+   "at": 12.19,
+   "text": "What is a C-O-P-P? A Certificate of Pharmaceutical Product, in the W-H-O format."
+  },
+  {
+   "id": "L04",
+   "src": [
+    17.44,
+    22.28
+   ],
+   "at": 18.43,
+   "text": "It is issued by the national authority of the exporting country… not by the seller."
+  },
+  {
+   "id": "L05",
+   "src": [
+    22.58,
+    25.58
+   ],
+   "at": 23.57,
+   "text": "Her old supplier? Three weeks… no answer."
+  },
+  {
+   "id": "L06",
+   "src": [
+    25.88,
+    31.78
+   ],
+   "at": 26.87,
+   "text": "With Akuma Pharma, our team in India requests it from the manufacturer for you… and checks it.",
+   "world": "dark"
+  },
+  {
+   "id": "L07",
+   "src": [
+    31.92,
+    34.88
+   ],
+   "at": 32.91,
+   "text": "Documents ready. Wanjiru can plan again."
+  },
+  {
+   "id": "L08",
+   "src": [
+    35.2,
+    39.28
+   ],
+   "at": 36.19,
+   "text": "Need documents for your next registration? Send us the product name on WhatsApp."
+  },
+  {
+   "id": "L09",
+   "src": [
+    39.6,
+    42.18
+   ],
+   "at": 40.59,
+   "text": "Akuma Pharma… closer than you think."
   }
  ],
  "music": {
@@ -35,5 +108,6 @@
   ],
   "end": 9
  },
- "sfx": []
+ "sfx": [],
+ "note": "Line map from faster-whisper word timestamps (hq/tools/whisper_timeline.py); 100% of script words matched; gaps > 0.55s tightened; lead 1.0s; end card 6.0s."
 }

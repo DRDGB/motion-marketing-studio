@@ -1,17 +1,90 @@
 {
  "id": "AKV_003_HOW_TO_WORK",
  "fps": 30,
- "total": 12,
- "voSource": "episodes/AKV_003_HOW_TO_WORK/source/VO_AKV_003_HOW_TO_WORK_FULL.mp3",
+ "total": 48.17,
+ "voSource": "episodes/AKV_003_HOW_TO_WORK/source/VO_AKV-003_EN_FULL.mp3",
  "clips": [
   {
    "id": "L01",
    "src": [
     0.0,
-    2.0
+    6.16
    ],
-   "at": 0.3,
-   "text": "Replace with the first spoken line."
+   "at": 1.0,
+   "text": "Douala, Cameroon. Madame Ngo runs two pharmacies… and she is tired of waiting."
+  },
+  {
+   "id": "L02",
+   "src": [
+    6.5,
+    10.88
+   ],
+   "at": 7.5,
+   "text": "Then she finds Akuma Pharma. Working with them takes four steps."
+  },
+  {
+   "id": "L03",
+   "src": [
+    11.38,
+    14.28
+   ],
+   "at": 12.38,
+   "text": "Step one… she sends her product list on WhatsApp."
+  },
+  {
+   "id": "L04",
+   "src": [
+    14.82,
+    20.64
+   ],
+   "at": 15.82,
+   "text": "Step two… the team in India sources it from W-H-O G-M-P certified manufacturers."
+  },
+  {
+   "id": "L05",
+   "src": [
+    21.46,
+    25.48
+   ],
+   "at": 22.19,
+   "text": "Step three… she receives a quote, with the manufacturer's documents to check."
+  },
+  {
+   "id": "L06",
+   "src": [
+    25.52,
+    31.34
+   ],
+   "at": 26.25,
+   "text": "Step four… she confirms, and the team follows her order all the way to her door."
+  },
+  {
+   "id": "L07",
+   "src": [
+    31.68,
+    34.78
+   ],
+   "at": 32.41,
+   "text": "Four steps. One team. No more waiting.",
+   "world": "dark"
+  },
+  {
+   "id": "L08",
+   "src": [
+    35.18,
+    38.44
+   ],
+   "at": 35.91,
+   "text": "Your turn. Send us your product list on WhatsApp today."
+  },
+  {
+   "id": "L09",
+   "src": [
+    38.82,
+    41.44
+   ],
+   "at": 39.55,
+   "text": "Akuma Pharma… closer than you think."
   }
  ],
  "music": {
@@ -35,5 +108,6 @@
   ],
   "end": 9
  },
- "sfx": []
+ "sfx": [],
+ "note": "Line map from faster-whisper word timestamps (hq/tools/whisper_timeline.py); 94% of script words matched; gaps > 0.55s tightened; lead 1.0s; end card 6.0s."
 }
