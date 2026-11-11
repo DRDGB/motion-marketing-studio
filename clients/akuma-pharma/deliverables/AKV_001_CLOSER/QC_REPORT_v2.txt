@@ -1,0 +1,34 @@
+## QC: renders/AKV_001_CLOSER/AKV_001_CLOSER_v2.mp4  (2026-11-11T11:32:01Z)
+### Streams
+index=0
+codec_name=h264
+profile=High
+codec_type=video
+width=1080
+height=1920
+pix_fmt=yuv420p
+color_range=tv
+color_space=bt709
+r_frame_rate=30/1
+nb_frames=1828
+index=1
+codec_name=aac
+profile=LC
+codec_type=audio
+sample_rate=48000
+channels=2
+r_frame_rate=0/0
+nb_frames=2859
+duration=60.949000
+size=21208663
+bit_rate=2783791
+### Decode integrity
+PASS: full decode, no errors
+### Black (>=0.5 s) / freeze (>=2 s) intervals. Review each by eye; low-motion minimalist scenes trigger freezedetect.
+freeze_start: 55.7667
+### Loudness (EBU R128). Note the integrated LUFS and true peak; target is set by the audio spec.
+    I:         -16.2 LUFS
+    LRA:         2.8 LU
+    Peak:       -3.9 dBFS
+### Silence (>=2 s at -50 dB)
+none
