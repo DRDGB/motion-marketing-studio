@@ -1,39 +1,163 @@
 {
  "id": "CCV_001_AWA",
  "fps": 30,
- "total": 12,
- "voSource": "episodes/CCV_001_AWA/source/VO_CCV_001_AWA_FULL.mp3",
+ "total": 58.77,
+ "voSource": "episodes/CCV_001_AWA/source/VO_CCV-001_FR_FULL.mp3",
  "clips": [
   {
    "id": "L01",
    "src": [
     0.0,
-    2.0
+    6.92
    ],
-   "at": 0.3,
-   "text": "Replace with the first spoken line."
+   "at": 0.9,
+   "text": "Abidjan, Côte d'Ivoire. Awa, vingt-deux ans, licence en poche… et un rêve : son premier stage."
+  },
+  {
+   "id": "L02",
+   "src": [
+    7.22,
+    13.1
+   ],
+   "at": 8.12,
+   "text": "Mais devant sa page blanche, elle bloque. « Je n'ai pas d'expérience… je mets quoi sur mon CV ? »"
+  },
+  {
+   "id": "L03",
+   "src": [
+    13.12,
+    18.84
+   ],
+   "at": 14.02,
+   "text": "Son cousin lui dit : « Va au cyber, ils vont te taper ça. » Encore payer… et attendre."
+  },
+  {
+   "id": "L04",
+   "src": [
+    19.08,
+    24.78
+   ],
+   "at": 19.98,
+   "text": "Awa, attends ! Avec ChapChapCV, tu fais ton CV toi-même, sur ton téléphone. Chap chap.",
+   "world": "dark"
+  },
+  {
+   "id": "L05",
+   "src": [
+    24.82,
+    28.3
+   ],
+   "at": 25.72,
+   "text": "Tu réponds à quatre questions… et l'IA écrit pour toi."
+  },
+  {
+   "id": "L06",
+   "src": [
+    28.6,
+    32.54
+   ],
+   "at": 29.5,
+   "text": "Ton projet de fin d'études, ton bénévolat : l'IA en fait des points forts."
+  },
+  {
+   "id": "L07",
+   "src": [
+    32.9,
+    37.16
+   ],
+   "at": 33.8,
+   "text": "Ensuite, des offres vérifiées… et ton CV en ligne, avec ton propre lien."
+  },
+  {
+   "id": "L08",
+   "src": [
+    37.5,
+    41.06
+   ],
+   "at": 38.4,
+   "text": "Awa a son CV. Cette fois, elle postule avec confiance."
+  },
+  {
+   "id": "L09",
+   "src": [
+    41.48,
+    48.4
+   ],
+   "at": 42.38,
+   "text": "Toi aussi : va sur chapchapcv.com, clique sur « Créer mon CV ». Tu crées gratuitement, tu payes seulement ton PDF."
+  },
+  {
+   "id": "L10",
+   "src": [
+    49.1,
+    52.07
+   ],
+   "at": 49.8,
+   "text": "ChapChapCV… ta carrière avance, chap chap."
   }
  ],
  "music": {
-  "bpm": 96,
-  "transpose": 0,
+  "bpm": 104,
+  "transpose": 3,
   "mech": [
-   3,
-   6
+   8.12,
+   19.38
   ],
   "drop": [
-   6,
-   6.5
+   19.38,
+   19.98
   ],
   "resolve": [
-   6.5,
-   8
+   19.98,
+   42.38
   ],
   "loop": [
-   8,
-   9
+   42.38,
+   58.17
   ],
-  "end": 9
+  "end": 58.17
  },
- "sfx": []
+ "sfx": [
+  {
+   "type": "whoosh",
+   "at": 0.2,
+   "gain": -24
+  },
+  {
+   "type": "lens",
+   "at": 19.48,
+   "gain": -22
+  },
+  {
+   "type": "unlock",
+   "at": 19.98,
+   "gain": -24
+  },
+  {
+   "type": "tick",
+   "at": 26.0,
+   "gain": -26
+  },
+  {
+   "type": "tick",
+   "at": 26.4,
+   "gain": -26
+  },
+  {
+   "type": "tick",
+   "at": 26.8,
+   "gain": -26
+  },
+  {
+   "type": "tick",
+   "at": 27.2,
+   "gain": -26
+  },
+  {
+   "type": "chime",
+   "at": 49.8,
+   "gain": -22
+  }
+ ],
+ "note": "Line map from faster-whisper word timestamps (hq/tools/whisper_timeline.py); 88% of script words matched; gaps > 0.5s tightened; lead 0.9s; end card 6.0s."
 }
