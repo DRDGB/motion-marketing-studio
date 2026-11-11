@@ -11,3 +11,4 @@
 | 2026-11-11 | AKV-001 v2 | CEO feedback → scenario rebuild: research F, script v2 (Lagos), new illustration kit (map, flags, people, pharmacy interior), storyboard 4 frames |
 | 2026-11-11 | AKV-001 v2 | rendered 60.9 s scenario cut (Lagos); QC pass (-16.2 LUFS, 1828 frames); freeze = end card hold |
 | 2026-11-11 | AKV-001 v3 | WhatsApp number on phone scene + end card, "See our products", pan-African "Your country next?"; POST.md (LinkedIn, IG/FB, TikTok, YT Shorts, WhatsApp) |
+| 2026-11-11 | AKV-002 v2 | built (pan-African intro, 40 s): flags CM/TD/KE, shared PhoneCTA + FinalCard; post texts. Voice cards issued for AKV-003/004/005 (Douala, Nairobi, N'Djamena) |

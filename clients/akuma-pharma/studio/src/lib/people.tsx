@@ -7,7 +7,7 @@ export const SKIN = { deep: "#4A2C1D", brown: "#6B4027", warm: "#8A5634", light:
 const OUT = "#16181D";
 export type Arm = { up: number; low: number }; // degrees from straight down; + = outward from the body
 export type Look = {
-  skin: string; hair: "short" | "bald" | "wrap" | "puff" | "grey" | "cap"; hairColor?: string; wrap?: string; beard?: boolean; glasses?: boolean;
+  skin: string; hair: "short" | "bald" | "wrap" | "puff" | "grey" | "cap" | "bun"; hairColor?: string; wrap?: string; beard?: boolean; glasses?: boolean;
 };
 export type Outfit = {
   top: "polo" | "shirt" | "coat" | "blouse" | "tee"; topColor: string; under?: string; bottom: "trousers" | "skirt"; bottomColor: string; shoes?: string; badge?: boolean;
@@ -106,6 +106,10 @@ export const Person: React.FC<{
       {look.beard && <path d="M -78 -905 Q -74 -818 0 -808 Q 74 -818 78 -905 Q 62 -856 0 -850 Q -62 -856 -78 -905 Z" fill={look.hairColor ?? "#1B1B1B"} />}
       {/* hair */}
       {look.hair === "short" && <path d="M -82 -918 Q -88 -1010 0 -1013 Q 88 -1010 82 -918 Q 74 -968 0 -972 Q -74 -968 -82 -918 Z" fill={look.hairColor ?? "#1B1B1B"} />}
+      {look.hair === "bun" && <>
+        <circle cx={0} cy={-1030} r={46} fill={look.hairColor ?? "#1B1B1B"} />
+        <path d="M -84 -900 Q -96 -1012 0 -1016 Q 96 -1012 84 -900 Q 78 -950 30 -968 Q 0 -940 -30 -968 Q -78 -950 -84 -900 Z" fill={look.hairColor ?? "#1B1B1B"} />
+      </>}
       {look.hair === "grey" && <path d="M -82 -918 Q -86 -985 -40 -1000 Q -50 -965 -78 -935 Z M 82 -918 Q 86 -985 40 -1000 Q 50 -965 78 -935 Z" fill="#CFCFCF" stroke={OUT} strokeWidth={3} />}
       {look.hair === "cap" && <><path d="M -84 -925 Q -84 -1015 0 -1018 Q 84 -1015 84 -925 Z" fill={look.wrap ?? OUT} stroke={OUT} strokeWidth={4} /><path d="M 20 -930 L 130 -925 Q 120 -945 60 -950 Z" fill={look.wrap ?? OUT} stroke={OUT} strokeWidth={4} /></>}
       {look.hair === "puff" && <>{[[-60, -990], [0, -1015], [60, -990], [-30, -1030], [30, -1030]].map(([cx, cy], i) => <circle key={i} cx={cx} cy={cy} r={48} fill={look.hairColor ?? "#1B1B1B"} />)}</>}
