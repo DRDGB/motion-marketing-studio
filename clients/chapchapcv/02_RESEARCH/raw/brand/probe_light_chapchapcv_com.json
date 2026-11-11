@@ -1,0 +1,2322 @@
+{
+ "title": "ChapChapCV – CV professionnel, offres d'emploi et portfolio en Afrique",
+ "lang": "fr-CI",
+ "htmlClass": "erhN5a_variable light",
+ "meta": [
+  {
+   "n": "viewport",
+   "c": "width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes, viewport-fit=cover, interactive-widget=resizes-content"
+  },
+  {
+   "n": "theme-color",
+   "c": "#059669"
+  },
+  {
+   "n": "description",
+   "c": "L'écosystème emploi propulsé par l'IA : CV professionnel en quelques minutes, offres d'emploi vérifiées et portfolio web. Côte d'Ivoire, Sénégal, Cameroun et toute l'Afrique."
+  },
+  {
+   "n": "application-name",
+   "c": "ChapChapCV"
+  },
+  {
+   "n": "author",
+   "c": "ChapChapCV"
+  },
+  {
+   "n": "keywords",
+   "c": "chapchapcv, créer un cv avec l'ia, cv professionnel afrique, offres d'emploi côte d'ivoire, offres d'emploi sénégal, emploi cameroun, portfolio en ligne cv, cv ats afrique francophone, chapchapjobs, chapchapportfolio"
+  },
+  {
+   "n": "robots",
+   "c": "index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+  },
+  {
+   "n": "category",
+   "c": "home"
+  },
+  {
+   "n": "content-language",
+   "c": "fr-CI"
+  },
+  {
+   "n": "og:title",
+   "c": "ChapChapCV – CV professionnel, offres d'emploi et portfolio en Afrique"
+  },
+  {
+   "n": "og:description",
+   "c": "L'écosystème emploi propulsé par l'IA : CV professionnel en quelques minutes, offres d'emploi vérifiées et portfolio web. Côte d'Ivoire, Sénégal, Cameroun et toute l'Afrique."
+  },
+  {
+   "n": "og:url",
+   "c": "https://chapchapcv.com/fr"
+  },
+  {
+   "n": "og:site_name",
+   "c": "ChapChapCV"
+  },
+  {
+   "n": "og:locale",
+   "c": "fr_FR"
+  },
+  {
+   "n": "og:image",
+   "c": "https://chapchapcv.com/og-image.png"
+  },
+  {
+   "n": "og:image:type",
+   "c": "image/png"
+  },
+  {
+   "n": "og:image:width",
+   "c": "1200"
+  },
+  {
+   "n": "og:image:height",
+   "c": "1200"
+  },
+  {
+   "n": "og:image:alt",
+   "c": "ChapChapCV – CV professionnel, offres d'emploi et portfolio en Afrique"
+  },
+  {
+   "n": "og:type",
+   "c": "website"
+  },
+  {
+   "n": "twitter:card",
+   "c": "summary_large_image"
+  },
+  {
+   "n": "twitter:site",
+   "c": "@chapchapcv"
+  },
+  {
+   "n": "twitter:creator",
+   "c": "@chapchapcv"
+  },
+  {
+   "n": "twitter:title",
+   "c": "ChapChapCV – CV professionnel, offres d'emploi et portfolio en Afrique"
+  },
+  {
+   "n": "twitter:description",
+   "c": "L'écosystème emploi propulsé par l'IA : CV professionnel en quelques minutes, offres d'emploi vérifiées et portfolio web. Côte d'Ivoire, Sénégal, Cameroun et toute l'Afrique."
+  },
+  {
+   "n": "twitter:image",
+   "c": "https://chapchapcv.com/og-image.png"
+  },
+  {
+   "n": "twitter:image:alt",
+   "c": "ChapChapCV – CV professionnel, offres d'emploi et portfolio en Afrique"
+  },
+  {
+   "n": "next-size-adjust",
+   "c": ""
+  }
+ ],
+ "links": [
+  {
+   "rel": "preload",
+   "href": ""
+  },
+  {
+   "rel": "preload",
+   "href": ""
+  },
+  {
+   "rel": "stylesheet",
+   "href": "https://chapchapcv.com/_next/static/chunks/3p9oo2egu34ad.css"
+  },
+  {
+   "rel": "stylesheet",
+   "href": "https://chapchapcv.com/_next/static/chunks/30bff967hq-ng.css"
+  },
+  {
+   "rel": "preload",
+   "href": "https://chapchapcv.com/_next/static/chunks/0uogv6y8c0nwk.js"
+  },
+  {
+   "rel": "manifest",
+   "href": "https://chapchapcv.com/manifest.webmanifest"
+  },
+  {
+   "rel": "canonical",
+   "href": "https://chapchapcv.com/fr"
+  },
+  {
+   "rel": "alternate",
+   "href": "https://chapchapcv.com/fr"
+  },
+  {
+   "rel": "alternate",
+   "href": "https://chapchapcv.com/en"
+  },
+  {
+   "rel": "alternate",
+   "href": "https://chapchapcv.com/fr"
+  },
+  {
+   "rel": "icon",
+   "href": "https://chapchapcv.com/favicon.png"
+  },
+  {
+   "rel": "preconnect",
+   "href": "https://chapchapcv.firebaseapp.com/"
+  },
+  {
+   "rel": "preload",
+   "href": "https://chapchapcv.com/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2"
+  },
+  {
+   "rel": "stylesheet",
+   "href": "https://chapchapcv.com/_next/static/chunks/2wkf5yivjdpdl.css"
+  }
+ ],
+ "body": {
+  "color": "lab(2.75381 0 0)",
+  "bg": "rgb(255, 255, 255)",
+  "bgImg": "none",
+  "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+  "weight": "400",
+  "size": "16px",
+  "radius": "0px",
+  "border": "lab(90.952 0 -0.0000119209)",
+  "ls": "normal",
+  "tt": "none"
+ },
+ "html": {
+  "color": "rgb(0, 0, 0)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "bgImg": "none",
+  "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+  "weight": "400",
+  "size": "16px",
+  "radius": "0px",
+  "border": "lab(90.952 0 -0.0000119209)",
+  "ls": "normal",
+  "tt": "none"
+ },
+ "h1": [
+  {
+   "sel": "h1",
+   "text": "Votre carrière professionnelle\ncommence ici.",
+   "cls": "text-[clamp(2rem,3.3vw,3.1rem)] font-extrabold tracking-tight leading-[1.08] text-zinc-900 dark:text-white mb-6",
+   "color": "lab(8.30603 0.618205 -2.16572)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "800",
+   "size": "47.52px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "-1.188px",
+   "tt": "none"
+  },
+  {
+   "sel": "h1",
+   "text": "Votre carrière professionnellecommence ici.",
+   "cls": "mb-3 shrink-0 text-center text-[34px] font-extrabold leading-[1.08] tracking-tight text-zinc-900 dark:text-white sm:mb-4 sm:text-5xl",
+   "color": "lab(8.30603 0.618205 -2.16572)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "800",
+   "size": "48px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "-1.2px",
+   "tt": "none"
+  }
+ ],
+ "h2": [
+  {
+   "sel": "h2",
+   "text": "Un compte, trois services pour avancer.",
+   "cls": "text-2xl sm:text-4xl font-extrabold tracking-tight text-zinc-900 dark:text-white",
+   "color": "lab(8.30603 0.618205 -2.16572)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "800",
+   "size": "36px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "-0.9px",
+   "tt": "none"
+  },
+  {
+   "sel": "h2",
+   "text": "4 façons intelligentes de créer votre CV",
+   "cls": "text-2xl sm:text-4xl font-bold text-foreground mb-3 sm:mb-4",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "36px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h2",
+   "text": "Choisissez un modèle et créez votre CV en quelques minutes !",
+   "cls": "text-2xl sm:text-4xl font-bold text-foreground mb-4",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "36px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h2",
+   "text": "Une IA qui comprend votre parcours.",
+   "cls": "text-2xl sm:text-4xl font-bold text-foreground mb-3 sm:mb-4",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "36px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h2",
+   "text": "Passez les filtres ATS avec confiance.",
+   "cls": "text-2xl sm:text-4xl font-bold text-foreground mb-3 sm:mb-4",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "36px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h2",
+   "text": "Un design premium, sans complexité.",
+   "cls": "text-2xl sm:text-4xl font-bold text-foreground mb-3 sm:mb-4",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "36px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h2",
+   "text": "Créez gratuitement.",
+   "cls": "text-2xl sm:text-4xl font-bold text-foreground mb-1.5 sm:mb-2",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "36px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h2",
+   "text": "Payez uniquement ce que vous utilisez.",
+   "cls": "text-2xl sm:text-4xl font-bold text-[#FF5500] mb-4 sm:mb-6",
+   "color": "rgb(255, 85, 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "36px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h2",
+   "text": "Conçu pour le marché ivoirien et africain.",
+   "cls": "text-2xl sm:text-4xl font-bold text-foreground mb-2 sm:mb-4",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "36px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h2",
+   "text": "Ils ont créé leur CV avec ChapChapCV",
+   "cls": "text-2xl sm:text-4xl font-bold text-foreground mb-1.5 sm:mb-4",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "36px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h2",
+   "text": "Questions fréquentes sur ChapChapCV",
+   "cls": "text-2xl sm:text-3xl font-bold text-gray-900 dark:text-white mb-8 text-center",
+   "color": "lab(8.11897 0.811279 -12.254)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "30px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  }
+ ],
+ "h3": [
+  {
+   "sel": "h3",
+   "text": "Génération rapide",
+   "cls": "font-bold text-foreground text-sm sm:text-base mb-1.5 sm:mb-2",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h3",
+   "text": "Import LinkedIn / CV",
+   "cls": "font-bold text-foreground text-sm sm:text-base mb-1.5 sm:mb-2",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h3",
+   "text": "Optimisation par offre",
+   "cls": "font-bold text-foreground text-sm sm:text-base mb-1.5 sm:mb-2",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h3",
+   "text": "Éditeur intelligent",
+   "cls": "font-bold text-foreground text-sm sm:text-base mb-1.5 sm:mb-2",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h3",
+   "text": "ChapChap Red",
+   "cls": "font-bold text-foreground transition-colors group-hover:text-[#FF5500]",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h3",
+   "text": "ChapChap Healthcare",
+   "cls": "font-bold text-foreground transition-colors group-hover:text-[#FF5500]",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h3",
+   "text": "ChapChap Geometric",
+   "cls": "font-bold text-foreground transition-colors group-hover:text-[#FF5500]",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h3",
+   "text": "ChapChap Onion",
+   "cls": "font-bold text-foreground transition-colors group-hover:text-[#FF5500]",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h3",
+   "text": "ChapChap Creative",
+   "cls": "font-bold text-foreground transition-colors group-hover:text-[#FF5500]",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h3",
+   "text": "ChapChap Red",
+   "cls": "font-bold text-foreground transition-colors group-hover:text-[#FF5500]",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h3",
+   "text": "ChapChap Healthcare",
+   "cls": "font-bold text-foreground transition-colors group-hover:text-[#FF5500]",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "h3",
+   "text": "ChapChap Geometric",
+   "cls": "font-bold text-foreground transition-colors group-hover:text-[#FF5500]",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  }
+ ],
+ "p": [
+  {
+   "sel": "p",
+   "text": "Nous utilisons des cookies pour optimiser votre expérience et analyser l'audience.",
+   "cls": "text-[11px] leading-snug text-gray-600 dark:text-gray-400 mb-2.5",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "11px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "p",
+   "text": "Créez votre CV, postulez aux bonnes offres et partagez votre profil en ligne. Notre IA s'occupe de tout.",
+   "cls": "text-base sm:text-lg text-gray-500 dark:text-gray-400 font-normal leading-relaxed mb-8 max-w-xl",
+   "color": "lab(47.7841 -0.393182 -10.0268)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "18px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "p",
+   "text": "Notre IA rédige un CV professionnel qui met en valeur vos compétences.",
+   "cls": "mx-auto min-h-[3.25rem] max-w-[22rem] text-center text-base leading-relaxed text-gray-500 dark:text-gray-400 sm:max-w-md sm:text-lg",
+   "color": "lab(47.7841 -0.393182 -10.0268)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "18px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "p",
+   "text": "Créez votre CV, postulez aux bonnes offres et démarquez-vous : tout votre parcours au même endroit.",
+   "cls": "mt-3 text-base sm:text-lg text-muted-foreground max-w-2xl mx-auto",
+   "color": "lab(48.496 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "18px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "p",
+   "text": "Un CV professionnel rédigé par l'IA en quelques minutes, adapté à votre pays et à chaque offre.",
+   "cls": "text-[15px] leading-relaxed text-gray-600 dark:text-gray-300 mb-5",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "15px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "p",
+   "text": "Des offres d'emploi récentes et vérifiées, classées selon leur adéquation avec votre profil.",
+   "cls": "text-[15px] leading-relaxed text-gray-600 dark:text-gray-300 mb-5",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "15px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "p",
+   "text": "Votre CV devient un site professionnel à votre nom, prêt à partager avec les recruteurs.",
+   "cls": "text-[15px] leading-relaxed text-gray-600 dark:text-gray-300 mb-5",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "15px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "p",
+   "text": "Pour les recruteurs : publiez vos offres, présélectionnez les candidats et conduisez les premiers entretiens avec l'IA.",
+   "cls": "flex items-start sm:items-center gap-2 text-sm sm:text-[15px] text-gray-600 dark:text-gray-300",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "15px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "p",
+   "text": "Commencez comme vous voulez. L'IA s'adapte à votre point de départ.",
+   "cls": "text-muted-foreground text-sm sm:text-base max-w-2xl mx-auto",
+   "color": "lab(48.496 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "p",
+   "text": "Répondez à 4 questions et obtenez un CV structuré automatiquement.",
+   "cls": "text-[11px] sm:text-sm text-muted-foreground leading-tight sm:leading-relaxed",
+   "color": "lab(48.496 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "14px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "p",
+   "text": "Collez votre profil ou importez un PDF/DOC. L'IA analyse et restructure.",
+   "cls": "text-[11px] sm:text-sm text-muted-foreground leading-tight sm:leading-relaxed",
+   "color": "lab(48.496 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "14px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "p",
+   "text": "Collez une annonce. Nous adaptons votre CV au poste visé.",
+   "cls": "text-[11px] sm:text-sm text-muted-foreground leading-tight sm:leading-relaxed",
+   "color": "lab(48.496 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "14px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  }
+ ],
+ "buttons": [
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "",
+   "cls": "text-gray-400 hover:text-gray-600 dark:hover:text-gray-200 transition-colors p-0.5",
+   "color": "lab(65.9269 -0.832707 -8.17473)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "12px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Gérer",
+   "cls": "px-2.5 py-1 text-[11px] font-medium rounded-md text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-white/5 transition-colors",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "11px",
+   "radius": "8px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "OK",
+   "cls": "px-3.5 py-1 text-[11px] font-semibold rounded-md bg-[#FF5500] hover:bg-[#E03D00] text-white transition-colors shadow-sm shadow-orange-500/10",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(255, 85, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "600",
+   "size": "11px",
+   "radius": "8px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Nos Produits",
+   "cls": "relative flex items-center gap-1 px-2.5 2xl:px-3.5 py-2 text-[13px] 2xl:text-sm font-medium rounded-full transition-colors duration-300 text-gray-600 hover:text-black dark:text-white/70 dark:hover:tex",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "13px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "FR",
+   "cls": "px-3 py-1.5 rounded-full text-xs font-semibold transition-all duration-200 bg-white text-black shadow-sm",
+   "color": "rgb(0, 0, 0)",
+   "bg": "rgb(255, 255, 255)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "600",
+   "size": "12px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "EN",
+   "cls": "px-3 py-1.5 rounded-full text-xs font-semibold transition-all duration-200 text-gray-600 hover:text-black hover:bg-black/5",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "600",
+   "size": "12px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Se connecter",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap text-sm disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shr",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "14px",
+   "radius": "8px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "S'inscrire",
+   "cls": "inline-flex items-center justify-center whitespace-nowrap text-sm disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 shrink-0 [&_svg]:shr",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(255, 85, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "600",
+   "size": "14px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "",
+   "cls": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 sh",
+   "color": "lab(27.1134 -0.956401 -12.3224)",
+   "bg": "oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "14px",
+   "radius": "3.35544e+07px",
+   "border": "oklab(0.927998 -0.000581443 -0.00595063 / 0.6)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Mon CV",
+   "cls": "relative flex h-10 items-center justify-center gap-1.5 rounded-full text-[14px] font-bold transition-colors text-white",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "14px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Jobs",
+   "cls": "relative flex h-10 items-center justify-center gap-1.5 rounded-full text-[14px] font-bold transition-colors text-gray-700 dark:text-gray-300",
+   "color": "lab(27.1134 -0.956401 -12.3224)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "14px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Portfolio",
+   "cls": "relative flex h-10 items-center justify-center gap-1.5 rounded-full text-[14px] font-bold transition-colors text-gray-700 dark:text-gray-300",
+   "color": "lab(27.1134 -0.956401 -12.3224)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "14px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Créer mon CV",
+   "cls": "group mt-auto inline-flex items-center justify-center gap-2 h-12 rounded-full text-white font-bold text-[15px] transition-colors bg-[#FF5500] hover:bg-[#e03d00] shadow-[0_4px_14px_rgba(255,85,0,0.2)]",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(255, 85, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "15px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Trouver un job",
+   "cls": "group mt-auto inline-flex items-center justify-center gap-2 h-12 rounded-full text-white font-bold text-[15px] transition-colors bg-[#059669] hover:bg-[#047857] shadow-[0_4px_14px_rgba(5,150,105,0.2)]",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(5, 150, 105)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "15px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Créer mon portfolio",
+   "cls": "group mt-auto inline-flex items-center justify-center gap-2 h-12 rounded-full text-white font-bold text-[15px] transition-colors bg-zinc-900 hover:bg-zinc-800 dark:bg-white dark:text-zinc-900 dark:hov",
+   "color": "rgb(255, 255, 255)",
+   "bg": "lab(8.30603 0.618205 -2.16572)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "700",
+   "size": "15px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "",
+   "cls": "absolute left-0 top-[42%] -translate-y-1/2 -translate-x-4 lg:-translate-x-32 z-40 w-11 h-11 rounded-full bg-white shadow-lg border border-border/60 flex items-center justify-center text-foreground hov",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgb(255, 255, 255)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "16px",
+   "radius": "3.35544e+07px",
+   "border": "oklab(0.921998 -0.00000908971 0.0000215769 / 0.6)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "",
+   "cls": "absolute right-0 top-[42%] -translate-y-1/2 translate-x-4 lg:translate-x-32 z-40 w-11 h-11 rounded-full bg-white shadow-lg border border-border/60 flex items-center justify-center text-foreground hove",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgb(255, 255, 255)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "16px",
+   "radius": "3.35544e+07px",
+   "border": "oklab(0.921998 -0.00000908971 0.0000215769 / 0.6)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Utiliser ce modèle",
+   "cls": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 sh",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(255, 85, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "14px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Utiliser ce modèle",
+   "cls": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 sh",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(255, 85, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "14px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Utiliser ce modèle",
+   "cls": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 sh",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(255, 85, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "14px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Utiliser ce modèle",
+   "cls": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 sh",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(255, 85, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "14px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Utiliser ce modèle",
+   "cls": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 sh",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(255, 85, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "14px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Utiliser ce modèle",
+   "cls": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 sh",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(255, 85, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "14px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Utiliser ce modèle",
+   "cls": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 sh",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(255, 85, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "14px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Utiliser ce modèle",
+   "cls": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 sh",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(255, 85, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "14px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Utiliser ce modèle",
+   "cls": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 sh",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(255, 85, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "14px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "Utiliser ce modèle",
+   "cls": "inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg:not([class*='size-'])]:size-4 sh",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(255, 85, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "14px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "",
+   "cls": "w-3 h-3 rounded-full transition-all bg-border hover:bg-[#FF5500]/50",
+   "color": "lab(2.75381 0 0)",
+   "bg": "lab(90.952 0 -0.0000119209)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "16px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "",
+   "cls": "w-3 h-3 rounded-full transition-all bg-border hover:bg-[#FF5500]/50",
+   "color": "lab(2.75381 0 0)",
+   "bg": "lab(90.952 0 -0.0000119209)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "16px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "button, a[class*=\"btn\"], a[class*=\"button\"], a[class*=\"bg-\"]",
+   "text": "",
+   "cls": "w-3 h-3 rounded-full transition-all bg-[#FF5500] w-6",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgb(255, 85, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "16px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  }
+ ],
+ "nav": [
+  {
+   "sel": "header, nav, header a, nav a",
+   "text": "ChapChap\nCV\nAccueil\nModèles de CV\nTarifs\nBlog\nAide\nNos Produits\nFR\nEN\nSe connecter\nS'inscrire",
+   "cls": "fixed top-0 left-0 right-0 z-50 px-6 xl:px-10 transition-[background-color,border-color,backdrop-filter] duration-300 isolation-auto will-change-[transform,background-color,backdrop-filter] antialiase",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "16px",
+   "radius": "0px",
+   "border": "rgba(0, 0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "header, nav, header a, nav a",
+   "text": "ChapChap\nCV",
+   "cls": "group flex items-center",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "header, nav, header a, nav a",
+   "text": "Accueil",
+   "cls": "relative px-2.5 2xl:px-3.5 py-2 text-[13px] 2xl:text-sm font-medium rounded-full transition-colors duration-300 text-black dark:text-white",
+   "color": "rgb(0, 0, 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "13px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "header, nav, header a, nav a",
+   "text": "Modèles de CV",
+   "cls": "relative px-2.5 2xl:px-3.5 py-2 text-[13px] 2xl:text-sm font-medium rounded-full transition-colors duration-300 text-gray-600 hover:text-black dark:text-white/70 dark:hover:text-white",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "13px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "header, nav, header a, nav a",
+   "text": "Tarifs",
+   "cls": "relative px-2.5 2xl:px-3.5 py-2 text-[13px] 2xl:text-sm font-medium rounded-full transition-colors duration-300 text-gray-600 hover:text-black dark:text-white/70 dark:hover:text-white",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "13px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "header, nav, header a, nav a",
+   "text": "Blog",
+   "cls": "relative px-2.5 2xl:px-3.5 py-2 text-[13px] 2xl:text-sm font-medium rounded-full transition-colors duration-300 text-gray-600 hover:text-black dark:text-white/70 dark:hover:text-white",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "13px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "header, nav, header a, nav a",
+   "text": "Aide",
+   "cls": "relative px-2.5 2xl:px-3.5 py-2 text-[13px] 2xl:text-sm font-medium rounded-full transition-colors duration-300 text-gray-600 hover:text-black dark:text-white/70 dark:hover:text-white",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "500",
+   "size": "13px",
+   "radius": "3.35544e+07px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "header, nav, header a, nav a",
+   "text": "Se connecter",
+   "cls": "",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "header, nav, header a, nav a",
+   "text": "S'inscrire",
+   "cls": "",
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  }
+ ],
+ "footer": [
+  {
+   "sel": "footer, footer a",
+   "text": "Boostez votre carrière avec nos conseils\n\nRecevez nos conseils CV et les nouvelles offres d'emploi, directement dans vot",
+   "cls": "relative bg-gray-50 dark:bg-gradient-to-br dark:from-[#0f172a] dark:via-[#1e293b] dark:to-[#334155] text-gray-600 dark:text-gray-400 overflow-hidden transition-colors duration-300",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "lab(98.2596 -0.247031 -0.706708)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "footer, footer a",
+   "text": "ChapChap\nCV",
+   "cls": "flex items-center gap-1 mb-6",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "16px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "footer, footer a",
+   "text": "",
+   "cls": "w-10 h-10 rounded-xl bg-white dark:bg-white/5 border border-gray-200 dark:border-white/10 flex items-center justify-center text-gray-500 dark:text-gray-400 hover:text-[#FF5500] hover:border-[#FF5500]/",
+   "color": "lab(47.7841 -0.393182 -10.0268)",
+   "bg": "rgb(255, 255, 255)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "16px",
+   "radius": "14px",
+   "border": "lab(91.6229 -0.159115 -2.26791)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "footer, footer a",
+   "text": "",
+   "cls": "w-10 h-10 rounded-xl bg-white dark:bg-white/5 border border-gray-200 dark:border-white/10 flex items-center justify-center text-gray-500 dark:text-gray-400 hover:text-[#FF5500] hover:border-[#FF5500]/",
+   "color": "lab(47.7841 -0.393182 -10.0268)",
+   "bg": "rgb(255, 255, 255)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "16px",
+   "radius": "14px",
+   "border": "lab(91.6229 -0.159115 -2.26791)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "footer, footer a",
+   "text": "",
+   "cls": "w-10 h-10 rounded-xl bg-white dark:bg-white/5 border border-gray-200 dark:border-white/10 flex items-center justify-center text-gray-500 dark:text-gray-400 hover:text-[#FF5500] hover:border-[#FF5500]/",
+   "color": "lab(47.7841 -0.393182 -10.0268)",
+   "bg": "rgb(255, 255, 255)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "16px",
+   "radius": "14px",
+   "border": "lab(91.6229 -0.159115 -2.26791)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "footer, footer a",
+   "text": "",
+   "cls": "w-10 h-10 rounded-xl bg-white dark:bg-white/5 border border-gray-200 dark:border-white/10 flex items-center justify-center text-gray-500 dark:text-gray-400 hover:text-[#FF5500] hover:border-[#FF5500]/",
+   "color": "lab(47.7841 -0.393182 -10.0268)",
+   "bg": "rgb(255, 255, 255)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "16px",
+   "radius": "14px",
+   "border": "lab(91.6229 -0.159115 -2.26791)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "footer, footer a",
+   "text": "Créer un CV",
+   "cls": "text-sm text-gray-600 dark:text-gray-400 hover:text-[#FF5500] transition-colors",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "14px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "footer, footer a",
+   "text": "Modèles de CV",
+   "cls": "text-sm text-gray-600 dark:text-gray-400 hover:text-[#FF5500] transition-colors",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "14px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "footer, footer a",
+   "text": "Assistant IA",
+   "cls": "text-sm text-gray-600 dark:text-gray-400 hover:text-[#FF5500] transition-colors",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "14px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "footer, footer a",
+   "text": "Optimisation ATS",
+   "cls": "text-sm text-gray-600 dark:text-gray-400 hover:text-[#FF5500] transition-colors",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "14px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "footer, footer a",
+   "text": "Offres d'emploi (Jobs)",
+   "cls": "text-sm text-gray-600 dark:text-gray-400 hover:text-[#FF5500] transition-colors",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "14px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "footer, footer a",
+   "text": "Site portfolio (Portfolio)",
+   "cls": "text-sm text-gray-600 dark:text-gray-400 hover:text-[#FF5500] transition-colors",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "14px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "footer, footer a",
+   "text": "Tarifs & Crédits",
+   "cls": "text-sm text-gray-600 dark:text-gray-400 hover:text-[#FF5500] transition-colors",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "14px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "footer, footer a",
+   "text": "Centre d'aide",
+   "cls": "text-sm text-gray-600 dark:text-gray-400 hover:text-[#FF5500] transition-colors",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "14px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "sel": "footer, footer a",
+   "text": "FAQ",
+   "cls": "text-sm text-gray-600 dark:text-gray-400 hover:text-[#FF5500] transition-colors",
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "400",
+   "size": "14px",
+   "radius": "0px",
+   "border": "lab(90.952 0 -0.0000119209)",
+   "ls": "normal",
+   "tt": "none"
+  }
+ ],
+ "sections": [
+  {
+   "cls": "min-h-screen bg-background transition-opacity duration-300",
+   "bg": "lab(100 0 0)",
+   "bgImg": "none",
+   "text": "Votre carrière professionnelle\ncommence ici.\n\nCréez votre CV, postulez aux bonne"
+  },
+  {
+   "cls": "relative pt-[155px] lg:pt-[165px] xl:pt-[175px] pb-12 lg:pb-14 mx-auto max-w-[1440px] px-6 xl:px-12",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "text": "Votre carrière professionnelle\ncommence ici.\n\nCréez votre CV, postulez aux bonne"
+  },
+  {
+   "cls": "mx-auto max-w-[1440px] px-6 lg:px-12 xl:px-24 mb-32",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "text": "Approuvé par nos partenaires\nGoogle\nATELIER NUMÉRIQUE\nSIMPLON\nCÔTE D'IVOIRE\nJOKK"
+  },
+  {
+   "cls": "relative flex min-h-[100svh] flex-col overflow-hidden bg-white dark:bg-[#0A0A0A] sm:min-h-0",
+   "bg": "rgb(255, 255, 255)",
+   "bgImg": "none",
+   "text": "Mon CVJobsPortfolioVotre carrière professionnellecommence ici.Notre IA rédige un"
+  },
+  {
+   "cls": "mx-auto max-w-[1440px] px-6 lg:px-12 xl:px-24 pb-6 pt-2",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "text": "Approuvé par nos partenairesGoogle Atelier NumériqueSimplon CÔTE D'IVOIREJokkoLa"
+  },
+  {
+   "cls": "pt-12 pb-6 sm:pt-20 sm:pb-16",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "text": "L'écosystème ChapChapCV\nUn compte, trois services pour avancer.\n\nCréez votre CV,"
+  },
+  {
+   "cls": "pt-12 sm:pt-20 pb-4 sm:pb-24",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "text": "Comment ça marche\n4 façons intelligentes de créer votre CV\n\nCommencez comme vous"
+  },
+  {
+   "cls": "pt-8 pb-4 sm:py-24 bg-background overflow-hidden",
+   "bg": "lab(100 0 0)",
+   "bgImg": "none",
+   "text": "Modèles premium\nChoisissez un modèle et créez votre CV en quelques minutes !\nUti"
+  },
+  {
+   "cls": "pt-8 pb-4 sm:py-24 bg-muted/30",
+   "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.3)",
+   "bgImg": "none",
+   "text": "Moteur IA\nUne IA qui comprend votre parcours.\n\nPas un simple correcteur. Un assi"
+  },
+  {
+   "cls": "pt-8 pb-12 sm:py-24",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "text": "Optimisation ATS\nPassez les filtres ATS avec confiance.\n\nLa plupart des entrepri"
+  },
+  {
+   "cls": "pt-8 pb-12 sm:py-24 bg-muted/30",
+   "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.3)",
+   "bgImg": "none",
+   "text": "Design Premium\nUn design premium, sans complexité.\nModèles professionnels\n\nModèl"
+  },
+  {
+   "cls": "pt-8 pb-12 sm:py-24",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "text": "Tarification transparente\nCréez gratuitement.\nPayez uniquement ce que vous utili"
+  },
+  {
+   "cls": "pt-8 pb-12 sm:py-24 bg-muted/30",
+   "bg": "oklab(0.969998 -0.00000959635 0.0000227094 / 0.3)",
+   "bgImg": "none",
+   "text": "Conçu pour l'Afrique\nConçu pour le marché ivoirien et africain.\n\nContrairement a"
+  },
+  {
+   "cls": "pt-8 pb-12 sm:py-24",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "text": "Ils ont créé leur CV avec ChapChapCV\n\nUtilisé par des professionnels en Côte d'I"
+  },
+  {
+   "cls": "py-16 sm:py-24 bg-background ",
+   "bg": "lab(100 0 0)",
+   "bgImg": "none",
+   "text": "Questions fréquentes sur ChapChapCV\nComment créer un CV professionnel avec l'IA "
+  },
+  {
+   "cls": "relative bg-gray-50 dark:bg-gradient-to-br dark:from-[#0f172a] dark:via-[#1e293b] dark:to-[#334155] text-gray-600 dark:text-gray-400 overflow-hidden t",
+   "bg": "lab(98.2596 -0.247031 -0.706708)",
+   "bgImg": "none",
+   "text": "Boostez votre carrière avec nos conseils\n\nRecevez nos conseils CV et les nouvell"
+  },
+  {
+   "cls": "",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "text": ""
+  }
+ ],
+ "imgs": [
+  {
+   "src": "https://chapchapcv.com/_next/image?url=%2Fimages%2Fhero-ecosystem-desktop.webp&w=750&q=90",
+   "alt": "L'écosystème ChapChapCV : CV, emploi et portfolio propulsés par l'IA",
+   "w": 1474,
+   "h": 983,
+   "inHeader": false,
+   "inFooter": false
+  },
+  {
+   "src": "https://chapchapcv.com/_next/image?url=%2Fimages%2Fhero-ecosystem-desktop.webp&w=640&q=75",
+   "alt": "",
+   "w": 0,
+   "h": 0,
+   "inHeader": false,
+   "inFooter": false
+  },
+  {
+   "src": "https://chapchapcv.com/templates/crimson-slate.webp",
+   "alt": "ChapChap Red",
+   "w": 1191,
+   "h": 1683,
+   "inHeader": false,
+   "inFooter": false
+  },
+  {
+   "src": "https://chapchapcv.com/templates/healthcare-green.webp",
+   "alt": "ChapChap Healthcare",
+   "w": 1191,
+   "h": 1683,
+   "inHeader": false,
+   "inFooter": false
+  },
+  {
+   "src": "https://chapchapcv.com/templates/chapchap-geometric.webp",
+   "alt": "ChapChap Geometric",
+   "w": 1191,
+   "h": 1683,
+   "inHeader": false,
+   "inFooter": false
+  },
+  {
+   "src": "https://chapchapcv.com/templates/professional-blue.webp",
+   "alt": "ChapChap Onion",
+   "w": 1191,
+   "h": 1683,
+   "inHeader": false,
+   "inFooter": false
+  },
+  {
+   "src": "https://chapchapcv.com/templates/creative-green.webp",
+   "alt": "ChapChap Creative",
+   "w": 1191,
+   "h": 1683,
+   "inHeader": false,
+   "inFooter": false
+  },
+  {
+   "src": "https://chapchapcv.com/templates/crimson-slate.webp",
+   "alt": "ChapChap Red",
+   "w": 1191,
+   "h": 1683,
+   "inHeader": false,
+   "inFooter": false
+  },
+  {
+   "src": "https://chapchapcv.com/templates/healthcare-green.webp",
+   "alt": "ChapChap Healthcare",
+   "w": 1191,
+   "h": 1683,
+   "inHeader": false,
+   "inFooter": false
+  },
+  {
+   "src": "https://chapchapcv.com/templates/chapchap-geometric.webp",
+   "alt": "ChapChap Geometric",
+   "w": 1191,
+   "h": 1683,
+   "inHeader": false,
+   "inFooter": false
+  },
+  {
+   "src": "https://chapchapcv.com/templates/professional-blue.webp",
+   "alt": "ChapChap Onion",
+   "w": 1191,
+   "h": 1683,
+   "inHeader": false,
+   "inFooter": false
+  },
+  {
+   "src": "https://chapchapcv.com/templates/creative-green.webp",
+   "alt": "ChapChap Creative",
+   "w": 1191,
+   "h": 1683,
+   "inHeader": false,
+   "inFooter": false
+  },
+  {
+   "src": "https://chapchapcv.com/_next/image?url=%2Fimages%2Fhero-woman-3.webp&w=640&q=75",
+   "alt": "ATS optimization and resume analysis",
+   "w": 562,
+   "h": 306,
+   "inHeader": false,
+   "inFooter": false
+  },
+  {
+   "src": "https://chapchapcv.com/_next/image?url=%2Fimages%2Fhero-woman-4.webp&w=640&q=75",
+   "alt": "Conçu pour l'Afrique",
+   "w": 562,
+   "h": 306,
+   "inHeader": false,
+   "inFooter": false
+  }
+ ],
+ "svgsHeader": [
+  "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-chevron-down w-3 h-3 relative z-10 transition-transform duration-200\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"></path></svg>",
+  "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-menu h-5 w-5\" aria-hidden=\"true\"><path d=\"M4 5h16\"></path><path d=\"M4 12h16\"></path><path d=\"M4 19h16\"></path></svg>",
+  "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-mail absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-500\" aria-hidden=\"true\"><path d=\"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7\"></path><rect x=\"2\" y=\"4\" width=\"20\" height=\"16\" rx=\"2\"></rect></svg>",
+  "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-arrow-right ml-2 h-4 w-4\" aria-hidden=\"true\"><path d=\"M5 12h14\"></path><path d=\"m12 5 7 7-7 7\"></path></svg>",
+  "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-map-pin w-4 h-4 text-[#FF5500]\" aria-hidden=\"true\"><path d=\"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0\"></path><circle cx=\"12\" cy=\"10\" r=\"3\"></circle></svg>",
+  "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-mail w-4 h-4 text-[#FF5500]\" aria-hidden=\"true\"><path d=\"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7\"></path><rect x=\"2\" y=\"4\" width=\"20\" height=\"16\" rx=\"2\"></rect></svg>",
+  "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-linkedin w-5 h-5\" aria-hidden=\"true\"><path d=\"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z\"></path><rect width=\"4\" height=\"12\" x=\"2\" y=\"9\"></rect><circle cx=\"4\" cy=\"4\" r=\"2\"></circle></svg>",
+  "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-facebook w-5 h-5\" aria-hidden=\"true\"><path d=\"M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z\"></path></svg>"
+ ],
+ "headerHTML": "<nav class=\"fixed top-0 left-0 right-0 z-50 px-6 xl:px-10 transition-[background-color,border-color,backdrop-filter] duration-300 isolation-auto will-change-[transform,background-color,backdrop-filter] antialiased bg-transparent border-b border-transparent\" style=\"backdrop-filter: blur(0px) saturate(100%); box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px;\"><div class=\"flex items-center justify-between h-16 xl:h-20 transition-colors duration-300\"><div class=\"shrink-0 relative z-50 flex items-center gap-3\"><a class=\"group flex items-center\" href=\"/fr\"><div class=\"relative\"><div style=\"opacity: 1; transform: none;\"><div class=\"relative flex items-center gap-1 cursor-pointer \" style=\"transform:translateY(2px)\"><div class=\"pointer-events-none absolute -inset-4 z-0 hidden dark:block transition-opacity duration-500 rounded-xl\" style=\"opacity:0;background:radial-gradient(60px circle at 16px 16px, rgba(255, 85, 0,0.3), transparent 100%)\"></div><span class=\"relative z-10 font-black text-[#FF5500] tracking-tight text-[22px] sm:text-3xl\">ChapChap</span><span class=\"relative z-10 font-black text-white text-[22px] sm:text-3xl px-1.5 sm:px-2 py-0.5 rounded-lg bg-gradient-to-br from-emerald-500 to-emerald-600 to-emerald-700 shadow-[0_4px_0_#065F46,0_6px_12px_rgba(0,0,0,0.25),inset_0_1px_0_rgba(255,255,255,0.3)] border-2 border-emerald-800\" style=\"text-shadow:1px 1px 0 rgba(0,0,0,0.2);transform:translateY(-1px)\">CV</span></div></div></div></a></div><div class=\"absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 hidden xl:flex items-center gap-0.5 2xl:gap-1\"><div class=\"absolute top-0 h-full rounded-full backdrop-blur-sm border pointer-events-none bg-gray-100/80 dark:bg-white/10 dark:border-white/20\" style=\"left: 0px; width: 66.1406px;\"></div><a class=\"relative px-2.5 2xl:px-3.5 py-2 text-[13px] 2xl:text-sm font-medium rounded-full transition-colors duration-300 text-black dark:text-white\" style=\"-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility\" href=\"/fr\"><span class=\"relative z-10\">Accueil</span></a><a class=\"relative px-2.5 2xl:px-3.5 py-2 text-[13px] 2xl:text-sm font-medium rounded-full transition-colors duration-300 text-gray-600 hover:text-black dark:text-white/70 dark:hover:text-white\" style=\"-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility\" href=\"/fr/templates\"><span class=\"relative z-10\">Modèles de CV</span></a><a class=\"relative px-2.5 2xl:px-3.5 py-2 text-[13px] 2xl:text-sm font-medium rounded-full transition-colors duration-300 text-gray-600 hover:text-black dark:text-white/70 dark:hover:text-white\" style=\"-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility\" href=\"/fr/pricing\"><span class=\"relative z-10\">Tarifs</span></a><a class=\"relative px-2.5 2xl:px-3.5 py-2 text-[13px] 2xl:text-sm font-medium rounded-full transition-colors duration-300 text-gray-600 hover:text-black dark:text-white/70 dark:hover:text-white\" style=\"-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility\" href=\"/fr/blog\"><span class=\"relative z-10\">Blog</span></a><a class=\"relative px-2.5 2xl:px-3.5 py-2 text-[13px] 2xl:text-sm font-medium rounded-full transition-colors duration-300 text-gray-600 hover:text-black dark:text-white/70 dark:hover:text-white\" style=\"-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility\" href=\"/fr/help\"><span class=\"relative z-10\">Aide</span></a><div class=\"relative\"><button type=\"button\" class=\"relative flex items-center gap-1 px-2.5 2xl:px-3.5 py-2 text-[13px] 2xl:text-sm font-medium rounded-full transition-colors duration-300 text-gray-600 hover:text-black dark:text-white/70 dark:hover:text-white\" style=\"-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility\"><span class=\"relative z-10\">Nos Produits</span><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-chevron-down w-3 h-3 relative z-",
+ "cssVars": {
+  "--font-inter": "\"Inter\", \"Inter Fallback\"",
+  "--border-width": "",
+  "--anim-hover-time": "",
+  "--anim-hover-ease": "",
+  "--angle-1": "-75deg",
+  "--angle-2": "-45deg",
+  "--a4-page-gap-bg": "",
+  "--radius": ".625rem",
+  "--background": "lab(100% 0 0)",
+  "--foreground": "lab(2.75381% 0 0)",
+  "--card": "lab(100% 0 0)",
+  "--card-foreground": "lab(2.75381% 0 0)",
+  "--popover": "lab(100% 0 0)",
+  "--popover-foreground": "lab(2.75381% 0 0)",
+  "--primary": "lab(7.78201% -.0000149012 0)",
+  "--primary-foreground": "lab(98.26% 0 0)",
+  "--secondary": "lab(96.52% -.0000298023 .0000119209)",
+  "--secondary-foreground": "lab(7.78201% -.0000149012 0)",
+  "--muted": "lab(96.52% -.0000298023 .0000119209)",
+  "--muted-foreground": "lab(48.496% 0 0)",
+  "--accent": "lab(96.52% -.0000298023 .0000119209)",
+  "--accent-foreground": "lab(7.78201% -.0000149012 0)",
+  "--destructive": "lab(48.4493% 77.4328 61.5452)",
+  "--destructive-foreground": "lab(48.4493% 77.4328 61.5452)",
+  "--border": "lab(90.952% 0 -.0000119209)",
+  "--input": "lab(90.952% 0 -.0000119209)",
+  "--ring": "lab(66.128% -.0000298023 .0000119209)",
+  "--chart-1": "lab(57.1026% 64.2584 89.8886)",
+  "--chart-2": "lab(55.0223% -41.0774 -3.90277)",
+  "--chart-3": "lab(30.372% -13.1853 -18.7887)",
+  "--chart-4": "lab(80.1641% 16.6016 99.2089)",
+  "--chart-5": "lab(72.7183% 31.8672 97.9407)",
+  "--sidebar": "lab(98.26% 0 0)",
+  "--sidebar-foreground": "lab(2.75381% 0 0)",
+  "--sidebar-primary": "lab(7.78201% -.0000149012 0)",
+  "--sidebar-primary-foreground": "lab(98.26% 0 0)",
+  "--sidebar-accent": "lab(96.52% -.0000298023 .0000119209)",
+  "--sidebar-accent-foreground": "lab(7.78201% -.0000149012 0)",
+  "--sidebar-border": "lab(90.952% 0 -.0000119209)",
+  "--sidebar-ring": "lab(66.128% -.0000298023 .0000119209)",
+  "--toast-icon-margin-start": "",
+  "--toast-icon-margin-end": "",
+  "--toast-svg-margin-start": "",
+  "--toast-svg-margin-end": "",
+  "--toast-button-margin-start": "",
+  "--toast-button-margin-end": "",
+  "--toast-close-button-start": "",
+  "--toast-close-button-end": "",
+  "--toast-close-button-transform": "",
+  "--gray1": "",
+  "--gray2": "",
+  "--gray3": "",
+  "--gray4": "",
+  "--gray5": "",
+  "--gray6": "",
+  "--gray7": "",
+  "--gray8": "",
+  "--gray9": "",
+  "--gray10": "",
+  "--gray11": "",
+  "--gray12": "",
+  "--border-radius": "",
+  "--y": "",
+  "--lift-amount": "",
+  "--lift": "",
+  "--scale": "",
+  "--normal-bg": "",
+  "--normal-border": "",
+  "--normal-text": "",
+  "--success-bg": "",
+  "--success-border": "",
+  "--success-text": "",
+  "--info-bg": "",
+  "--info-border": "",
+  "--info-text": "",
+  "--warning-bg": "",
+  "--warning-border": "",
+  "--warning-text": "",
+  "--error-bg": "",
+  "--error-border": "",
+  "--error-text": "",
+  "--normal-bg-hover": "",
+  "--normal-border-hover": "",
+  "--size": ""
+ },
+ "colorFreq": [
+  [
+   "bg rgba(0, 0, 0, 0)",
+   895
+  ],
+  [
+   "fg lab(2.75381 0 0)",
+   49
+  ],
+  [
+   "fg lab(35.6337 -1.58697 -10.8425)",
+   35
+  ],
+  [
+   "bg rgb(255, 255, 255)",
+   34
+  ],
+  [
+   "fg lab(48.496 0 0)",
+   27
+  ],
+  [
+   "fg rgb(255, 255, 255)",
+   25
+  ],
+  [
+   "fg oklab(0.145 -0.00000143796 0.00000340492 / 0.8)",
+   25
+  ],
+  [
+   "bg lab(100 0 0)",
+   22
+  ],
+  [
+   "bg rgb(255, 85, 0)",
+   21
+  ],
+  [
+   "fg rgb(255, 85, 0)",
+   12
+  ],
+  [
+   "fg lab(27.1134 -0.956401 -12.3224)",
+   12
+  ],
+  [
+   "bg lab(60.5708 63.7365 71.6035 / 0.1)",
+   10
+  ],
+  [
+   "fg lab(65.9269 -0.832707 -8.17473)",
+   10
+  ],
+  [
+   "bg oklab(0 0 0 / 0.6)",
+   10
+  ],
+  [
+   "bg lab(54.8183 -43.5038 13.9397 / 0.1)",
+   9
+  ],
+  [
+   "fg lab(8.11897 0.811279 -12.254)",
+   7
+  ],
+  [
+   "fg rgb(17, 24, 39)",
+   6
+  ],
+  [
+   "bg rgb(5, 150, 105)",
+   4
+  ],
+  [
+   "bg lab(90.952 0 -0.0000119209)",
+   4
+  ],
+  [
+   "fg lab(47.7841 -0.393182 -10.0268)",
+   3
+  ],
+  [
+   "bg oklab(0.969998 -0.00000959635 0.0000227094 / 0.3)",
+   3
+  ],
+  [
+   "bg oklab(0.999994 0.0000455678 0.0000200868 / 0.95)",
+   2
+  ],
+  [
+   "fg rgb(0, 0, 0)",
+   2
+  ],
+  [
+   "bg oklab(0 0 0 / 0.05)",
+   2
+  ],
+  [
+   "bg oklab(0.999994 0.0000455678 0.0000200868 / 0.9)",
+   2
+  ],
+  [
+   "fg lab(8.30603 0.618205 -2.16572)",
+   2
+  ],
+  [
+   "fg rgb(5, 150, 105)",
+   2
+  ],
+  [
+   "bg rgba(255, 85, 0, 0.082)",
+   2
+  ],
+  [
+   "bg rgba(5, 150, 105, 0.082)",
+   2
+  ],
+  [
+   "bg oklab(0.966998 -0.000294954 -0.0029636 / 0.8)",
+   1
+  ],
+  [
+   "bg oklab(0.953999 0.00972027 0.0367535 / 0.4)",
+   1
+  ],
+  [
+   "bg lab(96.1596 -0.0823438 -1.13575)",
+   1
+  ],
+  [
+   "bg oklab(0.953999 0.00972027 0.0367535 / 0.5)",
+   1
+  ],
+  [
+   "fg lab(16.1051 -1.18239 -11.7533)",
+   1
+  ],
+  [
+   "bg lab(8.30603 0.618205 -2.16572)",
+   1
+  ],
+  [
+   "bg oklab(0.984998 -0.000764072 -0.00182921 / 0.7)",
+   1
+  ],
+  [
+   "bg lab(60.5708 63.7365 71.6035 / 0.05)",
+   1
+  ],
+  [
+   "bg lab(63.7053 60.745 31.3109)",
+   1
+  ],
+  [
+   "bg lab(83.2664 8.65132 106.895)",
+   1
+  ],
+  [
+   "bg lab(75.0771 -60.7313 19.4147)",
+   1
+  ]
+ ],
+ "fontFreq": [
+  [
+   "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif | 400",
+   101
+  ],
+  [
+   "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif | 700",
+   66
+  ],
+  [
+   "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif | 600",
+   19
+  ],
+  [
+   "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif | 500",
+   18
+  ],
+  [
+   "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif | 900",
+   14
+  ],
+  [
+   "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif | 800",
+   4
+  ]
+ ],
+ "fontsLoaded": [
+  "Inter 100 900 normal unloaded",
+  "Inter 100 900 normal unloaded",
+  "Inter 100 900 normal unloaded",
+  "Inter 100 900 normal unloaded",
+  "Inter 100 900 normal unloaded",
+  "Inter 100 900 normal unloaded",
+  "Inter 100 900 normal loaded",
+  "Inter Fallback normal normal unloaded"
+ ],
+ "text": "Cookies\n\nNous utilisons des cookies pour optimiser votre expérience et analyser l'audience.\n\nGérer\nOK\nChapChap\nCV\nAccueil\nModèles de CV\nTarifs\nBlog\nAide\nNos Produits\nFR\nEN\nSe connecter\nS'inscrire\nVotre carrière professionnelle\ncommence ici.\n\nCréez votre CV, postulez aux bonnes offres et partagez votre profil en ligne. Notre IA s'occupe de tout.\n\nCréer mon CV\nTrouver un job\nTransformer mon CV en portfolio web\nApprouvé par nos partenaires\nGoogle\nATELIER NUMÉRIQUE\nSIMPLON\nCÔTE D'IVOIRE\nJOKKOLAB\nINVESTIR\nEN CÔTE D'IVOIRE\nDERIV'\nCOACHING\nEt plus encore...\nL'écosystème ChapChapCV\nUn compte, trois services pour avancer.\n\nCréez votre CV, postulez aux bonnes offres et démarquez-vous : tout votre parcours au même endroit.\n\nChapChap\nCV\n\nUn CV professionnel rédigé par l'IA en quelques minutes, adapté à votre pays et à chaque offre.\n\n60+ modèles professionnels\nLettre de motivation par l'IA\nExport PDF prêt à envoyer\nCréer mon CV\nChapChap\nJobs\n\nDes offres d'emploi récentes et vérifiées, classées selon leur adéquation avec votre profil.\n\nNouvelles offres chaque jour\nScore de compatibilité avec votre CV\nCV et lettre adaptés à l'offre\nTrouver un job\nChapChap\nPortfolio\n\nVotre CV devient un site professionnel à votre nom, prêt à partager avec les recruteurs.\n\nEn ligne en 3 minutes\nUne adresse à votre nom\nToujours à jour avec votre CV\nCréer mon portfolio\nChapChap\nTalents\nBIENTÔT\n\nPour les recruteurs : publiez vos offres, présélectionnez les candidats et conduisez les premiers entretiens avec l'IA.\n\nComment ça marche\n4 façons intelligentes de créer votre CV\n\nCommencez comme vous voulez. L'IA s'adapte à votre point de départ.\n\nGénération rapide\n\nRépondez à 4 questions et obtenez un CV structuré automatiquement.\n\nImport LinkedIn / CV\n\nCollez votre profil ou importez un PDF/DOC. L'IA analyse et restructure.\n\nOptimisation par offre\n\nCollez une annonce. Nous adaptons votre CV au poste visé.\n\nÉditeur intelligent\n\nModifiez votre CV avec suggestions d'IA intégrées en temps réel.\n\nModèles premium\nChoisissez un modèle et créez votre CV en quelques minutes !\nUtiliser ce modèle\nChapChap Red\nUtiliser ce modèle\nChapChap Healthcare\nUtiliser ce modèle\nChapChap Geometric\nUtiliser ce modèle\nChapChap Onion\nUtiliser ce modèle\nChapChap Creative\nUtiliser ce modèle\nChapChap Red\nUtiliser ce modèle\nChapChap Healthcare\nUtiliser ce modèle\nChapChap Geometric\nUtiliser ce modèle\nChapChap Onion\nUtiliser ce modèle\nChapChap Creative\nVoir tous les modèles\nMoteur IA\nUne IA qui comprend votre parcours.\n\nPas un simple correcteur. Un assistant carrière intégré.\n\nReformule vos expériences avec un ton professionnel\nRenforce l'impact de vos réalisations\nIdentifie les compétences manquantes\nOptimise les mots-clés pour les filtres ATS\nFonctionne en français et en anglais\nAssistant IA – ChapChapCV\n\nSuggestion détectée\n\nReformulez « j'ai géré » en « Piloté une équipe de 5 personnes »\n\nMots-clés manquants\n\nAjoutez : « gestion de projet », « reporting », « KPI »\n\nAmélioration de phrase\n\nImpact renforcé : +18 points de lisibilité ATS\n\n78%\nScore CV\nOptimisation ATS\nPassez les filtres ATS avec confiance.\n\nLa plupart des entreprises utilisent des logiciels de tri automatique. ChapChapCV vous aide à ne jamais être éliminé avant même d'être lu.\n\nIdentifier les mots-clés manquants dans votre CV\nAdapter votre CV à une offre d'emploi spécifique\nStructurer votre contenu pour la lisibilité ATS\nMaximiser votre score de compatibilité\nDesign Premium\nUn design premium, sans complexité.\nModèles professionnels\n\nModèles modernes optimisés pour recruteurs locaux et internationaux.\n\nPrévisualisation en temps réel\n\nVoyez chaque modification instantanément. Aucune surprise à l'export.\n\nCompatible mobile\n\nCréez et modifiez votre CV depuis n'importe quel appareil.\n\nMode clair & sombre\n\nInterface adaptée à vos préférences visuelles.\n\nSauvegarde automatique\n\nVotre travail est sauvegardé en permanence. Aucune perte de données.\n\nFrançais & Anglais\n\nInterface et suggestions IA disponibles dans les deux langues.\n\nTarification transparente\nCréez gratuitement.\nPayez uniquement ce que vous utilisez.\n\nAccès complet à tous les outils. Aucun abonnement. Paiement simple et transparent.\n\nGénération IA\nTous les modèles premium\nOptimisation ATS complète\nModifications illimitées\n1 crédit = 1 export PDF haute qualité\nVoir les packs de crédits\n3\n\n3 crédits\n\nParfait pour débuter\n\n1 500 FCFA\n\nPopulaire\n10\n\n10 crédits\n\nTop flexibilité\n\n2 500 FCFA\n\n25\n\n25 crédits\n\nPro & Indépendants\n\n5 000 FCFA\n\n60\n\n60 crédits\n\nEntrepreneurs & Équipes\n\n10 000 FCFA\n\n1 crédit = 1 téléchargement PDF haute qualité\n\nConçu pour l'Afrique\nConçu pour le marché ivoirien et africain.\n\nContrairement aux outils internationaux, ChapChapCV comprend les réalités du marché local.\n\nLes standards et formats appréciés localement\nLes attentes des recruteurs francophones\nLes réalités du marché africain\nInterface en français en priorité\nSupport adapté au contexte ivoirien\nK\nA\nD\n\nUtilisé par des professionnels\n\nen Côte d'Ivoire et en Afrique\n\n4.9/5\nIls ont créé leur CV avec ChapChapCV\n\nUtilisé par des professionnels en Côte d'Ivoire\n\n“J'ai obtenu 3 entretiens en une semaine après avoir optimisé mon CV avec ChapChapCV. L'IA a vraiment fait la différence.”\n\nA\n\nAminata Koné\n\nAnalyste Financier, Abidjan\n\n“L'optimisation ATS m'a permis de passer les filtres automatiques. Simple, rapide et efficace.”\n\nK\n\nKouassi Yao\n\nIngénieur Logiciel, Abidjan\n\n“Enfin un outil qui comprend le marché africain. Les modèles sont professionnels et adaptés à nos standards.”\n\nF\n\nFatou Diallo\n\nResponsable Marketing, Dakar\n\nQuestions fréquentes sur ChapChapCV\nComment créer un CV professionnel avec l'IA sur ChapChapCV ?\nLes CV ChapChapCV passent-ils les logiciels ATS des recruteurs ?\nCombien coûte ChapChapCV ?\nComment payer en Afrique ?\nPuis-je faire mon CV en anglais ?\nChapChapCV rédige-t-il aussi la lettre de motivation ?\nBoostez votre carrière avec nos conseils\n\nRecevez nos conseils CV et les nouvelles offres d'emploi, directement dans votre boîte mail.\n\nS'abonner\nChapChap\nCV\n\nChapChapCV est l'écosystème emploi propulsé par l'IA, conçu en Côte d'Ivoire pour l'Afrique : créez votre CV, trouvez des offres vérifiées et mettez votre parcours en ligne.\n\nAbidjan, Côte d'Ivoire\nsupport@chapchapcv.com\nPRODUIT\nCréer un CV\nModèles de CV\nAssistant IA\nOptimisation ATS\nOffres d'emploi (Jobs)\nSite portfolio (Portfolio)\nRecrutement (Talents)\nBIENTÔT\nTarifs & Crédits\nRESSOURCES\nCentre d'aide\nFAQ\nGuides CV\nConseils carrière\nContact\nENTREPRISE\nÀ propos\nCarrières\nBlog\nPartenaires\nLÉGAL\nConditions\nConfidentialité\n© 2026 ChapChapCV. Tous droits réservés.\nFrançais\nDirecteur des opérations Afrique de l'Ouest (H/F)Responsable marketing digital – AbidjanChef de projet systèmes d'information",
+ "anchors": [
+  {
+   "t": "ChapChap\nCV",
+   "h": "https://chapchapcv.com/fr"
+  },
+  {
+   "t": "Accueil",
+   "h": "https://chapchapcv.com/fr"
+  },
+  {
+   "t": "Modèles de CV",
+   "h": "https://chapchapcv.com/fr/templates"
+  },
+  {
+   "t": "Tarifs",
+   "h": "https://chapchapcv.com/fr/pricing"
+  },
+  {
+   "t": "Blog",
+   "h": "https://chapchapcv.com/fr/blog"
+  },
+  {
+   "t": "Aide",
+   "h": "https://chapchapcv.com/fr/help"
+  },
+  {
+   "t": "Se connecter",
+   "h": "https://chapchapcv.com/fr/login"
+  },
+  {
+   "t": "S'inscrire",
+   "h": "https://chapchapcv.com/fr/signup"
+  },
+  {
+   "t": "Créer mon CV",
+   "h": "https://chapchapcv.com/fr/resume-builder/onboarding"
+  },
+  {
+   "t": "Trouver un job",
+   "h": "https://chapchapcv.com/fr/jobs?view=portal"
+  },
+  {
+   "t": "Transformer mon CV en portfolio web",
+   "h": "https://chapchapcv.com/fr/portfolio"
+  },
+  {
+   "t": "Créer mon CV",
+   "h": "https://chapchapcv.com/fr/resume-builder/onboarding"
+  },
+  {
+   "t": "Importer mon CV",
+   "h": "https://chapchapcv.com/fr/resume-builder/onboarding?start=upload"
+  },
+  {
+   "t": "Créer mon CV",
+   "h": "https://chapchapcv.com/fr/resume-builder/onboarding"
+  },
+  {
+   "t": "Trouver un job",
+   "h": "https://chapchapcv.com/fr/jobs?view=portal"
+  },
+  {
+   "t": "Créer mon portfolio",
+   "h": "https://chapchapcv.com/fr/portfolio"
+  },
+  {
+   "t": "Utiliser ce modèle",
+   "h": "https://chapchapcv.com/fr/resume-builder?template=crimson-slate"
+  },
+  {
+   "t": "Utiliser ce modèle",
+   "h": "https://chapchapcv.com/fr/resume-builder?template=healthcare-green"
+  },
+  {
+   "t": "Utiliser ce modèle",
+   "h": "https://chapchapcv.com/fr/resume-builder?template=chapchap-geometric"
+  },
+  {
+   "t": "Utiliser ce modèle",
+   "h": "https://chapchapcv.com/fr/resume-builder?template=professional-blue"
+  },
+  {
+   "t": "Utiliser ce modèle",
+   "h": "https://chapchapcv.com/fr/resume-builder?template=creative-green"
+  },
+  {
+   "t": "Utiliser ce modèle",
+   "h": "https://chapchapcv.com/fr/resume-builder?template=crimson-slate"
+  },
+  {
+   "t": "Utiliser ce modèle",
+   "h": "https://chapchapcv.com/fr/resume-builder?template=healthcare-green"
+  },
+  {
+   "t": "Utiliser ce modèle",
+   "h": "https://chapchapcv.com/fr/resume-builder?template=chapchap-geometric"
+  },
+  {
+   "t": "Utiliser ce modèle",
+   "h": "https://chapchapcv.com/fr/resume-builder?template=professional-blue"
+  },
+  {
+   "t": "Utiliser ce modèle",
+   "h": "https://chapchapcv.com/fr/resume-builder?template=creative-green"
+  },
+  {
+   "t": "Voir tous les modèles",
+   "h": "https://chapchapcv.com/fr/templates"
+  },
+  {
+   "t": "Voir les packs de crédits",
+   "h": "https://chapchapcv.com/fr/pricing"
+  },
+  {
+   "t": "ChapChap\nCV",
+   "h": "https://chapchapcv.com/fr"
+  },
+  {
+   "t": "",
+   "h": "https://www.linkedin.com/company/chapchapcv"
+  },
+  {
+   "t": "",
+   "h": "https://www.facebook.com/share/15hckJvKiTg/"
+  },
+  {
+   "t": "",
+   "h": "https://www.instagram.com/chapchapcv/"
+  },
+  {
+   "t": "",
+   "h": "https://x.com/chapchapcv"
+  },
+  {
+   "t": "Créer un CV",
+   "h": "https://chapchapcv.com/fr/resume-builder"
+  },
+  {
+   "t": "Modèles de CV",
+   "h": "https://chapchapcv.com/fr/templates"
+  },
+  {
+   "t": "Assistant IA",
+   "h": "https://chapchapcv.com/fr/resume-builder"
+  },
+  {
+   "t": "Optimisation ATS",
+   "h": "https://chapchapcv.com/fr/resume-builder"
+  },
+  {
+   "t": "Offres d'emploi (Jobs)",
+   "h": "https://chapchapcv.com/fr/jobs"
+  },
+  {
+   "t": "Site portfolio (Portfolio)",
+   "h": "https://chapchapcv.com/fr/portfolio"
+  },
+  {
+   "t": "Tarifs & Crédits",
+   "h": "https://chapchapcv.com/fr/pricing"
+  },
+  {
+   "t": "Centre d'aide",
+   "h": "https://chapchapcv.com/fr/help"
+  },
+  {
+   "t": "FAQ",
+   "h": "https://chapchapcv.com/fr/help#faq"
+  },
+  {
+   "t": "Guides CV",
+   "h": "https://chapchapcv.com/fr/help#guides"
+  },
+  {
+   "t": "Conseils carrière",
+   "h": "https://chapchapcv.com/fr/blog"
+  },
+  {
+   "t": "Contact",
+   "h": "https://chapchapcv.com/fr/help#contact"
+  },
+  {
+   "t": "À propos",
+   "h": "https://chapchapcv.com/fr/about"
+  },
+  {
+   "t": "Carrières",
+   "h": "https://chapchapcv.com/fr/careers"
+  },
+  {
+   "t": "Blog",
+   "h": "https://chapchapcv.com/fr/blog"
+  },
+  {
+   "t": "Partenaires",
+   "h": "https://chapchapcv.com/fr/partners"
+  },
+  {
+   "t": "Conditions",
+   "h": "https://chapchapcv.com/fr/terms"
+  },
+  {
+   "t": "Confidentialité",
+   "h": "https://chapchapcv.com/fr/privacy"
+  },
+  {
+   "t": "Ressources partenaires",
+   "h": "https://chapchapcv.com/fr/ressources-partenaires"
+  },
+  {
+   "t": "Directeur des opérations Afrique de l'Ouest (H/F)",
+   "h": "https://chapchapcv.com/fr/jobs/directeur-des-operations-afrique-de-l-ouest-1kvenj"
+  },
+  {
+   "t": "Responsable marketing digital – Abidjan",
+   "h": "https://chapchapcv.com/fr/jobs/responsable-marketing-digital-abidjan-ib4f27"
+  },
+  {
+   "t": "Chef de projet systèmes d'information",
+   "h": "https://chapchapcv.com/fr/jobs/chef-de-projet-systemes-d-information-ephk3b"
+  },
+  {
+   "t": "",
+   "h": "https://chat.whatsapp.com/Jsc5jYkP3xV2Q21SeeEP4z?mode=gi_t"
+  }
+ ],
+ "status": 200,
+ "finalUrl": "https://chapchapcv.com/fr"
+}
