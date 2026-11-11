@@ -64,6 +64,8 @@ def paste_block(ep, lang):
     md = (ep / "SCRIPT_AND_VOICE.md").read_text(encoding="utf-8")
     head = r"^##\s+Voice\s*$" if lang == "en" else rf"^##\s+Voice\s+{lang.upper()}\b.*$"
     m = re.search(head, md, re.M)
+    if not m and lang != "en":  # a single-language episode (e.g. French-first client) keeps its block under "## Voice"
+        m = re.search(r"^##\s+Voice\s*$", md, re.M)
     if not m:
         sys.exit(f"{ep.name}: no '## Voice{'' if lang == 'en' else ' ' + lang.upper()}' section")
     b = re.search(r"```[^\n]*\n(.*?)```", md[m.end():], re.S)

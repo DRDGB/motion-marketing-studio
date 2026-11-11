@@ -4,8 +4,8 @@
 Voice: a young, warm West African francophone voice (Ivorian or Senegalese accent if available) · Eleven v3 · Stability ~50 · Similarity ~75 · Style low.
 Pronunciation: "ChapChapCV" = « tchap-tchap-cé-vé » · "chapchapcv.com" = « tchap-tchap-cé-vé point com ». If the voice reads it wrong, write it that way in the box and regenerate.
 
-## CCV-001-EN-v1 · Pas d'expérience ? Pas de problème." (Awa, Abidjan)
-**Save as:** `CCV-001-EN-v1-475f3235.mp3` · 855 characters · voice + settings: see the top of this file
+## CCV-001-FR-v1 · Pas d'expérience ? Pas de problème." (Awa, Abidjan)
+**Save as:** `CCV-001-FR-v1-475f3235.mp3` · 855 characters · voice + settings: see the top of this file
 ```
 [warm] Abidjan, Côte d'Ivoire. Awa, vingt-deux ans, licence en poche… et un rêve : son premier stage. |
 [worried] Mais devant sa page blanche, elle bloque. « Je n'ai pas d'expérience… je mets quoi sur mon CV ? » |
