@@ -90,7 +90,7 @@ const PriceScene: React.FC = () => {
         <text x={0} y={-305} textAnchor="middle" fontFamily={DISPLAY} fontWeight={700} fontSize={54} fill={C.ink}>PRICE LIST</text>
         {[-200, -130, -60, 10, 80, 150].map((y, i) => <g key={y}><rect x={-210} y={y} width={240} height={18} rx={9} fill={alpha(C.ink, 0.3)} />{[0, 1, 2].map((s) => <text key={s} x={70 + s * 46} y={y + 18} fontSize={34} fill="#E8B400">★</text>)}</g>)}
         <rect x={-260} y={250} width={520} height={130} rx={0} fill={alpha(C.accent, 0.08 * noDoc)} />
-        <text x={-220} y={330} fontFamily={TEXT} fontWeight={800} fontSize={40} fill={noDoc > 0.5 ? C.accent : C.ink}>📎 Attachments: 0</text>
+        <text x={-220} y={330} fontFamily={TEXT} fontWeight={800} fontSize={40} fill={noDoc > 0.5 ? C.accent : C.ink}>Attachments: 0</text>
       </g>
       <Person x={230} y={1860} s={0.62} {...MAHAMAT} face={noDoc > 0.5 ? "worried" : "surprised"} brows={noDoc > 0.5 ? "down" : "up"} blink={blinkAt(t)} prop="phone" armR={{ up: 30, low: -100 }} />
     </Svg>
@@ -139,7 +139,7 @@ const CardsScene: React.FC = () => {
           <text x={-105} y={-72} fontFamily={TEXT} fontWeight={800} fontSize={34} fill={C.ink}>{c.title[0]}</text>
           <text x={-105} y={-30} fontFamily={TEXT} fontWeight={700} fontSize={30} fill={C.dim}>{c.title[1]}</text>
           {[10, 40].map((y) => <rect key={y} x={-180} y={y} width={300} height={12} rx={6} fill={alpha(C.ink, 0.2)} />)}
-          <g opacity={nameO}><rect x={-185} y={66} width={370} height={40} rx={8} fill={alpha(C.accent, 0.12)} /><text x={0} y={95} textAnchor="middle" fontFamily={TEXT} fontWeight={800} fontSize={24} fill={C.accent}>Manufacturer: XYZ Pharma ✓</text></g>
+          <g opacity={nameO}><rect x={-185} y={66} width={370} height={40} rx={8} fill={alpha(C.accent, 0.12)} /><text x={0} y={95} textAnchor="middle" fontFamily={TEXT} fontWeight={800} fontSize={24} fill={C.accent}>Manufacturer: XYZ Pharma</text></g>
         </g>); })}
       {scan > 0 && scan < 1 && <rect x={40} y={700 + 820 * scan} width={1000} height={8} fill={C.accent} opacity={0.75} />}
     </Svg>
