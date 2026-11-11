@@ -10,6 +10,7 @@ import { AKV_004_COPP, AKV_004_COPP_FRAMES } from "./AKV_004_COPP/AKV_004_COPP";
 import { AKV_005_FIVE_DOCS, AKV_005_FIVE_DOCS_FRAMES } from "./AKV_005_FIVE_DOCS/AKV_005_FIVE_DOCS";
 import { AKV_006_GMP_VS_PQ, AKV_006_GMP_VS_PQ_FRAMES } from "./AKV_006_GMP_VS_PQ/AKV_006_GMP_VS_PQ";
 import { AKV_007_ZONE_IVB, AKV_007_ZONE_IVB_FRAMES } from "./AKV_007_ZONE_IVB/AKV_007_ZONE_IVB";
+import { STORYBOARD_V2, STORYBOARD_V2_FRAMES } from "./STORYBOARD_V2/STORYBOARD_V2";
 // @mms-imports
 
 export const EPISODES: { id: string; component: React.FC; frames: number }[] = [
@@ -23,5 +24,6 @@ export const EPISODES: { id: string; component: React.FC; frames: number }[] = [
   { id: "AKV-005-FIVE-DOCS", component: AKV_005_FIVE_DOCS, frames: AKV_005_FIVE_DOCS_FRAMES },
   { id: "AKV-006-GMP-VS-PQ", component: AKV_006_GMP_VS_PQ, frames: AKV_006_GMP_VS_PQ_FRAMES },
   { id: "AKV-007-ZONE-IVB", component: AKV_007_ZONE_IVB, frames: AKV_007_ZONE_IVB_FRAMES },
+  { id: "STORYBOARD-V2", component: STORYBOARD_V2, frames: STORYBOARD_V2_FRAMES },
   // @mms-entries
 ];
