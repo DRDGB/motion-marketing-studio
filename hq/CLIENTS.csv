@@ -1,2 +1,3 @@
 slug,name,status,sector,country,timezone,publish_slot,cadence_per_week,platforms,language,approver,drive_parent,created,notes
 akuma-pharma,Akuma Pharma,onboarding,pharma,IN,Asia/Kolkata,,,,en,,,2026-11-10,B2B pharma exporter India→Africa; regulated (strict)
+chapchapcv,ChapChapCV,onboarding,careers,CI,Africa/Abidjan,,,,fr,,,2026-11-11,AI career platform (CV + jobs + portfolio); French-first

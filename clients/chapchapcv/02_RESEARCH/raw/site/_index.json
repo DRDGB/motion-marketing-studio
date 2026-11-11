@@ -1,0 +1,168 @@
+[
+ {
+  "url": "https://chapchapcv.com/fr",
+  "slug": "fr",
+  "status": 200,
+  "title": "ChapChapCV – CV professionnel, offres d'emploi et portfolio en Afrique"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/templates",
+  "slug": "fr__templates",
+  "status": 200,
+  "title": "60+ Modèles de CV Premium ATS - Design Moderne & Professionnel | ChapChapCV"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/pricing",
+  "slug": "fr__pricing",
+  "status": 200,
+  "title": "Tarifs CV - Packs Crédits dès 1500 FCFA & Mobile Money | ChapChapCV"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/blog",
+  "slug": "fr__blog",
+  "status": 200,
+  "title": "Blog Emploi, IA & Recrutement en Afrique | ChapChapCV"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/help",
+  "slug": "fr__help",
+  "status": 200,
+  "title": "Centre d'Aide & FAQ - Support ChapChapCV Pan-Africain"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/jobs?view=portal",
+  "slug": "fr__jobs_view_portal",
+  "status": 200,
+  "title": "Offres d'emploi en Afrique - Trouvez le bon emploi | ChapChapJobs"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/jobs",
+  "slug": "fr__jobs",
+  "status": 200,
+  "title": "Offres d'emploi en Afrique - Trouvez le bon emploi | ChapChapJobs"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/portfolio",
+  "slug": "fr__portfolio",
+  "status": 200,
+  "title": "ChapChapPortfolio — Votre CV devient un site portfolio"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/resume-builder/onboarding",
+  "slug": "fr__resume-builder__onboarding",
+  "status": 200,
+  "title": "ChapChapCV"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/resume-builder",
+  "slug": "fr__resume-builder",
+  "status": 200,
+  "title": "Générateur de CV IA Intelligent - Optimisé ATS & Recruteurs | ChapChapCV"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/about",
+  "slug": "fr__about",
+  "status": 200,
+  "title": "À propos de ChapChapCV - Propulser les Talents Africains avec l'IA"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/careers",
+  "slug": "fr__careers",
+  "status": 200,
+  "title": "Carrières chez ChapChapCV"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/partners",
+  "slug": "fr__partners",
+  "status": 200,
+  "title": "Partenariats ChapChapCV"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/ressources-partenaires",
+  "slug": "fr__ressources-partenaires",
+  "status": 200,
+  "title": "Ressources"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/signup",
+  "slug": "fr__signup",
+  "status": 200,
+  "title": "Authentication | ChapChapCV"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/login",
+  "slug": "fr__login",
+  "status": 200,
+  "title": "Authentication | ChapChapCV"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/terms",
+  "slug": "fr__terms",
+  "error": "TimeoutError: page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://chapchapcv.com/fr/terms\", wa"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/privacy",
+  "slug": "fr__privacy",
+  "status": 200,
+  "title": "Politique de confidentialité | ChapChapCV"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/jobs/directeur-des-operations-afrique-de-l-ouest-1kvenj",
+  "slug": "fr__jobs__directeur-des-operations-afrique-de-l-ouest-1kvenj",
+  "status": 200,
+  "title": "Ressources"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/jobs/responsable-marketing-digital-abidjan-ib4f27",
+  "slug": "fr__jobs__responsable-marketing-digital-abidjan-ib4f27",
+  "status": 200,
+  "title": "Ressources"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/jobs/chef-de-projet-systemes-d-information-ephk3b",
+  "slug": "fr__jobs__chef-de-projet-systemes-d-information-ephk3b",
+  "status": 200,
+  "title": "Ressources"
+ },
+ {
+  "url": "https://chapchapcv.com/en",
+  "slug": "en",
+  "error": "TimeoutError: page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://chapchapcv.com/en\", waiting "
+ },
+ {
+  "url": "https://chapchapcv.com/fr/blog/recrutement-en-cote-divoire-nouveaux-standards-cv-2026",
+  "slug": "fr__blog__recrutement-en-cote-divoire-nouveaux-standards-cv-2026",
+  "status": 200,
+  "title": "Recrutement en Côte d'Ivoire : Décryptage des nouveaux standards du CV pour 2026 | ChapChapCV"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/blog/comment-passer-les-filtres-ats-cv-guide-complet",
+  "slug": "fr__blog__comment-passer-les-filtres-ats-cv-guide-complet",
+  "status": 200,
+  "title": "Comment passer les filtres ATS avec votre CV : Guide complet | ChapChapCV"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/blog/l-ia-revolutionne-creation-cv-guide-pratique",
+  "slug": "fr__blog__l-ia-revolutionne-creation-cv-guide-pratique",
+  "status": 200,
+  "title": "L'IA révolutionne la création de CV : Guide pratique | ChapChapCV"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/blog/comment-utiliser-chapchapcv-tutoriel-complet",
+  "slug": "fr__blog__comment-utiliser-chapchapcv-tutoriel-complet",
+  "status": 200,
+  "title": "Comment utiliser ChapChapCV : Tutoriel complet étape par étape | ChapChapCV"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/blog/marketing-personnel-transformez-cv-outil-vente",
+  "slug": "fr__blog__marketing-personnel-transformez-cv-outil-vente",
+  "status": 200,
+  "title": "Marketing personnel : Transformez votre CV en outil de vente | ChapChapCV"
+ },
+ {
+  "url": "https://chapchapcv.com/fr/blog/ia-strategique-cv-avantage-entrepreneur",
+  "slug": "fr__blog__ia-strategique-cv-avantage-entrepreneur",
+  "status": 200,
+  "title": "L'IA stratégique dans votre CV : L'avantage entrepreneur | ChapChapCV"
+ }
+]

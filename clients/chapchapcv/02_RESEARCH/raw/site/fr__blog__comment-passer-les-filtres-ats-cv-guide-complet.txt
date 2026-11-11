@@ -1,0 +1,227 @@
+URL: https://chapchapcv.com/fr/blog/comment-passer-les-filtres-ats-cv-guide-complet
+TITLE: Comment passer les filtres ATS avec votre CV : Guide complet | ChapChapCV
+
+Cookies
+
+Nous utilisons des cookies pour optimiser votre expérience et analyser l'audience.
+
+Gérer
+OK
+ChapChap
+CV
+Accueil
+Modèles de CV
+Tarifs
+Blog
+Aide
+Nos Produits
+FR
+EN
+Se connecter
+S'inscrire
+Retour
+VEDETTE
+ATS • Optimisation • Recrutement
+Comment passer les filtres ATS avec votre CV : Guide complet
+
+Les systèmes ATS rejettent une grande partie des CV avant qu'un recruteur ne les consulte. Découvrez les stratégies, mots-clés et techniques pour optimiser votre CV et décrocher des entretiens.
+
+Editorial Team
+12 Janvier 2026
+12 min de lecture
+ET
+Editorial Team
+EXPERT ATS & RECRUTEMENT
+La réalité choc du recrutement moderne
+
+75% des CV sont rejetés par les systèmes ATS avant même qu'un recruteur ne les voie. Ce n'est pas une menace, c'est une opportunité pour ceux qui savent comment jouer le jeu.
+
+Source : Étude CareerBuilder 2024 sur 2000 recruteurs internationaux
+1.
+Qu'est-ce qu'un système ATS et pourquoi vous devriez vous en préoccuper ?
+
+Imaginez un gardien ultra-sophistiqué qui analyse chaque CV en 6 secondes flat. C'est exactement ce que fait un Applicant Tracking System (ATS). Ces robots décident si votre CV mérite d'être vu par un humain... ou s'il finira à la poubelle numérique.
+
+Les entreprises ivoiriennes qui utilisent des ATS :
+Orange CI
+TalentSoft
+MTN CI
+Workday
+Société Générale
+SAP SuccessFactors
+NSIA Banque
+Oracle Taleo
+2.
+Comment fonctionne un ATS : La vérité que personne ne vous dit
+
+Un ATS n'est pas aussi intelligent qu'on le pense. C'est un système basé sur des règles et des mots-clés. Comprendre son fonctionnement vous donne un avantage considérable sur 90% des candidats.
+
+Étape 1 : Le scan initial (6 secondes)
+
+L'ATS extrait le texte de votre CV et le compare aux mots-clés de l'offre d'emploi. Si le score de correspondance est inférieur à 70%, votre CV est éliminé.
+
+Étape 2 : L'analyse sémantique (3 secondes)
+
+Le système vérifie la cohérence de votre expérience, la progression de carrière, et la pertinence de vos compétences par rapport au poste.
+
+Étape 3 : Le classement (1 seconde)
+
+Les CV qui passent le filtre sont classés par ordre de pertinence. Seuls les 10-20% meilleurs atteignent le recruteur humain.
+
+3.
+Les 7 erreurs fatales qui font rejeter votre CV immédiatement
+
+Ces erreurs peuvent transformer un CV parfait en candidature rejetée. Évitez-les à tout prix si vous voulez des entretiens.
+
+1
+Templates graphiques complexes
+
+Colonnes, images, icônes, graphiques = illisible pour l'ATS
+
+2
+Polices d'écriture exotiques
+
+Comic Sans, Brush Script, ou polices décoratives = parsing impossible
+
+3
+En-têtes et pieds de page
+
+Informations dans les marges = souvent ignorées par l'ATS
+
+4
+Tableaux et colonnes
+
+L'ATS lit de gauche à droite, mélangeant le contenu des colonnes
+
+5
+Fichiers PDF scannés
+
+PDF image = texte non extractible = score ATS de 0%
+
+6
+Sections manquantes
+
+Pas de section "Expérience" ou "Compétences" = structure non reconnue
+
+7
+Mots-clés manquants
+
+0% de correspondance avec les termes de l'offre = rejet automatique
+
+4.
+La stratégie gagnante : Optimisez votre CV pour les ATS en 2026
+
+Maintenant que vous connaissez les pièges, voici comment créer un CV que les ATS adorent et qui passe les filtres systématiquement.
+
+La structure ATS-friendly parfaite
+1. En-tête simple et clair
+[Votre Nom] | [Téléphone] | [Email] | [LinkedIn] | [Ville, Pays]
+2. Résumé professionnel avec mots-clés
+3-4 lignes maximum avec 5-7 mots-clés pertinents pour le poste
+3. Expérience chronologique inversée
+[Poste] | [Entreprise] | [Dates] → 3-5 bullet points quantifiés
+4. Compétences techniques et humaines
+Listes claires avec les termes exacts utilisés dans l'offre
+5. Formation et certifications
+[Diplôme] | [Établissement] | [Dates] | [Pertinence]
+5.
+L'art des mots-clés : La science derrière le matching ATS
+
+Les mots-clés ne sont pas juste des buzzwords. Ce sont des termes spécifiques que les recruteurs ont programmés dans leur ATS. Les identifier et les utiliser stratégiquement peut multiplier vos chances d'entretien par 3.
+
+Où trouver les mots-clés :
+• Section "Responsibilities" de l'offre
+• Section "Requirements" et "Qualifications"
+• Description de l'entreprise et culture
+• Offres similaires dans le secteur
+• Profils LinkedIn d'employés actuels
+Comment les utiliser :
+• Intégrez-les naturellement (pas de keyword stuffing)
+• Utilisez les variantes (ex: "gestion" et "management")
+• Mettez-les dans les titres de sections
+• Ajoutez-les dans les bullet points
+• Répétez-les 2-3 fois maximum par CV
+Exemple concret : Marketing Digital
+Mots-clés de l'offre :
+"Google Analytics", "SEO/SEM", "campaign management", "ROI optimization", "content strategy", "social media marketing"
+Bullet point optimisé :
+
+"Géré les campagnes Google Ads avec optimisation ROI (+35%), analysé les performances via Google Analytics, développé stratégie content et SEO augmentant le trafic organique de 45%"
+
+6.
+Testez votre CV : Les outils pour vérifier votre score ATS
+
+N'envoyez jamais un CV sans l'avoir testé. Ces outils gratuits peuvent vous faire économiser des dizaines de rejets automatiques.
+
+Jobscan
+
+Scan votre CV contre une offre d'emploi et donne un score de correspondance
+
+Resume Worded
+
+Analyse les mots-clés et suggère des améliorations pour passer les ATS
+
+ChapChapCV
+
+Intégration ATS-native avec score en temps réel et suggestions intelligentes
+
+Recrutement en Côte d'Ivoire : Décryptage des nouveaux standards du CV pour 2026
+PRÉCÉDENT
+Comment utiliser ChapChapCV : Tutoriel complet
+SUIVANT
+Prêt à battre les ATS et décrocher des entretiens ?
+
+ChapChapCV intègre toutes les stratégies ATS. Créez un CV qui passe les filtres automatiquement et impressionne les recruteurs humains.
+
+Créer mon CV optimisé ATS
+Actions
+PARTAGER L'ARTICLE
+ET
+Editorial Team
+
+EXPERT ATS & RECRUTEMENT
+
+BESOIN D'UN CV ?
+
+Utilisez notre IA pour créer un CV conforme aux nouveaux standards 2026 en quelques minutes.
+
+Créer mon CV
+Boostez votre carrière avec nos conseils
+
+Recevez nos conseils CV et les nouvelles offres d'emploi, directement dans votre boîte mail.
+
+S'abonner
+ChapChap
+CV
+
+ChapChapCV est l'écosystème emploi propulsé par l'IA, conçu en Côte d'Ivoire pour l'Afrique : créez votre CV, trouvez des offres vérifiées et mettez votre parcours en ligne.
+
+Abidjan, Côte d'Ivoire
+support@chapchapcv.com
+PRODUIT
+Créer un CV
+Modèles de CV
+Assistant IA
+Optimisation ATS
+Offres d'emploi (Jobs)
+Site portfolio (Portfolio)
+Recrutement (Talents)
+BIENTÔT
+Tarifs & Crédits
+RESSOURCES
+Centre d'aide
+FAQ
+Guides CV
+Conseils carrière
+Contact
+ENTREPRISE
+À propos
+Carrières
+Blog
+Partenaires
+LÉGAL
+Conditions
+Confidentialité
+© 2026 ChapChapCV. Tous droits réservés.
+Français
+Directeur des opérations Afrique de l'Ouest (H/F)Responsable marketing digital – AbidjanChef de projet systèmes d'information

@@ -1,0 +1,32 @@
+{
+ "slug": "chapchapcv",
+ "name": "ChapChapCV",
+ "status": "onboarding",
+ "sector": "careers",
+ "country": "CI",
+ "timezone": "Africa/Abidjan",
+ "language": "fr",
+ "platforms": [],
+ "publish_slot": "",
+ "cadence_per_week": 0,
+ "approver": "",
+ "publisher": "client",
+ "drive_parent": null,
+ "voice": {
+  "mode": "C",
+  "provider": "ElevenLabs UI by user",
+  "voice_id": "",
+  "auto_generate_after_batch_approval": false
+ },
+ "regulated": false,
+ "reviewer": "",
+ "created": "2026-11-11",
+ "website": "https://chapchapcv.com/",
+ "languages_audience": [
+  "fr",
+  "en"
+ ],
+ "content_language_priority": "fr first",
+ "business_model": "B2C career platform (AI CV builder, verified jobs, web portfolio; recruiter product 'Talents' coming soon); credits in FCFA via Mobile Money",
+ "agency_scope": "Studio delivers videos + post texts only; no auditing of the client business (studio rule from client 1, D-025 equivalent)"
+}

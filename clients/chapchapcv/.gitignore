@@ -1,0 +1,6 @@
+renders/
+studio/node_modules
+studio/public/episodes/*/*.wav
+deliverables/*/*.mp4
+*.env
+.env*
