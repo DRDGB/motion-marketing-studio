@@ -1,6 +1,5 @@
 # AKV-001 · "Closer Than You Think" (Emeka's pharmacy, Lagos) · ready-to-post texts
 _Video: AKV_001_CLOSER_v3.mp4 (9:16, ~63 s) · WhatsApp: +91 79861 47827 · Website: akumaenterprises-pharma.com_
-_Before posting: (1) website P0/P1 corrections live and re-audited by the studio; (2) voice generated on a plan with a commercial licence. The client presses "publish"._
 
 Tracking: each platform uses its own link (UTM) and the same WhatsApp message `Hi Akuma Pharma, I saw video AKV-001`, so every enquiry can be traced to this video.
 
