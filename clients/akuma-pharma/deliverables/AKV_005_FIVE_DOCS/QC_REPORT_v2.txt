@@ -1,0 +1,34 @@
+## QC: renders/AKV_005_FIVE_DOCS/AKV_005_FIVE_DOCS_v2.mp4  (2026-11-11T13:06:28Z)
+### Streams
+index=0
+codec_name=h264
+profile=High
+codec_type=video
+width=1080
+height=1920
+pix_fmt=yuv420p
+color_range=tv
+color_space=bt709
+r_frame_rate=30/1
+nb_frames=1597
+index=1
+codec_name=aac
+profile=LC
+codec_type=audio
+sample_rate=48000
+channels=2
+r_frame_rate=0/0
+nb_frames=2498
+duration=53.248000
+size=7695438
+bit_rate=1156165
+### Decode integrity
+PASS: full decode, no errors
+### Black (>=0.5 s) / freeze (>=2 s) intervals. Review each by eye; low-motion minimalist scenes trigger freezedetect.
+none flagged
+### Loudness (EBU R128). Note the integrated LUFS and true peak; target is set by the audio spec.
+    I:         -16.5 LUFS
+    LRA:         3.7 LU
+    Peak:       -4.2 dBFS
+### Silence (>=2 s at -50 dB)
+none
