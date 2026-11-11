@@ -528,3 +528,10 @@ procurement, regulatory and pharmacy job functions in Ghana, Kenya and South Afr
 ---
 _Changelog: 2026-11-10: first version (Phase 3), PROPOSED. Rewritten the same day to the owner's direction: agency vision first,
 end-to-end "to your door" promise confirmed by the owner on the client's behalf, operational questions removed, open items capped at 3._
+
+---
+## Standing CTA rule (D-023 + D-026, from batch 2)
+Every video ends with BOTH routes, spoken and on screen:
+1. **Website:** "Visit akumaenterprises-pharma.com to see our product list" (URL shown large in the CTA scene, not only on the end card).
+2. **WhatsApp:** "…or message us on WhatsApp" with **+91 79861 47827** on screen.
+End card keeps: logo, name, tagline, "Send your product list", WhatsApp number, "See our products: akumaenterprises-pharma.com", "<City> today. Your country next?".
