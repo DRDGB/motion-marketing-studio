@@ -1,0 +1,39 @@
+## QC: renders/CCV_001_AWA/CCV_001_AWA_v1.mp4  (2026-11-11T15:21:41Z)
+### Streams
+index=0
+codec_name=h264
+profile=High
+codec_type=video
+width=1080
+height=1920
+pix_fmt=yuv420p
+color_range=tv
+color_space=bt709
+r_frame_rate=30/1
+nb_frames=1763
+index=1
+codec_name=aac
+profile=LC
+codec_type=audio
+sample_rate=48000
+channels=2
+r_frame_rate=0/0
+nb_frames=2757
+duration=58.773000
+size=7286692
+bit_rate=991842
+### Decode integrity
+PASS: full decode, no errors
+### Black (>=0.5 s) / freeze (>=2 s) intervals. Review each by eye; low-motion minimalist scenes trigger freezedetect.
+freeze_start: 11.8333
+freeze_duration: 2.1
+freeze_end: 13.9333
+freeze_start: 51.3667
+freeze_duration: 6.66667
+freeze_end: 58.0333
+### Loudness (EBU R128). Note the integrated LUFS and true peak; target is set by the audio spec.
+    I:         -16.1 LUFS
+    LRA:         3.2 LU
+    Peak:       -4.0 dBFS
+### Silence (>=2 s at -50 dB)
+none
