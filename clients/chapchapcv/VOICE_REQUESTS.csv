@@ -1,0 +1,2 @@
+voice_code,content_id,lang,version,text_sha8,chars,expected_file,requested_at,status
+CCV-001-EN-v1,CCV-001,EN,1,475f3235,855,CCV-001-EN-v1-475f3235.mp3,2026-11-11 15:10 UTC,REQUESTED

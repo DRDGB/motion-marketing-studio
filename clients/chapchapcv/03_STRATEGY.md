@@ -1,5 +1,5 @@
 # ChapChapCV · « Chap chap, ta carrière avance » : campaign vision and first 5 videos
-_2026-11-11 · Phase 3 · **Status: PROPOSED** · French first (D-003) · scenario format (D-005) · sources: 02_RESEARCH/SYNTHESIS.md_
+_2026-11-11 · Phase 3 · **Status: APPROVED 2026-11-11 (D-006)** · French first (D-003) · scenario format (D-005) · sources: 02_RESEARCH/SYNTHESIS.md_
 
 ## 1. Big idea
 **« Ton CV. Ton job. Chap chap. »** Every video is a short story of a young African job seeker stuck on a real problem

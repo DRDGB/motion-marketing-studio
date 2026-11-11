@@ -1,0 +1,39 @@
+{
+ "id": "CCV_001_AWA",
+ "fps": 30,
+ "total": 12,
+ "voSource": "episodes/CCV_001_AWA/source/VO_CCV_001_AWA_FULL.mp3",
+ "clips": [
+  {
+   "id": "L01",
+   "src": [
+    0.0,
+    2.0
+   ],
+   "at": 0.3,
+   "text": "Replace with the first spoken line."
+  }
+ ],
+ "music": {
+  "bpm": 96,
+  "transpose": 0,
+  "mech": [
+   3,
+   6
+  ],
+  "drop": [
+   6,
+   6.5
+  ],
+  "resolve": [
+   6.5,
+   8
+  ],
+  "loop": [
+   8,
+   9
+  ],
+  "end": 9
+ },
+ "sfx": []
+}
