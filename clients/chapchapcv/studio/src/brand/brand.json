@@ -1,26 +1,27 @@
 {
+  "_note": "ChapChapCV tokens, Track B (2026-11-11), from computed styles on chapchapcv.com (light + dark) and screenshots in 02_RESEARCH/raw/brand/. accent #FF5500 = THE action colour (white on it 3.21:1: large bold text only, >=40px at 1080p). Emerald support[0] #059669 = brand's 2nd colour (CV badge, Jobs, checks); never a second accent in the same beat. Logo = transparent capture of the live nav wordmark (not redrawn); mark-cv.png = favicon badge. See 02_RESEARCH/B_BRAND.md.",
   "name": "ChapChapCV",
-  "tagline": "Your one-line promise goes here.",
-  "handle": "@yourbrand",
-  "cta": "FOLLOW FOR MORE",
-  "logo": null,
+  "tagline": "Votre carrière professionnelle commence ici.",
+  "handle": "chapchapcv.com",
+  "cta": "CRÉER MON CV",
+  "logo": "brand/logo.png",
   "colors": {
-    "bg": "#F5F3EE",
+    "bg": "#FAFAFA",
     "surface": "#FFFFFF",
-    "ink": "#1D2430",
-    "dim": "#7D8592",
-    "accent": "#2F7DF6",
-    "accentDeep": "#1C5BC2",
-    "dark": "#0E131B",
-    "darkSurface": "#1A2230",
-    "light": "#F4F6F9",
-    "support": ["#9FB4C9", "#6E8299", "#46566B"]
+    "ink": "#18181B",
+    "dim": "#4A5565",
+    "accent": "#FF5500",
+    "accentDeep": "#E03D00",
+    "dark": "#0A0A0A",
+    "darkSurface": "#171717",
+    "light": "#FFFFFF",
+    "support": ["#059669", "#065F46", "#1E2939"]
   },
   "fonts": {
-    "display": { "family": "Inter", "files": [{ "file": "fonts/Inter-Black.otf", "weight": 900 }, { "file": "fonts/Inter-Bold.otf", "weight": 700 }] },
-    "text": { "family": "Inter", "files": [{ "file": "fonts/Inter-Medium.otf", "weight": 500 }, { "file": "fonts/Inter-Bold.otf", "weight": 700 }] }
+    "display": { "family": "Inter", "files": [{ "file": "fonts/Inter-Black.otf", "weight": 900 }, { "file": "fonts/Inter-ExtraBold.ttf", "weight": 800 }, { "file": "fonts/Inter-Bold.otf", "weight": 700 }] },
+    "text": { "family": "Inter", "files": [{ "file": "fonts/Inter-Regular.ttf", "weight": 400 }, { "file": "fonts/Inter-Medium.otf", "weight": 500 }, { "file": "fonts/Inter-SemiBold.ttf", "weight": 600 }, { "file": "fonts/Inter-Bold.otf", "weight": 700 }] }
   },
-  "texture": "paper",
-  "motion": { "energy": "calm", "radius": 24, "shadow": "soft" },
-  "licence_notes": "Default demo tokens. Replace from the client's brand guide / BRAND_EXTRACT.json; log fonts and logo in ASSET_REGISTER.csv."
+  "texture": "clean",
+  "motion": { "energy": "lively", "radius": 24, "shadow": "soft" },
+  "licence_notes": "Inter (rsms/inter) SIL OFL 1.1: OTFs from Debian fonts-inter (fonts/OFL.txt); Regular/SemiBold/ExtraBold TTFs from Google Fonts v20 (fonts/OFL-Inter-GoogleFonts.txt). The site itself renders all text in Inter. Logo files are ChapChapCV trademarks, used only to make the client's own videos; vector (SVG) still to request from the client. Logged in 02_RESEARCH/assets_B.csv."
 }
