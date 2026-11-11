@@ -1,0 +1,277 @@
+{
+ "light": {
+  "htmlClass": "erhN5a_variable light",
+  "body": {
+   "color": "lab(2.75381 0 0)",
+   "bg": "rgb(255, 255, 255)",
+   "bgImg": "none",
+   "font": "Inter",
+   "weight": "400"
+  },
+  "h1": {
+   "color": "lab(8.30603 0.618205 -2.16572)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter",
+   "weight": "800"
+  },
+  "h2": {
+   "color": "lab(8.30603 0.618205 -2.16572)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter",
+   "weight": "800"
+  },
+  "p": {
+   "color": "lab(47.7841 -0.393182 -10.0268)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter",
+   "weight": "400"
+  },
+  "vars": {
+   "--background": "lab(100% 0 0)",
+   "--foreground": "lab(2.75381% 0 0)",
+   "--card": "lab(100% 0 0)",
+   "--muted": "lab(96.52% -.0000298023 .0000119209)",
+   "--muted-foreground": "lab(48.496% 0 0)",
+   "--border": "lab(90.952% 0 -.0000119209)",
+   "--primary": "lab(7.78201% -.0000149012 0)",
+   "--secondary": "lab(96.52% -.0000298023 .0000119209)"
+  },
+  "footer": {
+   "color": "lab(35.6337 -1.58697 -10.8425)",
+   "bg": "lab(98.2596 -0.247031 -0.706708)",
+   "bgImg": "none",
+   "font": "Inter",
+   "weight": "400"
+  },
+  "sectionBgs": [
+   "rgba(0, 0, 0, 0)",
+   "rgba(0, 0, 0, 0)",
+   "rgb(255, 255, 255)",
+   "rgba(0, 0, 0, 0)",
+   "rgba(0, 0, 0, 0)",
+   "rgba(0, 0, 0, 0)",
+   "lab(100 0 0)",
+   "oklab(0.969998 -0.00000959635 0.0000227094 / 0.3)",
+   "rgba(0, 0, 0, 0)",
+   "oklab(0.969998 -0.00000959635 0.0000227094 / 0.3)",
+   "rgba(0, 0, 0, 0)",
+   "oklab(0.969998 -0.00000959635 0.0000227094 / 0.3)",
+   "rgba(0, 0, 0, 0)",
+   "lab(100 0 0)"
+  ],
+  "btns": [
+   {
+    "t": "S'inscrire",
+    "bg": "rgba(0, 0, 0, 0)",
+    "c": "lab(2.75381 0 0)"
+   },
+   {
+    "t": "S'inscrire",
+    "bg": "rgb(255, 85, 0)",
+    "c": "rgb(255, 255, 255)"
+   },
+   {
+    "t": "Créer mon CV",
+    "bg": "rgba(0, 0, 0, 0)",
+    "c": "lab(2.75381 0 0)"
+   },
+   {
+    "t": "Trouver un job",
+    "bg": "rgba(0, 0, 0, 0)",
+    "c": "lab(2.75381 0 0)"
+   },
+   {
+    "t": "Créer mon CV",
+    "bg": "rgba(0, 0, 0, 0)",
+    "c": "lab(2.75381 0 0)"
+   },
+   {
+    "t": "Créer mon CV",
+    "bg": "rgb(255, 85, 0)",
+    "c": "rgb(255, 255, 255)"
+   }
+  ],
+  "cvBadge": {
+   "bgImg": "linear-gradient(to right bottom, lab(66.9756 -58.27 19.5419) 0%, lab(44.4871 -41.0396 11.0361) 100%)",
+   "border": "lab(35.3675 -33.1188 8.04002)",
+   "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(6, 95, 70) 0px 4px 0px 0px, rgba(0, 0, 0, 0.25) 0px 6px 12px 0px, rgba(255, 255, 255, 0.3) 0px 1px 0px 0px inset",
+   "radius": "10px",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "900",
+   "size": "30px"
+  },
+  "chap": {
+   "color": "rgb(255, 85, 0)",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "900",
+   "size": "30px",
+   "ls": "-0.75px"
+  }
+ },
+ "downloads": [
+  {
+   "f": "/favicon.png",
+   "status": "err"
+  },
+  {
+   "f": "/og-image.png",
+   "status": "err"
+  },
+  {
+   "f": "/manifest.webmanifest",
+   "status": "err"
+  },
+  {
+   "f": "/images/hero-ecosystem-desktop.webp",
+   "status": "err"
+  },
+  {
+   "f": "/images/hero-woman-3.webp",
+   "status": "err"
+  },
+  {
+   "f": "/images/hero-woman-4.webp",
+   "status": "err"
+  },
+  {
+   "f": "/apple-touch-icon.png",
+   "status": "err"
+  },
+  {
+   "f": "/favicon.ico",
+   "status": "err"
+  },
+  {
+   "f": "/logo.png",
+   "status": "err"
+  },
+  {
+   "f": "/logo.svg",
+   "status": "err"
+  },
+  {
+   "f": "/icon.png",
+   "status": "err"
+  },
+  {
+   "f": "/icon.svg",
+   "status": "err"
+  }
+ ],
+ "manifestErr": "Error: ENOENT: no such file or directory, open '/home/user/motion-marketing-studio/clients/chapchapcv/02_RESEARCH/raw/brand/manifest.webmanifest'",
+ "dark": {
+  "htmlClass": "erhN5a_variable dark",
+  "body": {
+   "color": "lab(98.26 0 0)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "radial-gradient(50% 40% at 85% 90%, rgba(255, 85, 0, 0.04) 0%, rgba(0, 0, 0, 0) 50%), linear-gradient(160deg, rgb(22, 27, 46) 0%, rgb(26, 32, 53) 40%, rgb(30, 3",
+   "font": "Inter",
+   "weight": "400"
+  },
+  "h1": {
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter",
+   "weight": "800"
+  },
+  "h2": {
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter",
+   "weight": "800"
+  },
+  "p": {
+   "color": "lab(65.9269 -0.832707 -8.17473)",
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "font": "Inter",
+   "weight": "400"
+  },
+  "vars": {
+   "--background": "lab(2.75381% 0 0)",
+   "--foreground": "lab(98.26% 0 0)",
+   "--card": "lab(7.78201% -.0000149012 0)",
+   "--muted": "lab(15.204% 0 -.00000596046)",
+   "--muted-foreground": "lab(66.128% -.0000298023 .0000119209)",
+   "--border": "lab(100% 0 0/.1)",
+   "--primary": "lab(90.952% 0 -.0000119209)",
+   "--secondary": "lab(15.204% 0 -.00000596046)"
+  },
+  "footer": {
+   "color": "lab(65.9269 -0.832707 -8.17473)",
+   "bg": "lab(98.2596 -0.247031 -0.706708)",
+   "bgImg": "linear-gradient(to right bottom in oklab, rgb(15, 23, 42) 0%, rgb(30, 41, 59) 50%, rgb(51, 65, 85) 100%)",
+   "font": "Inter",
+   "weight": "400"
+  },
+  "sectionBgs": [
+   "rgba(0, 0, 0, 0)",
+   "rgba(0, 0, 0, 0)",
+   "rgb(10, 10, 10)",
+   "rgba(0, 0, 0, 0)",
+   "rgba(0, 0, 0, 0)",
+   "rgba(0, 0, 0, 0)",
+   "lab(2.75381 0 0)",
+   "oklab(0.268999 -0.00000260025 0.00000627339 / 0.3)",
+   "rgba(0, 0, 0, 0)",
+   "oklab(0.268999 -0.00000260025 0.00000627339 / 0.3)",
+   "rgba(0, 0, 0, 0)",
+   "oklab(0.268999 -0.00000260025 0.00000627339 / 0.3)",
+   "rgba(0, 0, 0, 0)",
+   "lab(2.75381 0 0)"
+  ],
+  "btns": [
+   {
+    "t": "S'inscrire",
+    "bg": "rgba(0, 0, 0, 0)",
+    "c": "lab(98.26 0 0)"
+   },
+   {
+    "t": "S'inscrire",
+    "bg": "rgb(255, 85, 0)",
+    "c": "rgb(255, 255, 255)"
+   },
+   {
+    "t": "Créer mon CV",
+    "bg": "rgba(0, 0, 0, 0)",
+    "c": "lab(98.26 0 0)"
+   },
+   {
+    "t": "Trouver un job",
+    "bg": "rgba(0, 0, 0, 0)",
+    "c": "lab(98.26 0 0)"
+   },
+   {
+    "t": "Créer mon CV",
+    "bg": "rgba(0, 0, 0, 0)",
+    "c": "lab(98.26 0 0)"
+   },
+   {
+    "t": "Créer mon CV",
+    "bg": "rgb(255, 85, 0)",
+    "c": "rgb(255, 255, 255)"
+   }
+  ],
+  "cvBadge": {
+   "bgImg": "linear-gradient(to right bottom, lab(66.9756 -58.27 19.5419) 0%, lab(44.4871 -41.0396 11.0361) 100%)",
+   "border": "lab(35.3675 -33.1188 8.04002)",
+   "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgb(6, 95, 70) 0px 4px 0px 0px, rgba(0, 0, 0, 0.25) 0px 6px 12px 0px, rgba(255, 255, 255, 0.3) 0px 1px 0px 0px inset",
+   "radius": "10px",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "900",
+   "size": "30px"
+  },
+  "chap": {
+   "color": "rgb(255, 85, 0)",
+   "font": "Inter, \"Inter Fallback\", ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif",
+   "weight": "900",
+   "size": "30px",
+   "ls": "-0.75px"
+  }
+ }
+}

@@ -1,0 +1,331 @@
+{
+ "source": "https://chapchapcv.com/",
+ "final_url": "https://chapchapcv.com/fr",
+ "retrieved": "2026-11-11",
+ "method": "Playwright 1.63 Chromium (desktop UA, locale fr-FR, light + dark colorScheme): getComputedStyle on real elements (h1, h2, p, nav links, buttons, wordmark spans, sections), stylesheet hex harvest via document.styleSheets, lab() converted to sRGB in-browser; screenshots viewed. brand_extract.py (plain HTTP) not usable: site behind Cloudflare.",
+ "errors": [
+  "Plain HTTP fetch blocked by Cloudflare; /fr/templates returned 429 (rate limit) so crawl was stopped after 3 pages."
+ ],
+ "title": "ChapChapCV – CV professionnel, offres d'emploi et portfolio en Afrique",
+ "description": "L'écosystème emploi propulsé par l'IA : CV professionnel en quelques minutes, offres d'emploi vérifiées et portfolio web. Côte d'Ivoire, Sénégal, Cameroun et toute l'Afrique.",
+ "theme_color": "#059669",
+ "og_image": "https://chapchapcv.com/og-image.png",
+ "lang": "fr-CI",
+ "css_variables": {
+  "--radius": ".625rem (10px)",
+  "--background": "#FFFFFF (dark: #0A0A0A)",
+  "--foreground": "#0A0A0A (dark: #FAFAFA)",
+  "--card": "#FFFFFF (dark: #171717)",
+  "--muted": "#F5F5F5 (dark: #262626)",
+  "--muted-foreground": "#737373 (dark: #A1A1A1)",
+  "--border": "#E5E5E5 (dark: white/10%)",
+  "--primary": "#171717 (shadcn neutral default; NOT the brand action colour)",
+  "--font-inter": "\"Inter\", \"Inter Fallback\""
+ },
+ "colours_ranked": [
+  {
+   "hex": "#FF5500",
+   "css_occurrences": 138
+  },
+  {
+   "hex": "#059669",
+   "css_occurrences": 75
+  },
+  {
+   "hex": "#065F46",
+   "css_occurrences": 28
+  },
+  {
+   "hex": "#FAFAFA",
+   "css_occurrences": 15
+  },
+  {
+   "hex": "#E03D00",
+   "css_occurrences": 14
+  },
+  {
+   "hex": "#FF7900",
+   "css_occurrences": 13
+  },
+  {
+   "hex": "#0077B5",
+   "css_occurrences": 9
+  },
+  {
+   "hex": "#171717",
+   "css_occurrences": 9
+  },
+  {
+   "hex": "#0A0A0A",
+   "css_occurrences": 6
+  },
+  {
+   "hex": "#F5F5F5",
+   "css_occurrences": 5
+  },
+  {
+   "hex": "#1C1C1E",
+   "css_occurrences": 5
+  },
+  {
+   "hex": "#0E5A44",
+   "css_occurrences": 4
+  },
+  {
+   "hex": "#E5E5E5",
+   "css_occurrences": 4
+  },
+  {
+   "hex": "#262626",
+   "css_occurrences": 4
+  },
+  {
+   "hex": "#FFF0E8",
+   "css_occurrences": 3
+  },
+  {
+   "hex": "#737373",
+   "css_occurrences": 3
+  },
+  {
+   "hex": "#A1A1A1",
+   "css_occurrences": 3
+  },
+  {
+   "hex": "#047857",
+   "css_occurrences": 2
+  },
+  {
+   "hex": "#10B981",
+   "css_occurrences": 2
+  }
+ ],
+ "computed_usage_home_light": {
+  "bg #FF5500 (buttons, badges)": 21,
+  "text #FF5500": 12,
+  "bg #059669": 4,
+  "text #059669": 2,
+  "text #0A0A0A/#18181B": 56,
+  "text #4A5565 (gray-600)": 35,
+  "text #737373": 27,
+  "text #364153 (gray-700)": 12,
+  "text #99A1AF (gray-400)": 10
+ },
+ "brand_colour_candidates": [
+  "#FF5500",
+  "#059669",
+  "#065F46",
+  "#E03D00",
+  "#10B981",
+  "#047857"
+ ],
+ "verified_elements": {
+  "wordmark": {
+   "ChapChap": "Inter 900, #FF5500, tracking -0.025em",
+   "CV_badge": "Inter 900 white text on linear-gradient(to bottom right, #00BC7D -> #007A55) [Tailwind emerald-500/600/700], 2px border #006045, radius 10px, 3D under-shadow 0 4px 0 #065F46 + 0 6px 12px rgba(0,0,0,.25), inset top highlight white/30%, text-shadow 1px 1px 0 rgba(0,0,0,.2)",
+   "source": "live HTML text (no image) in <nav>"
+  },
+  "h1": "Inter 800, 47.5px, letter-spacing -0.025em, line-height 1.08, #18181B; second line 'commence ici.' in #FF5500",
+  "h2": "Inter 700-800, 36px, #0A0A0A / #18181B",
+  "body": "Inter 400, 16-18px, #4A5565 (lead) / #737373 (muted)",
+  "nav": "Inter 500 13-14px #4A5565, active pill bg gray-100/80",
+  "btn_primary": "'Créer mon CV' / 'S'inscrire' / 'Utiliser ce modèle': white Inter 700 on #FF5500, pill (fully rounded), white circle with orange arrow at right; hover #E03D00",
+  "btn_secondary": "'Trouver un job': white on #059669 pill, white circle with briefcase icon",
+  "btn_tertiary": "'Créer mon portfolio': white on #18181B pill; 'Transformer mon CV en portfolio web': outline pill",
+  "section_pills": "small rounded-full labels: orange text on #FFF0E8 (orange/8%) or emerald text on emerald/8%",
+  "cards": "white, 1px #E5E5E5 border, radius ~16px, soft shadow; icon tiles 40px rounded-lg tinted orange or emerald",
+  "icons": "Lucide line icons (2px stroke, round caps) tinted #FF5500 or #059669"
+ },
+ "palette_roles_light": {
+  "bg": {
+   "hex": "#FAFAFA",
+   "from": "alternate section background (neutral-50)"
+  },
+  "surface": {
+   "hex": "#FFFFFF",
+   "from": "page/card background"
+  },
+  "ink": {
+   "hex": "#18181B",
+   "from": "h1/h2 (zinc-900)",
+   "contrast_on_bg": 16.97,
+   "contrast_on_surface": 17.72
+  },
+  "dim": {
+   "hex": "#4A5565",
+   "from": "lead paragraph + nav (gray-600)",
+   "contrast_on_bg": 7.24,
+   "contrast_on_surface": 7.56
+  },
+  "accent": {
+   "hex": "#FF5500",
+   "from": "primary CTA buttons, 'ChapChap' wordmark, headline payoff words",
+   "white_on_accent": 3.21,
+   "accent_on_white": 3.21,
+   "ink_on_accent": 5.53,
+   "rule": "LARGE text only (>=3:1 WCAG large: in 1080p video use >=40px bold); never small copy in orange; on dark the accent reaches 6.18:1"
+  },
+  "accentDeep": {
+   "hex": "#E03D00",
+   "from": "hover state of orange buttons (14 CSS refs)",
+   "white_on_accentDeep": 4.34
+  },
+  "support": [
+   {
+    "hex": "#059669",
+    "role": "second product colour (CV badge, Jobs, checkmarks, theme-color)",
+    "white_on": 3.77
+   },
+   {
+    "hex": "#065F46",
+    "role": "emerald deep: badge border/3D shadow, text on light",
+    "white_on": 7.68
+   },
+   {
+    "hex": "#1E2939",
+    "role": "slate for device bodies / UI chrome"
+   }
+  ],
+  "tints": {
+   "orangeTint": "#FFF0E8",
+   "emeraldTint": "rgba(5,150,105,0.08)",
+   "border": "#E5E5E5",
+   "mutedText": "#737373 (4.74 on white)"
+  }
+ },
+ "palette_roles_dark": {
+  "dark": {
+   "hex": "#0A0A0A",
+   "from": "dark-mode --background"
+  },
+  "darkSurface": {
+   "hex": "#171717",
+   "from": "dark-mode --card"
+  },
+  "darkMuted": "#262626",
+  "light": {
+   "hex": "#FFFFFF",
+   "from": "dark-mode h1/h2",
+   "contrast_on_dark": 19.8
+  },
+  "dimOnDark": {
+   "hex": "#99A1AF",
+   "contrast_on_dark": 7.61,
+   "contrast_on_darkSurface": 6.89
+  },
+  "accentOnDark": {
+   "hex": "#FF5500",
+   "contrast_on_dark": 6.18
+  },
+  "emeraldOnDark": {
+   "hex": "#10B981",
+   "contrast_on_dark": 7.8
+  },
+  "note": "Dark mode keeps the same orange + emerald; neutral near-black (not navy). Footer in dark mode uses a slate gradient #0F172A -> #334155."
+ },
+ "fonts_ranked": [
+  [
+   "Inter 400",
+   101
+  ],
+  [
+   "Inter 700",
+   66
+  ],
+  [
+   "Inter 600",
+   19
+  ],
+  [
+   "Inter 500",
+   18
+  ],
+  [
+   "Inter 900",
+   14
+  ],
+  [
+   "Inter 800",
+   4
+  ]
+ ],
+ "fonts": {
+  "family": "Inter (variable 100-900, self-hosted by Next.js next/font)",
+  "licence": "SIL Open Font License 1.1 (rsms/inter; Google Fonts)",
+  "studio_files": [
+   "fonts/Inter-Regular.ttf (400, Google Fonts v20)",
+   "fonts/Inter-Medium.otf (500)",
+   "fonts/Inter-SemiBold.ttf (600, Google Fonts v20)",
+   "fonts/Inter-Bold.otf (700)",
+   "fonts/Inter-ExtraBold.ttf (800, Google Fonts v20)",
+   "fonts/Inter-Black.otf (900)"
+  ],
+  "licence_files": [
+   "studio/public/fonts/OFL.txt",
+   "studio/public/fonts/OFL-Inter-GoogleFonts.txt"
+  ]
+ },
+ "google_fonts_links": [],
+ "logo_candidates": [
+  "https://chapchapcv.com/logo.png (1366x484, RGBA but opaque white background, orange #EF8031 slightly duller than live #FF5500)",
+  "https://chapchapcv.com/og-image.png (1200x1200, logo centred on white)",
+  "live <nav> text wordmark (captured by black/white difference matte -> transparent PNG)"
+ ],
+ "icon_candidates": [
+  "https://chapchapcv.com/favicon.png (419x382, transparent: green 3D CV badge)",
+  "https://chapchapcv.com/pwa/icon-512.png",
+  "https://chapchapcv.com/pwa/icon-512-maskable.png"
+ ],
+ "logo_files_local": {
+  "raw": [
+   "02_RESEARCH/raw/brand/logo.png",
+   "02_RESEARCH/raw/brand/og-image.png",
+   "02_RESEARCH/raw/brand/favicon.png",
+   "02_RESEARCH/raw/brand/icon-512.png",
+   "02_RESEARCH/raw/brand/icon-512-maskable.png",
+   "02_RESEARCH/raw/brand/wordmark_live_transparent_4x.png"
+  ],
+  "studio": [
+   "studio/public/brand/logo.png (transparent wordmark, 929x246, works on light and dark)",
+   "studio/public/brand/mark-cv.png (favicon CV badge, transparent)"
+  ],
+  "vector": "none published (no SVG); request SVG/AI from client"
+ },
+ "social_links": [
+  "https://www.linkedin.com/company/chapchapcv",
+  "https://www.facebook.com/share/15hckJvKiTg/",
+  "https://www.instagram.com/chapchapcv/",
+  "https://x.com/chapchapcv",
+  "https://chat.whatsapp.com/Jsc5jYkP3xV2Q21SeeEP4z (community group)"
+ ],
+ "contact_links": [
+  "mailto:support@chapchapcv.com"
+ ],
+ "products": [
+  "ChapChap CV",
+  "ChapChap Jobs",
+  "ChapChap Portfolio",
+  "ChapChap Talents (bientôt)"
+ ],
+ "cv_templates": {
+  "crimson-slate": "ChapChap Red",
+  "healthcare-green": "ChapChap Healthcare",
+  "chapchap-geometric": "ChapChap Geometric",
+  "professional-blue": "ChapChap Onion",
+  "creative-green": "ChapChap Creative"
+ },
+ "imagery": "AI-styled photographic heroes of young Black West African women (braids, emerald blazer / white tee) holding a phone or printed CV, with floating ChapChap UI cards (Portfolio, Jobs '92 % Match', CV card 'Awa Koffi, Marketing Digital'); one intergenerational scene (mother in lace + gele, coral beads; daughter with CV + laptop); orange studio backdrop with floating app-icon tiles. Hero cut-outs on white with warm orange radial glow. Template thumbnails with a recurring 'LINDA KOUASSI' sample persona.",
+ "tone": {
+  "language": "French first (fr-CI), EN secondary",
+  "address": "vouvoiement",
+  "emoji": "none in site copy",
+  "adjectives": [
+   "rapide",
+   "rassurant",
+   "ambitieux",
+   "local-fier",
+   "pratique"
+  ]
+ },
+ "note": "Verified against screenshots in 02_RESEARCH/raw/brand/. Orange #FF5500 is the action colour; emerald #059669 is the brand's second colour (theme-color) used as support, never as a second accent in the same frame."
+}
