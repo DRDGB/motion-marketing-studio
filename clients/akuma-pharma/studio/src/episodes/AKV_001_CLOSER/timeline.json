@@ -1,7 +1,7 @@
 {
  "id": "AKV_001_CLOSER",
  "fps": 30,
- "total": 60.92,
+ "total": 62.92,
  "voSource": "episodes/AKV_001_CLOSER/source/VO_AKV-001_EN_FULL_v2_5410b0b1.mp3",
  "clips": [
   {
@@ -132,9 +132,9 @@
   ],
   "loop": [
    49.82,
-   56.26
+   62.32
   ],
-  "end": 56.26
+  "end": 62.32
  },
  "sfx": [
   {
@@ -168,5 +168,5 @@
    "gain": -22
   }
  ],
- "note": "Line map from faster-whisper word timestamps (hq/tools/whisper_timeline.py); 97% of script words matched; gaps > 0.6s tightened; lead 1.2s; end card 4.2s."
+ "note": "Line map from faster-whisper word timestamps (hq/tools/whisper_timeline.py); 97% of script words matched; gaps > 0.6s tightened; lead 1.2s; end card 4.2s. · v3: end card 6.2 s (WhatsApp number + See our products + Your country next?)"
 }

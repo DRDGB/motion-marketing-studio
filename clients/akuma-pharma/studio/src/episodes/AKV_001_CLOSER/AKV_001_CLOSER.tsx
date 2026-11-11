@@ -6,7 +6,7 @@ import TL from "./timeline.json";
 import WORDS from "./words.json";
 import { Backdrop, DarkWorld, Reveal, revealRadius, SceneCam } from "../../lib/stage";
 import { Kinetic } from "../../lib/kinetic";
-import { CornerBug, EndCard } from "../../lib/endcard";
+import { CornerBug } from "../../lib/endcard";
 import { WordEntry, WStyle, KWord, fr, ease, pop, clamp } from "../../lib/time";
 import { Timeline } from "../types";
 import { C, TEXT, DISPLAY, alpha } from "../../theme";
@@ -24,6 +24,7 @@ const clip = (id: string) => T.clips.find((c) => c.id === id)!;
 const words = (id: string) => WL.filter((w) => w.clip === id);
 const on = (id: string, i: number) => words(id)[i].t;
 const AT = (id: string) => clip(id).at;
+const WA = "+91 79861 47827"; // Akuma WhatsApp desk (site: wa.me/917986147827)
 const show = (w: string, nx?: string, pv?: string) => (w === "W-H-O" && nx === "G-M-P" ? "WHO-GMP" : w === "G-M-P" && pv === "W-H-O" ? "" : w);
 /** Caption rows from word indices of one line. */
 const KW = (id: string, rows: number[][], st: Record<number, WStyle> = {}, def: WStyle = "base"): KWord[][] => {
@@ -229,14 +230,15 @@ const PhoneScene: React.FC = () => {
   const press = sent ? 1 - 0.12 * Math.max(0, 1 - (t - on("L11", 11)) / 0.25) : 1;
   return (<AbsoluteFill style={{ background: C.bg }}>
     <Svg>
-      <g transform={`translate(540 1180) scale(${0.85 + 0.15 * pop(f, 2)})`}>
+      <g transform={`translate(540 1090) scale(${0.78 + 0.12 * pop(f, 2)})`}>
         <rect x={-270} y={-520} width={540} height={1040} rx={64} fill="#16181D" />
         <rect x={-245} y={-490} width={490} height={980} rx={44} fill="#F6F2EC" />
         <rect x={-245} y={-490} width={490} height={130} rx={44} fill={C.accent} />
         <rect x={-245} y={-410} width={490} height={50} fill={C.accent} />
         <circle cx={-170} cy={-418} r={36} fill="#FFFFFF" />
         <image href={staticFile("brand/logo.svg")} x={-200} y={-448} width={60} height={60} />
-        <text x={-115} y={-408} fontFamily={TEXT} fontWeight={800} fontSize={34} fill="#FFFFFF">Akuma Pharma</text>
+        <text x={-115} y={-420} fontFamily={TEXT} fontWeight={800} fontSize={34} fill="#FFFFFF">Akuma Pharma</text>
+        <text x={-115} y={-382} fontFamily={TEXT} fontWeight={600} fontSize={24} fill="#FFFFFF">{WA}</text>
         <g opacity={typed > 0 ? 1 : 0}>
           <rect x={-200} y={-120} width={420} height={150} rx={26} fill={sent ? C.accent : "#FFFFFF"} stroke="#16181D" strokeWidth={4} />
           <foreignObject x={-185} y={-110} width={390} height={130}>
@@ -252,8 +254,46 @@ const PhoneScene: React.FC = () => {
         <g transform={`translate(175 420) scale(${press})`}><circle r={46} fill={C.accent} /><path d="M -18 -18 L 22 0 L -18 18 L -10 0 Z" fill="#FFFFFF" /></g>
       </g>
     </Svg>
+    <div style={{ position: "absolute", top: 1640, left: 0, right: 0, display: "flex", justifyContent: "center", opacity: ease(f, fr(on("L11", 10) - PHONE_A) - 6, fr(on("L11", 10) - PHONE_A) + 4) }}>
+      <div style={{ display: "flex", alignItems: "center", gap: 16, background: C.accent, color: "#FFFFFF", borderRadius: 60, padding: "16px 36px", fontFamily: TEXT, fontWeight: 800, fontSize: 46, transform: `scale(${0.85 + 0.15 * pop(f, fr(on("L11", 10) - PHONE_A))})` }}>
+        <span style={{ fontSize: 30, letterSpacing: 2 }}>WHATSAPP</span><span>{WA}</span>
+      </div>
+    </div>
     <Kinetic offset={PHONE_A} top={150} lines={KW("L11", [[0, 1], [2, 3]], { 0: "dim", 1: "base", 2: "accent", 3: "big" })} exitAt={on("L11", 4) - 0.05} />
     <Kinetic offset={PHONE_A} top={150} lines={KW("L11", [[4, 5, 6], [7, 8], [9, 10, 11]], { 4: "base", 5: "dim", 6: "dim", 7: "base", 8: "base", 9: "dim", 10: "accent", 11: "big" })} />
+  </AbsoluteFill>);
+};
+
+
+// End card v3: logo, name, tagline, CTA, WhatsApp number, products link, pan-African "your country next?" (D-023).
+const PINS: [string, number][] = [["Lagos", 0], ["Accra", 0.35], ["Abidjan", 0.6], ["Douala", 0.85], ["Kinshasa", 1.1], ["Nairobi", 1.35], ["Addis Ababa", 1.6], ["Dar es Salaam", 1.85], ["Johannesburg", 2.1], ["Dakar", 2.35]];
+const FinalCard: React.FC = () => {
+  const f = useCurrentFrame(); const t = f / 30;
+  const frame: [number, number, number, number] = [330, 1110, 420, 420];
+  const { P } = fit(AFRICA_BOX, frame);
+  return (<AbsoluteFill style={{ background: C.bg }}>
+    <Svg>
+      <image href={staticFile("brand/logo.svg")} x={540 - 95 * pop(f, 2)} y={170} width={190 * pop(f, 2)} height={190} />
+      <MapLayer box={AFRICA_BOX} frame={frame} dim={0.4} showIndia={false} highlight="NG" hk={1} />
+      {PINS.map(([city, d], i) => { const [x, y] = P(CITIES[city] as [number, number]); const p = pop(f, fr(1.0 + d * 0.8)); return <g key={i}><circle cx={x} cy={y} r={7 + 18 * ((t * 1.2 + i * 0.3) % 1) * p} fill="none" stroke={C.accent} strokeWidth={3} opacity={(1 - ((t * 1.2 + i * 0.3) % 1)) * p} /><circle cx={x} cy={y} r={7 * p} fill={i === 0 ? C.accent : C.ink} /></g>; })}
+    </Svg>
+    <div style={{ position: "absolute", top: 380, width: "100%", textAlign: "center", fontFamily: DISPLAY, fontSize: 104, fontWeight: 700, color: C.ink, opacity: ease(f, 6, 16) }}>Akuma Pharma</div>
+    <div style={{ position: "absolute", top: 510, left: 90, right: 90, textAlign: "center", fontFamily: TEXT, fontSize: 36, fontWeight: 500, color: C.dim, opacity: ease(f, 10, 20) }}>Your sourcing partner in India, all the way to your door.</div>
+    <div style={{ position: "absolute", top: 620, width: "100%", display: "flex", justifyContent: "center", opacity: ease(f, 14, 22) }}>
+      <div style={{ background: C.accent, color: "#FFFFFF", borderRadius: 60, padding: "18px 44px", fontFamily: TEXT, fontWeight: 800, fontSize: 36, letterSpacing: 3 }}>SEND YOUR PRODUCT LIST</div>
+    </div>
+    <div style={{ position: "absolute", top: 740, width: "100%", textAlign: "center", fontFamily: TEXT, color: C.ink, opacity: ease(f, 18, 26) }}>
+      <div style={{ fontSize: 30, fontWeight: 700, letterSpacing: 4, color: C.dim }}>WHATSAPP</div>
+      <div style={{ fontSize: 76, fontWeight: 800 }}>{WA}</div>
+    </div>
+    <div style={{ position: "absolute", top: 960, width: "100%", textAlign: "center", fontFamily: TEXT, fontSize: 34, color: C.ink, opacity: ease(f, 22, 30) }}>See our products: <b>akumaenterprises-pharma.com</b></div>
+    <div style={{ position: "absolute", top: 1560, left: 70, right: 70, textAlign: "center", fontFamily: DISPLAY, fontSize: 52, fontWeight: 700, color: C.ink, lineHeight: 1.15, opacity: ease(f, 40, 52) }}>
+      Lagos today. <span style={{ color: C.accent, fontStyle: "italic" }}>Your country next?</span>
+      <div style={{ fontFamily: TEXT, fontSize: 32, fontWeight: 600, color: C.dim, marginTop: 10 }}>Tell us in the comments.</div>
+    </div>
+    <div style={{ position: "absolute", top: 1790, width: "100%", textAlign: "center", fontFamily: TEXT, fontSize: 21, color: C.dim, lineHeight: 1.4 }}>
+      Illustrative story · Akuma Enterprises, Kharar, Punjab, India · Reviewed: 2026-11-11 · For licensed pharmaceutical trade · AI-generated narration
+    </div>
   </AbsoluteFill>);
 };
 
@@ -262,7 +302,7 @@ export const AKV_001_CLOSER: React.FC = () => {
   const r = revealRadius(f, fr(RED_A), fr(RED_A + 0.6), fr(RED_B - 0.3), fr(RED_B + 0.3));
   const win = (a: number, b: number) => interpolate(f, [fr(a), fr(a) + 8, fr(b) - 8, fr(b)], [0, 1, 1, 0], clamp);
   const tradeO = Math.max(win(PLANT_A, DOOR_A), win(PHONE_A, END_A)); // only over scenes without people (≈ 11 s total)
-  const tradeTop = t >= PHONE_A - 0.3 ? 1725 : 1470;
+  const tradeTop = t >= PHONE_A - 0.3 ? 1770 : 1470;
   const inRed = t > RED_A + 0.6 && t < RED_B - 0.3;
   return (
     <AbsoluteFill style={{ background: C.bg }}>
@@ -282,15 +322,7 @@ export const AKV_001_CLOSER: React.FC = () => {
         For licensed pharmaceutical trade. Products are supplied only where registered or authorised by the national regulator.
       </div>
       {t > 0.8 && t < END_A && <CornerBug dark={inRed} />}
-      <Span a={END_A} b={T.total}>
-        <EndCard dark={false} cta="SEND YOUR PRODUCT LIST" />
-        <div style={{ position: "absolute", top: 1430, width: "100%", textAlign: "center", fontFamily: DISPLAY, fontSize: 40, color: C.ink }}>
-          Next: What is <span style={{ color: C.accent, fontStyle: "italic" }}>Akuma Pharma</span>?
-        </div>
-        <div style={{ position: "absolute", top: 1540, width: "100%", textAlign: "center", fontFamily: TEXT, fontSize: 23, color: C.dim, lineHeight: 1.4 }}>
-          Illustrative story · Akuma Enterprises, Kharar, Punjab, India · Reviewed: 2026-11-11<br />For licensed pharmaceutical trade · AI-generated narration
-        </div>
-      </Span>
+      <Span a={END_A} b={T.total}><FinalCard /></Span>
     </AbsoluteFill>
   );
 };
