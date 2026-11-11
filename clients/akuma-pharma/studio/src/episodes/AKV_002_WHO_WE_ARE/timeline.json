@@ -1,17 +1,81 @@
 {
  "id": "AKV_002_WHO_WE_ARE",
  "fps": 30,
- "total": 12,
- "voSource": "episodes/AKV_002_WHO_WE_ARE/source/VO_AKV_002_WHO_WE_ARE_FULL.mp3",
+ "total": 40.04,
+ "voSource": "episodes/AKV_002_WHO_WE_ARE/source/VO_AKV-002_EN_FULL.mp3",
  "clips": [
   {
    "id": "L01",
    "src": [
     0.0,
-    2.0
+    7.12
    ],
-   "at": 0.3,
-   "text": "Replace with the first spoken line."
+   "at": 0.9,
+   "text": "Pharmacy owners… distributors… hospital buyers. Across Africa, the story is the same."
+  },
+  {
+   "id": "L02",
+   "src": [
+    7.34,
+    10.38
+   ],
+   "at": 8.24,
+   "text": "\"Our supplier is far… and the shelf can't wait.\""
+  },
+  {
+   "id": "L03",
+   "src": [
+    10.74,
+    12.96
+   ],
+   "at": 11.64,
+   "text": "So, who is Akuma Pharma?",
+   "world": "dark"
+  },
+  {
+   "id": "L04",
+   "src": [
+    13.3,
+    15.82
+   ],
+   "at": 14.2,
+   "text": "We are your own sourcing team in India."
+  },
+  {
+   "id": "L05",
+   "src": [
+    16.1,
+    22.84
+   ],
+   "at": 17.0,
+   "text": "We find W-H-O G-M-P certified manufacturers… check the documents… and follow your order to your door."
+  },
+  {
+   "id": "L06",
+   "src": [
+    22.88,
+    27.86
+   ],
+   "at": 23.74,
+   "text": "Douala, Nairobi, N'Djamena, Accra… wherever you are."
+  },
+  {
+   "id": "L07",
+   "src": [
+    27.98,
+    30.32
+   ],
+   "at": 28.88,
+   "text": "Send us your product list on WhatsApp today."
+  },
+  {
+   "id": "L08",
+   "src": [
+    30.62,
+    33.14
+   ],
+   "at": 31.52,
+   "text": "Akuma Pharma… closer than you think."
   }
  ],
  "music": {
@@ -35,5 +99,6 @@
   ],
   "end": 9
  },
- "sfx": []
+ "sfx": [],
+ "note": "Line map from faster-whisper word timestamps (hq/tools/whisper_timeline.py); 99% of script words matched; gaps > 0.5s tightened; lead 0.9s; end card 6.0s."
 }
