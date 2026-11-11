@@ -29,7 +29,7 @@ for raw in block.splitlines():
     t = re.sub(r"\[[^\]]*\]", "", raw).replace("|", "").strip()
     if t:
         lines.append(re.sub(r"\s+", " ", t))
-vo = Path(a.vo) if a.vo else next((ep / "source").glob("VO_*_FULL.*"))
+vo = (ws / a.vo).resolve() if a.vo else next((ep / "source").glob("VO_*_FULL.*"))
 
 import numpy as np
 from faster_whisper import WhisperModel
@@ -49,12 +49,25 @@ for li, ln in enumerate(lines):
 flat_s = [(i, t) for i, (_, _, toks) in enumerate(script) for t in toks]
 flat_r = [norm(w) for w, _, _ in rec]
 sm = difflib.SequenceMatcher(None, [t for _, t in flat_s], flat_r, autojunk=False)
-start = [None] * len(script); end = [None] * len(script)
+start = [None] * len(script); end = [None] * len(script); ridx = [None] * len(script)
 for blk in sm.get_matching_blocks():
     for k in range(blk.size):
         si = flat_s[blk.a + k][0]; r = rec[blk.b + k]
         start[si] = r[1] if start[si] is None else min(start[si], r[1])
         end[si] = r[2] if end[si] is None else max(end[si], r[2])
+        ridx[si] = blk.b + k if ridx[si] is None else ridx[si]
+# fuzzy pass: an unmatched script word takes the most similar recognised word (ratio >= 0.6) lying between its
+# matched neighbours, preferring the one closest to the next matched word (handles "Emeca"/"Emeka", stage text read aloud)
+for i in range(len(script)):
+    if start[i] is not None: continue
+    p_ = max((k for k in range(i) if ridx[k] is not None), default=None); n_ = min((k for k in range(i + 1, len(script)) if ridx[k] is not None), default=None)
+    lo = ridx[p_] + 1 if p_ is not None else 0; hi = ridx[n_] if n_ is not None else len(rec)
+    target = "".join(script[i][2]); best = None
+    for j in range(lo, hi):
+        r_ = difflib.SequenceMatcher(None, target, norm(rec[j][0])).ratio()
+        if r_ >= 0.6 and (best is None or r_ > best[0] + 0.05 or (abs(r_ - best[0]) <= 0.05 and j > best[1])): best = (r_, j)
+    if best:
+        j = best[1]; start[i], end[i], ridx[i] = rec[j][1], rec[j][2], j
 # acronyms are often recognised as one token ("WHO", "GMP", "CDSCO"): match the joined letters
 for i, (_, w, toks) in enumerate(script):
     if start[i] is None and len(toks) > 1:
@@ -76,7 +89,9 @@ for i in range(len(script)):
 matched = len(known) / len(script)
 
 dark = {x.strip() for x in a.dark.split(",") if x.strip()}
-clips, words_out, shift = [], [], a.lead
+clips, words_out = [], []
+_first = [i for i, s_ in enumerate(script) if s_[0] == 0]
+shift = a.lead - max(0.0, start[_first[0]] - 0.08)  # first line starts at --lead seconds
 prev_end_src = None
 for li, ln in enumerate(lines):
     idx = [i for i, s in enumerate(script) if s[0] == li]
