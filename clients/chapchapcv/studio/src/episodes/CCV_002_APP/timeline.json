@@ -1,39 +1,150 @@
 {
  "id": "CCV_002_APP",
  "fps": 30,
- "total": 12,
- "voSource": "episodes/CCV_002_APP/source/VO_CCV_002_APP_FULL.mp3",
+ "total": 49.83,
+ "voSource": "episodes/CCV_002_APP/source/VO_CCV-002_FR_FULL.mp3",
  "clips": [
   {
    "id": "L01",
    "src": [
     0.0,
-    2.0
+    5.03
    ],
-   "at": 0.3,
-   "text": "Replace with the first spoken line."
+   "at": 0.9,
+   "text": "Tu cherches un job ? Tu veux un meilleur CV ? Tout commence ici : ChapChapCV."
+  },
+  {
+   "id": "L02",
+   "src": [
+    5.26,
+    8.0
+   ],
+   "at": 6.16,
+   "text": "Une seule application… trois services pour avancer."
+  },
+  {
+   "id": "L03",
+   "src": [
+    8.36,
+    14.82
+   ],
+   "at": 9.26,
+   "text": "Un : ChapChapCV. L'IA rédige ton CV professionnel… et ton score ATS te montre quoi améliorer."
+  },
+  {
+   "id": "L04",
+   "src": [
+    15.16,
+    20.96
+   ],
+   "at": 16.06,
+   "text": "Deux : ChapChap Jobs. Des offres vérifiées, partout en Afrique… et tu postules depuis ton téléphone."
+  },
+  {
+   "id": "L05",
+   "src": [
+    21.36,
+    26.32
+   ],
+   "at": 22.26,
+   "text": "Trois : ChapChap Portfolio. Ton CV devient ton site… en ligne en trois minutes."
+  },
+  {
+   "id": "L06",
+   "src": [
+    26.64,
+    30.54
+   ],
+   "at": 27.54,
+   "text": "Et pour aller encore plus vite… voici ChapClaw, ton agent IA.",
+   "world": "dark"
+  },
+  {
+   "id": "L07",
+   "src": [
+    30.66,
+    35.44
+   ],
+   "at": 31.56,
+   "text": "Tu lui dis ce que tu veux : il ajuste ton CV, il modifie tes sections… chap chap.",
+   "world": "dark"
+  },
+  {
+   "id": "L08",
+   "src": [
+    35.48,
+    39.957
+   ],
+   "at": 36.38,
+   "text": "Va sur chapchapcv.com et clique sur « Créer mon CV »."
+  },
+  {
+   "id": "L09",
+   "src": [
+    40.193,
+    42.93
+   ],
+   "at": 41.093,
+   "text": "ChapChapCV… ta carrière avance, chap chap."
   }
  ],
  "music": {
-  "bpm": 96,
-  "transpose": 0,
+  "bpm": 104,
+  "transpose": 3,
   "mech": [
-   3,
-   6
+   6.16,
+   26.94
   ],
   "drop": [
-   6,
-   6.5
+   26.94,
+   27.54
   ],
   "resolve": [
-   6.5,
-   8
+   27.54,
+   36.38
   ],
   "loop": [
-   8,
-   9
+   36.38,
+   49.23
   ],
-  "end": 9
+  "end": 49.23
  },
- "sfx": []
+ "sfx": [
+  {
+   "type": "whoosh",
+   "at": 0.2,
+   "gain": -24
+  },
+  {
+   "type": "tick",
+   "at": 9.26,
+   "gain": -25
+  },
+  {
+   "type": "tick",
+   "at": 16.06,
+   "gain": -25
+  },
+  {
+   "type": "tick",
+   "at": 22.26,
+   "gain": -25
+  },
+  {
+   "type": "lens",
+   "at": 27.04,
+   "gain": -22
+  },
+  {
+   "type": "unlock",
+   "at": 27.54,
+   "gain": -24
+  },
+  {
+   "type": "chime",
+   "at": 41.09,
+   "gain": -22
+  }
+ ],
+ "note": "Line map from faster-whisper word timestamps (hq/tools/whisper_timeline.py); 88% of script words matched; gaps > 0.5s tightened; lead 0.9s; end card 6.0s."
 }
